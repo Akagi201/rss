@@ -34,33 +34,6 @@
       ]
     },
     {
-      "title": "�Ʒ�� BLOG",
-      "feedUrl": "https://blog.codingnow.com/atom.xml",
-      "siteUrl": "https://blog.codingnow.com/",
-      "articles": [
-        {
-          "id": "https://blog.codingnow.com/2022/11/skynet_160.html",
-          "author": null,
-          "description": "�������£���Ϊ���ݷ������ߣ���һֱ�ӼҰ칫�����˵�ʱ�䣬�� skynet ����һ��һ�ȵ� release �� ��ε� 1.6.0 �棬���ȥ��� 1.5.0 �棬û��̫��ı仯����Ҫ��ƽʱ���۵�һЩ bugfix �����������ĵ������⣬���� Lua , jemalloc �Ҷ����µ������µİ汾�� ֵ��һ����ǣ�mongo �� driver Ҳ�����ˡ���Ϊ mongo �����µİ汾���Ѿ���̭�˾ɵ� wire protocol ������ٲ����£����޷������°� mongo server �ˡ��������ۿ��Բο� PR #1649 ����Ϊ mongo �Լ������ԭ�������޷�����һ��ͬʱ�������ϰ汾Э��ķ�����������������Ҹ�����Ϊ redis �ĵײ�Э����ƾ��ȶ��Ķࡣ ��ô���������������Ҫ�޸ġ�...",
-          "link": "https://blog.codingnow.com/2022/11/skynet_160.html",
-          "publishedOn": "2022-11-17T07:20:56.000Z",
-          "wordCount": 202,
-          "title": "skynet 1.6.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.codingnow.com/2022/11/enuoeaaenaeaeoaaee.html",
-          "author": null,
-          "description": "�⼸����һֱ������֢�ͽ�Ĥ�����š�����֮ǰ��ÿ��ϴ����˫��ͨ�졣���ƺ���������Ӱ�죬Ҳû��ô���⡣���������ģ��۾������׷��ɣ�����ƣ�͡����ص�ʱ���۾�����������������Ӱ�����ڿ�����ʱ����Ϊ�޷���Ϣ�۾����ر����ܡ������ϻ������߲����ʱ�򣬸о�Զ����������� Ȼ������ͻȻ����ʽ�½�������ʱ�䣬ÿ����죬�� 1.2 ֱ�� 0.7 ���ҡ������� 35 ��֮ǰһֱ��˫�� 1.5 ������������ 2020 �����Լ�ۿ�ҽ�������ģ���Ϊ����ȥ����ٿƲ������һֱ���ţ�ֱ�� 2021 ��ײ�ȥ����ҽ���� ������Ͻ���ǽ�Ĥ�ס�����֢����ƣ�͡����⣬������������� 150 �Ƚ��Ӽ� 50 ��ɢ�⡣��Ϊ����Ӱ���ճ������û�����۾������ң��ҵ�������ʱ��ʱ�����Ӱ칫�������齭�����¥������ʱ����ʱ��Щ�������ɼ�����ʱ������Ӱ���Ҹо�����Ժ��ܽ������֢�ͽ�Ĥ�׵Ļ����������ȶ�һЩ��...",
-          "link": "https://blog.codingnow.com/2022/11/enuoeaaenaeaeoaaee.html",
-          "publishedOn": "2022-11-09T01:55:41.000Z",
-          "wordCount": 215,
-          "title": "������֢��Ĥ�����ŵ��⼸��",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "阮一峰的网络日志",
       "feedUrl": "http://feeds.feedburner.com/ruanyifeng",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
@@ -149,6 +122,43 @@
       "feedUrl": "https://www.physixfan.com/feed",
       "siteUrl": "https://www.physixfan.com",
       "articles": []
+    },
+    {
+      "title": "Decohack",
+      "feedUrl": "https://www.decohack.com/feed",
+      "siteUrl": "https://www.decohack.com",
+      "articles": [
+        {
+          "id": "https://www.decohack.com/?p=1130",
+          "author": "viggo",
+          "description": "本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，往期内容同样精彩，感兴趣的伙伴可以点击订阅我的周刊。为 […]",
+          "link": "https://www.decohack.com/Post/1130",
+          "publishedOn": "2022-11-14T08:32:18.000Z",
+          "wordCount": 1236,
+          "title": "独立产品灵感周刊 DecoHack #037 – 整理你的愿望清单",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.decohack.com/?p=1110",
+          "author": "viggo",
+          "description": "本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，往期内容同样精彩，感兴趣的伙伴可以点击订阅我的周刊。为 […]",
+          "link": "https://www.decohack.com/Post/1110",
+          "publishedOn": "2022-10-31T09:56:13.000Z",
+          "wordCount": 1283,
+          "title": "独立产品灵感周刊 DecoHack #036 – 好用的播客工具",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.decohack.com/?p=1098",
+          "author": "viggo",
+          "description": "本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，往期内容同样精彩，感兴趣的伙伴可以点击订阅我的周刊。为 […]",
+          "link": "https://www.decohack.com/Post/1098",
+          "publishedOn": "2022-10-25T07:28:14.000Z",
+          "wordCount": 1199,
+          "title": "独立产品灵感周刊 DecoHack #035 – YouTube 设计改版了",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

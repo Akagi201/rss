@@ -1,0 +1,552 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": []
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=375098",
+          "author": "Manoj Kumar",
+          "description": "So far, we’ve covered how to work with data from an external API in a custom WordPress block. We walked through the process of fetching that data for use on the front end of a WordPress site, and how to …\nCreating a Settings UI for a Custom WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-a-settings-ui-for-a-custom-wordpress-block/",
+          "publishedOn": "2022-11-17T13:48:26.000Z",
+          "wordCount": 2768,
+          "title": "Creating a Settings UI for a Custom WordPress Block",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375098"
+        },
+        {
+          "id": "https://css-tricks.com/?p=375385",
+          "author": "Haley Mills",
+          "description": "Hey folks! If you’ve been keeping up with the latest DigitalOcean news, you might be aware that we recently announced our acquisition of a company called Cloudways. In case you’re curious about what this means, we thought it might …\nDigitalOcean Welcomes Cloudways to the Family originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/digitalocean-welcomes-cloudways-to-the-family/",
+          "publishedOn": "2022-11-16T23:38:36.000Z",
+          "wordCount": 910,
+          "title": "DigitalOcean Welcomes Cloudways to the Family",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375385"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374792",
+          "author": "Geoff Graham",
+          "description": "I’m often asked where to learn web development. The answer varies, of course, and we’ve published a few posts on the topic over the years, the most recent of which was Chris taking a stab at different learning paths in …\nFinding Front-End Development Scholarships originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/finding-front-end-development-scholarships/",
+          "publishedOn": "2022-11-16T14:11:11.000Z",
+          "wordCount": 1598,
+          "title": "Finding Front-End Development Scholarships",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374792"
+        },
+        {
+          "id": "https://css-tricks.com/?p=375066",
+          "author": "Geoff Graham",
+          "description": "Is it Fall? Winter? I don’t know, but I woke up with snow in the front yard this morning and felt like it was time to write a little update about what’s been happening around CSS-Tricks this past month, as …\nBehind the CSScenes, November 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/behind-the-csscenes-november-2022/",
+          "publishedOn": "2022-11-15T15:54:32.000Z",
+          "wordCount": 2843,
+          "title": "Behind the CSScenes, November 2022",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375066"
+        },
+        {
+          "id": "https://css-tricks.com/?p=375019",
+          "author": "Saleh Mubashar",
+          "description": "In this article we will be diving into the world of scrollbars. I know, it doesn’t sound too glamorous, but trust me, a well-designed page goes hand-in-hand with a matching scrollbar. The old-fashioned chrome scrollbar just doesn’t fit in as …\nClassy and Cool Custom CSS Scrollbars: A Showcase originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/classy-and-cool-custom-css-scrollbars-a-showcase/",
+          "publishedOn": "2022-11-14T13:54:26.000Z",
+          "wordCount": 1440,
+          "title": "Classy and Cool Custom CSS Scrollbars: A Showcase",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375019"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374826",
+          "author": "Temani Afif",
+          "description": "After Part 1 and Part 2, I am back with a third article to explore more fancy shapes. Like the previous articles, we are going to combine CSS Grid with clipping and masking to create fancy layouts for image …\nCSS Grid and Custom Shapes, Part 3 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-grid-and-custom-shapes-part-3/",
+          "publishedOn": "2022-11-11T14:42:04.000Z",
+          "wordCount": 3658,
+          "title": "CSS Grid and Custom Shapes, Part 3",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374826"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374775",
+          "author": "Geoff Graham",
+          "description": "Sacha Greif openly wondered whether CSS has gotten to be, you know, too big. With all the goodies that’ve shipped in browsers the past couple of years — container queries! relative color syntax! cascade layers! logical properties…\nWhat CSS Do You Absolutely Have to Know in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/",
+          "publishedOn": "2022-11-08T13:51:48.000Z",
+          "wordCount": 1620,
+          "title": "What CSS Do You Absolutely Have to Know in 2022?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374775"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374910",
+          "author": "Ganesh Dahal",
+          "description": "The way we write CSS for WordPress themes is in the midst of sweeping changes. I recently shared a technique for adding fluid type support in WordPress by way of theme.json, a new file that WordPress has been pushing …\nManaging CSS Styles in a WordPress Block Theme originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/managing-css-styles-in-a-wordpress-block-theme/",
+          "publishedOn": "2022-11-07T14:05:11.000Z",
+          "wordCount": 4262,
+          "title": "Managing CSS Styles in a WordPress Block Theme",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374910"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374894",
+          "author": "Geoff Graham",
+          "description": "“A change to overflow on replaced elements in CSS”:\nFrom Chrome 108, the following replaced elements respect the overflow property: img, video and canvas. In earlier versions of Chrome, this property was ignored on these elements.\nThis \n…\nA Couple Changes Coming in Chrome 108 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-couple-changes-coming-in-chrome-108/",
+          "publishedOn": "2022-11-04T13:13:08.000Z",
+          "wordCount": 1363,
+          "title": "A Couple Changes Coming in Chrome 108",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374894"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374731",
+          "author": "Aisha Bukar",
+          "description": "Web Sockets, Web Workers, Service Workers… these are terms you may have read or overheard. Maybe not all of them, but likely at least one of them. And even if you have a good handle on front-end development, there’s a …\nThe Difference Between Web Sockets, Web Workers, and Service Workers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-difference-between-web-sockets-web-workers-and-service-workers/",
+          "publishedOn": "2022-11-03T12:56:58.000Z",
+          "wordCount": 2143,
+          "title": "The Difference Between Web Sockets, Web Workers, and Service Workers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374731"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374697",
+          "author": "Geoff Graham",
+          "description": "Every once in a while, the blogging zeitgiest seems to coalesce around a certain topic and it’s like the saved articles in my bookmarks folder are having a conversation. The conversation sitting in there now is all about CSS Gradients …\nSome Links About CSS Gradients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/some-links-about-css-gradients/",
+          "publishedOn": "2022-11-02T12:59:02.000Z",
+          "wordCount": 1306,
+          "title": "Some Links About CSS Gradients",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374697"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374381",
+          "author": "Manoj Kumar",
+          "description": "This is a continuation of my last article about “Rendering External API Data in WordPress Blocks on the Front End”. In that last one, we learned how to take an external API and integrate it with a block that …\nRendering External API Data in WordPress Blocks on the Back End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-back-end/",
+          "publishedOn": "2022-11-01T12:57:22.000Z",
+          "wordCount": 2878,
+          "title": "Rendering External API Data in WordPress Blocks on the Back End",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374381"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374670",
+          "author": "Preethi Selvam",
+          "description": "The Media Queries Level 4 specification has introduced a new syntax for targeting a range of viewport widths using common mathematical comparison operators, like , and =, that make more sense syntactically while writing less code for responsive web design.\nThe New CSS Media Query Range Syntax originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-new-css-media-query-range-syntax/",
+          "publishedOn": "2022-10-31T13:05:38.000Z",
+          "wordCount": 2679,
+          "title": "The New CSS Media Query Range Syntax",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374670"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374302",
+          "author": "Temani Afif",
+          "description": "We’ve spent the last two articles in this three-part series playing with gradients to make really neat image decorations using nothing but the <img> element. In this third and final piece, we are going to explore more techniques using the …\nFancy Image Decorations: Outlines and Complex Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/fancy-image-decorations-outlines-and-complex-animations/",
+          "publishedOn": "2022-10-28T12:45:47.000Z",
+          "wordCount": 1630,
+          "title": "Fancy Image Decorations: Outlines and Complex Animations",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374302"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374609",
+          "author": "Bradley Kouchi",
+          "description": "Simon Goellner (@simeydotme)’s collection of Holographic Trading Cards have captured our attention.\nUnder the hood there is a suite of filter(), background-blend-mode(), mix-blend-mode(), and clip-path() combinations that have been painstakingly tweaked to reach the desired effect. I …\nHolographic Trading Card Effect originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/holographic-trading-card-effect/",
+          "publishedOn": "2022-10-26T17:05:28.000Z",
+          "wordCount": 722,
+          "title": "Holographic Trading Card Effect",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374609"
+        }
+      ]
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode we’re talking about User Journey Mapping. What is it, and how does it help us build better digital products? Vitaly talks to expert Stéphanie Walter to find out.",
+          "link": "https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/",
+          "publishedOn": "2022-11-18T07:00:00.000Z",
+          "wordCount": 10609,
+          "title": "Smashing Podcast Episode 54 With Stéphanie Walter: What Is User Journey Mapping?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2e0de1b7-3f55-483d-a637-9c63e0f6864a/smashing-podcast-episode-54.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2e0de1b7-3f55-483d-a637-9c63e0f6864a/smashing-podcast-episode-54.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/",
+          "author": "hello@smashingmagazine.com (Alba Silvente)",
+          "description": "In this article, Alba Silvente shows us the theoretical and practical solutions to the most common problems when working with images and how to automate them by using a headless CMS and an image CDN.",
+          "link": "https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/",
+          "publishedOn": "2022-11-17T10:00:00.000Z",
+          "wordCount": 10808,
+          "title": "A Guide To Image Optimization On Jamstack Sites",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a9dda06-3ade-4d24-8141-91d12660a174/guide-image-optimization-jamstack-sites.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a9dda06-3ade-4d24-8141-91d12660a174/guide-image-optimization-jamstack-sites.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
+          "author": "hello@smashingmagazine.com (Noah Mashni and Mark Steadman)",
+          "description": "In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.",
+          "link": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
+          "publishedOn": "2022-11-16T14:00:00.000Z",
+          "wordCount": 5488,
+          "title": "Using Automated Test Results To Improve Accessibility",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/",
+          "author": "hello@smashingmagazine.com (Cristian Díaz)",
+          "description": "In this article, Cristian Diaz covers how to use HTML and CSS to create an accessible experience for keyboard users while mentioning what WCAG criteria we should keep into consideration.",
+          "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/",
+          "publishedOn": "2022-11-14T14:00:00.000Z",
+          "wordCount": 8424,
+          "title": "A Guide To Keyboard Accessibility: HTML And CSS (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a4d5c21a-93d3-43e5-b64c-1c3d47305f42/guide-keyboard-accessibility-html-css-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a4d5c21a-93d3-43e5-b64c-1c3d47305f42/guide-keyboard-accessibility-html-css-part1.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/search-developer-job-abroad/",
+          "author": "hello@smashingmagazine.com (Andrew Stetsenko)",
+          "description": "Working abroad is a popular prospect, yet many people — including professionals in the tech sphere — don’t know where to start. In this article, Andrew Stetsenko gives you an ultimate step-by-step guide to finding and making international opportunities happen.",
+          "link": "https://smashingmagazine.com/2022/11/search-developer-job-abroad/",
+          "publishedOn": "2022-11-11T09:00:00.000Z",
+          "wordCount": 5942,
+          "title": "How To Search For A Developer Job Abroad",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b185412-0ec6-4926-8a15-a73bf00576e3/search-developer-job-abroad.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b185412-0ec6-4926-8a15-a73bf00576e3/search-developer-job-abroad.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Everything design systems on accessibility, enterprise design systems, Figma kits, data visualization, motion design, multi-lingual design, naming, ROI calculator and UX writing.",
+          "link": "https://smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/",
+          "publishedOn": "2022-11-09T07:00:00.000Z",
+          "wordCount": 5634,
+          "title": "Design Systems: Useful Examples and Resources",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/02e0d4d1-43d3-4d9d-8d3d-ad10bcc22b2c/design-systems-inspiration-resources-case-studies.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/02e0d4d1-43d3-4d9d-8d3d-ad10bcc22b2c/design-systems-inspiration-resources-case-studies.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/whats-new-nextjs-13/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "Let’s talk about Next.js, one of the most well-known React frameworks used for production. From new components to font optimization, Atila shares a quick overview and invites you to join his [Advanced Next.js Masterclass](https://smashingconf.com/online-workshops/workshops/advanced-nextjs-atila-fassina) taking place later this month.",
+          "link": "https://smashingmagazine.com/2022/11/whats-new-nextjs-13/",
+          "publishedOn": "2022-11-07T14:00:00.000Z",
+          "wordCount": 4004,
+          "title": "What’s New In Next.js 13?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48e8a36f-2bd6-4fdf-8a56-acec206c23c8/whats-new-nextjs-13.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48e8a36f-2bd6-4fdf-8a56-acec206c23c8/whats-new-nextjs-13.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/",
+          "author": "hello@smashingmagazine.com (Siobhan McKeown)",
+          "description": "Transparency is part of the fabric of many remote businesses. It doesn’t, however, come naturally to everyone, especially if you’ve only recently become remote. In this article, Siobhan takes you through some of the practical ways that you can build transparency within your organization.",
+          "link": "https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/",
+          "publishedOn": "2022-11-04T09:00:00.000Z",
+          "wordCount": 6358,
+          "title": "Practical Steps To Build Transparency In Your Remote Business",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ac3481-4133-40fb-bb5c-6ddf9fe04c03/practical-steps-build-transparency-remote-business.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ac3481-4133-40fb-bb5c-6ddf9fe04c03/practical-steps-build-transparency-remote-business.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "What’s the state of HTML Email, Vue.js and Next.js? Would you like to level up with modern CSS? What are new, smart interface design patterns we could use? Let’s figure it all out together with our [brand new online workshops](https://smashingconf.com/online-workshops/) alongside our free community meetups.",
+          "link": "https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/",
+          "publishedOn": "2022-11-03T07:00:00.000Z",
+          "wordCount": 3276,
+          "title": "New Smashing Front-End & UX Workshops",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f0edf42-4421-4e65-9a71-0a8bf3dc41b0/online-workshops-2022.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f0edf42-4421-4e65-9a71-0a8bf3dc41b0/online-workshops-2022.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain design pattern, and show multiple levels of navigation at once.",
+          "link": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
+          "publishedOn": "2022-11-02T14:00:00.000Z",
+          "wordCount": 5837,
+          "title": "Designing The Perfect Mobile Navigation UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/",
+          "author": "hello@smashingmagazine.com (William Lyon)",
+          "description": "If building a GraphQL API backed by a native graph database sounds interesting or at all helpful for the problems you’re trying to solve as a developer, perhaps you’d like to give the open-source [Neo4j GraphQL Library](https://srv.buysellads.com/ads/long/x/TCZPLYDDTTTTTTFR6JINCTTTTTTGVUIVKKTTTTTTCT2NTYYTTTTTTI4BVH7U4JBCKQ466IDGV2IUWESGCV7WALL5QYYE) a try. Let’s take a closer look at the reasons why!",
+          "link": "https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/",
+          "publishedOn": "2022-11-01T11:00:00.000Z",
+          "wordCount": 4667,
+          "title": "Putting The Graph In GraphQL With The Neo4j GraphQL Library",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b51519f-b70b-41bf-9add-84c4f84cb126/neo4j-library-graphql.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b51519f-b70b-41bf-9add-84c4f84cb126/neo4j-library-graphql.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!",
+          "link": "https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/",
+          "publishedOn": "2022-10-31T09:00:00.000Z",
+          "wordCount": 4787,
+          "title": "On The Edge Of November (2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f9072044-e74a-4259-8b19-291d3382050a/nov-22-anbani-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f9072044-e74a-4259-8b19-291d3382050a/nov-22-anbani-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/advanced-animations-css/",
+          "author": "hello@smashingmagazine.com (Yosra Emad)",
+          "description": "In this article, Yosra Emad explains how to create a rollercoaster path that a ball follows using cubic beziers and CSS transitions. You’ll also learn how the cubic-bezier function in CSS works in detail and how to stack multiple simple animations to create one complex one.",
+          "link": "https://smashingmagazine.com/2022/10/advanced-animations-css/",
+          "publishedOn": "2022-10-29T12:00:00.000Z",
+          "wordCount": 4622,
+          "title": "How To Create Advanced Animations With CSS",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6ff543a-4e47-4649-8e1d-fda5435d9a53/4-advanced-animations-using-css.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6ff543a-4e47-4649-8e1d-fda5435d9a53/4-advanced-animations-using-css.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/motion-controls-browser/",
+          "author": "hello@smashingmagazine.com (Yaphi Berhanu)",
+          "description": "If you've ever wanted to build a web app that you can control with hand gestures as if by magic, this article is for you. With a couple of APIs and some JavaScript, you can build apps that behave like sorcery.",
+          "link": "https://smashingmagazine.com/2022/10/motion-controls-browser/",
+          "publishedOn": "2022-10-28T14:00:00.000Z",
+          "wordCount": 4888,
+          "title": "Motion Controls In The Browser",
+          "enclosure": {
+            "url": "http://res.cloudinary.com/indysigner/image/upload/v1666964645/motion-controls-browser_eenha4.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1666964645/motion-controls-browser_eenha4.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/typographic-hierarchies/",
+          "author": "hello@smashingmagazine.com (Alma Hoffmann)",
+          "description": "In this article, Alma Hoffmann discusses six basic variables to establish a typographic hierarchy, explains how to look at each differently, and in turn, designs pieces by intentionally modifying each variable to create a typographic hierarchy effectively.",
+          "link": "https://smashingmagazine.com/2022/10/typographic-hierarchies/",
+          "publishedOn": "2022-10-26T15:00:00.000Z",
+          "wordCount": 8490,
+          "title": "Typographic Hierarchies",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ed9186f-f287-412d-a930-0cd2ae7ae196/typographic-hierarchies.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ed9186f-f287-412d-a930-0cd2ae7ae196/typographic-hierarchies.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/state-css-survey-2022/",
+          "author": "hello@smashingmagazine.com (Lea Verou)",
+          "description": "The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/en-us/?source=smashing_magazine_css_survey), is nearing the end of its response period for 2022. The survey is available in many different languages and all questions are optional.",
+          "link": "https://smashingmagazine.com/2022/10/state-css-survey-2022/",
+          "publishedOn": "2022-10-24T19:00:00.000Z",
+          "wordCount": 3075,
+          "title": "State Of CSS Survey: Influence The Future Of CSS",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72b32b88-9b48-4c44-95f3-d51b26923bde/state-css-survey-2022.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72b32b88-9b48-4c44-95f3-d51b26923bde/state-css-survey-2022.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/futuristic-css/",
+          "author": "hello@smashingmagazine.com (Sacha Greif)",
+          "description": "In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.",
+          "link": "https://smashingmagazine.com/2022/10/futuristic-css/",
+          "publishedOn": "2022-10-21T12:00:00.000Z",
+          "wordCount": 4500,
+          "title": "Futuristic CSS",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
+          "author": "hello@smashingmagazine.com (Patrick Brosset)",
+          "description": "In this article, Patrick Brosset gives an update on the most impactful new features that are now available in DevTools, across Firefox, Chrome, Safari, and Edge.",
+          "link": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
+          "publishedOn": "2022-10-20T14:00:00.000Z",
+          "wordCount": 4951,
+          "title": "What’s New In DevTools: Halloween Edition 🎃",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dbfdc666-af60-48cf-9c7c-c9a1eb8ecb34/devtools-updates-oct-2022.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dbfdc666-af60-48cf-9c7c-c9a1eb8ecb34/devtools-updates-oct-2022.jpg"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news/",
+      "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/introduction-to-blockchain/",
+          "author": "Njoku Samson Ebere",
+          "description": "The first time I tried to learn blockchain development, I felt overwhelmed.  This tutorial you're reading is what I wish I could send back in time to myself.  This will give you a strong foundation in blockchain development, and set you up for success in coding your own",
+          "link": "https://www.freecodecamp.org/news/introduction-to-blockchain/",
+          "publishedOn": "2022-11-17T21:42:46.000Z",
+          "wordCount": 4642,
+          "title": "Blockchain for Beginners Tutorial – Learn to Code Smart Contracts with JavaScript and Solidity",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-archie-binamira-705075.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/path-finding-algorithm-visualizer-tutorial/",
+          "author": "Houssein Badra",
+          "description": "Path-finding algorithms are algorithms used to find optimal path between two locations. These algorithms are widely used in map applications like Google Maps, for example. In this tutorial we will be building a path finding algorithm visualizer with React. It will support Breadth-First Search (BFS), Depth-First Search (DFS), adding walls,",
+          "link": "https://www.freecodecamp.org/news/path-finding-algorithm-visualizer-tutorial/",
+          "publishedOn": "2022-11-17T21:07:02.000Z",
+          "wordCount": 3854,
+          "title": "How to Create a Path-Finding Algorithm Visualizer with React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Screenshot--67--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/crack-passwords-using-john-the-ripper-pentesting-tutorial/",
+          "author": "Manish Shivanandhan",
+          "description": "If you are a pen-tester, cracking passwords is something you will be doing on a daily basis. This can include login passwords, file passwords, and almost anything that is protected using a password. John the Ripper (JtR) is a popular password-cracking tool. John supports many encryption technologies for Windows and",
+          "link": "https://www.freecodecamp.org/news/crack-passwords-using-john-the-ripper-pentesting-tutorial/",
+          "publishedOn": "2022-11-17T18:13:08.000Z",
+          "wordCount": 2169,
+          "title": "How to Crack Passwords using John The Ripper – Pentesting Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/john-the-ripper.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-string-contains-python-3-substring-tutorial-2/",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn how to check if a string contains a substring in Python. Checking if a string contains a substring comes in handy when you have received user input and want your program to behave a certain way – or even when you want to replace",
+          "link": "https://www.freecodecamp.org/news/python-string-contains-python-3-substring-tutorial-2/",
+          "publishedOn": "2022-11-17T16:47:04.000Z",
+          "wordCount": 2040,
+          "title": "Python String Contains – Python 3 Substring Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-kevin-ku-577585.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/",
+          "author": "Kolade Chris",
+          "description": "Data analyst and data scientist are two career paths in big data. And while they do have similarities, each requires different skills. The basic difference between the two is that a data scientist works to capture data while a data analyst tries to gain insights from that data. This article",
+          "link": "https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/",
+          "publishedOn": "2022-11-17T16:18:21.000Z",
+          "wordCount": 1759,
+          "title": "Data Analyst VS Data Scientist – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/web-g1c2368440_1280.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/easily-create-a-wordpress-blog-or-website/",
+          "author": "Beau Carnes",
+          "description": "WordPress is one of the most popular–and easiest–ways to create a website or blog. People can make all kinds of websites with WordPress. Some popular types include business websites, eCommerce sites, portfolios, and blogs. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to",
+          "link": "https://www.freecodecamp.org/news/easily-create-a-wordpress-blog-or-website/",
+          "publishedOn": "2022-11-17T15:31:07.000Z",
+          "wordCount": 856,
+          "title": "WordPress and Elementor Tutorial – How to Easily Create a Blog or Website",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/blog.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/aws-iam-explained/",
+          "author": "Daniel Adetunji",
+          "description": "AWS IAM (Identity and Access Management) gives you control over who can access your AWS services and resources based on some predefined permissions.  The two keywords here are “who” and “permissions”. “Who” refers to a specific identity, which can be a user, group or role. “permissions” refer to the",
+          "link": "https://www.freecodecamp.org/news/aws-iam-explained/",
+          "publishedOn": "2022-11-16T18:51:48.000Z",
+          "wordCount": 2666,
+          "title": "AWS Identity and Access Management (IAM) – Explained With an Analogy",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Slide1.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/",
+          "author": "Victor Eke",
+          "description": "Documentation is a crucial aspect of software development. But developers often neglect it because it can be a hassle to maintain. This is why it's important to use tools that help simplify this process.  In this tutorial, you'll learn how to build a complete docs site quickly by utilizing",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/",
+          "publishedOn": "2022-11-16T17:01:23.000Z",
+          "wordCount": 3326,
+          "title": "How to Build a Modern Documentation Site with VitePress",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/How-to-build-a-modern-documentation-site-with-vitepress-by-Victor-Eke.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/",
+          "author": "Jose Vicente Nunez",
+          "description": "Imagine for a moment that you been working hard to setup a website, protected with SSL, and then your hardware fails. This means that unless you have a perfect backup of your machine, you will need to install all the software and configuration files by hand. What if it's not",
+          "link": "https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/",
+          "publishedOn": "2022-11-15T21:52:50.000Z",
+          "wordCount": 3407,
+          "title": "How to Provision a Home Lab with Oracle Cloud and Ansible",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-pixabay-210158.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/",
+          "author": "Kolade Chris",
+          "description": "Dates are an integral part of any programming language, and SQL is no exception. When you insert data into your SQL database, you can add a date and query the database based on that date. In this article, you’ll learn about DATE functions in SQL and how to query a",
+          "link": "https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/",
+          "publishedOn": "2022-11-15T18:58:58.000Z",
+          "wordCount": 1163,
+          "title": "SQL DATE – Function, Query, Timestamp Example Format",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/date.png"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}

@@ -1,23 +1,23 @@
 {
-  "name": "osmosfeed-template",
-  "version": "1.0.0",
-  "description": "Use this template to create the UI and content of an RSS feed reader.",
+  "name": "osmosfeed-rss",
+  "version": "0.1.0",
+  "description": "Use Github Pages to create the UI and content of an RSS feed reader.",
   "main": "index.js",
   "scripts": {
     "build": "osmosfeed"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/osmoscraft/osmosfeed-template.git"
+    "url": "git+https://github.com/Akagi201/rss.git"
   },
   "keywords": [],
   "author": "osmoscraft",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/osmoscraft/osmosfeed-template/issues"
+    "url": "https://github.com/Akagi201/rss/issues"
   },
-  "homepage": "https://github.com/osmoscraft/osmosfeed-template#readme",
+  "homepage": "https://github.com/Akagi201/rss#readme",
   "dependencies": {
-    "@osmoscraft/osmosfeed": "^1.2.2"
+    "@osmoscraft/osmosfeed": "^1.15.1"
   }
 }

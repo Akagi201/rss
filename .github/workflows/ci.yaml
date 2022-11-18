@@ -1,27 +1,29 @@
-name: Build site on schedule or main branch update
+name: Build Feeds
 
 on:
   push:
     branches:
       - main
+      - master
   schedule:
-    # Adjust refresh schedule here. By default, it runs once per day.
+    # every 4th hour
     # Syntax reference: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#schedule
     # Recommended tool: https://crontab.guru/
-    - cron: "0 0 * * *"
+    - cron: "0 */4 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Setup Node.js environment
-        uses: actions/setup-node@v2.1.4
+        uses: actions/setup-node@v3
         with:
-          node-version: "16"
+          node-version: "18"
+          cache: 'npm'
       - name: Install dependencies
-        run: npm i
+        run: npm ci
       - name: Build the feed
         run: npm run build
       - name: Deploy to GitHub Pages

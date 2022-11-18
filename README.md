@@ -1,10 +1,7 @@
-# About
+# Rss Reader
 
-This is repository hosts the UI and content of an RSS feed reader.
+[Read It](https://akagi201.github.io/rss)
 
-## Links and references
+## Docs
 
-- [How does it work?](https://github.com/osmoscraft/osmosfeed#osmosfeed)
-- [File an issue about the template](https://github.com/osmoscraft/osmosfeed-template)
-- [File an issue about the tool](https://github.com/osmoscraft/osmosfeed)
-- [Lastest documentation](https://github.com/osmoscraft/osmosfeed)
+* [Feed Reference](https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md)

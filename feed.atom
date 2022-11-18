@@ -1,457 +1,273 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-18T11:44:59.218Z</id>
-    <title>osmos::feed</title>
-    <updated>2022-11-18T11:44:59.218Z</updated>
+    <id>https://akagi201.github.io/rss/index.html</id>
+    <title>Tiny Feeds</title>
+    <updated>2022-11-18T13:44:13.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
+    <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 54 With Stéphanie Walter: What Is User Journey Mapping?]]></title>
-        <id>https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/</id>
-        <link href="https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/"/>
-        <updated>2022-11-18T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode we’re talking about User Journey Mapping. What is it, and how does it help us build better digital products? Vitaly talks to expert Stéphanie Walter to find out.]]></summary>
+        <title type="html"><![CDATA[科技爱好者周刊（第 231 期）：互联网公司需要多少员工？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html"/>
+        <updated>2022-11-18T00:17:53.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+封面图
+
+卡塔尔正在建造的 Qetaifan 人工岛，上面有一个世界最大的滑水道，高达86米。（via）
+本周话题：互联网公司需要多少员工？
+马斯克收购推特之前，放话要解雇75%的员工。
+
+等到真的入主推特，他大刀一挥，第一个周末解雇了3700人。推特的员工总数现在是7500人，所以实际解雇了50%。
+这就引出了一个有点残酷的问题：互联网公司到底需要多少员工？
+如果推特少了50%、甚至75%的员工，还能正常运作，那些员工原来是在干什么呢？或者有没有另外一种可能，一半的岗位已经没人了，推特这个公司还能正常运作吗，会不会完蛋？
+
+今天，我就想谈这件事。我觉得，50%和75%这两个解雇比例，不是马斯克随意设定的，而是经过计算的，他相信公司少了这些员工，还能正常运作。
+我查了推特的每月活跃用户数（MAU），就是下面这张柱状图。
+
+可以看到，活跃用户的增长速度，明显分成两个阶段，以2014年底的3亿为界。此前是高速增长，此后是平缓增长。
+推特现在不公布活跃用户数量了，但是外界估计依然是3亿多人，有的资料说接近4亿。
+也就是说，2014年底的推特员工可以支持的用户数量，跟现在基本是同一个数量级。
+可以查到，2014年底的推特员工有3638人（下图的红圈），接近本次裁员后的员工数量。
+
+因此我猜想，马斯克决定裁一半人，是参考了高速增长结束前的员工规模。这也意味着，即使推特少了一半员工，肯定还能正常运作，因为以前就是这么多人。
+如果再往前推，2010年初，推特只有130个员工，活跃用户是3000万。现在，用户数是那时的十多倍，而130个员工的十多倍，正好接近7500人裁员75%。这是巧合吗？
+事实上，即使裁员75%，跟其他一些公司相比，推特的员工还是偏多的。一个极端的例子是，脸书收购 Instagram 时，后者的用户数量已经到了3亿，但只有13…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blockchain for Beginners Tutorial – Learn to Code Smart Contracts with JavaScript and Solidity]]></title>
-        <id>https://www.freecodecamp.org/news/introduction-to-blockchain/</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-blockchain/"/>
-        <updated>2022-11-17T21:42:46.000Z</updated>
-        <summary type="html"><![CDATA[The first time I tried to learn blockchain development, I felt overwhelmed.  This tutorial you're reading is what I wish I could send back in time to myself.  This will give you a strong foundation in blockchain development, and set you up for success in coding your own]]></summary>
+        <title type="html"><![CDATA[skynet 1.6.0]]></title>
+        <id>https://blog.codingnow.com/2022/11/skynet_160.html</id>
+        <link href="https://blog.codingnow.com/2022/11/skynet_160.html"/>
+        <updated>2022-11-17T07:20:56.000Z</updated>
+        <summary type="html"><![CDATA[�������£���Ϊ���ݷ������ߣ���һֱ�ӼҰ칫�����˵�ʱ�䣬�� skynet ����һ��һ�ȵ� release �� ��ε� 1.6.0 �棬���ȥ��� 1.5.0 �棬û��̫��ı仯����Ҫ��ƽʱ���۵�һЩ bugfix �����������ĵ������⣬���� Lua , jemalloc �Ҷ����µ������µİ汾�� ֵ��һ����ǣ�mongo �� driver Ҳ�����ˡ���Ϊ mongo �����µİ汾���Ѿ���̭�˾ɵ� wire protocol ������ٲ����£����޷������°� mongo server �ˡ��������ۿ��Բο� PR #1649 ����Ϊ mongo �Լ������ԭ�������޷�����һ��ͬʱ�������ϰ汾Э��ķ�����������������Ҹ�����Ϊ redis �ĵײ�Э����ƾ��ȶ��Ķࡣ ��ô���������������Ҫ�޸ġ�...]]></summary>
         <author>
-            <name>Njoku Samson Ebere</name>
+            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create a Path-Finding Algorithm Visualizer with React]]></title>
-        <id>https://www.freecodecamp.org/news/path-finding-algorithm-visualizer-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/path-finding-algorithm-visualizer-tutorial/"/>
-        <updated>2022-11-17T21:07:02.000Z</updated>
-        <summary type="html"><![CDATA[Path-finding algorithms are algorithms used to find optimal path between two locations. These algorithms are widely used in map applications like Google Maps, for example. In this tutorial we will be building a path finding algorithm visualizer with React. It will support Breadth-First Search (BFS), Depth-First Search (DFS), adding walls,]]></summary>
+        <title type="html"><![CDATA[善用GitHub]]></title>
+        <id>https://www.bmpi.dev/self/use-github-better/</id>
+        <link href="https://www.bmpi.dev/self/use-github-better/"/>
+        <updated>2022-11-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[用GitHub来学习、创作与展示。]]></summary>
         <author>
-            <name>Houssein Badra</name>
+            <name>构建我的被动收入</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Crack Passwords using John The Ripper – Pentesting Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/crack-passwords-using-john-the-ripper-pentesting-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/crack-passwords-using-john-the-ripper-pentesting-tutorial/"/>
-        <updated>2022-11-17T18:13:08.000Z</updated>
-        <summary type="html"><![CDATA[If you are a pen-tester, cracking passwords is something you will be doing on a daily basis. This can include login passwords, file passwords, and almost anything that is protected using a password. John the Ripper (JtR) is a popular password-cracking tool. John supports many encryption technologies for Windows and]]></summary>
+        <title type="html"><![CDATA[科技爱好者周刊（第 230 期）：电子产品的用电量]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html"/>
+        <updated>2022-11-11T00:19:59.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+封面图
+
+浙江大学附属第一医院的自动发药机，医生一开完处方，机器手就自动开始抓药，然后通过管道"投送"到药师窗口，等患者取药。（via）
+本周话题：电子产品的用电量
+上周提到，手机充电器的功率已经超过 200W 了。
+
+这个功率相当大。大家可能不知道，你家冰箱大概都不如它。普通的家用冰箱，功率就在 100W～200W 之间。
+
+（图片说明：200升家用冰箱，功率一般是 140W，每天耗电1度左右。）
+这是最近的一个趋势：电子产品的功率和用电量快速上升，已经接近或超过了家用电器。 我说两件事。
+第一件事。我最近买了一个智能插座，可以手机读取当前的功率输出。
+
+我就把一台27寸 4K 显示器插在上面。它的月度用电统计（下图）显示，这台 30W 的显示器，上个月用掉了13.8度电。
+
+我倒吸了一口冷气，没想到 4K 显示器这么耗电。我的桌上同时开着三台这样的显示器，那岂不是显示器这一项，每个月就要用掉40度电！
+第二件事。最近有一条新闻，Nvidia 公司的最新显卡 RTX 4090，接连有用户报告，供电接口烧掉了。
+
+如果你了解这张显卡的功率，这种事故是一点不奇怪的。它是耗电怪兽，功率达到 600W，但是机箱的供电电压是 12V，导致总电流会达到疯狂的 50A（600W/12V）。
+为了分散电流，它采用12口供电（下图）。即使如此，接口处稍有接触不良，就会严重发热，导致烧毁。
+
+这还只是显卡的功率，如果配上目前最顶级的桌面 CPU 英特尔 i9-13900K（功率 360W），再加上其他外设，整台桌面电脑就接近1000瓦了，跟空调功率差不多了。
+所以，使用顶级电脑玩大型电脑游戏，属于非常耗电的行为。街上那些游戏网吧，一天24小时开机，电费一定非常可观吧。
+总之，上面两件事说明了一点：随着计算能力的提高，计算机正在成为一种非常耗电的设备…]]></summary>
         <author>
-            <name>Manish Shivanandhan</name>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python String Contains – Python 3 Substring Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/python-string-contains-python-3-substring-tutorial-2/</id>
-        <link href="https://www.freecodecamp.org/news/python-string-contains-python-3-substring-tutorial-2/"/>
-        <updated>2022-11-17T16:47:04.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to check if a string contains a substring in Python. Checking if a string contains a substring comes in handy when you have received user input and want your program to behave a certain way – or even when you want to replace]]></summary>
+        <title type="html"><![CDATA[������֢��Ĥ�����ŵ��⼸��]]></title>
+        <id>https://blog.codingnow.com/2022/11/enuoeaaenaeaeoaaee.html</id>
+        <link href="https://blog.codingnow.com/2022/11/enuoeaaenaeaeoaaee.html"/>
+        <updated>2022-11-09T01:55:41.000Z</updated>
+        <summary type="html"><![CDATA[�⼸����һֱ������֢�ͽ�Ĥ�����š�����֮ǰ��ÿ��ϴ����˫��ͨ�졣���ƺ���������Ӱ�죬Ҳû��ô���⡣���������ģ��۾������׷��ɣ�����ƣ�͡����ص�ʱ���۾�����������������Ӱ�����ڿ�����ʱ����Ϊ�޷���Ϣ�۾����ر����ܡ������ϻ������߲����ʱ�򣬸о�Զ����������� Ȼ������ͻȻ����ʽ�½�������ʱ�䣬ÿ����죬�� 1.2 ֱ�� 0.7 ���ҡ������� 35 ��֮ǰһֱ��˫�� 1.5 ������������ 2020 �����Լ�ۿ�ҽ�������ģ���Ϊ����ȥ����ٿƲ������һֱ���ţ�ֱ�� 2021 ��ײ�ȥ����ҽ���� ������Ͻ���ǽ�Ĥ�ס�����֢����ƣ�͡����⣬������������� 150 �Ƚ��Ӽ� 50 ��ɢ�⡣��Ϊ����Ӱ���ճ������û�����۾������ң��ҵ�������ʱ��ʱ�����Ӱ칫�������齭�����¥������ʱ����ʱ��Щ�������ɼ�����ʱ������Ӱ���Ҹо�����Ժ��ܽ������֢�ͽ�Ĥ�׵Ļ����������ȶ�һЩ��...]]></summary>
         <author>
-            <name>Dionysia Lemonaki</name>
+            <name>�Ʒ�� BLOG</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data Analyst VS Data Scientist – What's the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/</id>
-        <link href="https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/"/>
-        <updated>2022-11-17T16:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Data analyst and data scientist are two career paths in big data. And while they do have similarities, each requires different skills. The basic difference between the two is that a data scientist works to capture data while a data analyst tries to gain insights from that data. This article]]></summary>
+        <title type="html"><![CDATA[科技爱好者周刊（第 229 期）：手机充电问题的解决]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html"/>
+        <updated>2022-11-04T00:14:25.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+封面图
+
+日前，北京航空航天大学研发的"双关节大鸟型扑翼飞行器"（即机器鸟），创造了拍打翅膀式飞行器的单次飞行时间的世界纪录，达到1小时31分04秒98。（via）
+本周话题：手机充电问题的解决
+手机充电，大家每天要花多少时间，会不会觉得很烦人？
+不过，这个问题最近好像解决了。
+
+上周，小米发布了 Redmi Note 12 手机的探索版。
+它的最大亮点是，号称具有世界最快的快充，可以9分钟充满一块 4300mAh 的电池。
+你没有看错，真的是9分钟，也就是一杯茶的时间，就能把电池从0充到100%。
+那样的话，手机充电完全不成问题了。早晨起床洗漱的时候，随便充一下电，就能坚持到晚上回家了。
+
+为什么它的充电这么快？
+原因很简单，因为它配了一个前所未有的 210w 充电器。
+
+
+这个真的是惊到我了。我的印象中，手机充电器的功率前不久才突破 100W，居然一转眼就来到了 210W！
+210w 是什么概念？我来给大家解释一下，为什么达到这个功率，手机充电问题就基本解决了。
+充电快不快，最根本的一点，就是要看配套的充电器支持的输出电压和输出电流，最大是多少。
+
+这些参数都印在充电器上，字体比较小，需要耐心找一下。以小米的这个 210w 充电器为例，它最大的输出电压/电流是 20V/10.5A。这两个参数相乘，就得到了充电功率为 210W。
+一般的手机慢充都是 5V/2A，甚至是 5V/1A。这样的话，充电功率就只有 10W 和 5W。
+
+接着，再看手机的电池容量，小米这台手机是主流的 4300mAh。也就是说，这块电池可以用 4300mA 电流持续供电1个小时（1h）。
+我们知道，锂电池的输出电压统一为 3.7V，因此这块电池包含的能量，就是"电流 * 电压 * 持续时间"。
+4300mAh * 3.7V = 15910mWh  
+所以，…]]></summary>
         <author>
-            <name>Kolade Chris</name>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WordPress and Elementor Tutorial – How to Easily Create a Blog or Website]]></title>
-        <id>https://www.freecodecamp.org/news/easily-create-a-wordpress-blog-or-website/</id>
-        <link href="https://www.freecodecamp.org/news/easily-create-a-wordpress-blog-or-website/"/>
-        <updated>2022-11-17T15:31:07.000Z</updated>
-        <summary type="html"><![CDATA[WordPress is one of the most popular–and easiest–ways to create a website or blog. People can make all kinds of websites with WordPress. Some popular types include business websites, eCommerce sites, portfolios, and blogs. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to]]></summary>
+        <title type="html"><![CDATA[Real-time Web应用开发新体验]]></title>
+        <id>https://www.bmpi.dev/dev/real-time-web/</id>
+        <link href="https://www.bmpi.dev/dev/real-time-web/"/>
+        <updated>2022-10-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文介绍Real-time Web用户体验的演进、相关开发技术的迭代及存在的分布式技术难题，最后介绍Elixir是如何解决这些难题带来新的开发体验。]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>构建我的被动收入</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating a Settings UI for a Custom WordPress Block]]></title>
-        <id>https://css-tricks.com/?p=375098</id>
-        <link href="https://css-tricks.com/creating-a-settings-ui-for-a-custom-wordpress-block/"/>
-        <updated>2022-11-17T13:48:26.000Z</updated>
-        <summary type="html"><![CDATA[So far, we’ve covered how to work with data from an external API in a custom WordPress block. We walked through the process of fetching that data for use on the front end of a WordPress site, and how to …
-Creating a Settings UI for a Custom WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[科技爱好者周刊（第 228 期）：人类和人生的意义]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html"/>
+        <updated>2022-10-28T00:11:45.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+封面图
+
+今年中秋，敦煌月牙泉旁出现了一个人造的月圆装置，通过水面反射，映照出一轮人间圆月，象征团圆。（via）
+本周话题：人类和人生的意义
+这几天睡觉前，我在读《季羡林文集》。
+
+季羡林先生2009年就去世了，出版社请了他儿子季承写序言。
+
+季承（1935-2018），中国科学院高能物理所高级工程师，曾任李政道先生主持的中国高等科学技术中心顾问，与李政道有着长达三十年的紧密合作。（摘自百度百科）
+网上一查就知道了，季承跟他老爹关系不太好，十多年不相往来。
+这种情况下，他其实不想写他老爹，但是出版社一定要他写。万般无奈之下，他找了一篇自己不相干的文章作为序言。
+"我并不敢为先父的著作写序，但青岛出版社的盛情难却，只好写点不是序的序，以应所求。正好前些时，我胡乱写了一篇短文《也谈人生》，这篇短文抄在下面，就算交卷了吧。"
+他用作序言的这篇《也谈人生》很短，只有600字，但是谈了一个终极问题：人生的意义是什么？
+我惊奇地发现，这篇序言写得很好，解开了我一直没有想通的一个疑惑。读完整本书，最难忘的还是这篇不相干的文章。
+
+我把这篇短文的主要部分贴在下面。
+人生有没有意义？人类又有什么意义？
+我说，人生是有意义的，而人类则是没有意义的。 
+询问人类的存在有没有意义，就等于询问地球或宇宙的存在有没有意义一样，是得不到答案的。
+人生的意义是什么呢？它的意义就在于为没有意义的人类工作、服务等等，其目的不外乎是使人类生活得更好并得以延续。
+反正人类是现实的存在，你又是其中一员，你有义务使它发展延续。你只要这样做了，你的人生就具有了意义，或者说价值，并不一定要去理会人类存在的意义。
+大家看明白，他的意思吗？
+他的意思是，要想通人生的意义，就要先想通人类的意义。但是他认为，人类作为一个物种，是没有意义的，就像你问恐龙的意义是什么一样。
+但是，人类既然…]]></summary>
         <author>
-            <name>Manoj Kumar</name>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Image Optimization On Jamstack Sites]]></title>
-        <id>https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/</id>
-        <link href="https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/"/>
-        <updated>2022-11-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Alba Silvente shows us the theoretical and practical solutions to the most common problems when working with images and how to automate them by using a headless CMS and an image CDN.]]></summary>
+        <title type="html"><![CDATA[羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html"/>
+        <updated>2022-10-25T00:20:07.000Z</updated>
+        <summary type="html"><![CDATA[[海报] 稀土掘金正在面向全国举办"首届编程挑战赛"，这是展示自己作品的好机会，详情见文后。
+小游戏《羊了个羊》最近非常火爆，引发了全民关注，抖音和微博都有几十亿的查看量。
+
+它的开发难度，其实一点不高，主要游戏逻辑都在前端，用的是普通的网页开发技术。如此简单的实现，却取得了这样巨大的反响，堪称奇迹。
+
+本文就介绍这个游戏怎么实现。只用 HTML + CSS + JS 做出一个简单版本，根本不需要后端。
+最后的成品会放到"码上掘金" code.juejin.cn，那是一个网页的代码开发环境，可以分享运行结果，跟国外的 CodePen 差不多。
+
+对于不了解的读者，我先简单说一下，《羊了个羊》是怎么回事。
+本质上，它就是传统的"消消乐"游戏（下图），同种花色的方块连到一起，可以消除，消除所有方块，就过关了。
+
+《羊了个羊》在形式上借鉴了国外的《消麻将》游戏（下图），采用堆叠式消除。
+
+不同之处在于，它有一个槽位栏，存放取下的卡片（下图）。只要槽位栏里面，连续三张卡片花色相同，就能消除，也就是所谓的"三消"。
+
+你仔细一想，网页实现的核心逻辑，其实只有两步。
+第一步，网页划出一个区域，将所有卡片在这个区域堆成四层。每一层的卡片位置和花色分布，可以用随机数控制。
+第二步，每一层的没有被遮挡的卡片可以移动。它们只要被点击，就从卡片区移动到槽位栏。
+
+那么，下面就来实现这两步。我原想自己写，但在 GitHub 搜了一下"羊了个羊"，返回了近两百个结果，什么样的代码都有。
+
+他们实现得比我完善，效果更好，所以我选了一个仓库 chenxch/xlegex，就用他的代码演示。
+这个仓库使用 vue3 + TypeScript，源码加起来不到1000行。核心逻辑就是上面的两点，下面介绍一些关键的实现细节。
+首先，每张卡片是一个实例对象，TypeScript 类型描述如下。
+
+从上图看到，每张…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Alba Silvente)</name>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DigitalOcean Welcomes Cloudways to the Family]]></title>
-        <id>https://css-tricks.com/?p=375385</id>
-        <link href="https://css-tricks.com/digitalocean-welcomes-cloudways-to-the-family/"/>
-        <updated>2022-11-16T23:38:36.000Z</updated>
-        <summary type="html"><![CDATA[Hey folks! If you’ve been keeping up with the latest DigitalOcean news, you might be aware that we recently announced our acquisition of a company called Cloudways. In case you’re curious about what this means, we thought it might …
-DigitalOcean Welcomes Cloudways to the Family originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[最简单的 Git 服务器]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/10/git-server.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/10/git-server.html"/>
+        <updated>2022-10-23T12:19:57.000Z</updated>
+        <summary type="html"><![CDATA[程序员的代码仓库，总是需要托管一份在服务器，这样才保险，也方便使用。
+今天就来谈谈 Git 服务器。
+
+一、代码托管服务
+一般情况下，都不建议自己搭建 Git 服务器，而要使用现成的服务，也就是代码托管服务。它们都是免费的。
+GitHub
+Gitlab
+Bitbucket
+Codeberg
+sourcehut
+Gitee
+其中，除了最后一家 Gitee 是国内的服务，其他都是国外的服务。
+这些外部服务，就不多做介绍了。本文的重点不是它们，而是想谈如果不得不自己搭建 Git 服务器，那该怎么做。
+二、Git 服务器软件
+自己搭建 Git 服务器的原因，无非就是不方便访问外网，不愿意代码放在别人的服务器，或者有一些定制化的需求。
+这时，你可以选择开源的 Git 服务器软件。
+Gitlab CE
+Gitea
+Gogs
+Onedev
+这些软件里面，Gogs 的安装是最简单的，但是功能相对比较弱。功能越强的软件，安装越复杂。
+如果你只是想远程保存一份代码，并不在意有没有 Web 界面，或者其他功能，那么根本不用安装上面这些软件，一行命令就够了。
+三、Git 仓库的 SSH 传输
+熟悉 Git 的同学可能知道，Git 默认支持两种传输协议：SSH 和 HTTP/HTTPS。
+服务器一般都自带 SSH，这意味着，我们可以什么都不安装，只通过 SSH 就把仓库推到远程服务器。
+所以，一条命令就够了。我们只要在远程服务器上，建立同名的 Git 仓库，服务器就搭建好了。
+
+$ git init --bare [仓库名].git
+
+
+
+上面命令中，各个部分的含义如下。
+（1）git init：初始化一个 Git 仓库。
+（2）--bare：表示新仓库不需要工作目录，只建立 Git 数据目录。
+（3）[仓库名].git：指定仓库名，比如仓库名是example，那么就要建立一个叫做example.g…]]></summary>
         <author>
-            <name>Haley Mills</name>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Identity and Access Management (IAM) – Explained With an Analogy]]></title>
-        <id>https://www.freecodecamp.org/news/aws-iam-explained/</id>
-        <link href="https://www.freecodecamp.org/news/aws-iam-explained/"/>
-        <updated>2022-11-16T18:51:48.000Z</updated>
-        <summary type="html"><![CDATA[AWS IAM (Identity and Access Management) gives you control over who can access your AWS services and resources based on some predefined permissions.  The two keywords here are “who” and “permissions”. “Who” refers to a specific identity, which can be a user, group or role. “permissions” refer to the]]></summary>
+        <title type="html"><![CDATA[无意识偏见]]></title>
+        <id>http://catcoding.me/p/unconscious-bias/</id>
+        <link href="http://catcoding.me/p/unconscious-bias/"/>
+        <updated>2022-10-21T19:50:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>最近看到 Hao Chen 在 Twitter 上分享了无意识偏见，<a href="https://twitter.com/haoel/status/1566636122330959872">Hao Chen on Twitter: “Unconscious Bias 无]]></summary>
         <author>
-            <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Modern Documentation Site with VitePress]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/"/>
-        <updated>2022-11-16T17:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Documentation is a crucial aspect of software development. But developers often neglect it because it can be a hassle to maintain. This is why it's important to use tools that help simplify this process.  In this tutorial, you'll learn how to build a complete docs site quickly by utilizing]]></summary>
-        <author>
-            <name>Victor Eke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding Front-End Development Scholarships]]></title>
-        <id>https://css-tricks.com/?p=374792</id>
-        <link href="https://css-tricks.com/finding-front-end-development-scholarships/"/>
-        <updated>2022-11-16T14:11:11.000Z</updated>
-        <summary type="html"><![CDATA[I’m often asked where to learn web development. The answer varies, of course, and we’ve published a few posts on the topic over the years, the most recent of which was Chris taking a stab at different learning paths in …
-Finding Front-End Development Scholarships originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Automated Test Results To Improve Accessibility]]></title>
-        <id>https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/</id>
-        <link href="https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/"/>
-        <updated>2022-11-16T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Noah Mashni and Mark Steadman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Provision a Home Lab with Oracle Cloud and Ansible]]></title>
-        <id>https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/</id>
-        <link href="https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/"/>
-        <updated>2022-11-15T21:52:50.000Z</updated>
-        <summary type="html"><![CDATA[Imagine for a moment that you been working hard to setup a website, protected with SSL, and then your hardware fails. This means that unless you have a perfect backup of your machine, you will need to install all the software and configuration files by hand. What if it's not]]></summary>
-        <author>
-            <name>Jose Vicente Nunez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL DATE – Function, Query, Timestamp Example Format]]></title>
-        <id>https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/</id>
-        <link href="https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/"/>
-        <updated>2022-11-15T18:58:58.000Z</updated>
-        <summary type="html"><![CDATA[Dates are an integral part of any programming language, and SQL is no exception. When you insert data into your SQL database, you can add a date and query the database based on that date. In this article, you’ll learn about DATE functions in SQL and how to query a]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the CSScenes, November 2022]]></title>
-        <id>https://css-tricks.com/?p=375066</id>
-        <link href="https://css-tricks.com/behind-the-csscenes-november-2022/"/>
-        <updated>2022-11-15T15:54:32.000Z</updated>
-        <summary type="html"><![CDATA[Is it Fall? Winter? I don’t know, but I woke up with snow in the front yard this morning and felt like it was time to write a little update about what’s been happening around CSS-Tricks this past month, as …
-Behind the CSScenes, November 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Keyboard Accessibility: HTML And CSS (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/</id>
-        <link href="https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/"/>
-        <updated>2022-11-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Cristian Diaz covers how to use HTML and CSS to create an accessible experience for keyboard users while mentioning what WCAG criteria we should keep into consideration.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cristian Díaz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classy and Cool Custom CSS Scrollbars: A Showcase]]></title>
-        <id>https://css-tricks.com/?p=375019</id>
-        <link href="https://css-tricks.com/classy-and-cool-custom-css-scrollbars-a-showcase/"/>
-        <updated>2022-11-14T13:54:26.000Z</updated>
-        <summary type="html"><![CDATA[In this article we will be diving into the world of scrollbars. I know, it doesn’t sound too glamorous, but trust me, a well-designed page goes hand-in-hand with a matching scrollbar. The old-fashioned chrome scrollbar just doesn’t fit in as …
-Classy and Cool Custom CSS Scrollbars: A Showcase originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Saleh Mubashar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Grid and Custom Shapes, Part 3]]></title>
-        <id>https://css-tricks.com/?p=374826</id>
-        <link href="https://css-tricks.com/css-grid-and-custom-shapes-part-3/"/>
-        <updated>2022-11-11T14:42:04.000Z</updated>
-        <summary type="html"><![CDATA[After Part 1 and Part 2, I am back with a third article to explore more fancy shapes. Like the previous articles, we are going to combine CSS Grid with clipping and masking to create fancy layouts for image …
-CSS Grid and Custom Shapes, Part 3 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Search For A Developer Job Abroad]]></title>
-        <id>https://smashingmagazine.com/2022/11/search-developer-job-abroad/</id>
-        <link href="https://smashingmagazine.com/2022/11/search-developer-job-abroad/"/>
-        <updated>2022-11-11T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Working abroad is a popular prospect, yet many people — including professionals in the tech sphere — don’t know where to start. In this article, Andrew Stetsenko gives you an ultimate step-by-step guide to finding and making international opportunities happen.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andrew Stetsenko)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Systems: Useful Examples and Resources]]></title>
-        <id>https://smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/</id>
-        <link href="https://smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/"/>
-        <updated>2022-11-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Everything design systems on accessibility, enterprise design systems, Figma kits, data visualization, motion design, multi-lingual design, naming, ROI calculator and UX writing.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What CSS Do You Absolutely Have to Know in 2022?]]></title>
-        <id>https://css-tricks.com/?p=374775</id>
-        <link href="https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/"/>
-        <updated>2022-11-08T13:51:48.000Z</updated>
-        <summary type="html"><![CDATA[Sacha Greif openly wondered whether CSS has gotten to be, you know, too big. With all the goodies that’ve shipped in browsers the past couple of years — container queries! relative color syntax! cascade layers! logical properties…
-What CSS Do You Absolutely Have to Know in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing CSS Styles in a WordPress Block Theme]]></title>
-        <id>https://css-tricks.com/?p=374910</id>
-        <link href="https://css-tricks.com/managing-css-styles-in-a-wordpress-block-theme/"/>
-        <updated>2022-11-07T14:05:11.000Z</updated>
-        <summary type="html"><![CDATA[The way we write CSS for WordPress themes is in the midst of sweeping changes. I recently shared a technique for adding fluid type support in WordPress by way of theme.json, a new file that WordPress has been pushing …
-Managing CSS Styles in a WordPress Block Theme originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ganesh Dahal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New In Next.js 13?]]></title>
-        <id>https://smashingmagazine.com/2022/11/whats-new-nextjs-13/</id>
-        <link href="https://smashingmagazine.com/2022/11/whats-new-nextjs-13/"/>
-        <updated>2022-11-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s talk about Next.js, one of the most well-known React frameworks used for production. From new components to font optimization, Atila shares a quick overview and invites you to join his [Advanced Next.js Masterclass](https://smashingconf.com/online-workshops/workshops/advanced-nextjs-atila-fassina) taking place later this month.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Couple Changes Coming in Chrome 108]]></title>
-        <id>https://css-tricks.com/?p=374894</id>
-        <link href="https://css-tricks.com/a-couple-changes-coming-in-chrome-108/"/>
-        <updated>2022-11-04T13:13:08.000Z</updated>
-        <summary type="html"><![CDATA[“A change to overflow on replaced elements in CSS”:
-From Chrome 108, the following replaced elements respect the overflow property: img, video and canvas. In earlier versions of Chrome, this property was ignored on these elements.
-This 
-…
-A Couple Changes Coming in Chrome 108 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practical Steps To Build Transparency In Your Remote Business]]></title>
-        <id>https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/</id>
-        <link href="https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/"/>
-        <updated>2022-11-04T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Transparency is part of the fabric of many remote businesses. It doesn’t, however, come naturally to everyone, especially if you’ve only recently become remote. In this article, Siobhan takes you through some of the practical ways that you can build transparency within your organization.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Siobhan McKeown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Difference Between Web Sockets, Web Workers, and Service Workers]]></title>
-        <id>https://css-tricks.com/?p=374731</id>
-        <link href="https://css-tricks.com/the-difference-between-web-sockets-web-workers-and-service-workers/"/>
-        <updated>2022-11-03T12:56:58.000Z</updated>
-        <summary type="html"><![CDATA[Web Sockets, Web Workers, Service Workers… these are terms you may have read or overheard. Maybe not all of them, but likely at least one of them. And even if you have a good handle on front-end development, there’s a …
-The Difference Between Web Sockets, Web Workers, and Service Workers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Aisha Bukar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Smashing Front-End & UX Workshops]]></title>
-        <id>https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/</id>
-        <link href="https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/"/>
-        <updated>2022-11-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What’s the state of HTML Email, Vue.js and Next.js? Would you like to level up with modern CSS? What are new, smart interface design patterns we could use? Let’s figure it all out together with our [brand new online workshops](https://smashingconf.com/online-workshops/) alongside our free community meetups.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing The Perfect Mobile Navigation UX]]></title>
-        <id>https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/</id>
-        <link href="https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/"/>
-        <updated>2022-11-02T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain design pattern, and show multiple levels of navigation at once.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Links About CSS Gradients]]></title>
-        <id>https://css-tricks.com/?p=374697</id>
-        <link href="https://css-tricks.com/some-links-about-css-gradients/"/>
-        <updated>2022-11-02T12:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Every once in a while, the blogging zeitgiest seems to coalesce around a certain topic and it’s like the saved articles in my bookmarks folder are having a conversation. The conversation sitting in there now is all about CSS Gradients …
-Some Links About CSS Gradients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rendering External API Data in WordPress Blocks on the Back End]]></title>
-        <id>https://css-tricks.com/?p=374381</id>
-        <link href="https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-back-end/"/>
-        <updated>2022-11-01T12:57:22.000Z</updated>
-        <summary type="html"><![CDATA[This is a continuation of my last article about “Rendering External API Data in WordPress Blocks on the Front End”. In that last one, we learned how to take an external API and integrate it with a block that …
-Rendering External API Data in WordPress Blocks on the Back End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Manoj Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Putting The Graph In GraphQL With The Neo4j GraphQL Library]]></title>
-        <id>https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/</id>
-        <link href="https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/"/>
-        <updated>2022-11-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If building a GraphQL API backed by a native graph database sounds interesting or at all helpful for the problems you’re trying to solve as a developer, perhaps you’d like to give the open-source [Neo4j GraphQL Library](https://srv.buysellads.com/ads/long/x/TCZPLYDDTTTTTTFR6JINCTTTTTTGVUIVKKTTTTTTCT2NTYYTTTTTTI4BVH7U4JBCKQ466IDGV2IUWESGCV7WALL5QYYE) a try. Let’s take a closer look at the reasons why!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (William Lyon)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New CSS Media Query Range Syntax]]></title>
-        <id>https://css-tricks.com/?p=374670</id>
-        <link href="https://css-tricks.com/the-new-css-media-query-range-syntax/"/>
-        <updated>2022-10-31T13:05:38.000Z</updated>
-        <summary type="html"><![CDATA[The Media Queries Level 4 specification has introduced a new syntax for targeting a range of viewport widths using common mathematical comparison operators, like , and =, that make more sense syntactically while writing less code for responsive web design.
-The New CSS Media Query Range Syntax originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi Selvam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On The Edge Of November (2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/</id>
-        <link href="https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/"/>
-        <updated>2022-10-31T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Create Advanced Animations With CSS]]></title>
-        <id>https://smashingmagazine.com/2022/10/advanced-animations-css/</id>
-        <link href="https://smashingmagazine.com/2022/10/advanced-animations-css/"/>
-        <updated>2022-10-29T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Yosra Emad explains how to create a rollercoaster path that a ball follows using cubic beziers and CSS transitions. You’ll also learn how the cubic-bezier function in CSS works in detail and how to stack multiple simple animations to create one complex one.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Yosra Emad)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motion Controls In The Browser]]></title>
-        <id>https://smashingmagazine.com/2022/10/motion-controls-browser/</id>
-        <link href="https://smashingmagazine.com/2022/10/motion-controls-browser/"/>
-        <updated>2022-10-28T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever wanted to build a web app that you can control with hand gestures as if by magic, this article is for you. With a couple of APIs and some JavaScript, you can build apps that behave like sorcery.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Yaphi Berhanu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fancy Image Decorations: Outlines and Complex Animations]]></title>
-        <id>https://css-tricks.com/?p=374302</id>
-        <link href="https://css-tricks.com/fancy-image-decorations-outlines-and-complex-animations/"/>
-        <updated>2022-10-28T12:45:47.000Z</updated>
-        <summary type="html"><![CDATA[We’ve spent the last two articles in this three-part series playing with gradients to make really neat image decorations using nothing but the <img> element. In this third and final piece, we are going to explore more techniques using the …
-Fancy Image Decorations: Outlines and Complex Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holographic Trading Card Effect]]></title>
-        <id>https://css-tricks.com/?p=374609</id>
-        <link href="https://css-tricks.com/holographic-trading-card-effect/"/>
-        <updated>2022-10-26T17:05:28.000Z</updated>
-        <summary type="html"><![CDATA[Simon Goellner (@simeydotme)’s collection of Holographic Trading Cards have captured our attention.
-Under the hood there is a suite of filter(), background-blend-mode(), mix-blend-mode(), and clip-path() combinations that have been painstakingly tweaked to reach the desired effect. I …
-Holographic Trading Card Effect originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Bradley Kouchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typographic Hierarchies]]></title>
-        <id>https://smashingmagazine.com/2022/10/typographic-hierarchies/</id>
-        <link href="https://smashingmagazine.com/2022/10/typographic-hierarchies/"/>
-        <updated>2022-10-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Alma Hoffmann discusses six basic variables to establish a typographic hierarchy, explains how to look at each differently, and in turn, designs pieces by intentionally modifying each variable to create a typographic hierarchy effectively.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alma Hoffmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State Of CSS Survey: Influence The Future Of CSS]]></title>
-        <id>https://smashingmagazine.com/2022/10/state-css-survey-2022/</id>
-        <link href="https://smashingmagazine.com/2022/10/state-css-survey-2022/"/>
-        <updated>2022-10-24T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/en-us/?source=smashing_magazine_css_survey), is nearing the end of its response period for 2022. The survey is available in many different languages and all questions are optional.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lea Verou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Futuristic CSS]]></title>
-        <id>https://smashingmagazine.com/2022/10/futuristic-css/</id>
-        <link href="https://smashingmagazine.com/2022/10/futuristic-css/"/>
-        <updated>2022-10-21T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sacha Greif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New In DevTools: Halloween Edition 🎃]]></title>
-        <id>https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/</id>
-        <link href="https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/"/>
-        <updated>2022-10-20T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Patrick Brosset gives an update on the most impactful new features that are now available in DevTools, across Firefox, Chrome, Safari, and Edge.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
+            <name>程序员的喵</name>
         </author>
     </entry>
 </feed>

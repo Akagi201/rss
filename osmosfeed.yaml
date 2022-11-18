@@ -2,10 +2,10 @@ cacheUrl: https://akagi201.github.io/rss/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom
   - href: https://www.bmpi.dev/index.xml
-  - href: https://blog.codingnow.com/atom.xml
   - href: http://feeds.feedburner.com/ruanyifeng
   - href: https://catcoding.me/atom.xml
   - href: https://www.physixfan.com/feed
+  - href: https://www.decohack.com/feed
 siteTitle: Tiny Feeds
 timezone: Asia/Shanghai
 cacheMaxDays: 30

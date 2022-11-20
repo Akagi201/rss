@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2022-11-20T04:08:00.263Z</updated>
+    <updated>2022-11-20T08:05:57.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
@@ -268,16 +268,6 @@ $ git init --bare [仓库名].git
 （3）[仓库名].git：指定仓库名，比如仓库名是example，那么就要建立一个叫做example.g…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无意识偏见]]></title>
-        <id>http://catcoding.me/p/unconscious-bias/</id>
-        <link href="http://catcoding.me/p/unconscious-bias/"/>
-        <updated>2022-10-21T19:50:07.000Z</updated>
-        <summary type="html"><![CDATA[<p>最近看到 Hao Chen 在 Twitter 上分享了无意识偏见，<a href="https://twitter.com/haoel/status/1566636122330959872">Hao Chen on Twitter: “Unconscious Bias 无]]></summary>
-        <author>
-            <name>程序员的喵</name>
         </author>
     </entry>
 </feed>

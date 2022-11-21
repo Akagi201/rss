@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2022-11-21T08:06:38.160Z</updated>
+    <updated>2022-11-21T12:07:27.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[独立产品灵感周刊 DecoHack #038 – 纽约市90年代的街景长什么样]]></title>
+        <id>https://www.decohack.com/?p=1146</id>
+        <link href="https://www.decohack.com/Post/1146"/>
+        <updated>2022-11-21T09:08:12.000Z</updated>
+        <summary type="html"><![CDATA[本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，往期内容同样精彩，感兴趣的伙伴可以点击订阅我的周刊。为 […]]]></summary>
+        <author>
+            <name>viggo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 231 期）：互联网公司需要多少员工？]]></title>
         <id>http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html</id>

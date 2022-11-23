@@ -22,6 +22,55 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-24 datetime="2022-11-23T23:56:12.000Z">2022-11-24</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-24 datetime="2022-11-23T23:56:12.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >程序员的喵</button>
+                  <a class="source-heading__link" href="/atom.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://catcoding.me/p/talk-with-compiler-hacker/"
+                        open
+                      >
+                        <summary class="article-expander__title">和 Rust Compiler 开发者面基</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://catcoding.me/p/talk-with-compiler-hacker/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src=" http://catcoding.me/css/images/logo.png " loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>很久没有更新博客了，最近两个月我在开心地写代码，今天想写篇文章，赶紧抓住这个冲动。
+上周和 Rust compiler 的一个核心开发 compiler-errors&lt;/</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-21 datetime="2022-11-21T09:08:12.000Z">2022-11-21</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-21 datetime="2022-11-21T09:08:12.000Z"></time>
           </button>
@@ -556,68 +605,12 @@
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >阮一峰的网络日志</button>
-                  <a class="source-heading__link" href="http://www.ruanyifeng.com/blog/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html"
-                        open
-                      >
-                        <summary class="article-expander__title">羊了个羊，如何自己实现（暨&quot;码上掘金&quot;编程挑战赛介绍）</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>[海报] 稀土掘金正在面向全国举办&quot;首届编程挑战赛&quot;，这是展示自己作品的好机会，详情见文后。
-小游戏《羊了个羊》最近非常火爆，引发了全民关注，抖音和微博都有几十亿的查看量。
-
-它的开发难度，其实一点不高，主要游戏逻辑都在前端，用的是普通的网页开发技术。如此简单的实现，却取得了这样巨大的反响，堪称奇迹。
-
-本文就介绍这个游戏怎么实现。只用 HTML + CSS + JS 做出一个简单版本，根本不需要后端。
-最后的成品会放到&quot;码上掘金&quot; code.juejin.cn，那是一个网页的代码开发环境，可以分享运行结果，跟国外的 CodePen 差不多。
-
-对于不了解的读者，我先简单说一下，《羊了个羊》是怎么回事。
-本质上，它就是传统的&quot;消消乐&quot;游戏（下图），同种花色的方块连到一起，可以消除，消除所有方块，就过关了。
-
-《羊了个羊》在形式上借鉴了国外的《消麻将》游戏（下图），采用堆叠式消除。
-
-不同之处在于，它有一个槽位栏，存放取下的卡片（下图）。只要槽位栏里面，连续三张卡片花色相同，就能消除，也就是所谓的&quot;三消&quot;。
-
-你仔细一想，网页实现的核心逻辑，其实只有两步。
-第一步，网页划出一个区域，将所有卡片在这个区域堆成四层。每一层的卡片位置和花色分布，可以用随机数控制。
-第二步，每一层的没有被遮挡的卡片可以移动。它们只要被点击，就从卡片区移动到槽位栏。
-
-那么，下面就来实现这两步。我原想自己写，但在 GitHub 搜了一下&quot;羊了个羊&quot;，返回了近两百个结果，什么样的代码都有。
-
-他们实现得比我完善，效果更好，所以我选了一个仓库 chenxch/xlegex，就用他的代码演示。
-这个仓库使用 vue3 + TypeScript，源码加起来不到1000行。核心逻辑就是上面的两点，下面介绍一些关键的实现细节。
-首先，每张卡片是一个实例对象，TypeScript 类型描述如下。
-
-从上图看到，每张…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Akagi201/rss/actions/runs/3531895813">
-        <time id="build-timestamp" datetime="2022-11-23T12:07:30.139Z">2022-11-23T12:07:30.139Z</time>
+      <a class="footer-link" href="https://github.com/Akagi201/rss/actions/runs/3533712838">
+        <time id="build-timestamp" datetime="2022-11-23T16:06:16.160Z">2022-11-23T16:06:16.160Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

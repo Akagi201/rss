@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2022-11-23T16:06:16.194Z</updated>
+    <updated>2022-11-23T20:05:28.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
@@ -200,16 +200,6 @@
 但是，人类既然…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[独立产品灵感周刊 DecoHack #035 – YouTube 设计改版了]]></title>
-        <id>https://www.decohack.com/?p=1098</id>
-        <link href="https://www.decohack.com/Post/1098"/>
-        <updated>2022-10-25T07:28:14.000Z</updated>
-        <summary type="html"><![CDATA[本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，往期内容同样精彩，感兴趣的伙伴可以点击订阅我的周刊。为 […]]]></summary>
-        <author>
-            <name>viggo</name>
         </author>
     </entry>
 </feed>

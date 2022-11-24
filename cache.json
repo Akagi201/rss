@@ -12,6 +12,16 @@
       "siteUrl": "https://www.bmpi.dev/",
       "articles": [
         {
+          "id": "https://www.bmpi.dev/self/use-rss-email-read/",
+          "author": null,
+          "description": "使用RSS与Email打造自己的信息简报。",
+          "link": "https://www.bmpi.dev/self/use-rss-email-read/",
+          "publishedOn": "2022-11-24T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "构建自己的信息简报",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.bmpi.dev/self/use-github-better/",
           "author": null,
           "description": "用GitHub来学习、创作与展示。",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2022-11-24T12:07:35.773Z</updated>
+    <updated>2022-11-24T16:05:35.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[构建自己的信息简报]]></title>
+        <id>https://www.bmpi.dev/self/use-rss-email-read/</id>
+        <link href="https://www.bmpi.dev/self/use-rss-email-read/"/>
+        <updated>2022-11-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[使用RSS与Email打造自己的信息简报。]]></summary>
+        <author>
+            <name>构建我的被动收入</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[和 Rust Compiler 开发者面基]]></title>
         <id>http://catcoding.me/p/talk-with-compiler-hacker/</id>

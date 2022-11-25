@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2022-11-25T00:21:29.376Z</updated>
+    <updated>2022-11-25T04:05:40.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 232 期）：好用的平面设计软件]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html"/>
+        <updated>2022-11-25T00:18:23.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+封面图
+
+一个英国钓鱼爱好者在法国，钓到了世界最大的金鱼，重达30公斤，已经活了20年。拍完照后，他就把金鱼放生了。（via）
+本周话题：好用的平面设计软件
+我不是设计师，但是经常有一些设计需求。
+举例来说，照片加几个美术字，当作视频封面，或者发到朋友圈。再比如，对图片进行编辑，做成简单的海报或者幻灯片，放到文章和文档里面。
+有一天晚上，我心血来潮，重新听了以前的校园民谣，那些学生时代听烂的歌曲。里面有一首艾敬的《那天》，多年以后再次听到，感触良多，忍不住想做成图片分享出来。
+下面就是那天晚上使用设计软件，做出来的结果。大家不要见笑，对于我这样的非专业用户，这样的效果就基本满足需求了。
+
+
+今天就想谈谈，个人开发者或者小企业，没有设计资源，怎么选择设计软件，自己动手搞定一些简单的插图和图片设计。
+我用过的平面设计软件里面，最好用的大概非 Canva 莫属。它有中文版 canva.cn，中文译名叫做"可画"。
+
+它的好用体现在，内置了无数本土化的模板，请柬、通知、喜报、简历等等，无一不包。只要选中一个模板，改一下里面的内容，就有一个可用的作品了。它还提供很多素材和中英文字体，让你添加。
+
+而且，它免费使用，专业用户才需要付费版。它还是一个网页应用，打开浏览器就能用，不必下载安装。
+我查了一下，它早就是国际上的行业第一了，估值达到400亿美元，排在全世界未上市的独角兽的第5位。
+根据报道，它也是大型互联网公司里面唯一一家女性创办和主管的公司。
+
+Melanie Perkins 并不是技术出身，她曾就读于西澳大利亚大学，主修传播、心理和商业。她大学期间兼职教平面设计的过程中，发现处于"垄断"地位的 Adobe 使用起来门槛很高，同时对于学生党来说价格昂贵。于是，做一个不需要技术经验、人人都可用的设计平台的想法开始在她脑中萌生。
+刚满19…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[构建自己的信息简报]]></title>
         <id>https://www.bmpi.dev/self/use-rss-email-read/</id>

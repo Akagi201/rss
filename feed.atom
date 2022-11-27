@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2022-11-27T16:05:30.087Z</updated>
+    <updated>2022-11-27T20:05:39.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[独立产品灵感周刊 DecoHack #039 – 制作自己的音乐墙]]></title>
+        <id>https://www.decohack.com/?p=1168</id>
+        <link href="https://www.decohack.com/Post/1168"/>
+        <updated>2022-11-27T18:16:36.000Z</updated>
+        <summary type="html"><![CDATA[本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，往期内容同样精彩，感兴趣的伙伴可以点击订阅我的周刊。为 […]]]></summary>
+        <author>
+            <name>viggo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[译：阅读的必要性]]></title>
         <id>http://catcoding.me/p/read/</id>

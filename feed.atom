@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2022-12-02T00:21:19.215Z</updated>
+    <updated>2022-12-02T04:05:35.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 233 期）：生活就像一个鱼缸]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html"/>
+        <updated>2022-12-02T00:11:10.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+封面图
+
+南宋德寿宫遗址博物馆本月在杭州开馆，一千年前宋高宗曾居住于此，1984年重新发现了这个遗址。（via）
+本周话题：生活就像一个鱼缸
+国际知名度最高的中国建筑事务所，大概是北京的 MAD 建筑事务所。 
+他们设计过很多著名的建筑，比如加拿大的梦露大厦、海口云洞图书馆等等，最大特点就是在城市里面创造了一些很奇特的形状。
+
+
+MAD 创始人之一的马岩松，最近做了一个演讲，介绍他们的创作理念。我看了以后，留下了深刻印象。
+
+最打动我的，是他曾经设计的一个鱼缸。
+"事务所刚成立的时候，没有项目可做，有天在大街上溜达，看到一个售卖金鱼的摊位，所有鱼都生活在一个方形的小盒子里面。"
+"金鱼在里面，看上去非常迷茫，似乎过得闷闷不乐，有时候还会撞在玻璃壁上。"
+
+他就想到，人在城市中生活的处境，不也像金鱼一样吗，被局限在一个看不见的盒子里面。
+那么，作为一个设计师，能不能把鱼缸重新设计一下，让鱼过得快乐一些？
+说干就干，他每隔几分钟，就去记录一下鱼的位置，画成散点图（下图）。结果发现，跟大家想的不一样，虽然关在鱼缸里面，鱼并不是什么角落都去，而是高度重复某些路线。
+
+他就根据这些轨迹，设计了一个非常复杂的鱼缸，尽量把简单的空间划分出层次感，一方面保证金鱼的常规路线，另一方面又让金鱼觉得，自己生活在一个复杂空间里面，有很多地方可以去探索和选择。
+
+
+马岩松说，虽然没有办法知道，金鱼生活在这么一个空间，会不会感到比以前更幸福，但这是建筑师的使命，为人们创造出更多更好的空间，提高生活的满意度。
+所以，他们设计的每一个建筑物，都追求趣味和层次，并不是简单的建筑物，而是试图让人们在有限空间里面，体会到更多的空间。
+听了这个小故事，我深受触动，第一次意识到，鱼缸是一个很好的比喻，象征当代人的处境。
+当代人看上去很自由，但是实际上，（大多数人的）自由很…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter 实习生 George Hotz]]></title>
         <id>http://catcoding.me/p/geohot/</id>

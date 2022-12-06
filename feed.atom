@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2022-12-06T12:07:07.500Z</updated>
+    <updated>2022-12-06T16:05:38.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI降临]]></title>
+        <id>https://www.bmpi.dev/self/ai-arrival/</id>
+        <link href="https://www.bmpi.dev/self/ai-arrival/"/>
+        <updated>2022-12-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[当AI降临了，我们该怎么办？]]></summary>
+        <author>
+            <name>构建我的被动收入</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[独立产品灵感周刊 DecoHack #040 – Google公布2022年度最佳应用榜单]]></title>
         <id>https://www.decohack.com/?p=1192</id>

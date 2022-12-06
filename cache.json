@@ -12,6 +12,16 @@
       "siteUrl": "https://www.bmpi.dev/",
       "articles": [
         {
+          "id": "https://www.bmpi.dev/self/ai-arrival/",
+          "author": null,
+          "description": "当AI降临了，我们该怎么办？",
+          "link": "https://www.bmpi.dev/self/ai-arrival/",
+          "publishedOn": "2022-12-06T00:00:00.000Z",
+          "wordCount": 202,
+          "title": "AI降临",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.bmpi.dev/self/use-rss-email-read/",
           "author": null,
           "description": "使用RSS与Email打造自己的信息简报。",

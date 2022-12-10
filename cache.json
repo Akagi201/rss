@@ -87,16 +87,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 231 期）：互联网公司需要多少员工？",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n封面图\n\n浙江大学附属第一医院的自动发药机，医生一开完处方，机器手就自动开始抓药，然后通过管道\"投送\"到药师窗口，等患者取药。（via）\n本周话题：电子产品的用电量\n上周提到，手机充电器的功率已经超过 200W 了。\n\n这个功率相当大。大家可能不知道，你家冰箱大概都不如它。普通的家用冰箱，功率就在 100W～200W 之间。\n\n（图片说明：200升家用冰箱，功率一般是 140W，每天耗电1度左右。）\n这是最近的一个趋势：电子产品的功率和用电量快速上升，已经接近或超过了家用电器。 我说两件事。\n第一件事。我最近买了一个智能插座，可以手机读取当前的功率输出。\n\n我就把一台27寸 4K 显示器插在上面。它的月度用电统计（下图）显示，这台 30W 的显示器，上个月用掉了13.8度电。\n\n我倒吸了一口冷气，没想到 4K 显示器这么耗电。我的桌上同时开着三台这样的显示器，那岂不是显示器这一项，每个月就要用掉40度电！\n第二件事。最近有一条新闻，Nvidia 公司的最新显卡 RTX 4090，接连有用户报告，供电接口烧掉了。\n\n如果你了解这张显卡的功率，这种事故是一点不奇怪的。它是耗电怪兽，功率达到 600W，但是机箱的供电电压是 12V，导致总电流会达到疯狂的 50A（600W/12V）。\n为了分散电流，它采用12口供电（下图）。即使如此，接口处稍有接触不良，就会严重发热，导致烧毁。\n\n这还只是显卡的功率，如果配上目前最顶级的桌面 CPU 英特尔 i9-13900K（功率 360W），再加上其他外设，整台桌面电脑就接近1000瓦了，跟空调功率差不多了。\n所以，使用顶级电脑玩大型电脑游戏，属于非常耗电的行为。街上那些游戏网吧，一天24小时开机，电费一定非常可观吧。\n总之，上面两件事说明了一点：随着计算能力的提高，计算机正在成为一种非常耗电的设备…",
-          "link": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html",
-          "publishedOn": "2022-11-11T00:19:59.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 230 期）：电子产品的用电量",
-          "imageUrl": null
         }
       ]
     },
@@ -105,6 +95,16 @@
       "feedUrl": "https://catcoding.me/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "http://catcoding.me/p/chatgpt/",
+          "author": null,
+          "description": "<p><img src=\"/images/ob_pasted-image-20221210193738.png\" alt=\"Alberto Romero via Midjourny\"><span class=\"image-caption\">Alberto Romero via M",
+          "link": "http://catcoding.me/p/chatgpt/",
+          "publishedOn": "2022-12-10T22:48:06.000Z",
+          "wordCount": 435,
+          "title": "玩了一周 ChatGPT，谈谈我的想法",
+          "imageUrl": " http://catcoding.me/css/images/logo.png "
+        },
         {
           "id": "http://catcoding.me/p/geohot/",
           "author": null,
@@ -141,7 +141,18 @@
       "title": "physixfan",
       "feedUrl": "https://www.physixfan.com/feed",
       "siteUrl": "https://www.physixfan.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.physixfan.com/?p=4805",
+          "author": "physixfan",
+          "description": "一觉醒来 我的这个博客突然就变成了这幅乱码画风：\n\n明明我啥都没改啊！怎么会突然就坏掉了呢？而且我其他相似设定、想同服务器的Wordpress博客也没有遇到这个问题啊？\n我还想起来以前关注过的另一个博客也变成了这样：\n\n咨询了一下我们博客服务器的客服，等了一天了他们也没研究出个所以然。\n最诡异的问题是，竟然恢复以前的备份也没用，恢复出来的还是乱码！\n于是我又请教了我的两位高手朋友wsmlby和skysniper，终于有了思路。在有了思路之后再次联系服务器的客服之后，终于问题得到了解决。\n原来乱码是因为数据库的编码和Wordpress的编码不一致所导致的。很久很久以前就建站的Wordpress网站，其数据库用的编码是 “latin1_swedish_ci”，然而现在Wordpress默认的编码都是UTF-8了。不知道是哪一天突然间服务器那边似乎是改了设定，因此如果没有专门指定编码，则老Wordpress网站就遇到这个编码不一致的问题了。新一点的Wordpress网站都没有问题是因为后来Wordpress的数据库也都是UTF-8编码了。\n如果你的Wordpress也遇到了同样的乱码问题，那么解决方案很简单：在 config.php 中指定编码为这样即可：\ndefine ('DB_CHARSET', 'latin1');\n参考资料：\nhttps://blog.inforeseau.com/2021/10/migrating-an-old-wordpress-and-handling-character-set-utf8-latin1-latin1_swedish_ci\nhttps://m.php.cn/cms/wordpress/459918.html\n…\nThe post WordPress 突然乱码的原因和解决方案 appeared first on physixfan.",
+          "link": "https://www.physixfan.com/wordpress-turanluanmadeyuanyinhejiejuefangan/",
+          "publishedOn": "2022-12-10T15:38:42.000Z",
+          "wordCount": 1002,
+          "title": "WordPress 突然乱码的原因和解决方案",
+          "imageUrl": "https://www.physixfan.com/wp-content/uploads/screencapture-physixfan-2022-12-09-22_58_50-645x1024.png"
+        }
+      ]
     },
     {
       "title": "Decohack",

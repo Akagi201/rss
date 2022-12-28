@@ -12,6 +12,16 @@
       "siteUrl": "https://www.bmpi.dev/",
       "articles": [
         {
+          "id": "https://www.bmpi.dev/self/annual-summary/2022/",
+          "author": null,
+          "description": "我的2022年度个人总结",
+          "link": "https://www.bmpi.dev/self/annual-summary/2022/",
+          "publishedOn": "2022-12-27T00:00:00.000Z",
+          "wordCount": 201,
+          "title": "我的2022",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.bmpi.dev/self/ai-arrival/",
           "author": null,
           "description": "当AI降临了，我们该怎么办？",
@@ -157,16 +167,6 @@
           "publishedOn": "2022-12-05T06:24:56.000Z",
           "wordCount": 1286,
           "title": "独立产品灵感周刊 DecoHack #040 – Google公布2022年度最佳应用榜单",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.decohack.com/?p=1168",
-          "author": "viggo",
-          "description": "本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，往期内容同样精彩，感兴趣的伙伴可以点击订阅我的周刊。为 […]",
-          "link": "https://www.decohack.com/Post/1168",
-          "publishedOn": "2022-11-27T18:16:36.000Z",
-          "wordCount": 1275,
-          "title": "独立产品灵感周刊 DecoHack #039 – 制作自己的音乐墙",
           "imageUrl": null
         }
       ]

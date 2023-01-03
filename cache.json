@@ -12,6 +12,16 @@
       "siteUrl": "https://www.bmpi.dev/",
       "articles": [
         {
+          "id": "https://www.bmpi.dev/money/passive-income-protfolio/2022q4/",
+          "author": null,
+          "description": "被动收入投资组合2022年Q4季报",
+          "link": "https://www.bmpi.dev/money/passive-income-protfolio/2022q4/",
+          "publishedOn": "2023-01-01T00:00:00.000Z",
+          "wordCount": 276,
+          "title": "2022亏了多少 # 组合季报(2022Q4)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.bmpi.dev/self/annual-summary/2022/",
           "author": null,
           "description": "我的2022年度个人总结",
@@ -85,6 +95,16 @@
       "feedUrl": "https://catcoding.me/atom.xml",
       "siteUrl": "/atom.xml",
       "articles": [
+        {
+          "id": "http://catcoding.me/p/2022-summary/",
+          "author": null,
+          "description": "<p>2022 对于我来说是特殊的一年，在这一年里我有失望、痛苦、愤怒，也有不少付出、收获和成长，一年到尾最大的感受是活着不易，庆幸还能写一年的总结。</p>\n<h2 id=\"写作\"><a href=\"#写作\" class=\"headerlink\" title=\"写作\"></a>",
+          "link": "http://catcoding.me/p/2022-summary/",
+          "publishedOn": "2023-01-02T22:08:07.000Z",
+          "wordCount": 332,
+          "title": "我的 2022",
+          "imageUrl": " http://catcoding.me/css/images/logo.png "
+        },
         {
           "id": "http://catcoding.me/p/chatgpt/",
           "author": null,

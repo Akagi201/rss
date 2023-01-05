@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-01-04T00:05:44.953Z</updated>
+    <updated>2023-01-05T00:05:45.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
@@ -249,16 +249,6 @@ The post WordPress 突然乱码的原因和解决方案 appeared first on physix
 正是因为 ChatGPT 的回答质量太高，全世界最大的程序员问答网站 StackOverflow 宣布，暂时禁止张贴它的回答，理由是它的错误率比…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI降临]]></title>
-        <id>https://www.bmpi.dev/self/ai-arrival/</id>
-        <link href="https://www.bmpi.dev/self/ai-arrival/"/>
-        <updated>2022-12-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[当AI降临了，我们该怎么办？]]></summary>
-        <author>
-            <name>构建我的被动收入</name>
         </author>
     </entry>
 </feed>

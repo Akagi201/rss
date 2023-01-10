@@ -94,16 +94,6 @@
           "wordCount": 332,
           "title": "我的 2022",
           "imageUrl": " http://catcoding.me/css/images/logo.png "
-        },
-        {
-          "id": "http://catcoding.me/p/chatgpt/",
-          "author": null,
-          "description": "<p><img src=\"/images/ob_pasted-image-20221210193738.png\" alt=\"Alberto Romero via Midjourny\"><span class=\"image-caption\">Alberto Romero via M",
-          "link": "http://catcoding.me/p/chatgpt/",
-          "publishedOn": "2022-12-10T22:48:06.000Z",
-          "wordCount": 435,
-          "title": "玩了一周 ChatGPT，谈谈我的想法",
-          "imageUrl": " http://catcoding.me/css/images/logo.png "
         }
       ]
     },
@@ -131,16 +121,6 @@
           "wordCount": 1019,
           "title": "关于惯性约束聚变的个人看法：写于人类又一次首次获得大于1的能量增益",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.physixfan.com/?p=4805",
-          "author": "physixfan",
-          "description": "一觉醒来 我的这个博客突然就变成了这幅乱码画风：\n\n明明我啥都没改啊！怎么会突然就坏掉了呢？而且我其他相似设定、想同服务器的Wordpress博客也没有遇到这个问题啊？\n我还想起来以前关注过的另一个博客也变成了这样：\n\n咨询了一下我们博客服务器的客服，等了一天了他们也没研究出个所以然。\n最诡异的问题是，竟然恢复以前的备份也没用，恢复出来的还是乱码！\n于是我又请教了我的两位高手朋友wsmlby和skysniper，终于有了思路。在有了思路之后再次联系服务器的客服之后，终于问题得到了解决。\n原来乱码是因为数据库的编码和Wordpress的编码不一致所导致的。很久很久以前就建站的Wordpress网站，其数据库用的编码是 “latin1_swedish_ci”，然而现在Wordpress默认的编码都是UTF-8了。不知道是哪一天突然间服务器那边似乎是改了设定，因此如果没有专门指定编码，则老Wordpress网站就遇到这个编码不一致的问题了。新一点的Wordpress网站都没有问题是因为后来Wordpress的数据库也都是UTF-8编码了。\n如果你的Wordpress也遇到了同样的乱码问题，那么解决方案很简单：在 config.php 中指定编码为这样即可：\ndefine ('DB_CHARSET', 'latin1');\n参考资料：\nhttps://blog.inforeseau.com/2021/10/migrating-an-old-wordpress-and-handling-character-set-utf8-latin1-latin1_swedish_ci\nhttps://m.php.cn/cms/wordpress/459918.html\n…\nThe post WordPress 突然乱码的原因和解决方案 appeared first on physixfan.",
-          "link": "https://www.physixfan.com/wordpress-turanluanmadeyuanyinhejiejuefangan/",
-          "publishedOn": "2022-12-10T15:38:42.000Z",
-          "wordCount": 1002,
-          "title": "WordPress 突然乱码的原因和解决方案",
-          "imageUrl": "https://www.physixfan.com/wp-content/uploads/screencapture-physixfan-2022-12-09-22_58_50-645x1024.png"
         }
       ]
     },
@@ -149,6 +129,16 @@
       "feedUrl": "https://www.decohack.com/feed",
       "siteUrl": "https://www.decohack.com",
       "articles": [
+        {
+          "id": "https://www.decohack.com/?p=1249",
+          "author": "viggo",
+          "description": "本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，往期内容同样精彩，感兴趣的伙伴可以点击订阅我的周刊。为 […]",
+          "link": "https://www.decohack.com/Post/1249",
+          "publishedOn": "2023-01-09T08:18:16.000Z",
+          "wordCount": 1270,
+          "title": "独立产品灵感周刊 DecoHack #043 – 互联网从业者的灵感数据库",
+          "imageUrl": null
+        },
         {
           "id": "https://www.decohack.com/?p=1230",
           "author": "viggo",

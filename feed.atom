@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-01-14T00:05:36.947Z</updated>
+    <updated>2023-01-15T00:06:18.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
@@ -201,35 +201,6 @@ The post 2022年投资回顾 appeared first on physixfan.]]></summary>
         <summary type="html"><![CDATA[本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，往期内容同样精彩，感兴趣的伙伴可以点击订阅我的周刊。为 […]]]></summary>
         <author>
             <name>viggo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 235 期）：青年失业率与选择创业]]></title>
-        <id>http://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html"/>
-        <updated>2022-12-16T00:08:21.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-封面图
-
-12月9日下午，"捷龙三号"火箭在船上发射成功。这是中国首次在海面船只上点火"热发射"火箭。（via）
-本周话题：青年失业率与选择创业
-现在的青年失业率非常高。官方统计，今年7月份的16岁～24岁青年失业率达到了19.9%。
-
-前景也不乐观。明年的高校毕业生创新高，超过1000万人加入求职大军。而且，市场上还有很多大龄失业者，也在找工作。
-这样严峻的就业形势意味着，最终有相当一部分人会考虑创业。
-我以前一直赞成创业，但是这几年想法有变化，认为创业有三个条件， 只有满足条件，才适合创业。
-我最近读过一篇文章，作者是美国最大的创业孵化器 Y Combinator 的创始人之一杰西卡·利文斯顿（Jessica Livingston）。她是四个创始人里面唯一的女性。
-
-她回忆了自己为什么创业，文章的最后一段，她这样说：
-"你是一块特殊形状的拼图。你可以改变自己的形状，适应公司现有的空缺。那是传统的方案。
-但是，还有另一种对你和世界通常都更好的方案：围绕你自己的形状，发展出一幅新的拼图。这就是我所做的，我是一个非常奇怪的形状。"
-她的意思是，你为别人打工，就必须变成别人要求的样子。但这并不是你内心想要的，如果你想顺应自己的内心和天赋，就应该创业。
-这话没错，但是有一个前提才能成立：你已经定型了，很难被外界塑造了。 这个时候，你走自己的路，内心满意度会高一些。我觉得这是创业的第一个条件。
-据我观察，大部分的中国年轻人，达不到这个条件。他们都没有定型，人生观和世界观还在发展中。典型的表现就是，说不出自己想做什么，也不知道自己的竞争力在哪里。
-这种情况下，你不是一块特殊形状的拼图，而是没有自己的形状，还在塑造中。如果这样去创业，你的想法可能随着外界的变化，而不断变化，今天想东，明天想西，这是大忌。
-反而是给别人打工，公司明确告诉你成为什…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

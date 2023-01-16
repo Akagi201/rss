@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-01-15T00:06:18.360Z</updated>
+    <updated>2023-01-16T00:05:45.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[几个长见识的话题]]></title>
+        <id>https://www.physixfan.com/?p=5063</id>
+        <link href="https://www.physixfan.com/jigezhangjianshidehuati/"/>
+        <updated>2023-01-15T10:01:42.000Z</updated>
+        <summary type="html"><![CDATA[最近大概是在这里写文比较少了，经常见到有人催更😂。在《我的人生追求》中我写道，“我的人生追求，就是：学习、分享，尽力给中文互联网贡献高质量内容。” 然而实际上值得分享的 non-trivial 的东西并不是很常见的，这也是本博客发文越来越少的主要原因。不过幸运的是，我参与创建的美卡论坛里面大神众多，里面有一些非常有趣的令人长见识的话题。这里就列一下过去一年中我觉得很涨姿势的几个话题吧，大家感兴趣的话可以移步那边继续阅读和参与讨论：
+1. OverEmployed (OE)
+自从疫情以后 Work From Home (WFH) 在美国变得非常普遍。这就给一个以前我想都没想过的神奇操作打开了大门：同时给多家公司全职工作！这个行为叫做 OverEmployed (OE)。美卡论坛中的相关帖子如下：
+一个码农同时做5份工作，年入 $1.2M，每天还有4小时的游戏时间
+最近消失了一段时间，现在给大家汇报一下目前OverEmployed(OE)的情况和进展 
+2. 润学（美国以外）
+有些人是为了保留双国籍，有些人是为了给美国之外留个 plan B，总之美卡论坛里很多人开始对美国以外的移民身份感兴趣。可能不了解的人都会觉得奇怪，怎么一帮身在美国的人会对香港和墨西哥这种地方的身份有兴趣？Well，反正就是很多人有兴趣。美卡论坛中的相关帖子如下：
+看大家疫情期间对香港很感兴趣，开个贴聊一下。
+开个帖子记录反向润香港优才计划申请的status和timeline
+香港12月28日新推出的高才通计划，3天批了。。。。
+墨西哥永居/护照的获取难度
+看了知乎这个帖子，貌似墨西哥绿卡可以花一点点钱随便办？
+更多类似的话题可以移步美卡论坛-签证与身份（美国以外）
+ 
+总之，美卡论坛是个好地方，大家有空多逛逛。…
+The post 几个长见识的话题 appeared first on physixfan.]]></summary>
+        <author>
+            <name>physixfan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 239 期）：未来两种人会增加]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html</id>

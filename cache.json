@@ -86,6 +86,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "http://catcoding.me/p/how-to-contribute-to-rust/",
+          "author": null,
+          "description": "<p>2022 年下半年我花了很多时间为 Rust 做贡献，最近一个阶段性的收获是我获得了 <a href=\"https://foundation.rust-lang.org/news/community-grants-program-awards-announcement-in",
+          "link": "http://catcoding.me/p/how-to-contribute-to-rust/",
+          "publishedOn": "2023-01-18T21:36:07.000Z",
+          "wordCount": 550,
+          "title": "为 Rust 做贡献的经验分享",
+          "imageUrl": " http://catcoding.me/css/images/logo.png "
+        },
+        {
           "id": "http://catcoding.me/p/2022-summary/",
           "author": null,
           "description": "<p>2022 对于我来说是特殊的一年，在这一年里我有失望、痛苦、愤怒，也有不少付出、收获和成长，一年到尾最大的感受是活着不易，庆幸还能写一年的总结。</p>\n<h2 id=\"写作\"><a href=\"#写作\" class=\"headerlink\" title=\"写作\"></a>",

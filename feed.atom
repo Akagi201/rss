@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-01-18T00:05:55.997Z</updated>
+    <updated>2023-01-19T00:06:02.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[为 Rust 做贡献的经验分享]]></title>
+        <id>http://catcoding.me/p/how-to-contribute-to-rust/</id>
+        <link href="http://catcoding.me/p/how-to-contribute-to-rust/"/>
+        <updated>2023-01-18T21:36:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>2022 年下半年我花了很多时间为 Rust 做贡献，最近一个阶段性的收获是我获得了 <a href="https://foundation.rust-lang.org/news/community-grants-program-awards-announcement-in]]></summary>
+        <author>
+            <name>程序员的喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[独立产品灵感周刊 DecoHack #044 – 新的一年如何管理你的时间]]></title>
         <id>https://www.decohack.com/?p=1259</id>

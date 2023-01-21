@@ -12,6 +12,16 @@
       "siteUrl": "https://www.bmpi.dev/",
       "articles": [
         {
+          "id": "https://www.bmpi.dev/dev/renaissance-sqlite/",
+          "author": null,
+          "description": "本文介绍史上最流行的数据库SQLite从进程内到分布式的的文艺复兴故事。",
+          "link": "https://www.bmpi.dev/dev/renaissance-sqlite/",
+          "publishedOn": "2023-01-19T00:00:00.000Z",
+          "wordCount": 553,
+          "title": "SQLite的文艺复兴",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.bmpi.dev/money/passive-income-protfolio/2022q4/",
           "author": null,
           "description": "被动收入投资组合2022年Q4季报",

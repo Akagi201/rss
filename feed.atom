@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-01-20T00:05:44.043Z</updated>
+    <updated>2023-01-21T00:05:36.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SQLite的文艺复兴]]></title>
+        <id>https://www.bmpi.dev/dev/renaissance-sqlite/</id>
+        <link href="https://www.bmpi.dev/dev/renaissance-sqlite/"/>
+        <updated>2023-01-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文介绍史上最流行的数据库SQLite从进程内到分布式的的文艺复兴故事。]]></summary>
+        <author>
+            <name>构建我的被动收入</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为 Rust 做贡献的经验分享]]></title>
         <id>http://catcoding.me/p/how-to-contribute-to-rust/</id>

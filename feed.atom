@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-01-21T00:05:36.744Z</updated>
+    <updated>2023-01-22T00:06:14.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
@@ -209,43 +209,6 @@ The post 2022年投资回顾 appeared first on physixfan.]]></summary>
         <summary type="html"><![CDATA[我的2022年度个人总结]]></summary>
         <author>
             <name>构建我的被动收入</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 236 期）：中国的阳光地带]]></title>
-        <id>http://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html"/>
-        <updated>2022-12-23T00:14:32.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-封面图
-
-12月16日清晨，柏林水族馆的世界最大的圆柱体水族箱（高达14米）突然爆裂，原因据说是夜间低温造成了玻璃裂痕，1000吨水和1500条热带鱼倾泻而出，淹了一条街。（via）
-本周话题：中国的阳光地带
-入冬以后，上海都是冷飕飕的阴沉天气。偶尔有几天，太阳露一下脸。
-每年的这个时候，我就想换一个城市过冬，去那种阳光充足的地方。
-今年真的打算成行，我就想确定一下，中国阳光最多的是哪些城市。
-
-气象学真的有这个统计，叫做"全年日照时数"（sunshine duration）。维基百科还明确列出了，影响这个指标的三个因素。
-（1）干旱的地区 日照多，湿润的地区日照少。
-（2）高海拔地区，空气稀薄，云不多，所以日照多。
-（3）高纬度地区 的太阳在地平线附近的时间比较长，因而太阳低于地平线时、还能看到阳光的时间也比较长。
-每个城市的气象局都有这个统计，全国主要城市的数据可以在《中国统计年鉴》查到。最新在线版是2021版，《表8-8》就是前一年的数据。
-我做了数据排名，先看看日照最少的10个城市。
-
-不出所料，四川盆地是阳光最少的地方。意外的是华中、华东、华南都属于阳光偏少的地区。
-日照最多的10个城市如下。
-
-上图的排名非常令人惊讶。高原地区（青藏高原、云贵高原）排名靠前，这是能想到的，没想到的是东北、华北、西北都是阳光偏多的地方。
-这说明中国北方其实是一个阳光地带，原因可能是纬度高，也可能是干旱少雨。如果能够好好地改善和维护环境，再加上阳光充足，北方城市肯定是宜居的。
-科技动态
-1、躺平使用的头盔
-一家日本公司宣布，取消早前宣布的躺着使用的头盔项目，原因是财务困难，以及难以达到设计目标。
-
-这个项目看上去很不错，用户只要戴上头盔，就能躺在床上使用互联网和 VR。
-
-它有专属的眼罩和耳机，并且因为在床上不能使用鼠标，它特别设计了一对脚…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

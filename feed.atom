@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-01-25T00:05:32.907Z</updated>
+    <updated>2023-01-26T00:05:56.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
@@ -199,16 +199,6 @@ The post 2022年投资回顾 appeared first on physixfan.]]></summary>
 谷歌、苹果和很多互联网公司都是这样干的。安卓系统和 Chrome 浏览器都有这种机制，获取用户正在使用的路由器 MAC 地址，然后调用用户机器的 GPS 判断方位，再把这些数据发给服务器。如果本机没有…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的2022]]></title>
-        <id>https://www.bmpi.dev/self/annual-summary/2022/</id>
-        <link href="https://www.bmpi.dev/self/annual-summary/2022/"/>
-        <updated>2022-12-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我的2022年度个人总结]]></summary>
-        <author>
-            <name>构建我的被动收入</name>
         </author>
     </entry>
 </feed>

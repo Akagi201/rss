@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-01-28T00:05:20.313Z</updated>
+    <updated>2023-01-29T00:05:55.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
@@ -169,36 +169,6 @@ The post 几个长见识的话题 appeared first on physixfan.]]></summary>
 The post 2022年投资回顾 appeared first on physixfan.]]></summary>
         <author>
             <name>physixfan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 237 期）：真实方位是如何暴露的？]]></title>
-        <id>http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html"/>
-        <updated>2022-12-30T00:11:29.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-封面图
-
-12月23日，中国最西端的机场，新疆塔什库尔干机场开通运营，迎来首架航班。它是帕米尔高原（古人说的"葱岭"）的首个机场，就建在冰川脚下。（via）
-本周话题：真实方位是如何暴露的？
-很多时候，开发者需要知道用户的地理方位。
-最简单的方法，就是查看用户的 IP 地址，它能够确定地理方位。
-
-如果你不想暴露真实方位，需要使用技术手段，伪装自己的 IP 地址。
-但是，这个事情不是那么简单，真实方位其实很难隐藏。
-上周，Hacker News 论坛上，有人发帖，说他想不通，谷歌怎么知道他的位置。
-他从美国去墨西哥出差，为了使用美国的银行服务，全程都用了 VPN，伪装后的 IP 地址是在美国。按理说，服务器根据他的 IP 地址，只会认为他在美国华盛顿州。
-
-但是，等他回到美国，打开家里的电脑。（注意，是家里的电脑，从来没有离开过美国。）浏览器显示，他的位置在墨西哥，推送给他的广告都是西班牙语。
-他困惑不解，谷歌怎么会知道，我的真实方位是在墨西哥呢？我没有暴露真实 IP 地址啊。
-帖子的下面就有人指点他了：谷歌判断你的地理方位，不仅仅看 IP 地址，更重要的看你的路由器的 MAC 地址。
-
-一般来说，路由器很少改变地理方位，买来后放在某个地方，它就会一直放在那里。很少有人带着路由器一起出门。
-这意味着，只要知道你使用哪个路由器，根据路由器的方位，就可以推断出你的真实方位。
-每个路由器的 MAC 地址都是独一无二，而且固定不变。因此，对于互联网公司来说，只要建一个数据库，收集路由器的 MAC 地址和所在地方位，就能知道用户的真实方位了。
-谷歌、苹果和很多互联网公司都是这样干的。安卓系统和 Chrome 浏览器都有这种机制，获取用户正在使用的路由器 MAC 地址，然后调用用户机器的 GPS 判断方位，再把这些数据发给服务器。如果本机没有…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

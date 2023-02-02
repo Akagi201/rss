@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-02-01T00:06:12.032Z</updated>
+    <updated>2023-02-02T00:05:47.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
@@ -131,17 +131,6 @@ The post 几个长见识的话题 appeared first on physixfan.]]></summary>
 数学家对这个问题…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的 2022]]></title>
-        <id>http://catcoding.me/p/2022-summary/</id>
-        <link href="http://catcoding.me/p/2022-summary/"/>
-        <updated>2023-01-02T22:08:07.000Z</updated>
-        <summary type="html"><![CDATA[<p>2022 对于我来说是特殊的一年，在这一年里我有失望、痛苦、愤怒，也有不少付出、收获和成长，一年到尾最大的感受是活着不易，庆幸还能写一年的总结。</p>
-<h2 id="写作"><a href="#写作" class="headerlink" title="写作"></a>]]></summary>
-        <author>
-            <name>程序员的喵</name>
         </author>
     </entry>
 </feed>

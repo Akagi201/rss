@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-02-13T00:05:51.837Z</updated>
+    <updated>2023-02-18T00:05:48.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html"/>
+        <updated>2023-02-17T00:16:27.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。周刊另有《谁在招人》服务，发布程序员招聘信息。合作推广请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+上图是2022年世界旅行类摄影师比赛的获奖者。Najin 是非洲中部仅存的两头白犀牛之一，已经33岁了，为了保护它不被偷猎者杀害，肯尼亚政府专门为它安排了守卫。他们形影不离，中午一起在非洲大草原上休息。（via）
+本周话题：一次尴尬的服务器被黑
+本周一凌晨（2月13日），我的个人网站服务器被黑了。
+由于入侵者没有触发报警机制，我也没察觉。一觉醒过来，看到好多网友的邮件，让我快去看看网站，访问任何一个网页，都会跳转到 xxx 的外部网址，令人极度尴尬。
+
+我查了一下服务器，发现果然如此。事态很严重，对方拿到了网页目录的写入权限，将我的所有 HTML 网页都删除了原始内容，写入了他的跳转代码window.onload="..."。
+但是，数据库没有遭到破坏，加上没有 SSH 的异常登录报警，因此我判断，对方没有拿到服务器的登录权限，只是利用了 Web 服务的漏洞。
+我的第一感觉不是恐慌，也不是愤怒，而是无奈。担心已久的事情，终于发生了。
+很多朋友知道，我的个人网站至少有10年没有修改过样式了。不是不想改，而是没法改，或者说改起来很麻烦。
+
+原因是我的后台软件采用了早期著名博客软件 MovableType，它的历史比 WordPress 还要悠久。后者已经是老古董了，你就知道它有多老了。当然，这说明我也老了，当年选择它的时候，我还是学生。
+MovableType 早就停止发展了，转让给了一个日本公司，所有用户都要缴费，才能收到代码补丁。我没缴费，所以我的个人网站的后台早就老化了。
+软件老化本身不是大问题，只要还能正常运行，并且你也不需要新功能，那么就能平安无事地过下去。真正的问题是它的依赖都过…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[闲聊一下爆火的ChatGPT：他能做什么、不能做什么]]></title>
         <id>https://www.physixfan.com/?p=5073</id>
@@ -88,26 +114,6 @@ The post 闲聊一下爆火的ChatGPT：他能做什么、不能做什么 appear
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQLite的文艺复兴]]></title>
-        <id>https://www.bmpi.dev/dev/renaissance-sqlite/</id>
-        <link href="https://www.bmpi.dev/dev/renaissance-sqlite/"/>
-        <updated>2023-01-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本文介绍史上最流行的数据库SQLite从进程内到分布式的的文艺复兴故事。]]></summary>
-        <author>
-            <name>构建我的被动收入</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为 Rust 做贡献的经验分享]]></title>
-        <id>http://catcoding.me/p/how-to-contribute-to-rust/</id>
-        <link href="http://catcoding.me/p/how-to-contribute-to-rust/"/>
-        <updated>2023-01-18T21:36:07.000Z</updated>
-        <summary type="html"><![CDATA[<p>2022 年下半年我花了很多时间为 Rust 做贡献，最近一个阶段性的收获是我获得了 <a href="https://foundation.rust-lang.org/news/community-grants-program-awards-announcement-in]]></summary>
-        <author>
-            <name>程序员的喵</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[独立产品灵感周刊 DecoHack #044 – 新的一年如何管理你的时间]]></title>
         <id>https://www.decohack.com/?p=1259</id>
         <link href="https://www.decohack.com/Post/1259"/>
@@ -115,31 +121,6 @@ The post 闲聊一下爆火的ChatGPT：他能做什么、不能做什么 appear
         <summary type="html"><![CDATA[本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，往期内容同样精彩，感兴趣的伙伴可以点击订阅我的周刊。为 […]]]></summary>
         <author>
             <name>viggo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[几个长见识的话题]]></title>
-        <id>https://www.physixfan.com/?p=5063</id>
-        <link href="https://www.physixfan.com/jigezhangjianshidehuati/"/>
-        <updated>2023-01-15T10:01:42.000Z</updated>
-        <summary type="html"><![CDATA[最近大概是在这里写文比较少了，经常见到有人催更😂。在《我的人生追求》中我写道，“我的人生追求，就是：学习、分享，尽力给中文互联网贡献高质量内容。” 然而实际上值得分享的 non-trivial 的东西并不是很常见的，这也是本博客发文越来越少的主要原因。不过幸运的是，我参与创建的美卡论坛里面大神众多，里面有一些非常有趣的令人长见识的话题。这里就列一下过去一年中我觉得很涨姿势的几个话题吧，大家感兴趣的话可以移步那边继续阅读和参与讨论：
-1. OverEmployed (OE)
-自从疫情以后 Work From Home (WFH) 在美国变得非常普遍。这就给一个以前我想都没想过的神奇操作打开了大门：同时给多家公司全职工作！这个行为叫做 OverEmployed (OE)。美卡论坛中的相关帖子如下：
-一个码农同时做5份工作，年入 $1.2M，每天还有4小时的游戏时间
-最近消失了一段时间，现在给大家汇报一下目前OverEmployed(OE)的情况和进展 
-2. 润学（美国以外）
-有些人是为了保留双国籍，有些人是为了给美国之外留个 plan B，总之美卡论坛里很多人开始对美国以外的移民身份感兴趣。可能不了解的人都会觉得奇怪，怎么一帮身在美国的人会对香港和墨西哥这种地方的身份有兴趣？Well，反正就是很多人有兴趣。美卡论坛中的相关帖子如下：
-看大家疫情期间对香港很感兴趣，开个贴聊一下。
-开个帖子记录反向润香港优才计划申请的status和timeline
-香港12月28日新推出的高才通计划，3天批了。。。。
-墨西哥永居/护照的获取难度
-看了知乎这个帖子，貌似墨西哥绿卡可以花一点点钱随便办？
-更多类似的话题可以移步美卡论坛-签证与身份（美国以外）
- 
-总之，美卡论坛是个好地方，大家有空多逛逛。…
-The post 几个长见识的话题 appeared first on physixfan.]]></summary>
-        <author>
-            <name>physixfan</name>
         </author>
     </entry>
     <entry>

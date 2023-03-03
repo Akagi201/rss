@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-03-02T00:06:36.862Z</updated>
+    <updated>2023-03-03T01:47:38.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 244 期）：大数据已死]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html"/>
+        <updated>2023-03-03T00:14:23.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。周刊另有《谁在招人》服务，发布程序员招聘信息。合作推广请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+新西兰小镇 Tirau，在公路边放置了很多波纹铁皮做的奇特建筑。上图的小狗其实是一个公共厕所。（via）
+本周话题：大数据已死
+"大数据"这个词，大家想必耳熟能详。这是最大众化的 IT 词汇之一，全社会曾经都热衷于它。
+
+百度指数显示，"大数据"从2011年开始进入搜索引擎，然后快速传播，在2017年～2019年之间达到顶峰。
+那时，大家都认为，数据在未来将指数式增长，世界将被海量数据淹没。如何处理这些数据，就成为了关键问题。它决定了一个企业甚至一个国家在信息时代的竞争力。
+于是，企业纷纷寻求大数据解决方案，出现了很多相关的招聘岗位，还都是高薪。高校也积极响应，有报道称，国内有600多所高校开设了"大数据专业"或"大数据学院"，其中包括北京大学、复旦大学这样的名校。
+
+但是，十年过去了，大数据并没有成为发展的瓶颈，我们依然足以处理产生的所有数据，在可预见的将来也是如此。
+预言中的大数据时代，看上去不仅没有来临，反而变得遥遥无期了。 "大数据"这个词的热度，也在不断降温，被提及次数变少了，招聘岗位也慢慢不见了。
+与之相应的是，"大数据"这个技术领域，也进展甚微，没有诞生新的概念和理论，技术没有突破，很多方向都停滞不前。
+比如，专为处理大数据而设计的 NoSQL 数据库，声势越来越小，陷入停滞，反而是传统的关系型数据库（SQLite、Postgres、MySQL）强劲增长，越发受欢迎。
+这是怎么回事？
+
+谷歌的大数据工程师乔丹·蒂加尼 （Jordan Tigani），最近直言不讳地说："大数据已死"。
+他认为，大数据时代已经结束了，大数据的存储和分析，作为一个技术问题已经解决了。 用户已经不…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 243 期）：与孔子 AI 聊天]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html</id>

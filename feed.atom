@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-03-06T00:06:23.570Z</updated>
+    <updated>2023-03-07T00:06:41.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果：为了安全让 M2 吃灰]]></title>
+        <id>http://catcoding.me/p/apple-perf/</id>
+        <link href="http://catcoding.me/p/apple-perf/"/>
+        <updated>2023-03-06T23:20:08.000Z</updated>
+        <summary type="html"><![CDATA[<p>苹果新的芯片性能真是不错，并且续航很可观，所以我最近买了个 M2 Pro。有几年没使用 Mac 系统了，所以日常使用还有些别扭，但最让我闹心是发现了苹果一个让人大跌眼镜的设计，而我几乎没找到关于这点的中文资料，所以写下来分享给你。</p>
+<p>我日常会花时间在 Rust]]></summary>
+        <author>
+            <name>程序员的喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 244 期）：大数据已死]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html</id>

@@ -65,6 +65,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "http://catcoding.me/p/rustc-source/",
+          "author": null,
+          "description": "<p>一个 Rust 程序是如何从源文件编译为二进制文件的？</p>\n<p>如果从头开始看 rustc 的源码会无从下手，我之前通过解决 issue 去读过部分模块的源码，就是 bottom-up 的方式，但我还未从整体上理解 rustc 的源码结构。</p>\n<p>这篇文章主要",
+          "link": "http://catcoding.me/p/rustc-source/",
+          "publishedOn": "2023-03-13T00:24:08.000Z",
+          "wordCount": 1247,
+          "title": "Rust 编译器源码概要",
+          "imageUrl": " http://catcoding.me/css/images/logo.png "
+        },
+        {
           "id": "http://catcoding.me/p/apple-perf/",
           "author": null,
           "description": "<p>苹果新的芯片性能真是不错，并且续航很可观，所以我最近买了个 M2 Pro。有几年没使用 Mac 系统了，所以日常使用还有些别扭，但最让我闹心是发现了苹果一个让人大跌眼镜的设计，而我几乎没找到关于这点的中文资料，所以写下来分享给你。</p>\n<p>我日常会花时间在 Rust",

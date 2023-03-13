@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-03-12T00:06:19.382Z</updated>
+    <updated>2023-03-13T00:05:59.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rust 编译器源码概要]]></title>
+        <id>http://catcoding.me/p/rustc-source/</id>
+        <link href="http://catcoding.me/p/rustc-source/"/>
+        <updated>2023-03-13T00:24:08.000Z</updated>
+        <summary type="html"><![CDATA[<p>一个 Rust 程序是如何从源文件编译为二进制文件的？</p>
+<p>如果从头开始看 rustc 的源码会无从下手，我之前通过解决 issue 去读过部分模块的源码，就是 bottom-up 的方式，但我还未从整体上理解 rustc 的源码结构。</p>
+<p>这篇文章主要]]></summary>
+        <author>
+            <name>程序员的喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 245 期）：摩天大楼是反人类的]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html</id>

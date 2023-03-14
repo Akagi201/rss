@@ -90,18 +90,7 @@
       "title": "physixfan",
       "feedUrl": "https://www.physixfan.com/feed",
       "siteUrl": "https://www.physixfan.com",
-      "articles": [
-        {
-          "id": "https://www.physixfan.com/?p=5073",
-          "author": "physixfan",
-          "description": "最近几年AI的进展十分迅猛，其中令人印象深刻的包括但不限于：基于 Diffusion Model 的各种图像生成模型、以及我今天想讨论的大语言模型 ChatGPT。尽管网上关于 ChatGPT 的讨论已经很多了，但是这东西确实足够有趣，因此我也来瞎扯几句吧。Disclaimer: 我是纯外行，对AI了解大概不比其他学物理的学生更多。\n第一次使用 ChatGPT 的时候，有点让我回忆起了当年第一次见到 Google 时的场景。不过差距还是存在的，当我第一次使用 Google 时，我当即就知道这东西我会一辈子不停地使用它了；而 ChatGPT 大概还稍逊风骚，我目前并不觉得它能取代搜索引擎，它只适合完成一部分任务，而对另一部分任务则满嘴胡话无法信任其结果。\nChatGPT 既不像有些人以为的几乎成为通用人工智能了，也不像有些人以为的那样只是个玩具。我认为它的确可以在一些任务上潜在的提升生产力。这篇文章主要是探索一下 ChatGPT 能做什么、不能做什么。\n✅ 能用来改进文档和Paper的语言\n在美卡论坛的这个帖子里，大家在讲自己有哪些工作或生活中的实际需求已经被 ChatGPT 满足了的时候，提到最多的就是润色自己写的文档和paper的语言。甚至可以直接让 ChatGPT 给自己的paper写摘要。ChatGPT 的确在这方面至少比一个非英语母语的人好得多。\n✅ 能用来应付Bullshit文章\n也有很多人已经开始拿 ChatGPT 写那种根本没人看的诸如 year end review 之类的bullshit文章了。如果在我当年上学的时候就有 …\nThe post 闲聊一下爆火的ChatGPT：他能做什么、不能做什么 appeared first on physixfan.",
-          "link": "https://www.physixfan.com/xianliaobaohuodechatgpttanengzuoshenmebunengzuoshenme/",
-          "publishedOn": "2023-02-11T18:33:20.000Z",
-          "wordCount": 1064,
-          "title": "闲聊一下爆火的ChatGPT：他能做什么、不能做什么",
-          "imageUrl": "https://www.physixfan.com/wp-content/uploads/Screenshot-2023-02-11-at-10.14.49-778x1024.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Decohack",

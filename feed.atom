@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-03-19T00:06:54.347Z</updated>
+    <updated>2023-03-20T00:06:03.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人类的终极工具]]></title>
+        <id>http://catcoding.me/p/chatgpt-tools/</id>
+        <link href="http://catcoding.me/p/chatgpt-tools/"/>
+        <updated>2023-03-20T00:19:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>乔布斯曾经说过：<strong>计算机就像自行车一样，它们是人类思维的自行车</strong>。计算机和自行车一样，能够帮助人们快速、高效地完成很多任务，是人类思维工具的一种。</p>
+<p>随着 chatGPT 的出现，计算机这个工具彻底地进化了，它比人类懂得更多，能通过]]></summary>
+        <author>
+            <name>程序员的喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 246 期）：永不丢失的网络身份]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html</id>

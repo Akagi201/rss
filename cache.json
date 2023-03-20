@@ -65,6 +65,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "http://catcoding.me/p/chatgpt-tools/",
+          "author": null,
+          "description": "<p>乔布斯曾经说过：<strong>计算机就像自行车一样，它们是人类思维的自行车</strong>。计算机和自行车一样，能够帮助人们快速、高效地完成很多任务，是人类思维工具的一种。</p>\n<p>随着 chatGPT 的出现，计算机这个工具彻底地进化了，它比人类懂得更多，能通过",
+          "link": "http://catcoding.me/p/chatgpt-tools/",
+          "publishedOn": "2023-03-20T00:19:09.000Z",
+          "wordCount": 431,
+          "title": "人类的终极工具",
+          "imageUrl": " http://catcoding.me/css/images/logo.png "
+        },
+        {
           "id": "http://catcoding.me/p/rustc-source/",
           "author": null,
           "description": "<p>一个 Rust 程序是如何从源文件编译为二进制文件的？</p>\n<p>如果从头开始看 rustc 的源码会无从下手，我之前通过解决 issue 去读过部分模块的源码，就是 bottom-up 的方式，但我还未从整体上理解 rustc 的源码结构。</p>\n<p>这篇文章主要",

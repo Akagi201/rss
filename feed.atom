@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-03-24T00:06:02.613Z</updated>
+    <updated>2023-03-25T00:05:35.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 247 期）：扎克伯格的裁员信]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html"/>
+        <updated>2023-03-23T23:57:41.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。周刊另有《谁在招人》服务，发布程序员招聘信息。合作推广请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+2019年建成的陕西宝鸡"太白山之眼"，是一个巨型的钢结构，高度达到20层楼（含底部钢架）。它不仅能喷水，还能喷火，集合了声光电表演，将音乐喷泉推向了一个新高度。（via）
+本周话题：扎克伯格的裁员信
+去年11月，Meta 公司宣布大裁员，解雇13%的员工，大约11,000人。
+过了四个月，上周二（3月14日），该公司突然宣布，还有第二轮，再解雇大约10,000人。
+
+今天，我们不讨论裁员这件事本身，只说说扎克伯克的裁员信。
+裁员信公开发在 Meta 官网，我建议大家读一下，里面有一些有意思的内容。
+
+大部分的裁员信，都是假惺惺的例行公事，"由于市场形势的变化，我们不得不做出一个艰难的决定......"。但是，这封信不一样。
+扎克伯克详细解释了，他对公司管理的想法，以及下一步的打算。如果你想了解硅谷巨头的内部情况，这封信可以提供不少信息。
+首先，他直言不讳地说，上一次裁员的效果很好， 公司效率提高了。
+"自从我们去年裁员以来，一个令人惊讶的结果是许多事情进展得更快了。回想起来，我低估了优先级较低的项目的间接成本。"
+为什么员工少了，项目反而进展快了？
+扎克伯格的解释是，裁员使得公司大量取消低优先级的项目，集中资源到最重要的事情上面。
+下面这段话，我认为非常精彩。
+"人们很容易认为，只要一个项目产生的价值超过其直接成本，它就是正收益的。
+但是，任何项目都需要一个主管，我们要么提拔一个工程师，要么从另一个项目挑选一个人，让其负责该项目。这两种情况都分散了人才，并且创造出了更多的管理层。
+如果项目继续发展，整个团队也许分散到多个楼层或多个办公室，这让沟通变得更加困难。
+我们还需要为项目配备更多…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[运维的未来是平台工程]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html</id>

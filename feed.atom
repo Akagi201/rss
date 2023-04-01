@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-03-31T00:05:52.855Z</updated>
+    <updated>2023-04-01T00:05:51.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 248 期）：不要夸大 ChatGPT]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html"/>
+        <updated>2023-03-30T23:57:21.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。周刊另有《谁在招人》服务，发布程序员招聘信息。合作推广请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+上图是2022年世界自然摄影奖的获奖作品，保加利亚中部城市旧扎戈拉的一只红隼，在一盏生锈的路灯里安家，彷佛很多人在大都市的处境。（via）
+本周话题：不要夸大 ChatGPT
+ChatGPT 问世只有几个月，大家有没有发现，舆论的调门越来越高。
+人们最初的震惊和赞叹，逐渐变成了非理性的鼓吹，很多人言之凿凿，断定 ChatGPT 将重塑人类社会。
+
+举例来说，《经济学人》杂志称它会"翻天覆地"。
+"GPT 也完全可以是 general-purpose technology（通用技术）的缩写：一种翻天覆地的创新，可以像汽机、电力和计算机一样提升各行各业的生产率。"
+一个国内的作者则说，它会"席卷一切"。
+"ChatGPT 带来的这场风暴，正在席卷一切。
+随着不断的技术提升，可以预见，GPT类型的 AI，未来能替代的，也许是全行业！"
+还有人担心它会淘汰人类，有的文章标题堪称惊悚，《AI 狂飙的时代，人还有价值吗？》。
+
+微博的"热门文章"列表，也是满满的生存焦虑。
+
+这种情绪反映在金融市场，就是"ChatGPT 概念股"被狂炒。一直微利 + 亏损的"汉王科技"，就在 ChatGPT 问世后，股价从11元炒到了40元。
+
+我有一种感觉，ChatGPT 已经神化了，仿佛无所不能。
+今天就来谈谈这件事，我要说，ChatGPT 确实很神奇，是划时代的技术创新，但是不应该无限夸大。
+ChatGPT 有其局限，很多事情它做不到。有人说，ChatGPT 标志着机器取代人类的"奇点时刻"，这是不对的。
+他们忽略了最关键的一点：ChatGPT 不是"通用人工智能"，而是一个语言模型。
+"通用人类智能"（art…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的AI阅读助手]]></title>
         <id>https://www.bmpi.dev/self/my-gpt-reader/</id>

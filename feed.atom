@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-04-04T00:05:45.792Z</updated>
+    <updated>2023-04-05T00:05:32.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不想当作家的程序员写不出 Redis]]></title>
+        <id>http://catcoding.me/p/redis-antriez/</id>
+        <link href="http://catcoding.me/p/redis-antriez/"/>
+        <updated>2023-04-04T17:59:09.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="/images/ob_pasted-image-20230205134219.png" alt=""></p>
+<p>西西里岛，是位于意大利南部阳光而宁静的岛屿，正如电影《西西里岛的美丽传说》中演绎的那样，这里有着古老的历史和建筑，看起来和 IT 不沾边]]></summary>
+        <author>
+            <name>程序员的喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 248 期）：不要夸大 ChatGPT]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html</id>

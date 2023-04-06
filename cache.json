@@ -114,16 +114,6 @@
           "wordCount": 1247,
           "title": "Rust 编译器源码概要",
           "imageUrl": " http://catcoding.me/css/images/logo.png "
-        },
-        {
-          "id": "http://catcoding.me/p/apple-perf/",
-          "author": null,
-          "description": "<p>苹果新的芯片性能真是不错，并且续航很可观，所以我最近买了个 M2 Pro。有几年没使用 Mac 系统了，所以日常使用还有些别扭，但最让我闹心是发现了苹果一个让人大跌眼镜的设计，而我几乎没找到关于这点的中文资料，所以写下来分享给你。</p>\n<p>我日常会花时间在 Rust",
-          "link": "http://catcoding.me/p/apple-perf/",
-          "publishedOn": "2023-03-06T23:20:08.000Z",
-          "wordCount": 757,
-          "title": "苹果：为了安全让 M2 吃灰",
-          "imageUrl": " http://catcoding.me/css/images/logo.png "
         }
       ]
     },

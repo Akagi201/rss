@@ -114,16 +114,6 @@
           "wordCount": 431,
           "title": "人类的终极工具",
           "imageUrl": " http://catcoding.me/css/images/logo.png "
-        },
-        {
-          "id": "http://catcoding.me/p/rustc-source/",
-          "author": null,
-          "description": "<p>一个 Rust 程序是如何从源文件编译为二进制文件的？</p>\n<p>如果从头开始看 rustc 的源码会无从下手，我之前通过解决 issue 去读过部分模块的源码，就是 bottom-up 的方式，但我还未从整体上理解 rustc 的源码结构。</p>\n<p>这篇文章主要",
-          "link": "http://catcoding.me/p/rustc-source/",
-          "publishedOn": "2023-03-13T00:24:08.000Z",
-          "wordCount": 1247,
-          "title": "Rust 编译器源码概要",
-          "imageUrl": " http://catcoding.me/css/images/logo.png "
         }
       ]
     },

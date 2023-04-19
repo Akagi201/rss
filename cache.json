@@ -104,16 +104,6 @@
           "wordCount": 1220,
           "title": "不想当作家的程序员写不出 Redis",
           "imageUrl": " http://catcoding.me/css/images/logo.png "
-        },
-        {
-          "id": "http://catcoding.me/p/chatgpt-tools/",
-          "author": null,
-          "description": "<p>乔布斯曾经说过：<strong>计算机就像自行车一样，它们是人类思维的自行车</strong>。计算机和自行车一样，能够帮助人们快速、高效地完成很多任务，是人类思维工具的一种。</p>\n<p>随着 chatGPT 的出现，计算机这个工具彻底地进化了，它比人类懂得更多，能通过",
-          "link": "http://catcoding.me/p/chatgpt-tools/",
-          "publishedOn": "2023-03-20T00:19:09.000Z",
-          "wordCount": 431,
-          "title": "人类的终极工具",
-          "imageUrl": " http://catcoding.me/css/images/logo.png "
         }
       ]
     },

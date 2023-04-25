@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-04-24T00:05:30.771Z</updated>
+    <updated>2023-04-25T00:05:24.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
@@ -162,16 +162,6 @@ ChatGPT 有其局限，很多事情它做不到。有人说，ChatGPT 标志着�
 "通用人类智能"（art…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的AI阅读助手]]></title>
-        <id>https://www.bmpi.dev/self/my-gpt-reader/</id>
-        <link href="https://www.bmpi.dev/self/my-gpt-reader/"/>
-        <updated>2023-03-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[基于 chatGPT 的聊天机器人，帮助你高效阅读。]]></summary>
-        <author>
-            <name>BMPI</name>
         </author>
     </entry>
     <entry>

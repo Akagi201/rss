@@ -20,16 +20,6 @@
           "wordCount": 953,
           "title": "ChatGPT应用开发小记",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.bmpi.dev/self/my-gpt-reader/",
-          "author": null,
-          "description": "基于 chatGPT 的聊天机器人，帮助你高效阅读。",
-          "link": "https://www.bmpi.dev/self/my-gpt-reader/",
-          "publishedOn": "2023-03-26T00:00:00.000Z",
-          "wordCount": 325,
-          "title": "我的AI阅读助手",
-          "imageUrl": null
         }
       ]
     },

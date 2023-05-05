@@ -74,18 +74,7 @@
       "title": "程序员的喵",
       "feedUrl": "https://catcoding.me/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "http://catcoding.me/p/redis-antriez/",
-          "author": null,
-          "description": "<p><img src=\"/images/ob_pasted-image-20230205134219.png\" alt=\"\"></p>\n<p>西西里岛，是位于意大利南部阳光而宁静的岛屿，正如电影《西西里岛的美丽传说》中演绎的那样，这里有着古老的历史和建筑，看起来和 IT 不沾边",
-          "link": "http://catcoding.me/p/redis-antriez/",
-          "publishedOn": "2023-04-04T17:59:09.000Z",
-          "wordCount": 1220,
-          "title": "不想当作家的程序员写不出 Redis",
-          "imageUrl": " http://catcoding.me/css/images/logo.png "
-        }
-      ]
+      "articles": []
     },
     {
       "title": "physixfan",

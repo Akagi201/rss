@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-05-05T00:05:26.327Z</updated>
+    <updated>2023-05-06T00:05:03.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 253 期）：训练材料用完之日]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html"/>
+        <updated>2023-05-05T00:11:13.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。周刊另有《谁在招人》服务，发布程序员招聘信息。合作推广请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+这不是美术馆，而是杭州临安三口村的杨梅大棚，沿着山坡堆叠在一起。（via）
+本周话题：训练材料用完之日
+现在的新闻报道，天天有 AI 的新闻，里面会提到很多模型。
+分辨模型的强弱，有一个关键指标，就是看它有多少个参数。一般来说，参数的数量越多，模型就越强。
+GPT-2 有15亿个参数，GPT-3 和 ChatGPT 有1750亿个，GPT-4 没有公布这个指标，据传比上一代大5倍以上。
+
+那么，什么是参数呢？
+按照我粗浅的理解，参数相当于模型预测时，所依据的神经网络的节点数量。参数越多，就代表了模型所考虑的各种可能性越多，计算量越大，效果越好。
+既然参数越多越好，那么参数会无限增长吗？
+答案是不会的，因为参数受到训练材料的制约。必需有足够的训练材料，才能计算出这些参数，如果参数无限增长，训练材料势必也要无限增长。
+我看到的一种说法是，训练材料至少应该是参数的10倍。举例来说，一个区分猫照片和狗照片的模型，假定有1,000个参数，那么至少应该用10,000张图片来训练。 
+
+ChatGPT 有1750亿个参数，那么训练材料最好不少于17500亿个词元（token）。"词元"就是各种单词和符号，以小说《红楼梦》为例，它有788,451字，就算100万个词元。那么， ChatGPT 的训练材料相当于175万本《红楼梦》。
+根据报道，ChatGPT 实际上用了 570 GB 的训练材料，来自维基百科、互联网图书馆、Reddit 论坛、推特等等。
+
+大家想一想，更强大的模型需要更多的训练材料，问题是能找到这么多材料吗，会不会材料有一天不够用？
+我告诉大家，真的有学者写过论文，研究这个问题。
+过去1…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 252 期）：互联网创业变难了]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html</id>

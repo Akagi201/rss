@@ -10,18 +10,7 @@
       "title": "BMPI",
       "feedUrl": "https://www.bmpi.dev/index.xml",
       "siteUrl": "https://www.bmpi.dev/",
-      "articles": [
-        {
-          "id": "https://www.bmpi.dev/dev/chatgpt-development-notes/my-gpt-reader/",
-          "author": null,
-          "description": "本文分享了笔者使用 chatGPT 开发 myGPTReader 开源项目的过程。",
-          "link": "https://www.bmpi.dev/dev/chatgpt-development-notes/my-gpt-reader/",
-          "publishedOn": "2023-04-07T00:00:00.000Z",
-          "wordCount": 953,
-          "title": "ChatGPT应用开发小记",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "阮一峰的网络日志",
@@ -66,16 +55,6 @@
           "publishedOn": "2023-04-14T00:15:40.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 250 期）：新技术的最大风险",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。周刊另有《谁在招人》服务，发布程序员招聘信息。合作推广请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n江苏淮安在人工湿地上，种植了万亩水杉，形成了一个水上森林景区。坐着木筏进入森林内部，感觉很梦幻。（via）\n本周话题：最成功的软件企业家\n谁是全世界最成功的软件企业家？\n不管标准是什么，弗兰克·斯洛特曼 (Frank Slootman) 一定在名单里面。\n\n他是云计算公司 Snowflake 的 CEO，在此之前，还担任过另外两家软件公司（Data Domain 和 Service Now）的 CEO。\n这三家公司都从零起步，然后做得很大。尤其是 Snowflake，属于业内的明星公司，市值现在达到500亿美元。\n\n弗兰克·斯洛特曼的厉害之处，就是这三家公司的上市，都发生在他的任内。\n他到底做了什么，让死亡率极高的软件创业公司活下来，每一家都成功上市？\n\n去年，他出版了一本书，介绍他怎么管理软件公司。书名叫做《Amp it up》，直译就是\"加强\"，即如何让公司变得更好。\n这本书还没有中文版，但是他本人的其他文章以及书评，已经透露了一些主要做法。\n看到这些措施，我不由倒吸一口冷气。别看照片上他很温和，一旦管理起公司，手腕真是非常强硬，不输给华为。\n\"我们的公司是海军陆战队，不是和平队。平静的生活不属于我们。像我们这样的创业公司，每天都要为了生存而与巨头对抗。我们是偏执狂，时时刻刻感到生存受威胁。加入我们，你必须有战斗心态。\"\n下面我就分享他的做法，你看看厉害不厉害。\n（1）加快节奏，时刻要求员工以更快的速度完成工作。\n如果你说一周后可以有结果，他就问你为什么不能明天或后天出结果？这倒不是因为着急，而是他要增加所有人的紧迫感。\n公司变大了，就会行动迟缓，不愿意冒险。只有加快节奏，才能让公司…",
-          "link": "http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html",
-          "publishedOn": "2023-04-07T00:10:23.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 249 期）：最成功的软件企业家",
           "imageUrl": null
         }
       ]

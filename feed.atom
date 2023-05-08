@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-05-07T00:05:47.170Z</updated>
+    <updated>2023-05-08T00:05:12.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT背后的语言模型简史]]></title>
+        <id>https://www.bmpi.dev/dev/deep-learning/nlp-language-models/</id>
+        <link href="https://www.bmpi.dev/dev/deep-learning/nlp-language-models/"/>
+        <updated>2023-05-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT的火爆出圈，让大家对NLP语言模型的发展历程产生了浓厚的兴趣。本文将从深度学习在NLP领域的发展历程，到大语言模型的发展历程，再到大语言模型的未来展望，带你一起了解NLP语言模型的发展历史。]]></summary>
+        <author>
+            <name>BMPI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 253 期）：训练材料用完之日]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html</id>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-05-11T00:05:08.274Z</updated>
+    <updated>2023-05-12T00:05:27.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新的旅程]]></title>
+        <id>http://catcoding.me/p/new-journey/</id>
+        <link href="http://catcoding.me/p/new-journey/"/>
+        <updated>2023-05-11T22:40:54.000Z</updated>
+        <summary type="html"><![CDATA[<p>因为家庭原因，我决定回到深圳常住。2023 元旦前夕，我陆续把东西寄回深圳，元旦后我在晨曦中登上了往南的列车。我那时候还没确定会离职，但目前找到了合适的工作，所以就于四月份从微软离职了。</p>
+<p>在苏州微软工作的两年，我遇到了很好的团队和同事，真的要离开了也有些不舍得]]></summary>
+        <author>
+            <name>程序员的喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT背后的语言模型简史]]></title>
         <id>https://www.bmpi.dev/dev/deep-learning/nlp-language-models/</id>

@@ -74,7 +74,18 @@
       "title": "程序员的喵",
       "feedUrl": "https://catcoding.me/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://catcoding.me/p/new-journey/",
+          "author": null,
+          "description": "<p>因为家庭原因，我决定回到深圳常住。2023 元旦前夕，我陆续把东西寄回深圳，元旦后我在晨曦中登上了往南的列车。我那时候还没确定会离职，但目前找到了合适的工作，所以就于四月份从微软离职了。</p>\n<p>在苏州微软工作的两年，我遇到了很好的团队和同事，真的要离开了也有些不舍得",
+          "link": "http://catcoding.me/p/new-journey/",
+          "publishedOn": "2023-05-11T22:40:54.000Z",
+          "wordCount": 292,
+          "title": "新的旅程",
+          "imageUrl": " http://catcoding.me/css/images/logo.png "
+        }
+      ]
     },
     {
       "title": "physixfan",

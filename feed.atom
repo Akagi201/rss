@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-05-19T00:05:31.418Z</updated>
+    <updated>2023-05-20T00:05:18.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 255 期）：对待 AI 的正确态度]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html"/>
+        <updated>2023-05-19T00:12:46.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+武汉光谷空轨4月26日试运行，总长10.5km，这是国内首列商用的悬挂式轨道列车。虽然知道不会掉下来，看着还是觉得有点惊险。（via） 
+本周话题：对待 AI 的正确态度
+这些天，总有人问我，对于"前端已死"这个话题怎么看。
+
+我的第一反应是，前端没死啊，很多企业还在招聘呢。
+后来了解了，他们的意思是，前端正在降温，变得萧条，具体表现是技术发展放慢，没有大的热点，业务重要性下降，就业机会减少。
+更让人担心的是，AI 已经能够直接生成页面了，将来会不会替代前端程序员？
+
+我的看法没有这么悲观。现在的情况确实不好，但等过了低谷期，经济恢复了，前端程序员的需求就会上升。
+至于 AI 会不会杀死前端，这个就说不准了，完全取决于 AI 的发展，尽管我是不太相信 AI 能做出复杂页面。
+今天，我就想谈谈，作为程序员怎么面对不确定的未来。 AI 是不确定的，发展完全不受我们的控制。它使得程序员的职业和未来都变得不确定，这种情况下，我们怎么办？
+我正好看到一篇印度程序员的文章，他也在思考这个问题，就决定亲自测试一下，AI 发展到了什么程度。
+他让 ChatGPT 写一个他想要的程序，结果整整花了三个周末不断调整，才勉强写出来，代码可以运行了。
+下面就是他对 AI 的评价。
+"有时我对 ChatGPT 的理解能力感到惊讶，但是更多时候，我不得不拼命推动它，朝着我想要的方向前进。它有时会产生意料之外的结果，让我感到非常沮丧。"
+"它像一个吸收了所有人类知识、但需要别人帮忙才能把这些知识串起来的应届毕业生。"
+"看来我今年的工作是安全的。但是，我需要好好学习 ChatGPT，精通它的使用，让我明年也是安全的。"
+我非…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 254 期）：人生是一个长板问题]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html</id>

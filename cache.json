@@ -12,6 +12,16 @@
       "siteUrl": "https://www.bmpi.dev/",
       "articles": [
         {
+          "id": "https://www.bmpi.dev/dev/chatgpt-development-notes/pair-programming/",
+          "author": null,
+          "description": "本文分享了笔者与 ChatGPT 结对编程的体验并分享一些 Prompt Engineering 的重要技巧。",
+          "link": "https://www.bmpi.dev/dev/chatgpt-development-notes/pair-programming/",
+          "publishedOn": "2023-05-21T00:00:00.000Z",
+          "wordCount": 1075,
+          "title": "我与ChatGPT结对编程的体验",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.bmpi.dev/dev/deep-learning/nlp-language-models/",
           "author": null,
           "description": "ChatGPT的火爆出圈，让大家对NLP语言模型的发展历程产生了浓厚的兴趣。本文将从深度学习在NLP领域的发展历程，到大语言模型的发展历程，再到大语言模型的未来展望，带你一起了解NLP语言模型的发展历史。",

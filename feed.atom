@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-05-23T00:05:51.267Z</updated>
+    <updated>2023-05-24T00:05:26.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[学习英语的新工具]]></title>
+        <id>http://catcoding.me/p/new_english_tools/</id>
+        <link href="http://catcoding.me/p/new_english_tools/"/>
+        <updated>2023-05-23T11:10:08.000Z</updated>
+        <summary type="html"><![CDATA[<p>我之前写过文章强调英语的重要性，这些年我也一直还在注重英语的提高。虽然我在外企工作了两年多，但其实日常表达中使用英语口语的时间不多，所以口语提升有限。</p>
+<p>最近我发现了些新的学习英语的好工具，顺便分享一下自己的一些心得。</p>
+<h2 id="Discord-英]]></summary>
+        <author>
+            <name>程序员的喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我与ChatGPT结对编程的体验]]></title>
         <id>https://www.bmpi.dev/dev/chatgpt-development-notes/pair-programming/</id>

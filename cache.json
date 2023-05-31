@@ -86,6 +86,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "http://catcoding.me/p/upgrade-my-dev-tools/",
+          "author": null,
+          "description": "<p>因为开始了全职的远程办公，所以我想把自己的 <code>localhost</code> 打造得舒适一些，最近一直在断断续续升级工作相关的设备，对于整天生活在屏幕前的数字宅来说这犹如买新房和装修吧。</p>\n<p>我对设备的要求并不是很高，但年级大了多少有点职业病，所以我打",
+          "link": "http://catcoding.me/p/upgrade-my-dev-tools/",
+          "publishedOn": "2023-05-30T23:17:08.000Z",
+          "wordCount": 531,
+          "title": "升级我的 localhost",
+          "imageUrl": " http://catcoding.me/css/images/logo.png "
+        },
+        {
           "id": "http://catcoding.me/p/new_english_tools/",
           "author": null,
           "description": "<p>我之前写过文章强调英语的重要性，这些年我也一直还在注重英语的提高。虽然我在外企工作了两年多，但其实日常表达中使用英语口语的时间不多，所以口语提升有限。</p>\n<p>最近我发现了些新的学习英语的好工具，顺便分享一下自己的一些心得。</p>\n<h2 id=\"Discord-英",

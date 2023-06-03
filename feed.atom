@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-06-02T00:05:42.650Z</updated>
+    <updated>2023-06-03T00:05:35.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html"/>
+        <updated>2023-06-01T23:58:21.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+河南省驻马店市赶在大雨之前，连夜抢收小麦，100架无人机提供夜间照明。这种无人机带着电线升空，通过地面车辆供电，可以连续照明10小时。（via）
+黄仁勋的 Nvidia 故事
+黄仁勋大概是硅谷最有影响力的华人。
+
+1993年，他跟两个朋友一起创办了芯片设计公司 Nvidia（中文名"英伟达"）。当时是小公司，可现在是美国第五大科技公司（仅次于苹果、微软、谷歌和亚马逊）。
+十年前，如果你买了 Nvidia 的股票，现在都要笑死了，因为它上涨了105倍！最近十年美国涨幅第一名的股票就是它。
+
+上周，黄仁勋突然出现在台湾，被拍到在饶河街夜市买小吃。
+
+后来大家才知道，他要参加5月27日的台大毕业典礼，他是今年的演讲嘉宾。
+
+我推荐这个演讲，网上有全文。原文是英语，已经译成中文。
+他只讲了20分钟，但是解开了我心中一直的疑问：Nvidia 是怎么发家的。下面就是我根据这个演讲，整理出来的 Nvidia 的故事。
+黄仁勋说，为什么要创立 Nvidia？因为我们看好加速计算。
+人类对计算速度的要求一定会越来越高，CPU 只能做通用计算，加速计算需要定制的专用硬件，所以我们的创业目标就是加速计算的硬件。
+市场需求量最大的加速计算硬件，就是游戏的图形芯片（GPU），所以我们选择游戏显卡作为创业产品。我们只做芯片设计，生产全部外包。
+1994年，我们的第一个客户是日本游戏公司 SEGA，我们为它的游戏主机设计显卡。
+
+（图片说明：Nvidia 的第一个产品，SEGA 游戏机的 NV1 显卡。）
+但是第二年，微软发布了 Windows 平台的图形接口 Direct3D。我们一下子就慌了，因为它跟我们的设计是冲突的。…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[升级我的 localhost]]></title>
         <id>http://catcoding.me/p/upgrade-my-dev-tools/</id>

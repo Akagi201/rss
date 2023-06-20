@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-06-19T00:06:23.016Z</updated>
+    <updated>2023-06-20T00:04:59.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
@@ -170,16 +170,6 @@ OpenAI 要求验证手机号，国内的手机都通不过。也就是说，它�
 <h2 id="Discord-英]]></summary>
         <author>
             <name>程序员的喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我与ChatGPT结对编程的体验]]></title>
-        <id>https://www.bmpi.dev/dev/chatgpt-development-notes/pair-programming/</id>
-        <link href="https://www.bmpi.dev/dev/chatgpt-development-notes/pair-programming/"/>
-        <updated>2023-05-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本文分享了笔者与 ChatGPT 结对编程的体验并分享一些 Prompt Engineering 的重要技巧。]]></summary>
-        <author>
-            <name>BMPI</name>
         </author>
     </entry>
     <entry>

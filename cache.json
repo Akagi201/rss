@@ -53,18 +53,7 @@
       "title": "程序员的喵",
       "feedUrl": "https://catcoding.me/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "http://catcoding.me/p/upgrade-my-dev-tools/",
-          "author": null,
-          "description": "<p>因为开始了全职的远程办公，所以我想把自己的 <code>localhost</code> 打造得舒适一些，最近一直在断断续续升级工作相关的设备，对于整天生活在屏幕前的数字宅来说这犹如买新房和装修吧。</p>\n<p>我对设备的要求并不是很高，但年级大了多少有点职业病，所以我打",
-          "link": "http://catcoding.me/p/upgrade-my-dev-tools/",
-          "publishedOn": "2023-05-30T23:17:08.000Z",
-          "wordCount": 531,
-          "title": "升级我的 localhost",
-          "imageUrl": " http://catcoding.me/css/images/logo.png "
-        }
-      ]
+      "articles": []
     },
     {
       "title": "physixfan",

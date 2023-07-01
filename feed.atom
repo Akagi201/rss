@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-06-30T00:06:11.914Z</updated>
+    <updated>2023-07-01T00:07:10.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html"/>
+        <updated>2023-06-30T00:07:50.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+6月18日，桂林市阳朔县遇龙河上，一条由55张竹筏组成的550米金色"巨龙"庆祝端午节巡游。（via）
+你的旅程不会停在 Day 1
+我最近读到一篇文章，关于一张海报。
+一个国外程序员说，他工作的上一家公司，到处贴着海报，鼓舞员工。
+
+他没有点名，但是大家都知道，业内最喜欢贴海报的公司是 Facebook。
+他说，有一张海报尤其让他恼火，写着一行字。
+"这个旅程完成了1%。"
+
+你每天去上班，那个海报永远写着1%，仿佛刻在石头上一样。
+这怎么可能呢！我一直勤奋工作，每天加班，周末有时也来公司，完成一个又一个迭代，怎么会没有一点进展，至少也可以变成2%啊。
+
+公司一直贴着这个海报，让人感觉，公司希望员工变成一头驴子，不停追逐挂在眼前的胡萝卜。无论怎么追赶，离目标总是靠近不了，总是只走了百分之一。
+无独有偶，业内还有另一家大公司，也在宣传一模一样的企业文化，那就是亚马逊。
+亚马逊的老板贝佐斯有一句名言："亚马逊永远在互联网的 Day 1（第一天）"。
+为什么是 Day 1 呢？因为第一天是一切的开始，大家抱有美好的憧憬，干劲十足，充满了期望。
+贝佐斯说："第二天是停滞期，开始出现跟目标不相关的事情，然后就是痛苦的衰退，最后就是死亡。我们要始终保持'第一天'的心态，避免产生第二天的公司文化。"
+
+为了弘扬 Day 1 的企业文化，亚马逊世界各地的办公室都有一堵墙，醒目地写着 Day 1。
+它的办公大楼甚至都命名为 Day 1 大楼，贝佐斯本人就在里面办公。
+
+回到前面的那篇文章，那个程序员就在思考，为什么互联网大厂都喜欢强调，每天都是起点？ 难道就是为了警示员工保持干劲，不得懈怠吗？
+他最终得到了下面…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html</id>

@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-07-07T00:06:50.255Z</updated>
+    <updated>2023-07-08T00:06:30.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 261 期）：黑客马拉松的正确方式]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html"/>
+        <updated>2023-07-07T00:04:23.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+宁波慈溪市的果农，在夜间为火龙果人工授粉。火龙果的花在日落后开放，次日清晨闭合。（via）
+黑客马拉松的正确方式
+你参加过黑客马拉松（hackathon）吗？
+那是一种编程比赛，程序员聚集到一个地点（通常是会议室），在指定时间完成各自的项目，然后评出获胜者。
+
+我知道的"黑客马拉松"都非常紧张，必须在48小时甚至24小时内拿出作品，晚上往往没时间睡觉，要熬通宵。
+下面是我在网上找到的一份比赛办法，很具有普遍性。
+团队规模：参赛队伍的最高人数限制为 5 人。
+演示原型：参赛者必须演示原型，可以考虑搭配幻灯片或视频。
+比赛方式：现场决赛的队伍或个人在同一场地的规定时间内，完成并提交组委会发放的同一考题。
+但是，我最近看到了国外的一份黑客马拉松举办通知，才意识到其实还有另一种方式，而且那才是正确的比赛方式。
+
+这个比赛叫做"NixOS 海洋编程冲刺 2023"（NixOS Ocean Sprint 2023），看谁能找出 NixOS 这个操作系统的漏洞。
+比赛时间是今年10月份，任何人都可以报名，组委会挑选出20人参赛。
+它的不同之处在于比赛地点：加那利群岛！
+
+那是西班牙著名的旅游胜地，大西洋的热带岛屿，景色优美，每年吸引几百万的全世界游客。
+组委会借了一个泳池大别墅，大家晚上住旅馆，白天就到别墅来比赛。
+
+编程累了，就去泳池游泳。到了饭点，所有人就聚在一起吃饭聊天。
+
+
+清晨和夜晚，你还可以去海滩运动。等到比赛结束，再游览一下加那利群岛。
+我顿时觉得，这才是黑客马拉松的正确方式，以前那种集训式的比赛方式太无趣了，太看重竞技和名次，忽视了交流和乐趣。
+黑客马拉松的结果，其实不重要，几十个小时的命题作…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html</id>

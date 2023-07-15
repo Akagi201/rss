@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-07-14T00:06:37.288Z</updated>
+    <updated>2023-07-15T00:06:19.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 262 期）：告别密码]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html"/>
+        <updated>2023-07-14T00:03:10.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+你以为这是一群羊在草原上吃草。错了，这是智利阿塔卡马沙漠的阵列望远镜，一共66台天线，大部分直径12米，高度15米。（via）
+告别密码
+上网体验最差的环节，肯定是密码。
+
+互联网发展了20多年，所有环节都巨大改善，只有密码除外，还是20年前的用法。
+更准确的说，它的用户体验比20年前更差了。密码的强度要求现在越来越高，一般不能少于8个字符，还要包括特殊符号。另外，除了密码，通常还有其他验证（短信、图片识别、OTP 时间码等等）。
+
+最让人无语的是，即使变得如此麻烦，依然不能杜绝密码被盗、被破解、被钓鱼的风险。
+多年来，业界一直努力，试图解决密码问题。近两年终于有了突破，各大公司达成一致，设计出了一套密码的替代方案：密钥登陆，英文叫做 Passkey。
+
+Passkey 这个方案可以做到，登录不需要密码，解决了上面提到的所有问题，而且用户很容易上手，主要厂商已经全部支持。
+2022年 WWDC 大会，苹果宣布支持 Passkey。
+
+2023年5月，谷歌和微软同时宣布，全面接入 Passkey。
+
+
+今天，我就简单讲讲，Passkey 到底怎么回事。
+其实，手机 App 早就做到了"无密码登录"，按一下指纹，或者人脸识别，就可以登录，完全不需要密码。
+
+于是，很早就有人想到了，可以设计一套通用机制，让网站也去调用手机上面的硬件识别，从而彻底告别密码。这就是 Passkey 的由来。
+具体来说，Passkey 之所以不要密码，因为采用了密钥登录。网站不再保存用户密码，而是保存用户的公钥。登录时，用户必须用自己的私钥，解开公钥加密的随机数，从而确认身份。
+这也意味着，用户要自己保存私钥。这是很麻烦的…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 261 期）：黑客马拉松的正确方式]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html</id>

@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-07-21T00:05:46.670Z</updated>
+    <updated>2023-07-22T00:05:47.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 263 期）：开源软件如何赚钱？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html"/>
+        <updated>2023-07-21T00:01:19.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+秘鲁首都利马是一个神奇的城市，建在面向太平洋的悬崖之上。要去海滩，还要下山。（via）
+开源软件如何赚钱？
+众所周知，开源软件很难赚钱，尤其是 GPL 许可证的代码。
+
+GPL 规定，必须向使用者提供源码，并且使用者有权重新发布源码。
+这就是说，别人可以免费分发你的软件，所以你无法靠出售软件获利。
+
+既然卖不了软件，那么能不能卖服务呢，出售代码的支持、定制、咨询服务？
+我一直认为是可以的。证据就是有一家软件公司，依靠软件支持服务，赚到了大钱，还上市了。
+这家公司就是红帽公司，它出售 Linux 企业级支持和咨询服务，1999年成功上市，2019年被 IBM 以340亿美元的高价收购。
+
+但是，这个成功故事在上个月嘎然而止。突然之间，所有人惊觉，软件客服的商业模式再也行不通了。
+下面我就来说说，到底发生了什么事。
+红帽的主要产品，就是它自己的 Linux 发行版，叫做 RHEL（Red Hat Enterprise Linux 的缩写）。它卖的是这个发行版的支持服务。
+
+根据 GPL 许可证，它必须免费提供源码，所以市场上有很多它的克隆版。那些不愿意买红帽服务的公司，就用克隆版，很多互联网大厂都这样做。
+以前，最流行的红帽克隆版是 CentOS。它甚至比红帽本身的使用量都要大。
+
+自从红帽被 IBM 收购以后，就觉得克隆版对生意的冲击太大了。它就收购了 CentOS，并在两年前把它停掉，改成自家的测试版，起名为 CentOS Stream，等于让社区帮它找 Bug。
+这件事让很多人不爽，但是红帽的源码是公开的，一个克隆版没了，那就再推其他克隆版。现在最流行的克隆版有两个：Alma Linux 和 …]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 262 期）：告别密码]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html</id>

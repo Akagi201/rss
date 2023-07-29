@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-07-28T00:05:44.700Z</updated>
+    <updated>2023-07-29T00:05:34.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 264 期）：Elasticsearch 的启示]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html"/>
+        <updated>2023-07-28T00:04:01.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+上海市宝山区在长江入海口，建了一个"长滩观光塔"，直径25.7米，高180米。特别之处在于，这个塔其实是长江隧道的排风塔，只不过在外部安装了玻璃幕墙，增加了观光、餐厅等功能。（via）
+Elasticsearch 的启示
+上月的"红帽事件"，说明开源软件的"客服模式"行不通，我在上一期已经写了自己的看法。
+那么，开源软件如何赚钱呢？既不能卖软件，又不能卖支持服务，该怎么办呢？
+我一直思考这个问题，觉得行业的发展、个人的前途，都跟它有关系。
+
+我现在的看法是，只剩下一种模式是可行的，开源软件只有这样才能商业化，那就是 Elasticsearch 的模式。
+
+Elasticsearch 是著名的搜索软件，市场份额非常大，很多大型网站的背后都是它。
+2004年，以色列程序员谢伊·巴农（Shay Banon）为了方便妻子查找菜谱，写了一个简单的搜索工具，这就是 Elasticsearch 的由来。
+
+一开始，Elasticsearch 采用最宽松的 Apache 许可证，几乎没有任何限制，你怎么用都可以。
+后来，谢伊·巴农拿了风投，成立了公司，雇了程序员，就必须有收入，否则公司就要裁员关门。
+他想到的办法，就是提供云服务。你不必自己搭建搜索了，我搭建好了，你买了就能用。这样你比较省心，我也有收入了。
+
+但是，他万万没有想到，这种模式也行不通。原因是开源软件不是独占性的，如果你的软件太成功，其他人也可以提供服务，而且卖得更便宜，最终把你打败，拿到更大的市场份额。
+Elasticsearch 倒霉的地方在于，遇到的竞争对手是亚马逊，世界第一的云服务商。
+亚马逊不花一分钱，拿到 Elasticsearch 的…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 263 期）：开源软件如何赚钱？]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html</id>

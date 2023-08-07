@@ -63,7 +63,18 @@
       "title": "程序员的喵",
       "feedUrl": "https://catcoding.me/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://catcoding.me/p/remote-work/",
+          "author": null,
+          "description": "<p>我断断续续也有好几年的远程办公经历了，从疫情刚开始那会儿，我还在大疆工作，在家办公一个来月。2020 年下半年开始在微软，因为疫情那两年一直反反复复的，所以公司长期都是混合式办公，我通常每周会在家待两天，到了 2022 年大部分时间都是在家办公。目前在秘猿则是完全远程办公，",
+          "link": "http://catcoding.me/p/remote-work/",
+          "publishedOn": "2023-08-06T11:15:47.000Z",
+          "wordCount": 334,
+          "title": "远程办公的体验",
+          "imageUrl": " http://catcoding.me/css/images/logo.png "
+        }
+      ]
     },
     {
       "title": "physixfan",

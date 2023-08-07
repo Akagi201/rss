@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-08-06T00:06:17.399Z</updated>
+    <updated>2023-08-07T00:06:19.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[远程办公的体验]]></title>
+        <id>http://catcoding.me/p/remote-work/</id>
+        <link href="http://catcoding.me/p/remote-work/"/>
+        <updated>2023-08-06T11:15:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>我断断续续也有好几年的远程办公经历了，从疫情刚开始那会儿，我还在大疆工作，在家办公一个来月。2020 年下半年开始在微软，因为疫情那两年一直反反复复的，所以公司长期都是混合式办公，我通常每周会在家待两天，到了 2022 年大部分时间都是在家办公。目前在秘猿则是完全远程办公，]]></summary>
+        <author>
+            <name>程序员的喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html</id>

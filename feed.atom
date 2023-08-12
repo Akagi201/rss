@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-08-11T00:05:21.496Z</updated>
+    <updated>2023-08-12T00:05:22.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html"/>
+        <updated>2023-08-11T00:11:57.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+四川省德阳市使用锈钢板，搭建了一个名为"齿轮花园"的小园林。每个模块都做成正六边形，象征一个齿轮，比喻德阳这个老工业城市的绿色转型。（via）
+自己做双语 EPUB 电子书
+周刊的《工具》部分，每周都有一些很有用的软件，有些对我的帮助也很大。
+《周刊（第254期）》有一个作者自荐的"沉浸式翻译"，就特别有用。
+
+它是一个浏览器插件，主要功能是网页翻译，还可以指定翻译引擎。
+
+但是，对于我最有用的是另一个功能----制作双语 EPUB 电子书。今天就说说这个功能。
+
+很多我想看的国外图书资料，都没有中文版。如果去啃英文原版，就会读得很慢。这时，我们不妨自己动手，生成一个机器翻译版。先读机器译文，如果不顺，再读原文。
+举例来说，上个月美国出版了约翰·罗梅洛（John Romero）的自传《DOOM Guy》。
+
+他是经典电子游戏《DOOM》（毁灭战士）的创造者之一。我自从读了《DOOM 启示录》，就对这个人很感兴趣。
+但是，此书没有中文版。我就用"沉浸式翻译"，自己做了一本双语对照的 EPUB 电子书。
+
+制作过程非常简单，导入原始 EPUB 文件，启用页面翻译，然后导出就可以了，只花费几分钟。
+
+市面上其他电子书翻译软件，都不如它简单好用，而且它还是免费的。
+我已经用它读了好几本原版书，觉得效果不错，很符合我的需要。
+不过，它要求原始电子书必须是 EPUB 格式。如果你的资料不是这个格式，可以先用 Calibre 转成 EPUB。
+
+其他格式的文档（HTML、TXT、Markdown 等等），可以通过 Calibre 左上角的"Add books"按钮导入，然后按下"Convert books"按…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《TypeScript 教程》发布了]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html</id>

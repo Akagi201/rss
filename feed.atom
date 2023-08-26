@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-08-25T00:05:19.154Z</updated>
+    <updated>2023-08-26T00:05:10.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html"/>
+        <updated>2023-08-25T00:06:22.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+甘肃瓜州的戈壁滩上，有一座头像雕塑《汉武大帝》。两千多年前，汉武帝曾经派遣军队，在此处战胜过匈奴。这个头像高达12.5米，采用红砂岩材质，通过 3D 雕刻逐块拼装而成。（via）
+生产力是形容机器，不是形容人
+程序员创业以后，还喜欢写书，真是绝无仅有。我只知道一个例子。
+贾森·弗里德（Jason Fried）和戴维·汉森（David Heinemeier Hansson），是互联网公司 37signals 的主要创始人。他们除了写程序，就喜欢写书。
+
+他们已经写了四本书，都很出名，全部有中文版。
+《实干》（Getting Real），2006
+《重来》（Rework），2010
+《远程》（Remote），2013
+《何必工作狂》（It Doesn't Have to Be Crazy at Work），2018
+
+这四本书，我全部看过，都是小册子，收录了很多短文，解释他们的创业思想。
+这些文章的主旨，简单说就是一句话：如何创办一家"小而美"的互联网公司。
+他们只有几十个人，没有拿过一分钱风险投资，但是活得非常好，每年有几千万美元的收入。他们的书就是解释他们的创业哲学。
+我最近读完了他们的第四本书，正式的中文书名叫作《重来3：跳出疯狂的忙碌》（电子工业出版社，2020），英文书名为"It Doesn't Have to Be Crazy at Work"（直译就是《何必工作狂》）。
+
+其中，有一篇文章特别发人深思，提出了一个我从未意识到的观点，今天想分享给大家。
+文章说，不要用"生产力"这个词评价程序员，因为它是评价机器的。
+
+"生产力"这个词，英文为 productive，它的高低用产品的多少来…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 267 期）：5G 的春天要来了]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html</id>

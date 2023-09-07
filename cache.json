@@ -56,16 +56,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html",
-          "author": null,
-          "description": "长话短说，我写了一本《TypeScript 教程》，已经发布在网道，欢迎大家访问。\n\n我以前写过《JavaScript 教程》和《ES6 教程》，很自然地，一直有人问，有没有《TypeScript 教程》？\n嗯......说实话，我一开始不想写。\n\n我那时的想法是，TypeScript 就是为 JS 语言添加静态类型系统。如果你真需要静态类型，可以考虑使用其他更成熟的语言（比如 Rust 和 Java），再编译成 JS（wasm 模块），何必新学一门语言呢。\n但是，形势比人强。TypeScript 越来越流行，成为前端开发的主流工具，各种项目纷纷移植过去。我就逐渐改变了想法，觉得还是应该上车。\n\n2021年底，我开始动笔，没想到一写，就是断断续续一年多。\n写作过程很痛苦，我低估了 TypeScript 的难度。它为了适配 JavaScript，有很多不符合直觉的规则，内容又多又杂。\n加之我对很多地方不够熟悉，边写边查资料，更加拖延了写作进度。\n今年3月份，我已经快写完了，TypeScript 5.0 突然发布了，装饰器（Decorators）改用全新语法。我不得不重写这一章，于是装饰器现在就有新语法和旧语法两章，因为 TypeScript 同时支持这两者。\n\n如今终于完稿，如释重负，欢迎大家多提供反馈。\n这个教程采用创意共享许可证，免费使用，但需要保留署名，也就是保留出处。源码放在 GitHub，大家发现任何问题，欢迎提交 Issue 和 PR。\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2023年8月 8日",
-          "link": "http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html",
-          "publishedOn": "2023-08-08T02:54:29.000Z",
-          "wordCount": null,
-          "title": "《TypeScript 教程》发布了",
-          "imageUrl": null
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-09-11T00:05:53.143Z</updated>
+    <updated>2023-09-12T00:05:43.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
@@ -138,16 +138,6 @@ Scrum 开发
 （5）推动 5G 的发展。5G 网络自从推出，一直不温不火，没有杀手级应用，体…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成功申请 Rust Foundation 2023 Fellows]]></title>
-        <id>http://catcoding.me/p/rust-foundation-fellows/</id>
-        <link href="http://catcoding.me/p/rust-foundation-fellows/"/>
-        <updated>2023-08-12T23:00:13.000Z</updated>
-        <summary type="html"><![CDATA[<p>很高兴成功申请到 <a href="https://foundation.rust-lang.org/news/announcing-the-rust-foundation-s-2023-fellows/">Rust Foundation 2023 Fellows</a>，]]></summary>
-        <author>
-            <name>程序员的喵</name>
         </author>
     </entry>
     <entry>

@@ -63,18 +63,7 @@
       "title": "程序员的喵",
       "feedUrl": "https://catcoding.me/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "http://catcoding.me/p/rust-foundation-fellows/",
-          "author": null,
-          "description": "<p>很高兴成功申请到 <a href=\"https://foundation.rust-lang.org/news/announcing-the-rust-foundation-s-2023-fellows/\">Rust Foundation 2023 Fellows</a>，",
-          "link": "http://catcoding.me/p/rust-foundation-fellows/",
-          "publishedOn": "2023-08-12T23:00:13.000Z",
-          "wordCount": 347,
-          "title": "成功申请 Rust Foundation 2023 Fellows",
-          "imageUrl": " http://catcoding.me/css/images/logo.png "
-        }
-      ]
+      "articles": []
     },
     {
       "title": "physixfan",

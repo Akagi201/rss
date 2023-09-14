@@ -63,7 +63,18 @@
       "title": "程序员的喵",
       "feedUrl": "https://catcoding.me/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://catcoding.me/p/out-of-the-gobi/",
+          "author": null,
+          "description": "<p>最近读了单伟建的《走出戈壁》，作者是个著名的金融家、投资人。我对这位作者不熟悉，但看完后觉得非常好，所以推荐给大家。</p>\n<p>这本书记录了作者从小时候的经历、年轻时候的知青生活、美国求学的回忆，算是一部回忆录。原版是英文写作的《Out of the Gobi: My",
+          "link": "http://catcoding.me/p/out-of-the-gobi/",
+          "publishedOn": "2023-09-13T23:55:58.000Z",
+          "wordCount": 290,
+          "title": "读《走出戈壁》",
+          "imageUrl": " http://catcoding.me/css/images/logo.png "
+        }
+      ]
     },
     {
       "title": "physixfan",

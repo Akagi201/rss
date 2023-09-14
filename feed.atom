@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-09-13T00:05:47.560Z</updated>
+    <updated>2023-09-14T00:05:54.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[读《走出戈壁》]]></title>
+        <id>http://catcoding.me/p/out-of-the-gobi/</id>
+        <link href="http://catcoding.me/p/out-of-the-gobi/"/>
+        <updated>2023-09-13T23:55:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>最近读了单伟建的《走出戈壁》，作者是个著名的金融家、投资人。我对这位作者不熟悉，但看完后觉得非常好，所以推荐给大家。</p>
+<p>这本书记录了作者从小时候的经历、年轻时候的知青生活、美国求学的回忆，算是一部回忆录。原版是英文写作的《Out of the Gobi: My]]></summary>
+        <author>
+            <name>程序员的喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 270 期）："精益开发"的精益是什么？]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html</id>

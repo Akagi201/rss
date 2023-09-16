@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-09-15T00:05:48.000Z</updated>
+    <updated>2023-09-16T00:05:35.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 271 期）：非线性的世界，线性的你]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html"/>
+        <updated>2023-09-15T00:04:11.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+五菱汽车有一款概念车型，将"宏光 mini EV"改成了六轮的小货车，配备一个非常迷你的车斗。虽然不一定实用，但是看上去相当可爱，可惜只有样车，不确实是否投产。（via）
+非线性的世界，线性的你
+纳瓦尔（Naval Ravikant）是一位美国风险投资家，写过一组系列文章《如何致富》（How to get rich），非常出名。
+
+他的文章后来结集出版，成了畅销书。国内引进了，中文书名叫做《纳瓦尔宝典：财富与幸福指南》，在豆瓣被列为"2022年度商业经管图书第一名"。
+
+周刊摘录过他的很多言论，很有启发。我把它们放在一起，大家再看看。
+既懂得制造，又懂得销售，你就是无敌的。(第 94 期)
+小心，尝到自由的滋味，可能会让你失业。（第 105 期）
+致富关键是找到"个人-市场-产品"这三者交叉的那个点。（第 107 期）
+做你喜欢的事，直到你喜欢去做。（第 184 期）
+如果你有原创性，就可以避开竞争。基本上，如果你与别人发生竞争，那是因为你们在做同样的事情。（第 258 期）
+今天我想分享，他去年的一个访谈，与美国最红的播客主持人 Joe Rogan 对谈。
+
+他说了一段话，发人深思。
+"新人企业家的常见错误，就是认为结果是可预测的。如果我长期努力工作，就应该会得到某种成果。"
+"实际上，你的成果是不可预测的。你工作多么努力并不重要，重要的是你在做什么、与谁一起工作、以及在哪里工作。 "
+他的意思是，很多人有一个思维误区：他们认为"努力"与"成果"是正比例关系，工作越努力，越可能获得好成果。
+实际上根本不是这样，努力与成果之间，没有必然关系。
+"你每天都会看到，那些赚最多钱的人，工作时间根本不长…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[读《走出戈壁》]]></title>
         <id>http://catcoding.me/p/out-of-the-gobi/</id>

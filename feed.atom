@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-09-19T00:05:52.768Z</updated>
+    <updated>2023-09-20T00:05:48.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Andriod 使用 Obsidian 的客户端]]></title>
+        <id>http://catcoding.me/p/obsidian-andriod-client-sync-git/</id>
+        <link href="http://catcoding.me/p/obsidian-andriod-client-sync-git/"/>
+        <updated>2023-09-19T09:16:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>上周末试着在 Andriod 上配置好了 Obsidian 的客户端，没想到还挺好用。<sub>如果你已经买了 Obsidian 的 sync 服务，并且一切用起来都挺好的，那就不用看我这篇介绍了。</sub></p>
+<p>我折腾这个的主要的需求是使用私有仓库的 Git]]></summary>
+        <author>
+            <name>程序员的喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 271 期）：非线性的世界，线性的你]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html</id>

@@ -65,6 +65,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "http://catcoding.me/p/obsidian-andriod-client-sync-git/",
+          "author": null,
+          "description": "<p>上周末试着在 Andriod 上配置好了 Obsidian 的客户端，没想到还挺好用。<sub>如果你已经买了 Obsidian 的 sync 服务，并且一切用起来都挺好的，那就不用看我这篇介绍了。</sub></p>\n<p>我折腾这个的主要的需求是使用私有仓库的 Git",
+          "link": "http://catcoding.me/p/obsidian-andriod-client-sync-git/",
+          "publishedOn": "2023-09-19T09:16:22.000Z",
+          "wordCount": 459,
+          "title": "Andriod 使用 Obsidian 的客户端",
+          "imageUrl": " http://catcoding.me/css/images/logo.png "
+        },
+        {
           "id": "http://catcoding.me/p/out-of-the-gobi/",
           "author": null,
           "description": "<p>最近读了单伟建的《走出戈壁》，作者是个著名的金融家、投资人。我对这位作者不熟悉，但看完后觉得非常好，所以推荐给大家。</p>\n<p>这本书记录了作者从小时候的经历、年轻时候的知青生活、美国求学的回忆，算是一部回忆录。原版是英文写作的《Out of the Gobi: My",

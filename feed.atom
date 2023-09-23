@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-09-22T00:05:47.724Z</updated>
+    <updated>2023-09-23T00:05:30.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html"/>
+        <updated>2023-09-22T00:07:00.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。（[通知] 十一假期，周刊休息，节后再见。）
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+哥伦比亚最著名的艺术家费尔南多·博特罗 （Fernando Botero）本月去世，享年91岁。他喜欢创作胖乎乎的、有滑稽感的人物和动物，上图是他的雕塑《猫》。2016年，他来中国开作品展，我还去看了。（via）
+Unity 的安装费，游戏业的缩影
+Unity 是一个顶级的游戏引擎，很多著名的手机游戏和网页游戏都用它开发，比如《王者荣耀》和《原神》。
+
+它的官网这样说："排名前1000名的手机游戏开发商，70%选择了 Unity"。
+
+它按月收费，只要游戏的年收入超过20万美元，就要向它付费，游戏收入越高，费用越多。
+9月12日，它突然宣布，改变收费政策。从明年元旦开始，除了原有费用，还增加了一笔安装费。
+
+游戏年收入超过20万美元，并且用户安装超过20万次以后，每次新的安装都要向 Unity 付费0.20美元。
+简单计算一下，这会让游戏公司增加多少支出。如果一个游戏每年有100万次下载，那么扣除前20万次，剩下的要向 Unity 支付16万美元的安装费。要是游戏年收入为30万美元，就等于超过一半的收入没了。
+这项费用对于小型游戏公司，打击尤其严重。因为它们往往采用免费游戏和云游戏模式，依靠广告为生。根据一项统计，游戏里面的每次广告展示，平均收入为0.02美元，如果想要覆盖0.2美元的安装费，就意味着，每一位玩家都必须多看至少10次广告。
+难怪 Unity 的收费公告一发布，开发者顿时群情激愤，纷纷谴责 Unity 太过份，杀鸡取卵，大家开始研究怎么从 Unity 迁移到其他引擎。
+
+我看到的评论里面，只有一篇文章为 Unity 说话（下图），认为它也…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Andriod 使用 Obsidian 的客户端]]></title>
         <id>http://catcoding.me/p/obsidian-andriod-client-sync-git/</id>

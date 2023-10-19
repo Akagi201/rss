@@ -43,18 +43,7 @@
       "title": "程序员的喵",
       "feedUrl": "https://catcoding.me/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "http://catcoding.me/p/obsidian-andriod-client-sync-git/",
-          "author": null,
-          "description": "<p>上周末试着在 Andriod 上配置好了 Obsidian 的客户端，没想到还挺好用。<sub>如果你已经买了 Obsidian 的 sync 服务，并且一切用起来都挺好的，那就不用看我这篇介绍了。</sub></p>\n<p>我折腾这个的主要的需求是使用私有仓库的 Git",
-          "link": "http://catcoding.me/p/obsidian-andriod-client-sync-git/",
-          "publishedOn": "2023-09-19T09:16:22.000Z",
-          "wordCount": 459,
-          "title": "Andriod 使用 Obsidian 的客户端",
-          "imageUrl": " http://catcoding.me/css/images/logo.png "
-        }
-      ]
+      "articles": []
     },
     {
       "title": "physixfan",

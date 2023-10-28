@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-10-27T00:05:51.172Z</updated>
+    <updated>2023-10-28T00:05:48.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 275 期）：彼得·蒂尔的实验]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html"/>
+        <updated>2023-10-27T00:05:35.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+令人意想不到，上图这栋看上去很时尚的建筑，竟然是印度的第三个南极考察站---- Bharathi 站，建于2012年。（via）
+彼得·蒂尔的实验
+彼得·蒂尔（Peter Thiel，1967-）是美国著名的风险投资家。
+
+他有两件事，非常有名。第一件，1998年参与创办 PayPal，四年后以15亿美元被收购，他获利5500万美元。
+第二件，他是 Facebook 的第一个投资人。2004年，Facebook 还没成立，他就给了扎克伯格50万美元。八年后，这笔投资价值20亿美元。
+他还出过一本畅销书，书名叫《从0到1》。这是2012年他的斯坦福大学创业课的讲义。
+
+今天不谈这些事情，我只想谈谈，他的一个离经叛道的实验，让我有极大的共鸣。
+这个实验就是验证，创业者到底要不要读（完）大学。
+彼得·蒂尔一直认为，很多有才华的年轻人，都被大学耽误了。 虽然他本人是斯坦福大学的文学学士和法学博士，但是他公开说，自己读完学位，只是因为不知道还能干什么。
+"我看到那些与我一样的年轻人，而感到内疚。
+你不知道自己的人生该做什么，所以你拿到了本科学位。你不知道本科学位可以做什么，所以你又拿到了研究生学位。
+我就是这样选择了法学院，那是一个人不知道还能做什么时的安全选择。我对自己的大学生活没有什么大遗憾，但如果重来一次，我会思考更多的选择。"
+他的言下之意就是，如果当年有人指点，告诉他怎么创业，他可能也会退学。
+
+2010年，他做了一个空前大胆的决定，成立"蒂尔奖学金"（Thiel Fellowship），每年资助20名左右的大学生，一人10万美元，条件是你必须退学创业。
+舆论一片哗然，指责他极其不负责任，进行错…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 274 期）：加密通信的最后一块拼图]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html</id>

@@ -10,7 +10,18 @@
       "title": "BMPI",
       "feedUrl": "https://www.bmpi.dev/index.xml",
       "siteUrl": "https://www.bmpi.dev/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.bmpi.dev/money/guide-to-open-sg-bank/",
+          "author": null,
+          "description": "本文分享我在海外银行证券开户薅羊毛及被割韭菜的故事。",
+          "link": "https://www.bmpi.dev/money/guide-to-open-sg-bank/",
+          "publishedOn": "2023-10-31T00:00:00.000Z",
+          "wordCount": 159,
+          "title": "海外银行证券开户薅羊毛小记",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "阮一峰的网络日志",

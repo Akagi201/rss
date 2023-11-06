@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-11-05T00:06:34.519Z</updated>
+    <updated>2023-11-06T00:06:10.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT的画图模型DALL·E 3效果真的挺不错]]></title>
+        <id>https://www.physixfan.com/?p=5089</id>
+        <link href="https://www.physixfan.com/chatgptdehuahuamoxingdall/"/>
+        <updated>2023-11-05T04:26:22.000Z</updated>
+        <summary type="html"><![CDATA[终于等到我的ChatGPT账号有画图功能了，今天来把玩了一番。之前我也玩过Midjourney，但是感觉效果差强人意。而ChatGPT的DALL·E 3最令我感到惊艳的地方在于，它可以根据各种自然语言指示来对先前做出来的图进行修改。
+来贴几张我画着玩的图，大家可以感受一下它的威力。
+
+我强调了一下两个物体的位置关系，它果然就画对了。（离谱，我截图的时候才发现手抖把 on top 打成了 in top 这居然也画对了。）
+
+如果画的不好，还不满足心中的设想，可以给它提各种要求去修改。
+
+它可以画出我脑中设想的、现实世界中从未出现过的样子。
+
+
+
+各种各样的修改意见都实现的挺好。
+
+
+对中文的支持居然也很不错。
+我个人感觉现在的AI画图水平，已经算是能提供生产力了，这个水平足矣应付很多要求不高的文章插图类的工作了。
+有一个段子说得好：我们过去想象人工智能是，我们写诗画画编音乐，AI烧饭洗碗修电脑；没想到，现在是AI写诗画画编音乐，我们自己烧饭洗碗修电脑。…
+The post ChatGPT的画图模型DALL·E 3效果真的挺不错 appeared first on physixfan.]]></summary>
+        <author>
+            <name>physixfan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 276 期）：内容行业的衰落]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html</id>

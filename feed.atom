@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-11-12T00:06:30.441Z</updated>
+    <updated>2023-11-13T00:06:06.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[全球经济中的隐形巨人]]></title>
+        <id>https://www.bmpi.dev/money/what-is-capital/</id>
+        <link href="https://www.bmpi.dev/money/what-is-capital/"/>
+        <updated>2023-11-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文探讨贝莱德（BlackRock）和先锋领航（Vanguard Group）作为全球资本管理巨头的力量和影响。]]></summary>
+        <author>
+            <name>BMPI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 277 期）：工作台副屏的最佳选择]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html</id>

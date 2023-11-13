@@ -12,6 +12,16 @@
       "siteUrl": "https://www.bmpi.dev/",
       "articles": [
         {
+          "id": "https://www.bmpi.dev/money/what-is-capital/",
+          "author": null,
+          "description": "本文探讨贝莱德（BlackRock）和先锋领航（Vanguard Group）作为全球资本管理巨头的力量和影响。",
+          "link": "https://www.bmpi.dev/money/what-is-capital/",
+          "publishedOn": "2023-11-12T00:00:00.000Z",
+          "wordCount": 255,
+          "title": "全球经济中的隐形巨人",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.bmpi.dev/money/guide-to-open-sg-bank/",
           "author": null,
           "description": "本文分享我在海外银行证券开户薅羊毛及被割韭菜的故事。",

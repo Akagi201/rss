@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-11-17T00:05:51.604Z</updated>
+    <updated>2023-11-18T00:05:52.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 278 期）：棘手的 AI 版权]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html"/>
+        <updated>2023-11-17T00:10:10.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+鸡鸣驿位于河北省张家口，是中国现存最大的古代驿站遗址，当年供邮差休息和更换马匹。（via）
+棘手的 AI 版权
+AI 是一个新事物，带来了很多前所未有的问题。
+最棘手、最有争议、也最有意思的，大概就是版权问题。
+
+具体来说，就是下面这个问题：AI 训练（学习）时，能不能使用版权材料，从而具备模仿版权所有者的能力？
+举例来说，前一段时间，网上出现了"AI 孙燕姿"，有人用孙燕姿的歌曲作为训练材料，让 AI 模仿孙燕姿的声音，演唱其他歌手的歌曲。
+
+我问大家，这有没有侵犯孙燕姿的版权？
+一种观点是，侵犯版权了，因为未经授权就模仿了孙燕姿的声音。如果听任 AI 模仿孙燕姿，真人还没唱，AI 就先唱了，以后谁还会花钱去听真人演唱？
+另一种观点是，没有侵犯版权，因为 AI 是学习孙燕姿的声音，而不是复制。AI 唱的是孙燕姿本人没有唱过的歌曲，属于 AI 的创作，所以不存在侵犯版权。
+你赞成哪一种观点？
+
+这个问题有趣的地方在于，如果把 AI 换成人，就没有争议了。
+假设有一个小姑娘，刻苦模仿孙燕姿，终于有一天，可以用一模一样的声音演唱了，这个小姑娘有没有侵犯孙燕姿的版权？
+我相信，所有的人都会认同，这不是侵权行为。一个人模仿另一个人的特点，并不侵犯后者的版权。 
+我模仿梵高的风格画画，模仿鲁迅的风格写作，模仿那些最优秀的程序员的风格编程，达到了可以乱真的地步。只要我创作的是自己的作品，就都是合理合法的行为。那么为什么 AI 做同样的事情，就会被认为侵权呢？
+
+但是，又不能完全把 AI 等同于真人。模仿梵高的画家千千万，丝毫不影响梵高真迹的价值，换成 AI 就不一定了。
+如果允许"AI 孙燕姿"与"真孙燕姿…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全球经济中的隐形巨人]]></title>
         <id>https://www.bmpi.dev/money/what-is-capital/</id>

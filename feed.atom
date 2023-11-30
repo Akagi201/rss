@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-11-29T00:06:10.972Z</updated>
+    <updated>2023-11-30T00:05:51.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
@@ -176,16 +176,6 @@ The post ChatGPT的画图模型DALL·E 3效果真的挺不错 appeared first on 
 好莱坞的演员工会最近正在罢工，他们的主要诉求就是，制片公司不能使用 AI 演员，不能剥夺真人演员的演出机会。可见这些专业人士，已…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海外银行证券开户薅羊毛小记]]></title>
-        <id>https://www.bmpi.dev/money/guide-to-open-sg-bank/</id>
-        <link href="https://www.bmpi.dev/money/guide-to-open-sg-bank/"/>
-        <updated>2023-10-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本文分享我在海外银行证券开户薅羊毛及被割韭菜的故事。]]></summary>
-        <author>
-            <name>BMPI</name>
         </author>
     </entry>
     <entry>

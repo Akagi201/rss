@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-12-01T00:06:45.850Z</updated>
+    <updated>2023-12-02T00:05:53.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 280 期）：机器点餐与宅文化]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html"/>
+        <updated>2023-12-01T00:14:11.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+四川德阳的"凯州新城规划展览馆"，设计了一条穿过建筑物的走廊，从荷塘直到背后的山顶。为此，建筑物中间还开了一个大尺度的洞口，以此强调人与自然的对话。（via）
+机器点餐与宅文化
+现在的快餐店，都有点餐机。
+你可以去柜台点餐，也可以机器点餐。
+
+假设两者同样方便（都不用排队），你会选择哪一种，柜台点餐 vs 机器点餐？
+这个问题是一个荷兰程序员提出的。有一天，他在阿姆斯特丹的一家餐馆吃午餐，突然注意到，新进来的顾客更喜欢机器点餐。
+明明再走两步就是柜台，可以跟店员面对面点餐，但是这些人还是选择机器点餐。
+这个老外不禁陷入了沉思：这是普遍现象吗，人们更喜欢与机器互动，而不是与人互动？
+
+最终，他得出结论：机器点餐有很多优点，所以人们更愿意选择这种方式。
+（1）流程标准化。点餐机的每一步，都已经设计好了，你不会无从下手，并且所有商品都有详细介绍。
+（2）效率更高。人工点餐要跟店员沟通，为了避免出错，通常需要强调和重复，这样就比较慢。更不要提，有时候还听不清对方的话。
+（3）体验更好。机器点餐时，你有时间思考和犹豫，不会有人催促你；即使点了奇怪的东西，也不会有人用异样的眼神看着你；如果点错了，可以无限次从头再来；就算不想要了，也不会尴尬。
+因为上面这些原因，人们更愿意机器点餐，而不是找店员点餐，这是毫不奇怪的。
+用户的这种心态，再加上信息技术的配合，使得人际交流迅速减少，人机互动大量取代人与人的互动：快递员变成快递柜，餐馆变成外卖 App，课堂教学变成视频点播......
+
+人际交流减少的一个重要表现，就是"宅文化"的兴起。
+越来越多的年轻人，长时间呆在家里，当宅男宅女，不与外界互动。一个很大原因就是，…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 279 期）：网络社区的悲剧]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html</id>

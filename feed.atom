@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-12-08T00:06:17.237Z</updated>
+    <updated>2023-12-09T00:05:56.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 281 期）：新基建的政策选择]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html"/>
+        <updated>2023-12-08T00:10:30.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+甘肃张掖市的马蹄寺，在绝壁上凿有70多个古代石窟，非常壮观。可惜历史上破损严重，造像保存下来的很少。（via）
+新基建的政策选择
+上周某一天，我看到百度的热搜榜，置顶是一条新闻《加快新型基础设施建设》。
+
+我很奇怪，这条新闻为什么置顶？
+基础设施建设不是一直在搞吗，为什么现在突然强调"新基建"？
+后来，我想了想。现在是年底，这会不会跟明年的政府工作安排有关。
+这段时间，各部门都在准备明年的工作计划，投资项目现在就要基本定下来了。宏观经济目前有一些困难，就更需要政府多投几个项目了。
+以前，政府投的都是基础设施：高铁、高速公路、机场、港口、电厂...... 可以这样说，经过几十年不断的建设，中国的基础设施已经世界一流了。
+
+经济效益好的基建项目，差不多都已经建造了，有些地方甚至出现了冗余，高速公路造好了，却没有足够的人流、车流。
+传统的基建项目，如果明年继续大量投资，其中很多可能就会缺乏经济合理性。造好以后，偿还贷款的压力很大，对经济的拉动作用也有限。
+因此，政府迫切需要寻找新的投资领域。
+现在的热搜榜置顶，可能就是一种舆论准备，暗示明年将会大量投资"新基建"项目，而不是传统的基建项目。
+
+那么，"新基建"到底是指哪些项目？
+百度百科有一个"新基建"条目（上图），里面提到它包括七个领域。
+5G 基站
+特高压
+城际高速铁路，城市轨道交通
+新能源汽车充电桩
+大数据中心
+人工智能
+工业互联网
+也就是说，上面七个领域可能就是政府明年投资的主要方向。
+
+其中，除了第2项（特高压）、第3项（城际交通）和第4项（新能源充电桩），其他四项都是 IT 相关。
+5G 基站 => 数字通信
+大数据中心 => 算力
+人工智…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 280 期）：机器点餐与宅文化]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html</id>

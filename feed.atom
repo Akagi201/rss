@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-12-22T00:06:06.442Z</updated>
+    <updated>2023-12-23T00:05:41.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html"/>
+        <updated>2023-12-22T00:28:38.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+河北承德的山谷音乐厅，是一个混凝土和岩石建造的洞穴空间。观众脚下是舞台，头上是天窗，可以同时听到音乐和大自然的声音。（via）
+[年终感想] 没有目的地，向前走
+又是年底，一年过去了。
+大家往往会回顾，这一年实现了哪些目标，下一年要设定哪些目标。
+
+今天，我想分享 BaseCamp 公司创始人 Jason Fried 的一篇短文，题目就叫《我从来没有目标》。
+
+下面就是这篇文章的主要内容。
+我不记得自己有什么目标，那种很具体的目标。
+有些事情我一直想做，但如果不做，我也能接受。有些事情值得去做，但如果没有做到，我也不觉得很遗憾。
+我的目标不是那样。
+我做事，我尝试，我建造，我想要取得进步，我想让我做的东西使得自己、使得公司、使得家庭、使得社会变得更好。但我从未设定过目标。这不是我做事的方式。
+目标是当你到达时就会消失的东西。一旦你到达了，它就消失了。你总是可以设置另一个，我只是不按这样的步骤行事。
+我只是做我正在做的事情，然后就到了现在的地方。今天我继续以同样的方式对待工作和生活。
+
+他的文章到这里就结束了。我很喜欢作者的这种态度。
+你可以不给自己设定目标，因为目标是你做事的副产品。只要你按照自己的信念，不断地努力去做事、去尝试，就可以了，至于能做到哪一步，顺其自然就好了。
+有一句成语"功不唐捐"，就是这个意思，付出的努力不会白费。
+
+西方人说："Passion never fails"（激情不会失败），也是同样的意思。
+
+建造那些你想要建造的东西，努力做事，认真生活，人生可以没有目标。
+新的一年，我想我也是这样，没有目的地，就是向前走。
+[活动] 掘金年度技术演讲
+每到年末，都会有很多年度演讲…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html</id>

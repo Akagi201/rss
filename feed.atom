@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2023-12-29T00:04:57.616Z</updated>
+    <updated>2023-12-30T00:05:40.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 284 期）：YouTube 有多少个视频？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html"/>
+        <updated>2023-12-29T00:11:07.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+一位意大利摄影师，苦苦尝试了6年，终于在本月拍到了一张难以置信的照片：大教堂、山峰、月亮处于一条直线，并且地球反射的太阳光，通过长曝光，可以照亮月亮顶部。（via）
+YouTube 有多少个视频？
+YouTube 是世界最大视频网站，全世界的人都在上传视频。
+
+但是，它没有透露过，内部一共有多少个视频。
+上周，网上出现了一篇有趣的文章，使用概率方法，估计 YouTube 的视频总数。
+
+这篇文章非常有启发意义，面试可能也会出这一类的题目。下面，我就分享作者是怎么做的。
+我们知道，每一个 YouTube 视频都有唯一编号，放在 URL 里面。
+比如，某个视频的 URL 是https://www.youtube.com/watch?v=NJHG0yuBabQ&，那么它的视频编号就是NJHG0yuBabQ&。
+
+YouTube 也没有透露过，这个编号是怎么产生的。
+但是根据观察，可以得知它是一个11位字符串，前十位字符的取值范围是64个值（[a-zA-Z0-9_-]），最后的第十一位字符的取值范围只有16个值。
+这意味着，所有的编号一共有 2^64 种可能，这是一个超级巨大的数字，足以容纳过去和将来所有可能生成的视频。
+显然，不是每一个编号，都有对应的视频，绝大部分是空号，而且空号远远多于实际视频。如果我们假定，YouTube 一共有10亿个视频，那么你大概猜184亿次，才会猜中一个有效的编号（前提是这些编号为均匀分布）。
+那么，我们可以反推，通过抽中有效编号的概率，判断出 YouTube 一共有多少个视频。
+这就好比，某个地区的电话号码是从 843-000-0000 到 843-999-9999，一…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html</id>

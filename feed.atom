@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2024-01-21T00:06:50.780Z</updated>
+    <updated>2024-01-22T00:06:27.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Copilot，最好的编程助手]]></title>
+        <id>http://catcoding.me/p/copilot-for-programming/</id>
+        <link href="http://catcoding.me/p/copilot-for-programming/"/>
+        <updated>2024-01-21T14:43:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>今天下午我解决一个小问题的时候，在 Copilot 的帮助下快速给出了修复，这个工具似乎有些超过期望了，所以突然想写篇文章分享这个目前我最愿意付费的 AI 工具。</p>
+<p><sub>Copilot 价格是每个月 10 美金，但我至今还没付费过，感谢微软支持开源，从测试]]></summary>
+        <author>
+            <name>程序员的喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 287 期）：禄丰恐龙谷记行]]></title>
         <id>http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html</id>

@@ -65,6 +65,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "http://catcoding.me/p/copilot-for-programming/",
+          "author": null,
+          "description": "<p>今天下午我解决一个小问题的时候，在 Copilot 的帮助下快速给出了修复，这个工具似乎有些超过期望了，所以突然想写篇文章分享这个目前我最愿意付费的 AI 工具。</p>\n<p><sub>Copilot 价格是每个月 10 美金，但我至今还没付费过，感谢微软支持开源，从测试",
+          "link": "http://catcoding.me/p/copilot-for-programming/",
+          "publishedOn": "2024-01-21T14:43:34.000Z",
+          "wordCount": 441,
+          "title": "Copilot，最好的编程助手",
+          "imageUrl": " http://catcoding.me/css/images/logo.png "
+        },
+        {
           "id": "http://catcoding.me/p/2023-summary/",
           "author": null,
           "description": "<p>2023 年很快就要结束了，赶紧抓住这个冲动总结一下。今年对我来说有几个大的转变，从几个方面谈起：</p>\n<h2 id=\"生活\"><a href=\"#生活\" class=\"headerlink\" title=\"生活\"></a>生活</h2><p>生活上最大的变化是我又有了",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Tiny Feeds</title>
-    <updated>2024-01-29T00:06:08.424Z</updated>
+    <updated>2024-01-30T00:05:48.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
@@ -152,17 +152,6 @@
 （1）PPT 的设计目的是说服，这是一…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的 2023]]></title>
-        <id>http://catcoding.me/p/2023-summary/</id>
-        <link href="http://catcoding.me/p/2023-summary/"/>
-        <updated>2023-12-30T22:36:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>2023 年很快就要结束了，赶紧抓住这个冲动总结一下。今年对我来说有几个大的转变，从几个方面谈起：</p>
-<h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><p>生活上最大的变化是我又有了]]></summary>
-        <author>
-            <name>程序员的喵</name>
         </author>
     </entry>
     <entry>

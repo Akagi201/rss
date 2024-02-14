@@ -4,8 +4,23 @@ sources:
   - href: https://www.bmpi.dev/index.xml
   - href: http://feeds.feedburner.com/ruanyifeng
   - href: https://catcoding.me/atom.xml
-  - href: https://www.physixfan.com/feed
-  - href: https://www.decohack.com/feed
-siteTitle: Tiny Feeds
+  - href: https://rsshub.app/v2ex/topics/hot
+  - href: https://rsshub.app/hellogithub/hot
+  - href: https://tokeninsight.com/rss/research/zh
+  - href: https://blog.wssh.trade/index.xml
+  - href: https://www.driftluo.com/rss
+  - href: https://rsshub.app/coindesk/consensus-magazine
+  - href: https://learnblockchain.cn/feed/rss
+  - href: https://www.producthunt.com/feed
+  - href: https://rsshub.app/futunn/main
+  - href: https://rsshub.app/paradigm/writing
+  - href: https://api.theblockbeats.news/v1/open-api/home-xml
+  - href: https://www.chaincatcher.com/rss/clist
+  - href: https://this-week-in-rust.org/rss.xml
+  - href: https://www.chainfeeds.xyz/rss
+  - href: https://ethresear.ch/latest.rss
+  - href: https://weekinethereumnews.com/feed/
+  - href: https://techflowpost.mirror.xyz/feed/atom
+siteTitle: Web3 Feeds
 timezone: Asia/Shanghai
 cacheMaxDays: 30

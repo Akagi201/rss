@@ -12,6 +12,11 @@
 * Ghost: Appending "/rss" to link, e.g. <https://fuel-labs.ghost.io/rss/>
 * Medium: Adding "/feed" after medium.com, e.g. <https://medium.com/feed/anomanetwork>
 
+## no rss
+
+* <https://www.flawsomedev.com/>
+* <https://praneshasp.com/>
+
 ## Docs
 
 * [Feed Reference](https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md)

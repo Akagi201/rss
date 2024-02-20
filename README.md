@@ -12,10 +12,10 @@
 * Ghost: Appending "/rss" to link, e.g. <https://fuel-labs.ghost.io/rss/>
 * Medium: Adding "/feed" after medium.com, e.g. <https://medium.com/feed/anomanetwork>
 
-## no rss
+## rss proxy
 
-* <https://www.flawsomedev.com/>
-* <https://praneshasp.com/>
+* <https://github.com/damoeb/rss-proxy> - <https://rssproxy.migor.org/>
+* <https://github.com/damoeb/feedless>
 
 ## Docs
 

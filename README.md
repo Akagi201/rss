@@ -16,6 +16,8 @@
 
 * <https://github.com/damoeb/rss-proxy> - <https://rssproxy.migor.org/>
 * <https://github.com/damoeb/feedless>
+* <https://freshrss.org/>
+* <https://github.com/DIYgod/RSSHub>
 
 ## Docs
 

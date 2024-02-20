@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akagi201.github.io/rss/index.html</id>
     <title>Web3 Feeds</title>
-    <updated>2024-02-20T02:52:24.380Z</updated>
+    <updated>2024-02-20T02:57:48.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://akagi201.github.io/rss/index.html"/>
     <link rel="self" href="https://akagi201.github.io/rss/feed.atom"/>
@@ -232,6 +232,28 @@ Silencio Network 计划利用这笔资金加速公司增长，提升数据完整
         <summary type="html"><![CDATA[ChainCatcher 消息，OKX-BTC/USDT 现报 $52036.90，24小时涨幅0.21%。]]></summary>
         <author>
             <name>链捕手</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berachain最全交互指南：主网上线在即，带你全方位深度参与]]></title>
+        <id>https://m.theblockbeats.info/news/50922?t=binance</id>
+        <link href="https://m.theblockbeats.info/news/50922?t=binance"/>
+        <updated>2024-02-20T02:54:53.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《融资 4200 万、主网上线在即...「人满为患」的 Berachain 测试网深度参与指南》
+原文作者：Peng SUN，Foresight News
+
+
+Berachain 始于 meme，社区文化共识强，主打「流动性」与「NFT」叙事，与早期 DeFi 项目 OlympusDAO 有着密切联系。具体来说，Berachain 是 NFT 项目 Bong Bears 社区的一个想法，得到 OlympusDAO 及其投资者的支持，并受 OlympusDAO 的 rebasing 启发 rebase 出新合集 Bond Bears、Boo Bears、Baby Bears、Band Bears 和 Bit Bears。
+
+
+在团队组成方面，Berachain 由 Homme Bera、Dev Bear、Papa Bear 和 Smokey the Bera 等 30 位匿名成员组成，以及今年 1 月 Mysten Labs 前工程主管 Baloo the Bera 加入 Berachain。
+
+
+2022 年 11 月 FTX 暴雷后 Berachain 开始融资， 2023 年 4 月以 4.2 亿美元估值完成 4200 万美元融资，Polychain Capital 领投，OKX Ventures、Hack VC、Dao 5、Tribe Capital、Shima Capital、Robot Ventures、Goldentree Asset Management、Dragonfly Capital 前合伙人、Celestia 创始人 Mustafa Al-Bassam、Tendermint 联合创始人 Zaki Manian 以及其他 20 名 DeFi 项目创始人参投。该融资消息公布时，Berachain 生态系统已有超 2.5 亿美元承诺总锁定价值。
+
+…]]></summary>
+        <author>
+            <name>contact@theblockbeats.org (律动BlockBeats)</name>
         </author>
     </entry>
     <entry>

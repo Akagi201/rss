@@ -54,24 +54,23 @@
       "title": "程序员的喵",
       "feedUrl": "https://catcoding.me/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "http://catcoding.me/p/copilot-for-programming/",
-          "author": null,
-          "description": "<p>今天下午我解决一个小问题的时候，在 Copilot 的帮助下快速给出了修复，这个工具似乎有些超过期望了，所以突然想写篇文章分享这个目前我最愿意付费的 AI 工具。</p>\n<p><sub>Copilot 价格是每个月 10 美金，但我至今还没付费过，感谢微软支持开源，从测试",
-          "link": "http://catcoding.me/p/copilot-for-programming/",
-          "publishedOn": "2024-01-21T14:43:34.000Z",
-          "wordCount": 441,
-          "title": "Copilot，最好的编程助手",
-          "imageUrl": " http://catcoding.me/css/images/logo.png "
-        }
-      ]
+      "articles": []
     },
     {
       "title": "V2EX-最热主题",
       "feedUrl": "https://rsshub.app/v2ex/topics/hot",
       "siteUrl": "https://www.v2ex.com/",
       "articles": [
+        {
+          "id": "https://www.v2ex.com/t/1016682",
+          "author": "flowerfly",
+          "description": "flowerfly: \n今天去中行开卡（借记卡），一番询问之后，被要求提供证件之外，还要社保截图、手机号实名验证结果等，然后才同意可以开卡（ I 类），但得先签一份承诺书（合法开立和使用银行账户承诺书），上边有写限额￥ 4999 。\n因为这个限额，我跟银行人员争执了一番，他们最终还是不给调整/取消，刚开始跟我说要提供居住证/房产证，后来又说现在新开卡都是这个限额，要三个月后再由他们银行评估之后才决定能否调整。\n实在想不明白，为什么都 I 类卡了，还要限额，而且这个限额还低于 II 类卡的（我记得 II 卡的限额是￥ 10000 ）？",
+          "link": "https://www.v2ex.com/t/1016682",
+          "publishedOn": "2024-02-19T15:11:44.000Z",
+          "wordCount": 1084,
+          "title": "I 类卡为什么还会限额？",
+          "imageUrl": null
+        },
         {
           "id": "https://www.v2ex.com/t/1016579",
           "author": "timewarp",
@@ -3066,6 +3065,86 @@
       "siteUrl": "https://news.futunn.com/main",
       "articles": [
         {
+          "id": "https://news.futunn.com/hk/post/38113466",
+          "author": "Wind萬得",
+          "description": "美联储会议纪要将于周四凌晨公布，上周公布的1月份消费者价格指数和生产者价格指数报告均超预期，因此这次的会议纪要对于未来降息时间点的表述具有很大的参考意义。\n在上次会议上，美联储主席杰罗姆•鲍威尔表示，他将继续寻找有关通胀的“更多良好数据”，并否认了3月份降息的可能性。如果美联储会议纪要显示出政策上的鹰派倾向，提前降息的希望将会破灭。CME的美联储观察工具显示，根据利率期货交易，市场目前预计6月份降息25个基点的可能性只有大约50%。\n美联储主席鲍威尔在上次会议上说，在3月份的下次会议上，美联储可能不会对通货膨胀的路径感到足够满意，不会降息。\n这一声明是在美联储1月份会议后的新闻发布会上发表的。在那次会议上，美联储维持基准利率不变。鲍威尔在早些时候的新闻发布会上确实表示，降息可能会在今年的某个时候开始。\n美联储上次会议上发布的政策声明中包括了几项调整，表明美联储不考虑进一步加息，但尚未准备降息。鲍威尔的言论似乎向交易员澄清，这一立场至少还会持续一次会议。\n鲍威尔还拒绝承诺一旦美联储采取第一步行动，就会采取一系列降息措施，称这“将取决于数据”。\n美联储的下两个政策决定日期定于3月20日和5月1日。近几个月来，交易员和华尔街策略师一直关注这两次会议，认为随着通胀持续下降和就业增长放缓，美联储可能会首次降息。\n在当前的高利率环境下，许多投资者对股市感到担忧，尤其是考虑到大型科技股估值过高，以及地区性银行等利率敏感行业面临进一步下行风险。一些地缘风险预计也将限制美国股市上涨。\nCNBC的一项调查显示，华尔街的市场策略师平均预计标准普尔500指数今年将收于4936点。但大盘指数已经突破了这一目标，最近突破了5000点，并在新年不到7周的时间里屡创新高。\n一些人预计，这意味着现在是分散投资其他493只标准普尔500指数成分股的时候了，这些成分股的表现尚未赶上“七大科技股豪门”。2024年，同等权重的标准普尔500指数仅上涨1.7%，远远落后于市值加权基准。\n越来越多的投资者还认为，现在是同时投资传统股票-债券投资组合的时候了，尤其是在债券收益率开始变得更具吸引力之际。上周五，10年期美国国债收益率徘徊在4.3%附近。\n编辑/phoebe",
+          "link": "https://news.futunn.com/hk/post/38113466",
+          "publishedOn": "2024-02-20T00:20:58.000Z",
+          "wordCount": 14088,
+          "title": "聯儲局會議紀要即將公佈！重點內容都在這裏",
+          "imageUrl": "https://pubimg.futunn.com/202205090343019052e27cd0a39.png"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38112889",
+          "author": "富途資訊",
+          "description": "热点要闻\n\n美股年初涨势如虹！高盛再次上调标普500目标价\n\n随着美股开年以来强劲上涨，标普500指数不断刷新新高，华尔街对于美股今年表现的预期也在不断提升。高盛在最新报告中将标普500指数在2024年的目标价上调至5200点，这是在过去短短三个月内该行第二次上调标普500目标价。\n\n七巨头已成为“全球第二大股市” ，分析师再提“霸市”风险\n\n德银分析师在报告中写道，如果美股七家科技巨头组成一个新的证券交易所，他们的总市值能成为全球第二大的股市，比排名第四的日本股市还高出一倍之多。该行警告称，美国股市的集中度已相当于2000年和1929年的水平，而这两个时期分别经历了“互联网泡沫”和“大股灾”。\n\n\n美国企业界打退堂鼓：股市高得令人害怕，调低业绩展望才能自保\n\n美股涨势与宏观风险的背离让美国上市公司心下惴惴。不少美国企业在这一季的财报业绩展望中，调低了自己未来的业务目标，力求不给投资人失望的机会。行业数据显示，1月提供业绩前瞻的美国公司中，超过三分之一的公司展望数据不及分析师预期，而利润预期高于行业分析的公司比例仅为21%，是2022年2月以来的最低水平。\n\n日股屡创34年新高之际，贝莱德继续看涨：将成日本加息的大赢家\n\n全球最大的基金管理公司贝莱德继续看涨日股，认为大量低配头寸意味着将有更多资金流入日本市场。贝莱德认为，外界期待已久的日本超宽松货币政策的退出，可能会对市场产生不同寻常的影响，使日本股市成为加息的最大受益者。\n公司要闻\n\n今年已涨超40%，有对冲基金已在英伟达赚了十个亿美金\n\n英伟达 (NVDA.US)开年来升幅已超40%，加大押注英伟达的对冲基金收益颇丰。据悉，对冲基金Arrowstreet Capital在去年四季度增持了近400万股的英伟达股票，到去年年底持股规模达到21亿美元，如果该公司继续持有，今年以来已经至少获利10亿美元。\n\n\n英伟达一出手，资…",
+          "link": "https://news.futunn.com/hk/post/38112889",
+          "publishedOn": "2024-02-20T00:03:00.000Z",
+          "wordCount": 14736,
+          "title": "富途早報 | 美股年初漲勢如虹！高盛再次上調標普500目標價；現在買超微電腦還來得及嗎？美銀看高至1040美元",
+          "imageUrl": "https://pubimg.futunn.com/20220511034313721235ded16ec.jpg"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38113152",
+          "author": "新浪美股",
+          "description": "来源：新浪美股\n特斯拉 (TSLA.US)CEO埃隆·马斯克在X平台上表示，要让特斯拉达到目前10倍的产量是非常困难的，但这一目标并非不可能实现，需要付出巨大的努力。\n马斯克关注的账号“Teslaconomics”发帖称：“特斯拉达到每年交付1000万-2000万辆汽车的时间点，不是‘能否’的问题，而是‘何时’的问题。”\n马斯克回应称：“要达到10倍的产量是非常困难的。可行，但需要大量的工作。”\n\n编辑/lambor",
+          "link": "https://news.futunn.com/hk/post/38113152",
+          "publishedOn": "2024-02-19T23:54:34.000Z",
+          "wordCount": 13750,
+          "title": "馬斯克稱特斯拉達到10倍產量非常困難，但並非不可實現",
+          "imageUrl": "https://pubimg.futunn.com/202205100343056330f7468fe7f.jpg"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38113007",
+          "author": "富途資訊",
+          "description": "重磅公告精选\n1、中国国航：1月旅客周转量同比上升69.1%\n\n中国国航 (00753.HK)公告，2024年1月，公司及所属子公司合并旅客周转量(按收入客公里计)同比、环比均上升。客运运力投入(按可用座位公里计)同比上升53.1%，环比上升8.9%；旅客周转量同比上升69.1%，环比上升12.1%。平均客座率为77.6%，同比上升7.3个百分点，环比上升2.2个百分点。\n\n2、中国东方航空股份：1月旅客周转量同比上升87.97%\n\n中国东方航空股份 (00670.HK)公告，2024年1月，本公司客运运力投入（按可用座公里计）同比上升65.95%；旅客周转量（按客运人公里计）同比上升87.97%；客座率为77.42%，同比上升9.07个百分点。2024年1月货邮周转量（按货邮载运吨公里计）同比上升148.44%。\n\n3、中国南方航空股份：1月旅客周转量同比上升56.47%\n\n中国南方航空股份 (01055.HK)发布公告，2024年1月，集团客运运力投入(按可利用座公里计)同比上升40.39%；旅客周转量(按收入客公里计)同比上升56.47%；客座率为 81.01%，同比上升8.33个百分点。\n\n4、新华保险：1月累计原保险保费收入约为298.9亿元，同比减少15.04%\n\n新华保险 (01336.HK)公告，公司于2024年1月1日至2024年1月31日期间累计原保险保费收入为人民币298.9亿元，同比减少15.04%。\n\n5、快手-W：2月19日耗资3997万港元回购91.2万股\n\n快手-W (01024.HK)公告，2月19日耗资3997万港元回购91.2万股，每股价格为43.45-44.35港元。\n\n财报业绩\n金界控股 (03918.HK)年度纯利同比增加65.7%至1.777亿美元\n法拉帝 (09638.HK)2023年纯利8350万欧元 同比增加约38.0%\n建滔集团 (00148.HK)盈警：预计年度纯利下降不超45%\n联合能源集团 (00467.HK)盈警：预期年度股东应占综合净亏损约15亿至18亿港元\n建滔积层板 (01888.HK)盈警：预计年度纯利下降不超55%\n嘉兴燃气 (09908.HK)盈喜：预计年度纯利同比增长约217%-308%\n运营数据\n新华保险 (01336.HK)1月份保费收入298.9亿元，同比减少15.04%\n阳光保险 (06963.HK)1月原保费收入达232.46亿元\n中国国航 (00753.HK)1月旅客周转量同比上升69.1%，环比上升12.1%\n中国东方航空股份 (00670.HK)1月旅客周转量同比上升87.97%\n中国南方航空股份 (01055.HK)：1月客运运力投入同比上升40.39% 旅客周转量同比上升56.47%\n中国太保 (02601.HK)：中国太平洋财产保险1月原保险业务收入253.93亿元 同比增长8.9%\n医药创新\n永泰生物-B (06978.HK)：药品审评中心批准aT19注射液新药一期临床试验(IND)申请\n百奥赛图-B (02315.HK)和吉利德达成多靶点抗体合作协议\n回购注销\n友邦保险 (01299.HK)2月19日耗资7729.4万港元回购120万股\n汇丰控股 (00005.HK)2月16日耗资5204.44万港元回购84.12万股\n快手-W (01024.HK)2月19日耗资3997万港元回购91.2万股\n中远海控 (01919.HK)2月19日耗资1127.14万港元回购135万股\n金山软件 (03888.HK)2月19日耗资1000万港元回购47.5万股\n万物云 (02602.HK)2月19日耗资350万港元回购20万股\n编辑/Somer",
+          "link": "https://news.futunn.com/hk/post/38113007",
+          "publishedOn": "2024-02-19T23:52:00.000Z",
+          "wordCount": 121,
+          "title": "公告精選 | 中國國航1月旅客週轉量同比增近7成；新華保險1月保費收入降超15%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38113024",
+          "author": "智通財經",
+          "description": "来源：智通财经 作者：赵锦彬\n摩根大通在最近发布的第四季度财报季跟踪报告中表示，$标普500指数 (.SPX.US)$成份股公司中，有78%的公司利润超过预期，同比增长5%。\n该行表示，近70%的标普500指数成分股公司公布了第四季度业绩，其中，大宗商品板块和医疗保健板块表现疲弱，而非必需品板块、科技板块和通信服务板块则是盈利增长的主要推动力。\n根据摩根大通的数据，剔除“七巨头”(包括谷歌-A (GOOGL.US)、亚马逊 (AMZN.US)、苹果 (AAPL.US)、Meta Platforms (META.US)、微软 (MSFT.US)、特斯拉 (TSLA.US)和英伟达 (NVDA.US))的第四季度盈利结果，美国企业的每股收益增长同比下降4%。\n在营收方面，57%的公司的销售额超过了预期，整体营收同比增长4%。能源、材料和公用事业在行业层面出现了负增长。\n分析师Mislav Matejka及其团队写道：“值得注意的是，本季度上调每股收益指引的美国公司比例较小，这是自2020年以来的最低水平。”\n欧洲企业方面，欧洲斯托克600指数成分股公司中，有46%的公司已公布第四季度业绩。其中52%的公司每股收益超出预期，比预期低3%。整体每股收益同比下降8%，大宗商品板块和工业板块对整体收益的拖累最大。欧洲企业的营收增长较上年同期下降了6%。\n其中，部分发布了盈利预警的公司包括：\n联邦快递 (FDX.US)-由于宏观经济动荡和需求下降，该公司下调了本财年的营收预测。(股价单日表现相对于市场：-10.6%)\n耐克 (NKE.US)-由于消费者对可自由支配的支出变得谨慎，耐克下调了营收前景。(股价单日表现相对于市场：-12%)\nMobileye Global (MBLY.US)-由于公司的客户库存将出现过剩情况，预计第一季度营收将下降，公司将出现大幅运营亏损。(股价单日表现相对于市场：-24.2%)\n梅特勒-托利多 (MTD.US)-由于发货延误，第四季度业绩低于预期。(股价单日表现相对于市场：0.5%)\n编辑/lambor",
+          "link": "https://news.futunn.com/hk/post/38113024",
+          "publishedOn": "2024-02-19T23:48:29.000Z",
+          "wordCount": 14013,
+          "title": "摩通業績季跟蹤：美企Q4盈利同比增長5%，上調EPS指引比例創四年來新低",
+          "imageUrl": "https://pubimg.futunn.com/202205110343145846dae895b9a.jpg"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38112708",
+          "author": "環球市場播報",
+          "description": "七巨头已成为“全球第二大股市” 分析师再提“霸市”风险\n根据德意志银行最新研究中的数据，美股“七巨头”现在的金融实力——市值都已经超越了全球任何一个国家的股票市场。\n德银分析师在报告中写道，微软、苹果、英伟达，以及亚马逊、Alphabet（谷歌母公司）、Meta和特斯拉七家科技巨头的市值在近期迅速上升，超过了排名第二的A股市场。利润方面，能与七巨头抗衡的也只有A股和日股上市公司的总和。\n该行强调，如果这七家公司组成一个新的证券交易所，他们的总市值能成为全球第二大的股市，比排名第四的日本股市还高出一倍之多。分析师们补充称，微软和苹果大约3万亿美元的体量，就已接近法国、沙特和英国的总市值。\n德银分析师Jim Reid还指出，七巨头在美股市值榜上的地位也相对变得越来越稳固，微软、苹果、Alphabet和亚马逊在进入前五后，绝大部分时间都保持在这个行列之中，“这个代表全球最大、最成功公司的集团已经在那里很多年了。”\n欧洲股市变化不大 防御类股上涨\n欧洲股市在上周五接近纪录高位后变化不大，交易清淡，美国市场因假日休市。\n斯托克600指数在伦敦收涨0.2%，周期性科技股表现不佳，而医疗保健和电信等防御性板块上涨。随着中国市场重新开放，铁矿石价格连续5天上涨后下跌，矿业股是表现落后的成长股之一。美国金融市场因总统日休市。\n在个股方面，阿斯利康表现突出，此前试验数据显示其重磅药物Tagrisso减缓了晚期肺癌患者的疾病进展。英国电子产品零售商Currys Plc股价飙升，有报道称京东和Elliott Advisors考虑收购该公司。\n欧洲股市一直徘徊在历史高点附近，但尚未像美国股市一样取得突破。该地区公司第四季度业绩逊于预期的比例为至少四年来最大。\n胡塞武装击中一艘英国货轮，红海航线持续紧张\n红海局势持续紧张，全球主要贸易路线面临高风险。\n2024年2月19日，也门胡塞武装组织发言人萨雷亚发表声明，称该组织在一天前向途经红海亚丁湾的英国散装货轮“鲁比马尔”号（Rubymar）发射数枚导弹，货轮有沉没的危险。\n英国海洋贸易署（UKMTO）在社交媒体上对此回应，他们收到报告称也门海岸外的曼德海峡发生船只遇袭事件，近距离爆炸致使该船只受损，但船员们都安全，并已弃船。目前船只停泊在红海某处。\n船舶跟踪平台VesselFinder和MarineTraffic.com的数据显示，“鲁比马尔”号在英国注册，轮悬挂中美洲国家伯利兹的国旗，当时从阿联酋法坎港出发，目的地为保加利亚瓦尔纳港。事发时“鲁比马尔”号距离也门摩卡港约56公里，在至少受到三枚导弹袭击后偏离了航向，并与吉布提海军方面取得联系。\n此外，英国海事情报公司Ambrey Analytics在给客户的一份报告中警告，其周一获悉一艘悬挂希腊国旗、在美国注册的散货船于也门港口城市亚丁以东的“导弹袭击”中请求军事援助。\n第一资本金融据悉寻求收购Discover 有望成为年内又一大单\n知情人士表示，第一资本金融（Capital One Financial Corp．）正探索收购Discover金融服务，这有望成为今年迄今全球最大的一笔交易之一。\n知情人士称，总部位于弗吉尼亚州麦克林（Mclean）的第一资本金融正与顾问合作，并一直在与Discover就交易进行谈判。Discover的股价今年下跌约2%，这家总部位于伊利诺伊州Riverwoods的公司的市值为276亿美元，而第一资本金融的市值约为522亿美元。\n知情人士说，如果第一资本金融能够达成协议，最快可能会在本周宣布。据行业研究汇总的数据，这笔将两个历史悠久的消费金融品牌结合起来的交易将促成按贷款规模计算美国最大的信用卡公司，超过长期竞争对手摩根大通和花旗。\n因讨论未公开信息而要求匿名的知情人士表示，谈判仍在进行中，不确定是否会达成交易。第一资本金融和Discover的代表在公众假期期间没有立即回复置评请求。\n数据显示，收购Discover可能成为今年全球最大的收购交易之一。今年迄今第一大单交易是新思科技1月宣布以约340亿美元收购软件开发商Ansys Inc．。\n新一轮冲突重创以色列经济：四季度GDP萎缩近20%\n以色列中央统计局周一公布的数据显示，由于新一轮巴以冲突的爆发，以色列经济遭受重创，第四季度国内生产总值（GDP）折合成年率环比大幅下滑19.4%，萎缩程度远超市场预期。不过全年仍然增长了2%，与央行预测一致。\n自去年10月7日以来，以色列便一直处于战争状态之中。以色列总理内塔尼亚胡近日声称，以军正筹划在加沙南部拉法地区的地面军事行动，将在几周内发动大规模进攻。\n这是战争对经济造成损失以来的首次官方统计数据，除了征召预备役人员减少了大约8%的劳动力外，它还导致了与新冠疫情类似的停滞，许多行业突然陷入崩溃。\n个人消费下降26.9%是造成GDP降幅大于预期的主要原因，战争导致消费者信心暴跌、家庭被迫削减支出。\n编辑/phoebe",
+          "link": "https://news.futunn.com/hk/post/38112708",
+          "publishedOn": "2024-02-19T23:28:00.000Z",
+          "wordCount": 121,
+          "title": "外盤頭條：第一資本金融據悉尋求收購Discover，有望成爲年內又一大單；胡塞武裝擊中一艘英國貨輪，紅海航線持續緊張",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38108867",
+          "author": "財聯社",
+          "description": "①德银分析师在报告中写道，美股七家科技巨头的市值在近期迅速上升，超过了排名第二的A股市场； ②Reid警告称，美国股市的集中度已相当于2000年和1929年的水平，而这两个时期分别经历了“互联网泡沫”和“大股灾”。\n\n财联社2月20日讯（编辑 赵昊）根据德意志银行最新研究中的数据，美股“七巨头”现在的金融实力——市值都已经超越了全球任何一个国家的股票市场。\n德银分析师在报告中写道，微软 (MSFT.US)、苹果 (AAPL.US)、英伟达 (NVDA.US)，以及亚马逊 (AMZN.US)、谷歌-C (GOOG.US)、Meta Platforms (META.US)和特斯拉 (TSLA.US)七家科技巨头的市值在近期迅速上升，超过了排名第二的A股市场。利润方面，能与七巨头抗衡的也只有A股和日股上市公司的总和。\n\n该行强调，如果这七家公司组成一个新的证券交易所，他们的总市值能成为全球第二大的股市，比排名第四的日本股市还高出一倍之多。分析师们补充称，微软和苹果大约3万亿美元的体量，就已接近法国、沙特和英国的总市值。\n德银分析师Jim Reid还指出，七巨头在美股市值榜上的地位也相对变得越来越稳固，微软、苹果、Alphabet和亚马逊在进入前五后，绝大部分时间都保持在这个行列之中，“这个代表全球最大、最成功公司的集团已经在那里很多年了。”\n分析师再提“霸市”风险\n不过，德银报告的目的并不是夸赞七巨头强大的金融实力，而是为了警示这种“集中度”对美国以及全球市场的潜在风险。Reid警告称，美国股市的集中度已相当于2000年和1929年的水平，而这两个时期分别经历了“互联网泡沫”和“大股灾”。\n先前，以Khuram Chaudhry为首的摩根大通量化策略师也表示，截至去年12月底，MSCI美国指数前十大股票的份额已经升至29.3%，仅次于2000年6月份录得的33.2%历史峰值，这一迹象与“互联网泡沫”越来越相似，增加了股市抛售的风险。\n\n回顾2023全年，虽然年初时全球经济前景黯淡，但贯穿全年的人工智能热潮以及下半年的降息预期给美股市场提供了动力，其中七巨头受益明显。有数据显示，七巨头全年的回报率达到了惊人的107%，与之相比，MSCI美国指数的这个指标仅为27%。\n小摩策略师曾警告，美国股市的集中度正在接近极限，标普500指数在不久的将来跑赢前十权重股的可能性越来越大。\n“市场过于关注AI主题”\n对此，英国财富管理公司Evelyn Partners的首席投资策略师Daniel Casali写道，有迹象表明，今年美股的机会可能会扩大到七巨头以外的股票。Casali看好的原因有二——美国经济的韧性，以及企业利润率的提高。\nCasali说道，“尽管利率上升，但公司的销售和盈利一直具有韧性，这可以归功于它们在管理成本方面的自律，以及美国家庭在新冠大流行期间积累的储蓄。此外，美国劳动力市场表现健康，去年全年增加了近300万个就业岗位。”\n利润率方面，Casali称，企业巧妙地提高了商品或服务的售价，将通胀上升的影响转嫁给了客户，“虽然工资也在上涨，但没有跟上物价上涨的步伐。”他还表示，市场过于关注人工智能这一主题，投资者可能会错失一些投资机会。\n去年，标普500指数其他493只成分股的整体表现明显不如七巨头，Casali建议，如果上述两大因素继续提供动力，一些股票可能会参与涨势，表现可能会强于七巨头。\n编辑/Somer",
+          "link": "https://news.futunn.com/hk/post/38108867",
+          "publishedOn": "2024-02-19T23:13:27.000Z",
+          "wordCount": 14331,
+          "title": "七巨頭已成爲“全球第二大股市”，分析師再提“霸市”風險",
+          "imageUrl": "https://pubimg.futunn.com/2022052303436621cadd3b9a0e2.jpg"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38106948",
+          "author": "金十數據",
+          "description": "一些市场专业人士正在关注2024年联邦基金利率长时间保持高位的可能性。\n\n押注降息是2024年的一个主要主题，但随着一系列热门经济数据让美联储保持警惕，一些市场人士开始怀疑：如果美联储今年不降息会怎么样？\n“需要更多的信心”是美联储主席鲍威尔一直在重复的口号，他对美联储将通胀水平降至接近2%的目标保持着清晰的态度。\n去年第四季度美国GDP飙升3.3%，1月份新增35.3万个就业岗位，以及3.1%的通胀率，这些数据都让美联储的政策变得复杂，也让急切等待利率下降的市场感到不安。\n过去几周强劲的数据让市场上一些人开始提出这样一个问题：如果鲍威尔及其同僚今年不降息，或者至少将利率维持在高于市场预期的水平，会产生什么影响？\n股市或保持强劲，但债券恐遭受重创\n美国银行分析师本周在一份报告中表示，无论美联储未来采取什么行动，标普500指数仍应处于有利位置。\n报告称，“我们提醒投资者，我们预计今年会有强劲回报，不是因为美联储将在2024年做什么，而是因为美联储从2022年3月到现在已经取得了成就。”\n其他市场专业人士对此表示赞同，并表示，尽管不降息的可能性不大，但无论政策如何，商业周期都应支持美股持续上涨。\n对债券而言，如果价格更高、持续时间更长，则是另一回事。\n经济学家、Rosenberg Research的创始人David Rosenberg说，对货币政策的预期与长期美债收益率之间存在90%的相关性，他强调，投资者可能会看到10年期美债收益率回升至4.7%，与去年年底创下的数十年高点相差不远。\n美国银行分析师在另一份报告中表示，利率持续走高也给银行股带来潜在的下行风险，因为银行持有许多低收益债券。分析师称，这些债券回报较低，无法抵消银行在高利率环境下较高的融资成本，形成“负利差”风险。\n报告称，“更强劲的经济意味着更健康的信贷质量和更好的增长。不过，我们认为投资者担心的是长期的紧缩货币政策（更高更久），因为他们认为存在与流动性相关的风险。”\nRosenberg也提到了银行面临的潜在风险。“如果美联储不降息，且仍然担心通胀，而不是经济，这将对银行股产生决定性的负面影响。”\n房地产行业更痛苦\n受到美联储加息打击的一个行业是商业地产，降息的任何延迟都将延长该行业的痛苦。\n今年及以后，商业地产业主将面临大量债务到期，在许多情况下，业主将以更高的利率和更低的房地产估值为债务再融资。随着远程办公的持续存在和房地产价值的暴跌，办公行业的状况尤其糟糕。上个月，房地产亿万富翁Barry Sternlicht表示，写字楼市场可能会出现1万亿美元的损失。\n美国银行表示，更高的长期利率可能加剧人们对商业房地产贷款重新定价引发的信贷风险的担忧，因为借贷成本上升给业主偿还贷款制造了障碍。\n投资者去年就已经对地区性银行感到不安，本月市场对纽约社区银行的担忧再度浮现，部分原因是该银行在商业地产方面的敞口。\n在住宅市场，如果不能大幅降低利率，将导致房地产市场冻结再度冻结，并重演去年的情况。\n不降息恐进一步破坏经济\n退一步说，投资者可能想知道，在什么情况下，美联储今年不太可能调整利率。\n在通胀和劳动力市场方面，德意志银行分析师说，如果通胀率达到2.7%或更高，失业率达到4%或更低，这可能会让美联储继续保持鹰派立场。\n最近的数据反映了这种情况。1月份CPI同比上涨3.1%，高于预期。上周五公布的PPI数据也很强劲。在此之前，最新的非农就业报告显示，上个月美国雇主增加了惊人的35.3万个就业岗位。\n不过，Rosenberg认为美国经济在2024年不会过热。他说：\n\n“我们必须理智一些，只能说，与去年相比，今年没有理由让经济重新加速，在经济增长的情况下，市场可以承受高利率，但更多旨在抑制通胀的加息将更具破坏性。”\n\n编辑/Somer",
+          "link": "https://news.futunn.com/hk/post/38106948",
+          "publishedOn": "2024-02-19T23:08:46.000Z",
+          "wordCount": 13789,
+          "title": "若聯儲局今年不降息，市場會怎麼樣？",
+          "imageUrl": "https://pubimg.futunn.com/2022050903430187d0b8025f146.jpg"
+        },
+        {
           "id": "https://news.futunn.com/hk/post/38107227",
           "author": "財聯社",
           "description": "来源：财联社   作者：科创板日报记者陈美\n\n\n月之暗面完成超10亿美金融资；\n\n主打TO C领域，已落地产品Kimi Chat；\n\n新股东中出现了互联网大厂身影，均是TO C公司。从应用场景上看，双方后续应该有业务嫁接。\n\n\n今日，AI创业公司“月之暗面”被报道称，其已于近期完成新一轮超10亿美金融资，投资方包括红杉中国、小红书、美团、阿里。\n对此，《科创板日报》记者向一家老股东求证，对方表示消息属实，并确认融资金额为10亿美元。该老股东透露，相较于其他TO B领域的AI创业公司，“月之暗面”的目标是TO C领域。“去年已落地大模型产品Kimi Chat，特点是支持长文本。”\n据了解，Kimi Chat是由月之暗面科技推出的一款智能聊天机器人APP。这款APP拥有庞大的知识库，能够支持20万汉字的长文本输入，主打无损记忆。上述老股东表示，“较于国内其他的ChatGPT产品，Kimi Chat给出的信息质量非常不错。”\n值得一提的是，在股东名单中，除红杉中国继续投资，小红书、美团、阿里也出现在新股东名单中。\n有投资人曾表示，国内大模型公司发展的痛点在于算力，很多垂类大模型公司都选择出海。但上述老股东表示，基于TO C的发展策略，新股东中出现了很多互联网大厂身影，这些巨头均是TO C公司。“因此从应用场景上看，投资后双方应该会有业务嫁接。”\n杨植麟为潮汕90后学霸，毕业于清华大学计算机系，师从唐杰教授；之后获得卡内基梅隆大学计算机博士学位，师从苹果公司人工智能负责人Ruslan Salakhutdinov。\n入局大模型前，杨植麟于2019年获得北京智源青年科学家称号；2022年4月28日，入选AI华人青年学者榜单。\n2023年6月，在硅谷极具影响力的科技媒体The Information中，杨植麟成为“中国OpenAI”的五个候选之一，其余四位为MiniMax、智谱AI、光年之外以及澜舟科技。\n对于大模型的发展，月之暗面创始人杨植麟曾表示，AGI（人工通用智能）中，长文本将是一个很重要的点。“不仅是给定长度下的准确率（无损压缩），还有优化长度这一指标。”\n“在商业模式上，AGI除了每个外包任务的完成，广告也会扮演重要角色。基于个性化互动和对话的行为，广告的变现效率可能比现在要高很多，就好比Google和抖音背后的搜索和推荐的飞轮效应。”\n杨植麟认为，好的AGI需要百亿美元级别的支持，当然成本会逐渐优化。“以5年为窗口期的话，头部效应会非常明显。但是50年后，AGI会同质化，跟今天的电没有什么区别。”\n财联社创投通-执中数据显示，自2023年成立以来，月之暗面已完成2轮融资。2023年6月，月之暗面完成2亿美元天使轮融资，投资方为红杉中国和真格基金，然后就是本轮的10亿美元融资。\n编辑/Jamie",
@@ -4860,6 +4939,56 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://m.theblockbeats.info/flash/228444?t=binance",
+          "author": "contact@theblockbeats.org (律动BlockBeats)",
+          "description": "BlockBeats 消息，2 月 20 日，据官方公告，Binance 将于 2024 年 02 月 20 日 21:00（东八区时间）上线 Starknet（STRK）。\n\nBinance 将上线现货交易对：STRK/BTC、STRK/USDT、STRK/FDUSD、STRK/TRY。STRK 充值通道现已开放。",
+          "link": "https://m.theblockbeats.info/flash/228444?t=binance",
+          "publishedOn": "2024-02-20T02:26:39.000Z",
+          "wordCount": null,
+          "title": "Binance上市Starknet (STRK)并为其添加种子标签",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.theblockbeats.info/news/50916?t=binance",
+          "author": "contact@theblockbeats.org (律动BlockBeats)",
+          "description": "精选要闻：\n1. Starknet 空投将于今日 20 时开放领取，已重新修正部分用户空投数量；\n2. CoinShares 报告：上周数字资产投资产品资金流入 24.5 亿美元，创历史新高；\n3. 比特币未平仓合约量接近历史高点；\n4. Blast 将于本周宣布确切的主网启动日期；\n5. Ethena Labs 推出公共主网，并推出「Shard Campaign」以激励用户\n\n\n价格观察\n\n\nKAS 突破 0.18 美元，创历史新高\n据行情数据显示，Kaspa（KAS）突破 0.18 美元，现报价 0.1803 美元，24 小时涨幅 9.08%，创历史新高。\n\n\n存储板块代币普涨，AR 24 小时涨超 21%\n据行情数据显示，存储板块代币出现普涨行情，其中：\n\n\nICP 24 小时涨幅 5.1%，现报价 14.38 美元；\nFIL 24 小时涨幅 18.85%，现报价 7.5 美元；\nAR 24 小时涨幅 21.08%，现报价 14.72 美元；\nSTORJ 24 小时涨幅 8.75%，现报价 0.77 美元；\nRSS3 24 小时涨幅 32.7%，现报价 0.228 美元\n\n\nPIXEL 突破 0.64 美元\n据行情数据，PIXEL 突破 0.64 美元，现报价 0.6472 美元。\n\n\nWhales Market 上 STRK OTC 交易成交价上涨至 2 美元区间\n根据 Whales Market 交易页面信息，该平台当前 STRK OTC 交易成交价上涨至 2 美元区间，其中最高成交价为 2.44 美元。\n\n\nAUCTION 突破 35 美元，24 小时涨幅达 9.36%\n据 OKX 行情信息，AUCTION 突破 35 美元，现报价 35.532 美元，24 小时涨幅达 9.36%。\n\n\n此前消息，Bounce 已于今日 20 时完成对 BounceBit 上质…",
+          "link": "https://m.theblockbeats.info/news/50916?t=binance",
+          "publishedOn": "2024-02-20T01:56:46.000Z",
+          "wordCount": null,
+          "title": "律动早报｜Starknet空投将于今日20时开放领取；比特币未平仓合约量接近历史高点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.theblockbeats.info/flash/228421?t=binance",
+          "author": "contact@theblockbeats.org (律动BlockBeats)",
+          "description": "BlockBeats 消息，2 月 20 日，据 DL News 报道，一位匿名的高价值 NFT 交易者在将三年前购买的 10 枚早期以太坊 NFT 出售后，获得了 1300 万美元的利润。\n\n这位化名为 OldSchoolCollection 的交易者在 NFT 市场 OpenSea 上购买了 Autoglyphs 系列的 10 枚 NFT，总计花费 140 万美元，时间是 2021 年 2 月。\n\n今天，OldSchoolCollection 通过 NFT 经纪平台 Fountain 将同样的 10 枚 Autoglyphs 出售给了一名私人收藏家，售价为 5000 枚以太坊，价值约为 1450 万美元。",
+          "link": "https://m.theblockbeats.info/flash/228421?t=binance",
+          "publishedOn": "2024-02-20T01:34:20.000Z",
+          "wordCount": null,
+          "title": "某交易员售出3年前购入的10枚NFT，获利1300万美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.theblockbeats.info/flash/228411?t=binance",
+          "author": "contact@theblockbeats.org (律动BlockBeats)",
+          "description": "BlockBeats 消息，2 月 20 日，Layer2 网络 Blast 官方表示，将在本周晚些时候宣布确切的主网启动日期。\n\n此外，Blast 表示，BIG BANG 竞赛获奖名单将于 2 月 23 日公布，还将增加每个类别的获奖者数量，并向获奖者分配比原计划更多的奖励。",
+          "link": "https://m.theblockbeats.info/flash/228411?t=binance",
+          "publishedOn": "2024-02-20T01:00:31.000Z",
+          "wordCount": null,
+          "title": "Blast将于本周宣布确切的主网启动日期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.theblockbeats.info/flash/228403?t=binance",
+          "author": "contact@theblockbeats.org (律动BlockBeats)",
+          "description": "BlockBeats 消息，2 月 20 日，据行情数据显示，存储板块代币出现普涨行情，其中：\n\nICP 24 小时涨幅 5.1%，现报价 14.38 美元；\nFIL 24 小时涨幅 18.85%，现报价 7.5 美元；\nAR 24 小时涨幅 21.08%，现报价 14.72 美元；\nSTORJ 24 小时涨幅 8.75%，现报价 0.77 美元；\nRSS3 24 小时涨幅 32.7%，现报价 0.228 美元。",
+          "link": "https://m.theblockbeats.info/flash/228403?t=binance",
+          "publishedOn": "2024-02-20T00:44:36.000Z",
+          "wordCount": null,
+          "title": "存储板块代币普涨，AR 24小时涨超21%",
+          "imageUrl": null
+        },
+        {
           "id": "https://m.theblockbeats.info/flash/228370?t=binance",
           "author": "contact@theblockbeats.org (律动BlockBeats)",
           "description": "BlockBeats 消息，2 月 20 日，多链钱包 Trust Wallet 官方宣布推出由账户抽象驱动的智能合约钱包 Trust Wallet SWIFT，已进入公开测试阶段，并将于 2024 年 2 月 26 日在全球全面推出。\n\nSWIFT 支持 7 条低成本且可扩展的主要 EVM 链，包括 Arbitrum、Polygon、BSC、opBNB、Base、Optimism 和 Avalanche，并计划增加对更多链的支持。",
@@ -5586,6 +5715,196 @@
       "feedUrl": "https://www.chaincatcher.com/rss/clist",
       "siteUrl": "https://www.chaincatcher.com/",
       "articles": [
+        {
+          "id": "https://www.chaincatcher.com/article/2114499",
+          "author": null,
+          "description": "ChainCatcher 消息，据官方公告，币安将于2024年02月20日21:00（东八区时间）上线Starknet（STRK），并开放以下现货交易对 现货交易对：STRK/BTC、STRK/USDT、STRK/FDUSD、STRK/TRY；STRK 充值通道现将于2024年02月20日20:00（东八区时间）开放；STRK提现预计于2024年02月21日21:00（东八区时间）开放；STRK的上币费为 0 BNB。",
+          "link": "https://www.chaincatcher.com/article/2114499",
+          "publishedOn": "2024-02-20T10:47:47.000Z",
+          "wordCount": 1529,
+          "title": "币安上市Starknet（STRK）并为其添加种子标签",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.650ee7b.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114498",
+          "author": null,
+          "description": "摇摆选民决定选举。",
+          "link": "https://www.chaincatcher.com/article/2114498",
+          "publishedOn": "2024-02-20T10:41:45.000Z",
+          "wordCount": 1331,
+          "title": "美国大选 2024：聚沙成塔的加密选民或将成为 \"造王者\"",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240220/1708396964080-405447.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114497",
+          "author": null,
+          "description": "ChainCatcher 消息，币安将于 2 月 20 日 21:00 上线 Starknet 代币 STRK，并为其添加种子标签。\r\n\r\nSTRK 充值通道现已开放，随后将上线现货交易对 STRK/BTC、STRK/USDT、STRK/FDUSD、STRK/TRY。",
+          "link": "https://www.chaincatcher.com/article/2114497",
+          "publishedOn": "2024-02-20T10:36:59.000Z",
+          "wordCount": 1638,
+          "title": "币安将于今晚 21:00 上线 Starknet 代币 STRK",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.650ee7b.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114496",
+          "author": null,
+          "description": "ChainCatcher 消息，福布斯宣布在 The Sandbox 元宇宙中建设永久性土地，这个虚拟地产内将建立一个用于互动、参与和协作的动态社区中心。其中，虚拟空间元素包括一个豪华游泳池、一个优雅的酒吧，以及用于专门庆祝 2024 年 30 岁以下的获奖者的综合画廊。\r\n\r\n福布斯首席增长官塔哈·艾哈迈德（Taha Ahmed）表示：“通过在这个数字领域建立永久性存在，为社区开辟了新的途径，以前所未有的方式连接、学习和共同成长。”",
+          "link": "https://www.chaincatcher.com/article/2114496",
+          "publishedOn": "2024-02-20T10:30:56.000Z",
+          "wordCount": 229,
+          "title": "福布斯宣布在 The Sandbox 元宇宙中建设永久性土地",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.650ee7b.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114495",
+          "author": null,
+          "description": "之前耕种的种子已经开花结果 ARB、TIA、JTO……2024 年又会有哪些潜力空投在等着我们呢？",
+          "link": "https://www.chaincatcher.com/article/2114495",
+          "publishedOn": "2024-02-20T10:26:15.000Z",
+          "wordCount": 2913,
+          "title": "2024年潜力空投机会梳理（上篇）",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240220/1708396606840-209122.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114494",
+          "author": null,
+          "description": "ChainCatcher 消息，中国国家安全部今日发文表示，国家安全机关工作发现，个别境外地图公司利用采集地图数据换取虚拟货币奖励的方式，诱使境内人员购买并使用专用设备进行地图“打卡”，非法采集敏感地理空间信息数据，并实时上传至境外服务器，甚至针对特定区域开出高额奖励，吸引“采集者”进行重点采集。个别境内人员国家安全意识淡薄，被地图打卡赚钱的形式所诱惑，在不知不觉中被别有用心的境外公司利用，成为了其非法搜集窃取地理空间数据的“帮凶”。\r\n\r\n国家安全机关会同有关职能部门针对上述情况对搜集窃取中国敏感地理空间信息数据的境内外人员、企业进行查处，及时阻断相关数据非法出境，消除了相关数据泄露的风险隐患。",
+          "link": "https://www.chaincatcher.com/article/2114494",
+          "publishedOn": "2024-02-20T10:18:17.000Z",
+          "wordCount": 519,
+          "title": "国安部：个别境外地图公司以虚拟货币奖励诱使境内人员非法采集敏感地理空间信息数据",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.650ee7b.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114493",
+          "author": null,
+          "description": "ChainCatcher 消息，币安理财（Earn）将支持对币安 ETH 质押用户的 Starknet（STRK）分发计划，其中币安 ETH 质押用户将根据 2022 年 9 月 16 日 7:59（东八区时间）快照时其在符合条件的钱包中的 BETH 总额，在其现货钱包中收到 STRK 代币。\r\n\r\n符合条件的用户将在 Starknet Foundation 确定的正式分发日期（2 月 20 日 20:00）后的 30 天内获得 STRK 代币分发。\r\n\r\n最终的 BETH:STRK 分发比例、符合条件的钱包列表以及 STRK 分发计划完成情况，币安将另行公告。",
+          "link": "https://www.chaincatcher.com/article/2114493",
+          "publishedOn": "2024-02-20T09:58:29.000Z",
+          "wordCount": 1678,
+          "title": "币安理财将支持对币安 ETH 质押用户的 STRK 分发计划",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.650ee7b.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114492",
+          "author": null,
+          "description": "ChainCatcher 消息，NFT 永续合约交易所 nftperp v2 版本已对白名单用户开放。 其中，V2 版本中是全新改进的 NFT 永续合约模型，引入了 Fusion AMM 功能可将去中心化限价订单簿与 AMM 合并以实现最佳交易，还有用于精确 NFT 估值的内部预言机系统等。\r\n\r\n另外，nftperp v2 还推出了 Alpha 激励计划来奖励社区参与。不过，目前该活动仅对白名单用户开放。",
+          "link": "https://www.chaincatcher.com/article/2114492",
+          "publishedOn": "2024-02-20T09:51:56.000Z",
+          "wordCount": 1667,
+          "title": "NFT 永续合约交易所 nftperp v2 版本已对白名单用户开放",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.650ee7b.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114491",
+          "author": null,
+          "description": "ChainCatcher 消息，据 Spot On Chain 监测，4 小时前，Storj 团队向币安存入 250 万枚 STORJ，约 188 万美元。",
+          "link": "https://www.chaincatcher.com/article/2114491",
+          "publishedOn": "2024-02-20T09:50:33.000Z",
+          "wordCount": 163,
+          "title": "数据：Storj 团队在 4 小时前向币安存入 250 万枚 STORJ，约 188 万美元",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240220/1708393820041-109994.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114490",
+          "author": null,
+          "description": "Lava此前已获得1500万美元种子轮融资，计划于上半年推出主网，现已推出Magma积分奖励活动。",
+          "link": "https://www.chaincatcher.com/article/2114490",
+          "publishedOn": "2024-02-20T09:37:42.000Z",
+          "wordCount": 4453,
+          "title": "模块化区块链Lava Network即将推出主网，如何交互获取潜在空投？",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240220/1708393053788-578975.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114489",
+          "author": null,
+          "description": "ChainCatcher 消息，据路透社援引消息人士报道，社交媒体平台 Reddit 已经签署了一份合同，允许一家人工智能（AI）公司在其平台的内容上训练其模型，年价值 6000 万美元。",
+          "link": "https://www.chaincatcher.com/article/2114489",
+          "publishedOn": "2024-02-20T09:26:16.000Z",
+          "wordCount": 1532,
+          "title": "知情人士：Reddit 已允许某 AI 公司利用平台内容训练模型，年价值 6000 万美元",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.650ee7b.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114488",
+          "author": null,
+          "description": "ChainCatcher 消息，今日，NFT 交易员通过出售三年前购买的 10 个早期以太坊 NFT 系列 Autoglyphs 赚取了 1300 万美元。\r\n\r\n该 NFT 交易员在 OpenSea 平台化名为 OldSchoolCollection ，于 2021 年从 Autoglyphs 系列中购买了 10 个 NFT，总价为 140 万美元。 今日 通过 NFT 经纪平台 Fountain 将其 10 个 Autoglyphs 以 5,000 ETH 的价格（价值约 1450 万美元）出售给一位私人收藏家, 赚取了超 1300 万美元。\r\n\r\nAutoglyphs 是以太坊网络上的首批生成艺术 NFT 之一，由 CryptoPunks 开发商 Larva Labs 于 2019 年推出。",
+          "link": "https://www.chaincatcher.com/article/2114488",
+          "publishedOn": "2024-02-20T09:20:20.000Z",
+          "wordCount": 1768,
+          "title": "NFT 交易员通过出售早期 Autoglyphs 系列 NFT 获利 1300 万美元",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.650ee7b.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114487",
+          "author": null,
+          "description": "ChainCatcher 消息，Layer2 网络 Blast 官方表示，将在本周晚些时候宣布确切的主网启动日期，关键日期是 2024 年 2 月和 2024 年 5 月。\r\n\r\n此外，Blast 表示，BIG BANG 竞赛获奖名单将于 2 月 23 日公布，还将增加每个类别的获奖者数量，并向获奖者分配比原计划更多的奖励。",
+          "link": "https://www.chaincatcher.com/article/2114487",
+          "publishedOn": "2024-02-20T09:14:55.000Z",
+          "wordCount": 199,
+          "title": "Blast 本周将宣布确切的主网启动日期",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240220/1708391586254-656910.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114486",
+          "author": null,
+          "description": "ChainCatcher 消息，行情数据显示，去中心化存储平台 Arweave 代币 AR 价格突破 15 美元，价格创下 18 个月新高。现报价 14.7 美元，24 小时涨幅 21.08%，市值达 9.36 亿美元。",
+          "link": "https://www.chaincatcher.com/article/2114486",
+          "publishedOn": "2024-02-20T09:02:15.000Z",
+          "wordCount": 1666,
+          "title": "AR 价格突破 15 美元，创 18 个月内新高",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.650ee7b.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114485",
+          "author": null,
+          "description": "ChainCatcher 消息，据 NFTgators 报道，电商巨头 eBay 已裁减超 30% 的 Web3 团队，引发外界猜测其可能关闭 NFT 业务。2022 年 6 月，eBay 收购 NFT 市场 KnownOrigin 后，现更改 Web3 战略，业务及战略官 Stef Jay 辞职，且与 KnownOrigin 关系恶化。\r\n\r\n该公司已暂停所有数字艺术计划，内部对领导层和战略团队的批评增多。在加密市场熊市背景下，eBay 的 NFT 业务未来不明。",
+          "link": "https://www.chaincatcher.com/article/2114485",
+          "publishedOn": "2024-02-20T08:47:24.000Z",
+          "wordCount": 269,
+          "title": "eBay 已裁减超 30% 的 Web3 团队，或将关闭 NFT 业务",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.650ee7b.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114484",
+          "author": null,
+          "description": "ChainCatcher 消息，总部位于德国慕尼黑的去中心化数据覆盖解决方案提供商 Silencio Network，专注于对抗噪音污染，已成功筹集到 100 万美元 Pre-Seed 轮融资。这轮融资由 Borderless Capital 领投，Moonrock Capital、Master Ventures 和 Cogitent Ventures 参投。\r\n\r\nSilencio Network 计划利用这笔资金加速公司增长，提升数据完整性，促进合作伙伴关系，并推进更多战略计划。通过其 App，使用手机测量噪音污染即可获得奖励。",
+          "link": "https://www.chaincatcher.com/article/2114484",
+          "publishedOn": "2024-02-20T08:40:52.000Z",
+          "wordCount": 1672,
+          "title": "专注于对抗噪音污染的 Silencio Network 完成 100 万美元 Pre-Seed 轮融资",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240220/1708389627641-158799.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114483",
+          "author": null,
+          "description": "ChainCatcher 消息，自 2021 年 8 月 5 日 EIP-1559 上线以来，ETH 总计销毁数量达 403.3 万枚，按当前价值计算超过 116 亿美元。",
+          "link": "https://www.chaincatcher.com/article/2114483",
+          "publishedOn": "2024-02-20T08:35:48.000Z",
+          "wordCount": 207,
+          "title": "以太坊燃烧量累计突破 400 万枚",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.650ee7b.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114482",
+          "author": null,
+          "description": "ChainCatcher 消息，据 Coinglass 数据显示，全网以太坊期货合约未平仓头寸升至 356.93 万枚 ETH（约合 105.84 亿美元），过去 24 小时增幅达 3.75%。\r\n\r\n其中： Binance 以太坊合约未平仓头寸为 117.52 万 ETH（约合 34.83 亿美元），位列第一，过去 24 小时持仓量增幅达 2.95%。",
+          "link": "https://www.chaincatcher.com/article/2114482",
+          "publishedOn": "2024-02-20T08:16:38.000Z",
+          "wordCount": 1652,
+          "title": "全网以太坊合约未平仓头寸突破 105 亿美元，过去 24 小时增幅达 3.75%",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.650ee7b.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114481",
+          "author": null,
+          "description": "ChainCatcher 消息，据 CoinDesk 报道，加密货币交易平台 Coinbase 加拿大总监 Lucas Matheson 表示，Coinbase 正在加拿大申请其 \"受限制经销商注册\"，这是一种新型指导方针，要求交易平台向加拿大官方注册。\r\n\r\n加拿大的监管原则允许公司推出新的产品和服务，Coinbase 打算在加拿大推出永续期货合约和其他衍生品产品，并与安大略证券委员会（OSC）等监管机构进行公开对话，以更新该国的政策以实现这一目标。\r\n\r\n此外，Coinbase 最近还加入了织加拿大 Web3 委员会，这是一个多方非营利组织，旨在推动加拿大的立法和监管举措对行业更加友好。",
+          "link": "https://www.chaincatcher.com/article/2114481",
+          "publishedOn": "2024-02-20T08:14:06.000Z",
+          "wordCount": 198,
+          "title": "Coinbase 正寻求在加拿大推出永续期货合约和其他衍生产品",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.650ee7b.png"
+        },
         {
           "id": "https://www.chaincatcher.com/article/2114480",
           "author": null,
@@ -19651,6 +19970,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://twitter.com/LineaBuild/status/1759636669417070645",
+          "author": null,
+          "description": "<p>ConsenSys 旗下 Layer2 网络 Linea 推出 Web3 游戏任务「Linea Park」，将于 2024 年 2 月 20 日开始，持续六周，直至 2024 年 4 月 2 日结束，任务合作伙伴为 Web3 任务和赏金平台 Layer3，用户可体验游戏项目并赚取 Linea LXP。\n\nLinea Park 拥有 10 个独特的区域，包括 4 个行政区域和 6 个充满沉浸式任务的主题区域，包含 RPG、MMO、动作、策略等游戏。</p><p><a href=\"https://twitter.com/LineaBuild/status/1759636669417070645\">内容来源</a></p><hr><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/LineaBuild/status/1759636669417070645",
+          "publishedOn": "2024-02-20T01:27:39.000Z",
+          "wordCount": null,
+          "title": "Linea 推出 Web3 游戏任务「Linea Park」，用户可赚取 Linea LXP",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/50872",
           "author": null,
           "description": "<p><strong>Chainfeeds 导读：</strong></p><p>人工智能向加密领域引入了与我们已经在 Web2 中看到的相同的创新，增强了从基础设施开发到用户体验和可使用性的各个方面。然而，项目仍处于早期阶段，在短期内，加密和人工智能的整合将主要由链下整合主导。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://www.theblockbeats.info/news/50872\">https://www.theblockbeats.info/news/50872</a></p>\n<p><strong>文章作者：</strong></p><p>Lucas Tcheyan</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>Lucas Tcheyan：</strong>去中心化计算：仍处于开发的早期阶段，刚刚开始使用最先进的计算能力，训练生产环境中最强大的人工智能模型。为了获得有意义的市场份额，他们需要展示与中心化替代品相比的实际优势。更广泛采用的潜在诱因包括：GPU 供需情况、监管、审查、数据隐私及用户体验；\n\n智能合约与零知识机器学习（zkML）：zkML 仍处于实验阶段，大多数项目都专注于构建基础设施原型和概念验证。目前面临的挑战包括计算成本、内存限制、模型复杂性、有限的工具和基础设施，以及开发人才。随着领域的成熟和这些限制的解决，zkML 将成为人工智能和加密集成的关键组成部分。在其核心，zkML 承诺能够将任何规模的链下计算带到链上，同时保持与在链上运行计算相同或接近相同的安全保障。然而，在实现这一愿景之前，该技术的早期用户将继续不得不在 zkML 的隐私和安全性与替代方案的效率之间进行权衡。\n\n人工智能代理：项目刚刚开始推出功能代理，可以使用其基础设施处理简单的任务 —— 这通常只有经验丰富的开发者和用户才能使用。随着时间的推移，人工智能代理将对加密领域产生的最大影响之一是改善所有垂直领域的用户体验。交易将开始从基于点击转向基于文本，用户将能够通过大语言模型（LLMs）与链上代理进行交互。已经有像 Dawn Wallet 这样的团队推出了用于用户在链上进行交互的聊天机器人钱包。目前，代理可能仅限于确定性的加密货币交易，其中给定输入保证给定输出。如何利用这些代理的能力来执行复杂任务的模型，以及扩展其可以完成的任务范围的工具，都需要进一步的发展。要使加密代理在新颖的链上加密用例之外变得有用，需要更广泛地整合和接受加密作为支付形式以及法规的明确。然而，随着这些组件的发展，代理将成为上文讨论的去中心化计算和 zkML 解决方案中最大的消费者之一，以自主的非确定性方式接收和解决任何任务。</p><a href=\"https://www.theblockbeats.info/news/50872\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
@@ -20877,6 +21206,16 @@
       "feedUrl": "https://ethresear.ch/latest.rss",
       "siteUrl": "https://ethresear.ch/latest",
       "articles": [
+        {
+          "id": "ethresear.ch-topic-18728",
+          "author": "potuz",
+          "description": "ePBS design constraints\nWe characterize the problem that enshrining proposer-builder separation into the core Ethereum protocol tries to solve. We identify a basic suite of features essential for any viable solution. Subsequently, we explore additional design considerations that lack consensus. By accepting certain constraints, the range of potential solutions becomes significantly limited.\nTable of Contents\nePBS design constraints\n\n1. Introduction\n2. Current status of PBS: MEV-Boost\n\n2.1. The essential players\n\nProposers\nBuilders\n2.2. What is the problem itself?\n3. Enshrining PBS\n\n3.1. Builder safety\n3.2. Unconditional payment.\n3.3. Proposer Safety.\n3.3. Builder safety revisited.\n3.4. Minimal trustless system.\n3.5. No trusted advantage.\n4. Implementation details.\n\n4.1. Rounds of voting.\n4…",
+          "link": "https://ethresear.ch/t/epbs-design-constraints/18728",
+          "publishedOn": "2024-02-20T00:46:10.000Z",
+          "wordCount": 10103,
+          "title": "ePBS design constraints",
+          "imageUrl": "https://ethresear.ch/uploads/default/optimized/2X/6/62d6a99d68e97088bdf157a582a55d8b5cccb38b_2_1024x585.jpeg"
+        },
         {
           "id": "ethresear.ch-topic-18713",
           "author": "MaxResnick",

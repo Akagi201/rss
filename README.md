@@ -11,6 +11,7 @@
 * Mirror: Appending "/feed/atom" to link, e.g. <https://ens.mirror.xyz/feed/atom>
 * Ghost: Appending "/rss" to link, e.g. <https://fuel-labs.ghost.io/rss/>
 * Medium: Adding "/feed" after medium.com, e.g. <https://medium.com/feed/anomanetwork>
+* CSDN: Adding "/rss/list" to link, e.g. <https://blog.csdn.net/mutourend/rss/list>
 
 ## rss proxy
 

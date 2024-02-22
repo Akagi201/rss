@@ -62,6 +62,86 @@
       "siteUrl": "https://www.v2ex.com/",
       "articles": [
         {
+          "id": "https://www.v2ex.com/t/1017462",
+          "author": "DarylDiao",
+          "description": "DarylDiao: \n呜呜，V 友们，有什么绿茶推荐，最近眼睛疼又上火的，总是感觉喉咙涩涩的。寻一款适合的茶，价位 300/斤以内。\n最好附上链接啥的",
+          "link": "https://www.v2ex.com/t/1017462",
+          "publishedOn": "2024-02-22T03:14:19.000Z",
+          "wordCount": 1070,
+          "title": "程序员喝什么茶",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.v2ex.com/t/1017458",
+          "author": "pursuewind",
+          "description": "pursuewind: \n19 年毕业 12k ，上家公司 14 薪呆两年从 14k 涨到 16k ，去年进外包了 12 薪还转 golang 大半年了到现在一直是 18k ，之前的同事工资早翻番了，怎么我他妈的混成这逼样\nhttps://doc.pursue.pub/\nhttps://github.com/pursue-wind\nJava： 熟练掌握 Java 基础、多线程、JVM\nKotlin： 熟练使用 Kotlin 和 SpringBoot 结合开发，有 IDEA 插件开发经验\nGo： 转 Go 半年，参与过几个 Golang 项目开发\nPython： 熟练使用 Python 进行 Scrapy 爬虫开发，平时工作使用 Python 脚本提升效率\nLinux： 熟练使用 Linux 常用命令\n数据库： 熟练掌握 MySQL 、Redis 等常用数据库\n框架： 熟练掌握 Spring 、SpringMVC 、SpringBoot 、SpringSecurity 、SpringWebFlux 、JPA 、MyBatis 等主流开发框架\n分布式： 熟练使用 SpringCloudNetflix 、SpringCloudAlibaba 、Dubbo\n大数据： 熟练使用 Hadoop 、Hive 、Presto 、Trino 等常用大数据组件\n搜索引擎： 熟练使用 ElasticSearch\n消息队列： 熟练使用 Kafka 、RocketMQ 等常用消息队列\n工具： 熟练使用 Git 、Maven 、Gradle 、Docker\nCICD： 熟练使用 GitLab CI 、Jenkins 、云效流水线、Coding 持续集成\n云原生： 了解 kubernetes 的使用\n前端： 熟练使用 Vue 全家桶、jQuery 、微信小程序，有实际开发经验",
+          "link": "https://www.v2ex.com/t/1017458",
+          "publishedOn": "2024-02-22T03:10:03.000Z",
+          "wordCount": 1561,
+          "title": "19 年毕业，大家帮忙看看，我这水平深圳市场值多少钱",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.v2ex.com/t/1017442",
+          "author": "HelloWZ",
+          "description": "HelloWZ: \n情况 ：我和老婆老家河南农村，已在上海落户，孩子刚出生两个月，目前我妈和老婆在家照顾，老婆 5 月产假结束，我妈一个人照顾。\n问题：我妈只上过两年学，人属于比较老实沉闷的类型，做饭只是基本能吃，育儿知识基本没有，担心以后她独自照顾孩子有困难。\n选择：\n白天我妈带，夜晚我俩带，三岁以后白天幼儿园，夜晚我俩带。\n请保姆，但是担心保姆的人品和耐心，毕竟不是自己的孩子。\n我 or 我老婆全职带娃，经济来源就会不足，生活更困难。\n请教 v 友们都是怎么带孩子的，有没有其他更好的选择，谢谢",
+          "link": "https://www.v2ex.com/t/1017442",
+          "publishedOn": "2024-02-22T02:30:08.000Z",
+          "wordCount": 1308,
+          "title": "遇到一个现实问题，有小孩后谁来照顾？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.v2ex.com/t/1017427",
+          "author": "huoxing9888888",
+          "description": "huoxing9888888: \n从 2019 年底到现在已经好几年没有睡过好觉了，晚上一趟上床就胡思乱想得很久才能睡着。过年回老家几天倒是入睡挺快，可是来深圳这 4 天晚上都是 4 、5 点才能睡着，有点受不了。求帮助！",
+          "link": "https://www.v2ex.com/t/1017427",
+          "publishedOn": "2024-02-22T01:50:56.000Z",
+          "wordCount": 1360,
+          "title": "严重失眠该怎么办？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.v2ex.com/t/1017424",
+          "author": "stevenshawe",
+          "description": "stevenshawe: \n看到很多 v 友再问手机卡，流量卡。不如自己做代理商，可以自己办自己拿佣金。\n佣金是很高的，我抽的很少几块钱，不是那些不知道多少级的代理。\n佣金比这少的可以重新注册。\nhttps://haoka.lot-ml.com/  推荐手机号：17051203366",
+          "link": "https://www.v2ex.com/t/1017424",
+          "publishedOn": "2024-02-22T01:45:46.000Z",
+          "wordCount": 1340,
+          "title": "流量卡平台，自己办卡+佣金",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.v2ex.com/t/1017402",
+          "author": "vcfghtyjc",
+          "description": "vcfghtyjc: \n公司本身是一个快速解散重组的方式，因此才比其他的组织形式更有效率。\n中国一般的跨国公司平均寿命为 10-12 年，中国集团企业平均寿命也仅 7-8 年，中国民营企业的寿命只有 2.9 岁，中国的中小企业的平均寿命仅 2.5 年\n“嫡系”文化在这种朝生暮死的组织中有什么意义呢？真把公司当自己家了吗？",
+          "link": "https://www.v2ex.com/t/1017402",
+          "publishedOn": "2024-02-22T00:11:14.000Z",
+          "wordCount": 1068,
+          "title": "为什么国内职场有“嫡系”文化？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.v2ex.com/t/1017392",
+          "author": "fcadef",
+          "description": "fcadef: \n背景\n和女朋友是去年年底网上认识的，线下见面几天后确认关系，目前交往一个多月，我是喜欢她的。\n事情经过\n前几天她给我 wx 发推荐短视频，看到她的社交账号，然后偶然看到她爸爸的账号发过外孙的视频，2 岁左右，视频里还有一个背影很像她。\n她和我说过她是独生女，而且她的账号关注里有亲子和童装的账号。还没找她确认，但是感觉是她的孩子。\n问题\n我们现在异地，她老家北方，去年来南方工作，和我同省不同市。\n因为异地，我们也因为小事情闹过矛盾，她情绪上来比较不稳定，也说过不想提起心里的伤疤，负面情绪想要自己消化。\n她和我说过谈过几年的恋爱，要结婚了，但是男的劈腿了。不知道这个是不是她的伤疤，不知道是不是因为这个才跑到南方。\n这周末过完年她回来上班，我过去接她，见见面。周末过去不知道该不该提这件事，担心她伤疤被提起，情绪失控。\n如果是真的有小孩，我家里肯定不同意，到时候家里矛盾还是会让她受伤害。所以我是打算早点结束没有结果的恋爱，避免相处太久，让她难受。\n希望大家帮忙看看我怎么做，怎么和她沟通对她比较好。谢谢。\n// 可能大家会说我被骗了，我也想过，但是不重要了，冷静处理好这件事先吧。谢谢。",
+          "link": "https://www.v2ex.com/t/1017392",
+          "publishedOn": "2024-02-21T18:09:26.000Z",
+          "wordCount": 1261,
+          "title": "女朋友好像有个孩子，该怎么继续？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.v2ex.com/t/1017298",
+          "author": "bladey",
+          "description": "bladey: \n下半年上幼儿园，选的金宝幼儿园也每天有一节外教英语课。\n可我媳妇经不住斑马的电话推销，想报斑马英语的课（年前买了体验课，看在线录播），一节课不到 30 分钟，200 多节，一年大概不到 6 千（费用算便宜的），都是线上录播课。\n我的观点是再不报了。\n孩子还小，天天对着 pad 多看半小时视频肯定对视力有影响\n课程都是录播，缺少互动，应该作用也不大\n不想早早加入激娃行列，趁能多玩就多玩会\n暂时还没说服媳妇，如果实在不行，大家有没有比较好的推荐下",
+          "link": "https://www.v2ex.com/t/1017298",
+          "publishedOn": "2024-02-21T09:37:42.000Z",
+          "wordCount": 1467,
+          "title": "对于 3 岁的小孩有没有必要报在线英语、思维之类的启蒙课程，大家持什么观点",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.v2ex.com/t/1017287",
           "author": "M4ster",
           "description": "M4ster: \n前情提要\nStarkNet 公链项目为了激励开发者参与其平台建设，启动了空投活动。\n如果曾向 GitHub 上获得较多 Star 的项目提交过 PR ，就有资格领取 111.1 STRK 的空投奖励。\n只需要使用 OAuth 2.0 登录，就可以直接领取。\n领取规则\n截止到 2023 年 11 月 15 日，至少对全球排名前 5000 的仓库提交过三次代码贡献。\n其中至少有一次贡献是在 2018 年或之后完成的。\n领取步骤\n领取地址：https://provisions.starknet.io/\n访问奖励领取页面并连接钱包（推荐使用 Argent X）。\n通过 GitHub 登录，采用 OAuth 2.0 验证方式。\n直接领取奖励。后续的治理投票和问卷调查可忽略不计。\n将资金从钱包转至交易所，并兑换成 USDT 出售（主流交易平台均支持此交易对），或者如看好可继续持有。\n领取之后\nBN 和 OK 的风控日益严格，并对许多地区实施了功能限制。\n推荐使用 Bitget ，该平台已支持 STRK 交易。\n注册链接： https://partner.bitget.fit/bg/SQ23XV\nPS：本人无任何利益关联，请领取时务必确保收款地址填写无误。",
@@ -69,6 +149,16 @@
           "publishedOn": "2024-02-21T09:08:40.000Z",
           "wordCount": 1351,
           "title": "GitHub 用户来领空投： TOP 5k 项目的贡献者可领取价值 $200 空投",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.v2ex.com/t/1017249",
+          "author": "Heimerdinger",
+          "description": "Heimerdinger: \n本人在阿里的外包,阿里的程序员对我的感觉来说真的都非常厉害,比我以前接触到的同事根本就不是一个 level 的.工作认真,努力,细心,负责!! 当然,也可能是本人的水平太低,一直在低水平公司工作,没见过真正的大佬...",
+          "link": "https://www.v2ex.com/t/1017249",
+          "publishedOn": "2024-02-21T08:10:23.000Z",
+          "wordCount": 957,
+          "title": "为什么互联网上对阿里程序员敌意这么大？？",
           "imageUrl": null
         },
         {
@@ -889,6 +979,16 @@
       "siteUrl": "https://hellogithub.com/?sort_by=hot",
       "articles": [
         {
+          "id": "84e5d70989314e758c929c64cea33675",
+          "author": "Snapchat",
+          "description": "Homepagehttps://docs.keydb.dev/\n   \nGitHub RepoSnapchat/KeyDB\n   \nDescriptionA Multithreaded Fork of Redis\n   \nSummary该项目是由 Snapchat 开源的支持多线程的 Redis，它具有高性能、更高的吞吐量、完全兼容 Redis 协议等特点。有了多线程就可以放心大胆地执行 KEYS 和 SCAN 命令，不用再担心阻塞 Redis 了。\n   \nStars8633\n   \nForks497\n   \nSubscribers146\n   \nLanguageC++\n   \nLicenseBSD-3-Clause\n  \nIs in Chinese  No  \nIs Organization  Yes  \nIs Active  Yes  \n  \nOpen Issues166",
+          "link": "https://hellogithub.com/repository/84e5d70989314e758c929c64cea33675",
+          "publishedOn": "2024-02-22T02:14:30.000Z",
+          "wordCount": 71,
+          "title": "KeyDB: 多线程版的 Redis",
+          "imageUrl": "https://img.hellogithub.com/logo/logo.png"
+        },
+        {
           "id": "dca43c8451f64d88bda1cc86f1154f2c",
           "author": "Atlas-OS",
           "description": "Homepagehttps://atlasos.net/\n   \nGitHub RepoAtlas-OS/Atlas\n   \nDescription🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.\n   \nSummary这是一个修改版的 Windows 10 操作系统，它移除了众多用不到但会拖慢 Windows 系统的组件。瘦身后减少了系统进程数、网络和内存占用，提高了系统的性能和启动速度等，能够正常运行各种 Windows 软件和游戏，这是开源送给游戏党和追求高性能者的礼物。\n   \nStars10157\n   \nForks424\n   \nSubscribers83\n   \nLanguageBatchfile\n   \nLicenseGPL-3.0\n  \nIs in Chinese  Yes  \nIs Organization  Yes  \nIs Active  Yes  \n  \nOpen Issues23",
@@ -1120,6 +1220,36 @@
       "feedUrl": "https://learnblockchain.cn/feed/rss",
       "siteUrl": "https://learnblockchain.cn/",
       "articles": [
+        {
+          "id": "https://learnblockchain.cn/article/7433",
+          "author": "云端源想",
+          "description": "在数据驱动的时代，高效地存储和处理数据成为了开发者们的重要任务。Redis，作为一个开源的高性能键值对（key-value）数据库，以其独特的数据结构和丰富的功能，成为了众多项目的首选。今天，我们就来揭开Redis的神秘面纱，看看它是如何通过不同的数据类型，为我们提供高效、灵活的数据存储和处理能力\n查看更多",
+          "link": "https://learnblockchain.cn/article/7433",
+          "publishedOn": "2024-02-22T10:14:51.000Z",
+          "wordCount": 2309,
+          "title": "掌握Redis核心：常用数据类型的高效运用秘籍！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://learnblockchain.cn/article/7432",
+          "author": "QiaoPengjun",
+          "description": "Solana开发学习之通过RPC与Solana交互相关链接https://solana.com/docs/rpc/httphttps://www.jsonrpc.org/specificationhttps://www.json.org/json-en.htmlJSON-RPC2.\n查看更多",
+          "link": "https://learnblockchain.cn/article/7432",
+          "publishedOn": "2024-02-22T08:54:25.000Z",
+          "wordCount": null,
+          "title": "Solana 开发学习之通过RPC与Solana交互",
+          "imageUrl": null
+        },
+        {
+          "id": "https://learnblockchain.cn/article/7430",
+          "author": "零时科技",
+          "description": "2024年2月15日上午 我们监控到 DualPools 项目遭到黑客攻击，具体如下\n查看更多",
+          "link": "https://learnblockchain.cn/article/7430",
+          "publishedOn": "2024-02-22T08:03:23.000Z",
+          "wordCount": 1657,
+          "title": "零时科技 || DualPools 攻击分析",
+          "imageUrl": null
+        },
         {
           "id": "https://learnblockchain.cn/article/7428",
           "author": "Summer.XJ",
@@ -1868,6 +1998,106 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/podcast-auto-edit-for-ios",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/podcast-auto-edit-for-ios",
+          "publishedOn": "2024-02-22T08:13:12.000Z",
+          "wordCount": 518,
+          "title": "Podcast Auto Edit for iOS",
+          "imageUrl": "https://ph-files.imgix.net/31aa34f3-c53f-4456-92cd-444cba0e33fa.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/popcorn-0ce71732-107c-49f8-9005-e77f4255f055",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/popcorn-0ce71732-107c-49f8-9005-e77f4255f055",
+          "publishedOn": "2024-02-22T00:51:47.000Z",
+          "wordCount": 385,
+          "title": "Popcorn",
+          "imageUrl": "https://ph-files.imgix.net/532dace4-cac3-4c55-8333-41694f8c5631.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/visionkeys",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/visionkeys",
+          "publishedOn": "2024-02-22T00:04:43.000Z",
+          "wordCount": 363,
+          "title": "VisionKeys",
+          "imageUrl": "https://ph-files.imgix.net/b4ea5973-51e3-4ce0-bbf9-dfc2c4e6de42.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/choiced-pick-the-perfect-outfit-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/choiced-pick-the-perfect-outfit-2",
+          "publishedOn": "2024-02-21T21:08:29.000Z",
+          "wordCount": 534,
+          "title": "Choiced - Pick the perfect Outfit",
+          "imageUrl": "https://ph-files.imgix.net/63504aad-64c9-4267-84a0-23e1a42a501c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/client-project-automation-by-workona",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/client-project-automation-by-workona",
+          "publishedOn": "2024-02-21T20:21:30.000Z",
+          "wordCount": 592,
+          "title": "Client Project Automation by Workona",
+          "imageUrl": "https://ph-files.imgix.net/3d0d68df-7e8c-4078-a62d-c5491f253862.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/avatarify-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/avatarify-ai",
+          "publishedOn": "2024-02-21T19:29:58.000Z",
+          "wordCount": 476,
+          "title": "Avatarify AI",
+          "imageUrl": "https://ph-files.imgix.net/45781e41-8745-4552-a93a-7236bb8fd543.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/picstagram",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/picstagram",
+          "publishedOn": "2024-02-21T19:06:26.000Z",
+          "wordCount": 393,
+          "title": "Picstagram",
+          "imageUrl": "https://ph-files.imgix.net/1d35c181-2b83-42b1-af1f-2ee24c17b57c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/hoji-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/hoji-ai",
+          "publishedOn": "2024-02-21T18:53:40.000Z",
+          "wordCount": 562,
+          "title": "Hoji AI",
+          "imageUrl": "https://ph-files.imgix.net/6cedd6e6-398d-4262-b858-100b802c8cac.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/chartbrew-v3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/chartbrew-v3",
+          "publishedOn": "2024-02-21T17:57:09.000Z",
+          "wordCount": 525,
+          "title": "Chartbrew v3",
+          "imageUrl": "https://ph-files.imgix.net/e0bdf1fc-4cfa-4750-8cd9-28d1e64bd7a0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/apple-sports",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/apple-sports",
+          "publishedOn": "2024-02-21T16:41:33.000Z",
+          "wordCount": 389,
+          "title": "Apple Sports",
+          "imageUrl": "https://ph-files.imgix.net/0583a078-3d94-4d4f-a1a9-55d30cc83fe1.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/gemma-open-models-by-google",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -1878,6 +2108,16 @@
           "imageUrl": "https://ph-files.imgix.net/0fdaf33f-96c0-45ff-9715-be928649afc7.octet-stream?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/replit-gpt-assistant",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/replit-gpt-assistant",
+          "publishedOn": "2024-02-21T13:46:26.000Z",
+          "wordCount": 446,
+          "title": "Replit GPT Assistant",
+          "imageUrl": "https://ph-files.imgix.net/bf8c988c-acd3-4a89-8015-ce6728aff17e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/global-ai-regulation-tracker",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -1886,6 +2126,36 @@
           "wordCount": 569,
           "title": "Global AI Regulation Tracker",
           "imageUrl": "https://ph-files.imgix.net/53b8ceff-7507-42f9-8dd8-f34d2055aaeb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/pitchleague-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/pitchleague-ai",
+          "publishedOn": "2024-02-21T11:31:10.000Z",
+          "wordCount": 457,
+          "title": "PitchLeague.ai",
+          "imageUrl": "https://ph-files.imgix.net/c3ff9b2f-2055-4156-b1cb-ff887d6faeb9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/typeprompt",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/typeprompt",
+          "publishedOn": "2024-02-21T11:25:06.000Z",
+          "wordCount": 439,
+          "title": "TypePrompt",
+          "imageUrl": "https://ph-files.imgix.net/a94ba0bb-0851-4144-92a0-afaba3cc5077.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/opnform",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/opnform",
+          "publishedOn": "2024-02-21T08:54:53.000Z",
+          "wordCount": 477,
+          "title": "OpnForm",
+          "imageUrl": "https://ph-files.imgix.net/efb1aec8-38cd-4d32-9c64-727ab91f6b59.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/winner",
@@ -1906,6 +2176,26 @@
           "wordCount": 562,
           "title": "Recipe Generator",
           "imageUrl": "https://ph-files.imgix.net/58090af9-742d-4e4c-8342-340cb544746b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/talknative",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/talknative",
+          "publishedOn": "2024-02-21T05:45:21.000Z",
+          "wordCount": 544,
+          "title": "TalkNative",
+          "imageUrl": "https://ph-files.imgix.net/6dee4029-03ee-4cf4-92e4-27e436b0116b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/ideator-the-ai-idea-machine",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ideator-the-ai-idea-machine",
+          "publishedOn": "2024-02-21T01:47:16.000Z",
+          "wordCount": 508,
+          "title": "Ideator — The AI Idea Machine",
+          "imageUrl": "https://ph-files.imgix.net/cecb33a5-d839-46a3-8333-8e6b99e06eab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/swizzle-2",
@@ -1936,6 +2226,26 @@
           "wordCount": 406,
           "title": "Groq®",
           "imageUrl": "https://ph-files.imgix.net/df7e3df5-7d28-4dfe-ad1c-350ad96e0e9a.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/adfolio",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/adfolio",
+          "publishedOn": "2024-02-20T23:47:34.000Z",
+          "wordCount": 566,
+          "title": "Adfolio",
+          "imageUrl": "https://ph-files.imgix.net/4151d590-a3fc-4129-999c-d1937148f477.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/petcube-gps-tracker",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/petcube-gps-tracker",
+          "publishedOn": "2024-02-20T22:19:38.000Z",
+          "wordCount": 522,
+          "title": "Petcube GPS Tracker",
+          "imageUrl": "https://ph-files.imgix.net/98087d5f-b35b-451b-beac-50007a3be1f4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/sayfli",
@@ -1988,6 +2298,16 @@
           "imageUrl": "https://ph-files.imgix.net/aefae5a0-f36f-4517-948c-1ca1d42b6ddf.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/visla-1-0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/visla-1-0",
+          "publishedOn": "2024-02-20T15:19:35.000Z",
+          "wordCount": 516,
+          "title": "Visla 1.0",
+          "imageUrl": "https://ph-files.imgix.net/b29385f3-5c4f-4332-9e45-6be9d26c1ae8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/jet-admin-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -2016,6 +2336,16 @@
           "wordCount": 446,
           "title": "Ewolve AI",
           "imageUrl": "https://ph-files.imgix.net/e85b4cb5-b504-4fe1-88b0-e2fd2080b80a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/four-four",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/four-four",
+          "publishedOn": "2024-02-20T09:55:52.000Z",
+          "wordCount": 501,
+          "title": "Four/Four",
+          "imageUrl": "https://ph-files.imgix.net/18ffc6bc-8586-4f00-a9de-0b2a4cffed5e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/capsulegen",
@@ -2326,6 +2656,16 @@
           "wordCount": 507,
           "title": "FlowNote",
           "imageUrl": "https://ph-files.imgix.net/7de79bac-052e-4c4a-884d-16faf902a8bc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/awdience",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/awdience",
+          "publishedOn": "2024-02-17T12:36:39.000Z",
+          "wordCount": 427,
+          "title": "Awdience",
+          "imageUrl": "https://ph-files.imgix.net/b9b2e058-4a6f-4651-a9f8-a7842dd036a9.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/jobyfine",
@@ -2668,6 +3008,16 @@
           "imageUrl": "https://ph-files.imgix.net/25f42baa-0ffc-4b95-b672-297295e9b7a9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/hermae",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/hermae",
+          "publishedOn": "2024-02-15T16:26:59.000Z",
+          "wordCount": 444,
+          "title": "Hermae",
+          "imageUrl": "https://ph-files.imgix.net/d3d3bd78-3f36-404f-bc91-c9d45a426ae6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/circleback-3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -2686,6 +3036,16 @@
           "wordCount": 315,
           "title": "Bulletin",
           "imageUrl": "https://ph-files.imgix.net/0969413b-2652-4442-9506-77467d46ea05.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/kraftful-2-0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/kraftful-2-0",
+          "publishedOn": "2024-02-15T16:16:12.000Z",
+          "wordCount": 573,
+          "title": "Kraftful 2.0",
+          "imageUrl": "https://ph-files.imgix.net/f39e8f1f-b267-40f2-98a5-f39ad5a7f853.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/roomgenius",
@@ -2786,6 +3146,16 @@
           "wordCount": 440,
           "title": "InlinePro",
           "imageUrl": "https://ph-files.imgix.net/b509eaba-d293-442d-ac5c-8042745f2eb5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/build-chatbot-live-agent-mobile-app",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/build-chatbot-live-agent-mobile-app",
+          "publishedOn": "2024-02-15T08:03:17.000Z",
+          "wordCount": 526,
+          "title": "Build Chatbot - Live Agent - Mobile App",
+          "imageUrl": "https://ph-files.imgix.net/1f98358a-01ab-444d-aecc-402caaf6ca68.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/feedriv",
@@ -3408,6 +3778,16 @@
           "imageUrl": "https://ph-files.imgix.net/163463ca-ae04-4af3-8f9f-af9b8fe07560.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/userview-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/userview-ai",
+          "publishedOn": "2024-02-12T23:14:27.000Z",
+          "wordCount": 458,
+          "title": "Userview.ai",
+          "imageUrl": "https://ph-files.imgix.net/34dec521-5597-4462-8eaf-d30db2d04273.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/intellimeet",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -3426,6 +3806,16 @@
           "wordCount": 503,
           "title": "Vault by Modernbanc",
           "imageUrl": "https://ph-files.imgix.net/987d3fe0-8eb4-474e-b161-567d79ce4d21.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/recaster-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/recaster-ai",
+          "publishedOn": "2024-02-12T14:43:21.000Z",
+          "wordCount": 576,
+          "title": "Recaster AI",
+          "imageUrl": "https://ph-files.imgix.net/0c43673e-90e5-4d88-a05f-3dc8b970a16a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/the-prayer-page",
@@ -3466,6 +3856,16 @@
           "wordCount": 557,
           "title": "rootvocab.com",
           "imageUrl": "https://ph-files.imgix.net/7cec02ea-0750-4455-b5b1-4b11753f6ce4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/dezan",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/dezan",
+          "publishedOn": "2024-02-12T07:23:56.000Z",
+          "wordCount": 537,
+          "title": "Dezan",
+          "imageUrl": "https://ph-files.imgix.net/fe0acdab-deaa-48bc-a9cb-7e166ab512dd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/formtion",
@@ -3688,6 +4088,16 @@
           "imageUrl": "https://ph-files.imgix.net/a458ff89-f09d-4e61-9a75-45a8e9035dce.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/mintment-co",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/mintment-co",
+          "publishedOn": "2024-02-06T14:25:21.000Z",
+          "wordCount": 570,
+          "title": "mintment.co",
+          "imageUrl": "https://ph-files.imgix.net/930c5320-8b49-4c2d-80a3-591fd1b9b778.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/fusion-copilot",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -3758,6 +4168,16 @@
           "imageUrl": "https://ph-files.imgix.net/9963e98c-1f79-481e-8f63-3ef106d8e1f1.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/dreamwriter",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/dreamwriter",
+          "publishedOn": "2024-02-03T17:14:22.000Z",
+          "wordCount": 445,
+          "title": "Dreamwriter",
+          "imageUrl": "https://ph-files.imgix.net/48dbfaf5-ad10-4508-a1ea-4fa17e18a398.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/uniqmail",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -3766,6 +4186,16 @@
           "wordCount": 507,
           "title": "UniqMail",
           "imageUrl": "https://ph-files.imgix.net/0684f6c7-bf69-40f3-852f-e28a1b2038c7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/kaamel-privacy-center",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/kaamel-privacy-center",
+          "publishedOn": "2024-02-03T00:39:23.000Z",
+          "wordCount": 531,
+          "title": "Kaamel Privacy Center",
+          "imageUrl": "https://ph-files.imgix.net/62fe251b-757f-4500-acc4-9687dbf79590.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/web3-antivirus-extension-2-0",
@@ -3796,6 +4226,16 @@
           "wordCount": 521,
           "title": "Bunji",
           "imageUrl": "https://ph-files.imgix.net/b71c1390-7195-4071-8952-6b604eabce74.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/arbster",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/arbster",
+          "publishedOn": "2024-01-29T17:19:13.000Z",
+          "wordCount": 394,
+          "title": "Arbster",
+          "imageUrl": "https://ph-files.imgix.net/dffb217a-d58e-4c32-a879-5530bd99076c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/intent-by-upflowy",
@@ -3838,6 +4278,16 @@
           "imageUrl": "https://ph-files.imgix.net/9dcb7387-3a42-49f5-958c-9ba07db96c1b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/purple-circles",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/purple-circles",
+          "publishedOn": "2024-01-25T18:35:45.000Z",
+          "wordCount": 524,
+          "title": "Purple Circles",
+          "imageUrl": "https://ph-files.imgix.net/1b68122b-1f40-4896-a8db-e0780efd9b6b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/jobroutes",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -3868,14 +4318,14 @@
           "imageUrl": "https://ph-files.imgix.net/30add552-6d57-407a-920d-0329e0fb3ea9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/varify-io",
+          "id": "https://www.producthunt.com/posts/ai-lamo-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/varify-io",
-          "publishedOn": "2024-01-23T12:23:09.000Z",
-          "wordCount": 423,
-          "title": "Varify.io",
-          "imageUrl": "https://ph-files.imgix.net/b8e10e2e-9fa4-4359-902c-83845434174e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/ai-lamo-2",
+          "publishedOn": "2024-01-24T08:28:59.000Z",
+          "wordCount": 524,
+          "title": "ai LaMo",
+          "imageUrl": "https://ph-files.imgix.net/08c20523-d2fb-4742-a064-c0f4d9da9c7e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
     },
@@ -3884,6 +4334,246 @@
       "feedUrl": "https://rsshub.app/futunn/main",
       "siteUrl": "https://news.futunn.com/main",
       "articles": [
+        {
+          "id": "https://news.futunn.com/hk/post/38271914",
+          "author": "智通財經",
+          "description": "来自华尔街知名投资机构Wedbush Securities的资深分析师丹·艾夫斯(Dan Ives)在英伟达 (NVDA.US)公布大超预期的业绩以及业绩展望后表示，英伟达截至1月28日的2024财年Q4业绩堪称属于英伟达的“泰勒·斯威夫特时刻”。分析师艾夫斯在谈到英伟达创纪录的季度业绩时表示：“这(英伟达业绩)为科技股牛市注入强劲动力，我愿称之为英伟达，以及整个科技市场的‘泰勒·斯威夫特时刻’。这可能是过去5年间我们从全球市场上所看到的意义最重大的业绩。”\n通常来说，“泰勒·斯威夫特时刻”(Taylor Swift Moment)比喻改变人或物命运的重要事件，在这一时刻之后往往步入新台阶。丹·艾夫斯在这里指的是英伟达来到重要“临界点”，可能将全面引领全球AI革命，进而推动英伟达股价以及科技股牛市势头，就像流行歌手泰勒·斯威夫特引领全球数字音乐付费浪潮，以及她的每一张新专辑对于全球流行音乐的重大影响力，最重要的是泰勒演唱会甚至能给举办地带来巨大经济效益。\n英伟达劲爆业绩公布后，股价在美股盘后一度暴涨近11%至746美元。受英伟达超预期业绩和乐观预期驱动，日韩芯片股集体上扬，东京电子股价涨超5%，瑞萨电子涨超5%，SK海力士涨超4%。中国台湾科技股同样大爆发，台积电台股涨超2%，联发科与广达涨超3%。\n英伟达——全球AI领域当之无愧的“最强卖铲人”\nWedbush资深分析师丹·艾夫斯在采访中还表示，全球AI革命已经来临，而摇旗者正是英伟达，英伟达CEO黄仁勋则证明了他堪称“AI教父”的地位。在英伟达公布财报前，Wedbush分析团队看好英伟达短期内冲击800美元。\n深水资产管理公司(Deepwater Asset Management)的管理合伙人兼联合创始人吉恩·蒙斯特(Gene Munster)则认为，最新的业绩仅仅是推动英伟达股价达到比当前高得多价格的多个“AI浪潮”中…",
+          "link": "https://news.futunn.com/hk/post/38271914",
+          "publishedOn": "2024-02-22T09:18:00.000Z",
+          "wordCount": 14266,
+          "title": "英偉達迎來“泰勒·斯威夫特時刻”：引領AI革命，股價長牛可期",
+          "imageUrl": "https://newsfile.futunn.com/news-thumbnail/20240222/public/17085935071663967852982.jpeg"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38273846",
+          "author": "財聯社",
+          "description": "①周四，随着日本股市一举升破39000点，打破了20世纪80年代末泡沫经济时期创下的、长期以来被视为牢不可破的历史高位纪录，日本各地的交易大厅里，响起了如雷的掌声…… ②对于所有日本投资者而言，他们等待这一刻，等待得实在太久了！\n\n财联社2月22日讯（编辑 潇湘）周四，随着日本股市一举升破39000点，打破了20世纪80年代末泡沫经济时期创下的、长期以来被视为牢不可破的历史高位纪录，日本各地的交易大厅里，响起了如雷的掌声……\n在当地时间中午12:32，当行情屏幕上日经225指数的报价前所未有地触及39029点时，野村证券东京交易大厅的约20名交易员一同起立致敬，他们中的一些人相互拥抱、欢呼，另一些人则由衷地以经久不息的掌声回应……\n截止周二收盘，日经225指数上涨2.19%，收报39098.68点，创下了全新的收盘纪录高位。\n\n对于所有日本投资者而言，他们等待这一刻，等待得实在太久了！\n可以说，从重新站稳脚跟、到再创新高，日经225指数这横跨34年之久的历史高位间隔时间，几乎改写了全球主要市场的盛衰史——这比华尔街从1929年股灾和大萧条中，挽回损失所花的时间还要长上十年。\nComgest公司驻日本的投资组合经理Richard Kaye表示，“很难想象日经指数回归对日本人心理的影响，因为一代人从未见过这样的股价水平。”\n他指出，“市场的磁吸效应可能会吸引大量日本国内的流动性。”\n日本老股民的“平成元年记忆”\n日经225指数之前的历史高位，出现在1989年(平成元年)的最后一个交易日(12月29日)。彼时，正值日本泡沫经济的顶峰，日本225指数在那一天创下了当时的历史最高位38957.44点。\n如今，还留有那段光辉岁月记忆的日本股民数量，无疑已经不多了。\n但毫无疑问，今时今日的璀璨新纪录，会让不少日本投资者缅怀起那样一个时代。在那个时候，这个国家的每个人似乎都是股市里的百万富…",
+          "link": "https://news.futunn.com/hk/post/38273846",
+          "publishedOn": "2024-02-22T08:59:00.000Z",
+          "wordCount": 14253,
+          "title": "掌聲經久不息！日股打破塵封34年曆史紀錄，日本股民沸騰了",
+          "imageUrl": "https://newsfile.futunn.com/news-thumbnail/20240222/public/17085922636961063931150.jpeg"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38274281",
+          "author": "華爾街見聞",
+          "description": "英伟达指出，虽然当前GPU的供应正在改善，但需求仍然强劲，预计下一代产品的市场需求将超过供给，尤其是预计今年晚些时候发货的新一代芯片B100。\n\n黄仁勋认为，整个数据中心行业正在经历一次全新的变革。\n他在当地时间周三召开的英伟达财报电话会上表示，AI工厂作为一种新型的数据中心，将数据转化为极具价值的“代币”，比如人们在使用ChatGPT、Midjourney等服务中体验到的东西。\n黄仁勋表示，计算机行业正同时处于加速计算与生成式AI转型的开端，这将推动全球数据中心基础设施安装量在未来5年内翻一番，创造每年数千亿美元的市场机会。\n考虑到广阔的市场前景，黄仁勋称，2024年及以后，数据中心业务持续增长的条件都非常优秀，预计AI Enterprise未来会成为一项非常重要的业务。\n至于英伟达是否进军ASIC（专用芯片设计）市场，黄仁勋并没有做直接回答。\n英伟达CFO Colette Kress则在财报电话会议时表示，虽然当前GPU的供应正在改善，但需求仍然强劲，预计下一代产品的市场需求将超过供给，尤其是预计今年晚些时候发货的新一代芯片B100。他表示，“构建和部署AI解决方案已经触及几乎每一个行业”，预计数据中心基础设施规模将在五年内翻番。\n当地时间周三公布的财报显示，英伟达四季度营收同比猛增265%至221亿美元，高于分析师预期的204.1亿美元，单季度收入甚至高于2021年全年。最大营收来源数据中心部门，四季度营收达到184亿美元，同比暴增409%。\n英伟达营收和利润已连续三个季度创历史纪录，2024全财年营收增长126%。\n以下是英伟达第四季度财报电话会分析师问答全文内容：\n\n高盛Toshiya Hari：\n我的问题是关于数据中心业务的，Jensen（黄仁勋）。\n很明显，你知道你在这个行业做得非常好。我很好奇你对2024-2025日历年的数据中心业务的预期，过去三个月内有何…",
+          "link": "https://news.futunn.com/hk/post/38274281",
+          "publishedOn": "2024-02-22T08:37:59.000Z",
+          "wordCount": 14000,
+          "title": "英偉達電話會：預計下一代芯片B100供不應求，全球數據中心安裝量未來5年翻一番",
+          "imageUrl": "https://pubimg.futunn.com/202205110343151113c86befb61.jpg"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38269219",
+          "author": "富途資訊",
+          "description": "富途资讯2月22日消息，港股三大指数集体走强，截至收盘，恒指涨1.45%，科指、国指分别上涨1.75%及2.05%。\n\n截至收盘，港股上涨1289只，下跌690只，收平1004只。\n\n具体行业表现如下图：\n\n板块方面，科网股午后多数拉涨，美团涨超3%，阿里巴巴涨近3%，快手、京东、百度涨超1%，腾讯涨近1%。\n三桶油齐涨，中国海洋石油涨近6%，股价再创历史新高，中石油涨近6%，中石化涨超3%。\n煤炭股涨幅强势，蒙古焦煤涨超13%，兖矿能源、首钢资源涨超8%，中国神华涨超5%。\n电力股普遍上扬，华能国际电力涨近6%，华润电力涨超3%，中国电力、华电国际电力涨近3%。\n其他方面，旅游股集体走高，携程集团绩后大涨超7%；黄金股普涨，中国黄金国际涨近4%；银行股、重型机械股、光伏股表现活跃、电信股、家电股等纷纷上涨。\n个股方面，中国海洋石油 (00883.HK)涨近6%，中金称石油可能仍是今年基本面较好的大宗资产。\n中国神华 (01088.HK)涨超5%股价创历史新高，机构分析指出，近期供应收紧预期促使煤炭价格走高。\n中国中药 (00570.HK)涨超24%，获国药集团溢价34%私有化。\n理想汽车-W (02015.HK)涨近5%，理想新车将密集登场，有助公司达成年销目标。\n莎莎国际 (00178.HK)涨近16%，港府要求增加内地旅客来港。\n心动公司 (02400.HK)大涨近15%，本月累涨超71%，《麦芬》出海表现超预期，机构料国服上线后爆款概率高。\n今日港股成交额TOP10\n\n港股通资金\n港股通方面，今日港股通（南向）净流入47.77亿港元。\n\n机构观点\n\n高盛：维持汇丰控股“买入”评级，目标价80港元\n\n高盛称，在汇丰控股 (00005.HK)业绩后，维持“买入”评级，目标价80港元。整体而言，该行上调公司2024年每股盈利预测2%，2024-2025年每股盈测上调5%、5%及6%，同时引入2028年每股盈测，料每股盈利1.36美元。此外，仍预计汇丰控股2024-26年回购金额达80/80/40亿美元。\n\n摩根大通：上调招行H股目标价至37港元，料续跑赢大市\n\n摩根大通发表研究报告指，招商银行 (03968.HK)本年至今累升16%，大幅跑赢恒指20个百分点，将其H股目标价上调16%，由32港元升至37港元，评级“增持”。该行指，作出调整是要反映下调的无风险收益率(Risk-free Rate)和更可持续的股本回报率预测。摩通又预计招行将持续跑赢大市，因派息率将提供下行保护，并指投资招行是押注中国股市复苏的替代品。\n\n星展：予金沙中国“买入”评级，目标价升至43港元\n\n星展发布研究报告称，予金沙中国有限公司 (01928.HK)“买入”评级，基于金沙中国债务水平较预测低14%，在调整净负债预测后，目标价由37.92港元升至43港元。新春期间访问澳门内地游客数量已超越2019年疫前水平，平均酒店入住率达95%远胜预期，强劲旅游动力应进一步推升澳门中场收益，金沙中国将继续作为主要受惠者。\n编辑/new",
+          "link": "https://news.futunn.com/hk/post/38269219",
+          "publishedOn": "2024-02-22T08:19:00.000Z",
+          "wordCount": 14516,
+          "title": "港市速睇 | 港股午後持續發力！科網股、石油股紛紛拉升，中海油漲近6%",
+          "imageUrl": "https://newsfile.futunn.com/news-thumbnail/20240222/public/17085829353236111191282.jpeg"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38271803",
+          "author": "環球市場播報",
+          "description": "一向唱多特斯拉 (TSLA.US)的投资者、未来基金管理合伙人加里·布莱克对他在这只股票上的投资观点进行了自我反省，目前该股仍处于低迷的交易区间。\n布莱克表示：“三年来，我对特斯拉股价的预测一直是错误的。”他补充说，在特斯拉下跌19%、而纳斯达克100指数上涨32%的这段时间里，这只股票一直是他“表现最差的多头”头寸。\n布莱克承认他对特斯拉销量轨迹的预测是错误的。他说，尽管特斯拉大幅降价并推出了电动汽车贷款服务，但其销量增长已经放缓。他指出，该公司预计2024年的销量同比增长15%，远低于2023年的38%。\n这位特斯拉投资者表示：“我大错特错的地方在于，我没有预料到特斯拉会发动价格战，这导致了特斯拉2024年和2025年的盈利能力崩溃（过去12个月下降了45%）。”\n“这是我研究中最大的错误，”布莱克说。他说，传闻中的2.5万美元的Model 2已经被推迟到2025年底，尽管他曾经认为这款车可以解决消费者的负担能力问题。\n“因此，事后看来，通过降价来推动销量是不可避免的，”他表示。\n但布莱克认为自己对全自动驾驶（FSD）软件的判断是正确的。他说：“在埃隆预测FSD会自动驾驶之后，它在很多年内都不会达到L4级，所以我一直认为Robotaxi的估值为零。”\n这位基金经理说，尽管FSD作为一种驾驶辅助工具有了显著改善，但它的转换率仍徘徊在略高于10%的水平。他估计，该技术目前为特斯拉2024年的预期每股盈利增加了14美分。\n尽管如此，布莱克仍然认为他给予特斯拉的290美元目标价是正确的。他保持乐观的前提是，他预计其他电动汽车制造商要么放弃，要么将削减电动汽车投资。不过，他告诫特斯拉不要进一步降价。\n“特斯拉进一步降价将粉碎我的投资论点，即汽车毛利率（去年）第三季度在16.3%触底，现在正在上升，因为特斯拉管理层了解到，他们从去年的降价中得到的好处很少。”\n“当我做了一笔糟糕的交易，就像我在特斯拉做的那样，我只能怪自己。空头几乎没有导致股价下跌，损失很大程度上是该公司自己造成的，我早该预见到这一点。”\n布莱克说，为了达到290美元的目标价格，特斯拉管理层应该学会使用价格以外的营销工具。尽管目前存在基本面问题，这位基金经理仍坚定地看好该股。他说：“但我持乐观态度，仍然是特斯拉多头。”\n编辑/Jeffrey",
+          "link": "https://news.futunn.com/hk/post/38271803",
+          "publishedOn": "2024-02-22T07:59:00.000Z",
+          "wordCount": 121,
+          "title": "特斯拉大多頭：我對這隻股票看法有錯，但並未認輸",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38269351",
+          "author": "格隆匯",
+          "description": "在中东地缘政治因素以及供应收紧导致油价继续攀升的影响下，石油股发起“攻势”。\n港股“三桶油”盘中携手齐创新高，中海油一度涨超5%创下历史新高，中石油也涨超5%创2015年7月以来新高，中石化涨超3%创2023年9月以来新高。\n\n隔夜，国际油价上涨，在供应趋紧的迹象下维持了前一交易日的涨幅。\nWTI 4月原油期货收涨1.13%，报77.91美元/桶，布伦特4月原油期货收涨0.84%，报83.03美元/桶。\n多因素共振 推高油价\n从海外因素来看，地缘政治冲突、美联储降息、市场供应紧缩都是导致油价上扬的重要因素。\n首先便是地缘政治因素的提振。\n目前，中东紧张局势仍在持续升温，俄乌冲突也没有结束迹象。眼下，红海危机还在升级。\n当地时间2月19日，也门胡塞武装通过导弹袭击了英国“红宝石”号货轮，并称该船损毁严重，面临在亚丁湾沉没的风险。\n自上周五以来，胡塞武装的无人机和导弹袭击至少击中了四艘船只。\n对此，美国国务院发言人马修·米勒表示，美国及其合作伙伴将“继续采取适当行动”，保护红海航运免受胡塞民兵的袭击。\n稍早前，美国再次否决了联合国安理会关于以色列-哈马斯战争的决议草案，阻止了立即人道主义停火的要求。\n另外就是市场对美国降息前景。上周，美国通胀数据推迟了美联储即将启动宽松周期的预期。\n美联储周三公布的会议纪要显示，在 1 月份央行会议上，美联储官员一致认为利率可能已见顶，但在对通胀得到控制更有信心之前，不应降息。\n由于美国通胀依然顽固，市场已经推迟了美联储何时降息的预期，目前普遍预计首次降息将在6月，而不是3月或 5 月。而较低的利率通常会刺激经济增长，从而刺激原油需求。\n根据OPEC、IEA、EIA最新月报显示，2024年原油需求分别为104.40、103.00、102.42百万桶/天，较上月预测分别+4、+6、-4万桶/天，较2023年需求分别增长224、120、142万桶。\n需求在增加，供应却在紧缩。\n近几个月来，与近期交割相关的石油合约相对于远期合约的溢价达到最高水平，这种市场结构被称为“现货升水”，被认为是市场供应紧张的迹象。\n另外，俄罗斯已承诺每天减产50万桶。作为与OPEC+减产计划的一部分，俄罗斯周二表示，尽管炼油量下降，但仍打算在2月份完成配额。\n机构：石油可能仍是今年基本面较好的大宗资产\n除了上述因素外，今日“三桶油”的大涨还受益于国内市场“中特估”概念的提振。\n此前，国资委提出将要把市值管理纳入央企负责人考核。\n近来，市场传言相关考核办法将于近期可能发布，但目前该消息尚未获得权威渠道的确认。\n作为中字头股，昨天中国石油在互动平台表示，公司已将市值表现纳入管理层年度业绩考核，从股价变化（个股对比、综合指数对比）和市场形象（资本运作表现、资本市场奖项、监管机构纪律处分）两个方面，对市值表现进行量化评价。\n业内人士认为，市值管理考核将进一步推动上市央企提高质量、强化价值创造、完善信息披露，未来相关政策或持续加码，央企上市公司有望迎来估值重塑。\n中金公司最新研报中表示，结合基本面最新进展，当前全球石油基本面的偏紧状态或仍未改变，虽然地缘局势和寒潮结束或在短期影响价格波动。\n在OPEC+于一季度维持额外减产计划的基准情形下，测算1Q2024全球石油市场或仍将面临20万桶/天左右的供需缺口，过剩的进一步出清或待OPEC+供应约束在贸易市场中得以落实，往前看，石油可能仍是今年基本面较好的大宗资产。\n瑞银发表报告指出，布伦特期油上周平均价格按周升3.3%至每桶82.5美元，主要受地缘政治因素推动。在地缘政治因素提振油价情况下，认为三桶油，即中石油、中石化及中海油将会受惠。\n编辑/Jeffrey",
+          "link": "https://news.futunn.com/hk/post/38269351",
+          "publishedOn": "2024-02-22T07:16:00.000Z",
+          "wordCount": 121,
+          "title": "“三桶油”齊飆！中海油創歷史新高，地緣政治、聯儲局政策提振全球石油市場",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38265040",
+          "author": "金十數據",
+          "description": "史诗般的回归标志着日本股市的重生，海外投资者认同“日本正处于长期牛市”。 \n\n日本股市已经重新夺回了34年前达到的历史高点，全球投资者纷纷向这个国家注入资金，他们押注日本终于摆脱通缩，并走上可持续增长的道路。\n\n史诗般的回归标志着日本股市的重生——它的复苏之路甚至比华尔街从大萧条的崩盘中恢复的时间还要漫长。\n当时，日本股市涨得如此之高、如此之快，导致实际上只有一条路可走：下跌。“1989年很可能是人类历史上最大的泡沫，”里昂证券日本公司的策略师尼古拉斯·史密斯（Nicholas Smith）说。\n今天，尽管一些人仍然担心这次反弹可能是虚假的曙光，但大多数分析师和投资者相信日本股市的基础变得更加牢固了。对股东更加友好的企业文化已经确立，日本股市的稳定增长对那些在其他市场动荡中受到损失的基金来说显得更加有吸引力。\n日本股市反弹的关键催化剂之一是通胀迹象，以及预计今年晚些时候该国将退出负利率，这鼓励公司将它们的现金储备用于扩大和改善业务。\n著名投资人沃伦·巴菲特增加了他在日本最大公司的持股，这一认可进一步增加了日本股市的吸引力。自2024年初以来，日经指数上涨了超过16%，超过了大多数其他主要市场。过去12个月左右的表现更加引人注目。\n\n尽管对于反弹仍需谨慎，持怀疑态度的人士认为，如果情绪发生变化，资金可能会迅速流出，并担心日经指数已成为一种动量投资，但海外投资者大多将这些担忧抛诸脑后。他们是这轮大涨的推动力量，占据了广泛的Topix Prime指数股票交易的近70%，而日本国内买家大多选择观望。 \n机构投资者削减了他们的投资组合，而日本个人投资者则在一月份特殊免税账户扩大后涌向美国和其他海外市场。与此同时，全球买家一直在吸纳抛售，他们的持股比例从1989年的不到5%上升至30%。 \n“全球投资者花了很长时间才接受日本已经改变，” 摩根士丹利首席亚洲策略师乔纳森·加纳（Jonathan Garner）说，该公司是最早预测日本市场复苏的主要券商之一。他说，现在，随着企业盈利持续增长和盈利能力的提高，更多海外投资者认同“日本正处于长期牛市”。 \n\n在过去的三十多年中，还有一个巨大的变化：1989年，日本公司占据了全球市值前50家公司中的32家。而如今，只有一家日本公司——丰田汽车公司，进入了全球前50名的名单。\n上世纪80年代末，由于资产价格飙升，日本的银行成为市场上真正的重量级选手。而现在市场更加平衡和多样化，主要公司包括索尼集团、休闲服装连锁经营商Uniqlo母公司以及在庞大半导体供应链中占据重要地位的公司，如受益于中国订单激增的东京电子有限公司。\n\n即使在今年的反弹之后，许多日本股票仍处于低迷水平，日经指数成分股中有37%的股票交易价格低于其账面价值。理论上，这意味着投资者通过出售公司的全部资产可能会比继续持有公司获得更多的利润。这相当于对管理层的不信任投票，但也意味着如果业务管理得当，有上升潜力。\n相比之下，标普500指数中只有3%的股票交易价低于账面价值。在欧洲斯托克600指数中，只有五分之一的股票属于这一类别。日本目前的低估值与1989年形成鲜明对比，当时资产价格处于另一个极端。\n\n所有这些意味着一些基金经理现在认为，日经225指数未来可能会有可观的收益。“我认为它很容易达到42000点这样的水平，”Comgest Asset Management的投资组合经理理查德·凯（Richard Kaye）说道。恢复到先前的历史记录水平将对日本投资者产生“巨大的心理影响”。\n编辑/Somer",
+          "link": "https://news.futunn.com/hk/post/38265040",
+          "publishedOn": "2024-02-22T06:48:43.000Z",
+          "wordCount": 121,
+          "title": "1989年來未曾見過的歷史高點，日本股市如何找回了它的魔力？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38266105",
+          "author": "環球市場播報",
+          "description": "日本央行行长植田和男预测日本的良性经济周期将加强，表明对实现稳定通胀的前景仍抱有信心，政策正常化即将到来的普遍观点得到了支持。\n“我预计良性经济周期将得到加强，通胀将随着薪资和就业增长而逐步上升，”植田和男周四在国会回答问题时表示。“有迹象表明，随着劳动力需求趋紧，企业在决定薪资时变得更加积极。”\n植田和男的讲话可能有助于市场维持对负利率将在3月或4月结束的猜测。即使在周三政府三个月来首次下调经济评估之后，这位行长也没有表现出任何谨慎的迹象。此前，日本经济在2023年底意外陷入衰退。\n当被问及日本经济处于通胀还是通缩状态时，植田和男表示日本正在经历前者。植田和男强调了在评估通胀状况时着眼于潜在物价趋势而非短期走势的重要性。\n里索那银行货币策略师Takeshi Ishida表示，日本央行行长植田和男有关通胀的言论是经过深思熟虑的，以暗示即将到来的政策变化。如果美元兑日元USD/JPY保持在150的水平，日经225指数保持在历史高点附近，日本央行可能会在3月份取消负利率政策。\n定于下周公布的数据预计将显示1月全国消费者价格涨幅放缓至1.9%，为2022年3月以来首次低于央行2%的目标。不过，基数效应预计将从2月开始显现，从而导致通胀回升。\n编辑/Jeffrey",
+          "link": "https://news.futunn.com/hk/post/38266105",
+          "publishedOn": "2024-02-22T06:37:00.000Z",
+          "wordCount": 13701,
+          "title": "日本央行行長稱對通脹朝着目標邁進抱有信心，策略師指政策或有重大改變",
+          "imageUrl": "https://pubimg.futunn.com/202205090000024743806d39960.jpg"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38264604",
+          "author": "財聯社",
+          "description": "来源：财联社 作者：刘蕊\n美东时间周三，在美国加州圣何塞举行的 Intel Foundry Direct Connect活动上，英特尔CEO帕特•盖尔辛格和OpenAI CEO萨姆•奥特曼进行了台上对话，共同强调了人工智能未来对半导体的强劲需求。\nAI时代需要更多芯片\n自2022年底推出备受瞩目的AI创新产品ChatGPT以来，OpenAI显然已经成为目前全球科技界最耀眼的明星公司之一。但萨姆·奥特曼显然不愿意局限于此：近期美国媒体爆料称，他正试图筹集高达7万亿美元的资金——这比微软和苹果的总市值还要高——以支持公司的一项半导体计划，并与英伟达展开竞争。\n在盖尔辛格与奥特曼的谈话中，盖尔辛格直接向奥特曼问出了这个备受关注的问题：“7万亿是怎么想的？”\n但奥特曼回避了这一问题，没有直接回答，只是表示：\n“事实的核心是，我们认为世界将需要更多（芯片）用于人工智能计算。这将需要全球在很多方面进行投资，超出我们的想象范围。我们现在还没有掌握足够的数据。”\n他还表示，AI计算更像是能源，在某种价格上有一定量的需求，在更高的价格上有更少的需求， “我认为每个人都低估了对大量AI计算的需求，这将是未来一件非常重要的事，非常令人兴奋。”\n奥特曼强调了加速人工智能发展势头的重要性。他认为，人工智能技术将为人类带来更美好的未来，尽管他也承认这一过程会有不利的一面。\n奥特曼表示：“我们正在走向一个由人工智能生成的内容比人类生产的内容更多的世界。所以这不仅仅是一个好故事，而是一个纯粹的好故事。”\n借助AI需求发展芯片代工业务\n在这场活动发布的当天，“AI卖铲人”英伟达刚刚发布了超强劲的Q4财报。财报显示，公司在上一个财季的营收、利润以及对下一财季的指引全面超出市场预期，并推动公司股价在盘后上涨超9%。\n作为美国芯片巨头，英特尔近年来一直在苦苦挣扎，尤其是在近期的AI革命浪潮中被英伟达甩在身后。在为期一天的会议上，英特尔公布了其追赶英伟达的计划。盖尔辛格表示，在当下这个他称之为“芯经济（Siliconomy）”的浪潮之中，他将利用市场对AI芯片的狂热需求，来重新夺回英特尔的市场领袖地位。\n“这些微型芯片使我们得以实现现代经济周期，这简直就是魔术，”盖尔辛格表示。\n自从他上任以来，盖尔辛格已经推动公司进入芯片代工的业务，并承诺投入200亿美元在俄亥俄州建立新工厂，作为其向代工领域扩张的一部分。\n盖尔辛格预测，到2030年，英特尔将主要通过满足对人工智能芯片的需求，使其代工业务达到全球第二大规模，可能仅次于目前的代工领导者台积电。\n“某种程度上，太空竞赛正在进行，”盖尔辛格表示，“（对人工智能芯片）的总体需求似乎在未来几年都是无法满足的。”\n编辑/lambor",
+          "link": "https://news.futunn.com/hk/post/38264604",
+          "publishedOn": "2024-02-22T06:26:00.000Z",
+          "wordCount": 14209,
+          "title": "英特爾和OpenAI CEO強調：AI時代將帶來更高芯片需求",
+          "imageUrl": "https://pubimg.futunn.com/202205110343135319e92e38e9f.png"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38261817",
+          "author": "格隆匯",
+          "description": "来源：格隆汇\n春节期间旅游火爆，海南现“离岛难”，南方小土豆继续涌入东北......\n资本市场也是“热辣滚烫”，旅游股连续多日上涨，A股旅游板块指数连续4日收红。\n今日，张家界更是直线涨停，长白山涨超6%，桂林旅游涨超5%，大连圣亚、天目湖涨超3%。\n港股上，携程拉升涨超7%至355港元，股价创历史新高，市值近2300亿港元。香港中旅、同程旅行涨超2%。\n\n消息面上，春节旅游数据火爆，携程2023年净营业收入同比增122%。\n旅游市场火爆\n随着时代的发展，旅游成为越来越多人过春节的选择。\n单身人士不想面临七大姑八大姨的催婚/催生等追问，选择出游过节。\n同时，不少家庭不再拘泥于春节回家过年，而是选择全家出游，度过美好时光。\n国内出游上，据文旅部数据中心测算，2024年春节假期全国国内旅游出游4.74亿人次，同比增长34.3%，按可比口径恢复至2019年同期的119%；实现国内旅游收入6326.87亿元，同比增长47.3%，按可比口径恢复至2019年同期的107.7%；计算得人均消费1335元，按可比口径恢复至2019年同期约91%。\n出境游方面，春节期间，出境旅游人次360万，接近2019年同期水平。文旅部预计，2024年出境游人次达1.3亿，同比增49%，恢复至2019年的84%，动力或来自国际航线持续恢复、互免签证协定、签证流程加速等。\n个股业绩强劲\n和旅游数据火爆相一致的是，个股业绩表现也不错。\n今日，携程集团公布2023年第四季度及全年未经审计的财务业绩。\n业绩显示，携程第四季度净营业收入103亿元，2023全年净营业收入445亿元，同比分别增长105%、122%。\n第四季度，携程国内酒店预订同比增长超130%；出境酒店和机票预订恢复至2019年同期的80%以上；携程国际OTA平台总预订同比增长超70%。\n分业务来看，携程第四季度住宿预订业务营收39亿元，同比上升131%。交通票务业务营收41亿元，同比上升123%。旅游度假业务营收7.04亿元，同比上升329%。商旅管理业务营收23亿元，同比上升109%。\n此外，携程首席执行官孙洁预计：“全球旅游业表现出了卓越的韧性，并有望维持其增长趋势。”\n机构：市场预期有望提振\n对于此次春节旅游数据超预期，机构普遍认为，有望提振全年旅游预期。\n中信证券认为，整体来看，居民休闲游消费需求韧性得到验证，有望增强市场对全年服务消费持续增长的信心。推荐配置旅游相关板块：OTA、出境游、景区、免税、酒店、博彩。\n中银证券认为，超长春节假期引发国内文旅市场开门红，供给侧利好下跨境游恢复加速。全年来看文旅市场有望延续火热态势。\n银河证券研报指出，春节假期旅游消费增长强劲，叠加市场此前认知受困于消费降级的免税消费有企稳改善信号出现，将有助于市场修正对2024年旅游板块面临高基数压力的悲观预期。\n建议聚焦三条投资主线：\n\n1）出境游板块仍有 边际改善空间，建议关注 OTA（携程旅行、同程旅行）、博彩（美高梅中国）；\n2）国内游看好产品与模式具备创新迭代能力的公司，推荐天目湖、三特索道；\n3）顺周期板块建议关注布局机会，推荐中国中免、锦江酒店、首旅酒店。\n\n编辑/lambor",
+          "link": "https://news.futunn.com/hk/post/38261817",
+          "publishedOn": "2024-02-22T05:57:50.000Z",
+          "wordCount": 121,
+          "title": "旅遊經濟“熱辣滾燙”，攜程創新高！機構看好全年火熱態勢",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38261110",
+          "author": "智通財經",
+          "description": "来源：智通财经 作者：赵锦彬\n日本日经225指数周四创下历史新高，强劲的企业盈利能力和旨在提高投资者回报的举措推动了日本股市今年的强劲上涨。\n数据显示，日经225指数一度达到38924.88点，超过了1989年创下的38918.87点的历史最高纪录。\n\n日经指数和更广泛的东证指数在整个亚太地区的表现都非常出色，在2023年飙升超过25%后，今年迄今涨幅超过10%，这是这两个股指至少十年来的最佳年度涨幅。\n日本企业第三季度强劲的盈利促使美国银行股票策略师将其对日经225指数2024年底的预测从38500点上调至41000点。并且，他们还将东证指数的预测从2715点上调至2850点。\n在“股神”巴菲特看好日本股市的引领下，投资者一直在向日本股市注入资金，并为日本政府推动大规模公司治理改革而欢呼——日本政府的目标是迫使日本公司提高股东回报。\n东京证券交易所的数据显示，1月份，外资在该交易所“优质”股票(规模最大、流动性最强的股票)上的投资超过2万亿日元。\n有报告称，在截至2024年3月的财年中，日本上市公司的净利润可能连续第三年创下历史新高。高盛分析师表示，这得益于去年10月至12月期间创纪录的季度收益，该季度收益同比增长了45%，比市场普遍预期高出14%。\n全球最大的汽车制造商丰田(TM.US)是上调盈利预测的几家日本公司之一，其中包括利润率上调和营收增长。\n日元疲软，股市走强\n另外值得注意的是，日元走软也支撑了这轮涨势，今年迄今为止，日元兑美元已下跌约6%，似乎有望跌至去年年底触及的33年低点。这在很大程度上是由美国高利率和日本超宽松政策之间的分歧推动的。\n包括日本财务大臣铃木俊一在内的多位政府官员中近期都表达了对日元走弱的担忧。据报道，铃木俊一表示，他正以一种\"紧迫感\"关注日元走势。\n\n虽然日元的长期疲软提振了日本的一些出口商，但也削弱了日本消费者的购买力。\n另一方面，尽管核心-核心通胀(不包括食品和能源价格)一年多来一直超过日本央行2%的目标，但该央行目前仍维持负利率政策。\n市场参与者预计，一旦年度春季工资谈判确认了有意义的工资增长趋势，日本央行将在4月份的政策会议上放弃负利率制度。\n日本央行认为，工资增长将转化为更有意义的螺旋式增长，从而鼓励消费者消费。\n但长期的高通胀率打击了国内消费——这是日本GDP连续第二个季度萎缩的一个关键原因，这让分析师对日本经济小幅增长的预期落空。这也意味着原属于日本的世界第三大经济体头衔被德国夺走。\n编辑/lambor",
+          "link": "https://news.futunn.com/hk/post/38261110",
+          "publishedOn": "2024-02-22T05:48:51.000Z",
+          "wordCount": 14233,
+          "title": "多頭狂歡！日經225指數創歷史新高，下一步劍指41000點？",
+          "imageUrl": "https://pubimg.futunn.com/20220509000002185b4ae302fa7.jpg"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38258027",
+          "author": "財聯社",
+          "description": "①美国商务部长吉娜·雷蒙多在活动上表示，如果美国想在半导体领域“引领世界”，就需要进一步加大政府补贴投资，比如制定第二部《芯片法案》； ②雷蒙多还暗示，美国政府向英特尔提供的芯片建厂拨款很快就会到位，英特尔应该为即将宣布的拨款“做好准备”。\n\n财联社2月22日讯（编辑 刘蕊）美东时间周三，美国芯片巨头英特尔在加州圣荷西举办了首次晶圆代工活动。美国商务部长吉娜·雷蒙多（Gina Raimondo）在活动上表示，如果美国想在半导体领域“引领世界”，就要进一步加大政府补贴投资，比如制定第二部《芯片法案》。\n美国还需要加大芯片投资\n美国总统拜登于2022年8月正式签署了《芯片法案（CHIPS）》，承诺将为美国半导体的研究和生产提供520多亿美元的政府补贴，还将为芯片工厂提供投资税抵免。\n而在周三的活动中，雷蒙多表示，仅凭一部《芯片法案》，还不足以让美国重新获得半导体供应链的领导地位。\n她表示：\n\n“我怀疑，如果我们想要领导世界，就必须有某种持续投资——无论你称其为‘CHIPS Two（第二部《芯片法案》）’或其他什么都行。我们此前已经落后得太远。”\n\n“需要明确的是，我们不能也不想在美国制造一切。我们不希望所有芯片都在美国生产。这不是一个合理的目标，”雷蒙多补充道，“但我们确实需要使我们的半导体供应链多样化，并在美国拥有更多的制造业，尤其是尖端芯片，这对人工智能至关重要。”\n\n雷蒙多还提到，她已经与OpenAI首席执行官Sam Altman进行了交谈，后者正在努力争取美国政府批准一项大规模的合资企业，以促进人工智能芯片的全球制造。\n“当我与他或该行业的其他客户交谈时，他们预测自己需要的芯片数量令人难以置信，”她说。\n英特尔有望获得巨额补贴\n自美国《芯片法案》在2022年通过以来，截至目前，尽管全球已经有170多家芯片企业申请了该法案的补贴，美国商务部却只发放了三笔数额较小的补贴。本周早些时候，芯片制造商格芯（GlobalFoundries）获得了该法案迄今为止第三笔，也是最大的一笔拨款，即15亿美元。\n雷蒙多周三表示，在推进首部《芯片法案》实施方面，她已经在尽其可能地快速前进了。\n作为美国芯片巨头，英特尔也是申请从《芯片法案》中获得资金补贴公司之一。本月早些时候，据称英特尔已经计划将俄亥俄州新芯片厂的完工时间推迟到2026年。而外界猜测，美国政府补贴迟迟未能兑现，正是拖延英特尔建厂进度的原因之一。\n不过，近期有报道援引知情官员消息称，美国拜登政府正在谈判向英特尔公司提供超过100亿美元的补贴。\n在周三的活动中，英特尔首席执行官帕特·基辛格表示，获得补贴的公告将“很快”发布。雷蒙多也在讲话中再次暗示这一点：\n\n“英特尔是一家美国冠军公司，在这次复兴中扮演着非常重要的角色，”雷蒙多表示，英特尔应该为即将宣布的《芯片法案》拨款“做好准备”。",
+          "link": "https://news.futunn.com/hk/post/38258027",
+          "publishedOn": "2024-02-22T05:36:00.000Z",
+          "wordCount": 14192,
+          "title": "美國要加碼芯片補貼？美商務部長：需要第二部《芯片法案》",
+          "imageUrl": "https://pubimg.futunn.com/202205200343595278aef4a6c60.jpg"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38260051",
+          "author": "財聯社",
+          "description": "①煤炭股为何今日走强？ ②与煤炭相关的期货品种走势如何？\n\n财联社2月22日讯（编辑 胡家荣）受多重因素推动，部分煤炭股走强，其中蒙古焦煤 (00975.HK)、南戈壁 (01878.HK)、兖矿能源 (01171.HK)分别上涨12.89%、11.84%、6.79%。\n注：煤炭股的表现\n消息方面，根据中央气象台预测，受寒潮影响，2月20-26日，我国中东部将出现持续大范围雨雪冰冻天气，此次天气过程低温持续时间长，强降雪、冻雨影响面广。\n加之在2月8日，山西省应急管理厅、国家矿山安监局山西局、山西省能源局印发《关于开展煤矿“三超”和隐蔽工作面专项整治的通知》。对此华福证券指出，此次整治力度较强，自查发现问题要求必须立行即改，煤矿企业主要负责人对自查结果负责，当下煤矿安监趋严，部分矿山或有减产，预计将对山西产区煤炭供给产生一定影响。\n此外，根据钢联数据，截至2月16日，523家炼焦煤样本矿山开工率仅为51.7%，明显低于历史同期水平；节后最新数据显示110家样本洗煤厂开工率仅为58.8%，虽较假期期间有所回升，但整体仍大幅低于历史同期水平。\n受以上消息推动，焦煤合约在昨日收盘大涨超6%过后，今日再度上涨超3%。\n\n注：焦煤主力合约的走势\n此外，光大证券在近日的研报指出，预计2024年—2026年全球煤炭供需基本平衡，在长协政策的保障下，国内煤企盈利有望维持高位稳定，高股息、央企等特征有望催化煤炭股估值继续提升。\n蒙古焦煤涨幅居前\n从个股走势来看，蒙古焦煤盘中一度大涨超13%。消息方面，该公司向嘉友国际物流出售全资附属KEX20%股权，后者主要从事开采、运输及销售位于蒙古国Umnugobi盟(南戈壁省)的BN矿场生产的煤产品，总价为8881万美元，所得款项拟用作未来潜在投资及一般营运资金。\n注：蒙古焦煤的公告\n编辑/Somer",
+          "link": "https://news.futunn.com/hk/post/38260051",
+          "publishedOn": "2024-02-22T05:16:00.000Z",
+          "wordCount": 14318,
+          "title": "多重利好提振煤炭股！蒙古焦煤、南戈壁雙雙漲超11%",
+          "imageUrl": "https://pubimg.futunn.com/2022051003430525a09b37c0998.jpg"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38256912",
+          "author": "智通財經",
+          "description": "来源：智通财经 作者：玉景\n市场普遍预计，日本央行将很快实施10年来最戏剧性的政策转变，但其后果究竟会是什么样子仍有待商榷。\n尽管日本央行即将结束世界上最后一次负利率，并结束了大规模量化宽松的试验，但该行一再宣称，将保持宽松的政策设置。这种看似脱节的现象促使经济学家猜测新参数将会是什么。\n多数经济学家预计明年4月加息，届时将是一项复杂的任务。\n日本央行观察人士预测负利率将于4月结束\n除了自2007年以来首次加息外，日本央行还必须弄清楚，在经历了10年的世界级量化宽松之后，它将如何收缩资产负债表，以及以何种速度收缩。日本央行的资产负债表与经济的比率是世界上最大的，该银行持有的债券占全日本1200万亿日元(8万亿美元)债券市场的一半左右。它也是当地股市的最大股东。\n政策利率\n根据上个月进行的一项调查，超过90%的经济学家预计新的利率目标将在“0%左右”或“0到0.1%之间”。这将排除美联储和欧洲央行青睐的最初加息25个基点的可能性。\n日本央行副行长Shinichi Uchida就短期利率可能的新设定给出了迄今为止最明确的暗示，他指出了利率低于零之前的情况：日本央行对超额准备金征收0.1%的利率，并将无担保贷款利率维持在0%左右。\nUchida在2月8日的一次演讲中表示:“如果日本央行再次出现这种情况，这将意味着加息0.1个百分点，因为目前的无担保隔夜拆借利率在- 0.1%至0%之间。”\nUchida在设计收益率曲线控制方案和负利率方案方面发挥了突出作用。他的假设分析表明，日本央行将把超额准备金率作为主要政策杠杆，目标区间为0 - 0.1%，不管官方用什么术语来表述。这将确保实际利率保持在负值区间，突显出政策仍然宽松。\n加息步伐\nUchida在演讲的参考部分引起了日本央行观察人士的注意，他在演讲中谈到了市场对加息后利率路径的预期。图表反映了两年内增长约 50 个基点的预期。\n\nUchida表示，对于这些市场观点，他不会“赞同或说它们是错的”。他坚持说，他只是把它们指出来作为参考。\n一些经济学家并不相信。\n瑞银证券首席日本经济学家、前日本央行官员Masamichi Adachi表示:“这是他讲话中最重要的信息。”“日本央行对此表示支持。”\nYCC\n日本央行行长值田和男和其他董事会成员表示，日本央行将继续维持债券市场的稳定，就像2013年大规模货币刺激计划启动之前那样。不过，他们的言论表明，他们并不一定要称这些行动为YCC。他们可能只是在政策正常化时提到购买债券。\n在调整指引时，日本央行可能会为收益率设定一个新的上限，取代目前10年期债券收益率基准1%。或者当局可以放弃这种做法，继续公布他们每月打算购买的债券数量。最重要的是，日本央行将给予市场参与者更大的灵活性来决定收益率水平，同时在收益率上涨过快时继续干预。\n对日本央行来说，影响债券收益率变得更加容易，因为它持有市场上一半的债券，这种情况也导致了更多的市场运作副作用。Uchida表示，该行尚未决定如何处置这些资产。\n风险资产购买\n至于股票，Uchida指出，当日本央行政策正常化时，终止此类购买是很自然的。这清楚地表明，如果不给日本经济或全球市场带来新的冲击，该行不太可能恢复定期购买ETF和房地产投资信托基金。\n在2020年底成为日本股票的最大持有者之后，日本央行已经明显放缓了此类购买。当局去年只购买了三次股票基金，而且根本没有购买房地产投资信托基金。\n日本央行在今年停止购买ETF\n悬而未决的是该银行持有的ETF的命运，这些ETF本月价值70万亿日元。值田和男表示，日本央行有时间考虑如何处理这些资产，暗示精确的解决方案可能不是迈向政策正常化的第一步。\n这表明日本央行并不急于像美联储和其他央行在政策正常化时可能做的那样缩减资产负债表规模。\n编辑/lambor",
+          "link": "https://news.futunn.com/hk/post/38256912",
+          "publishedOn": "2024-02-22T05:13:17.000Z",
+          "wordCount": 121,
+          "title": "全球最後一個負利率即將終結，日本將何去何從？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38235284",
+          "author": "財聯社",
+          "description": "①巴尔金表示，1月份的CPI和PPI的上涨速度快于预期，这使得即将到来的利率决议变得更加复杂； ②他担心出现这样一种状况：当商品价格的去通胀周期结束后，住房和服务仍然位于较高的水平。\n\n财联社2月22日讯（编辑 赵昊）当地时间周三（2月21日），里士满联储主席托马斯·巴尔金（Thomas Barkin）表示，美国今年1月份的通胀数据——CPI和PPI的上涨速度快于预期，这使得即将到来的利率决议变得更加复杂。\n巴尔金说道，上周发布的报告“突显了我们在最新数据中遇到的挑战”，通胀放缓依赖于商品价格的下跌，但住房和服务的通胀仍然具有粘性。“确实会担心，当商品价格的去通胀周期结束后，住房和服务仍然位于较高的水平。”\n具体数据上看，美国1月未季调CPI同比增幅录得3.1%，为2023年6月以来的最低水平，但高于市场预期的2.9%。\n\n剔除波动较大的食品和能源价格后，核心CPI的同比涨幅录得3.9%，市场原先认为会降至3.7%。另外，当周晚些时候公布的PPI也强于预期。\n财联社在美国公布CPI报告时提到，由于1月数据采用了新的权重，即住房占比上升，这可能在一定程度上解释了为何数据会强于预期。\n虽然巴尔金表示不会过于看重1月数据，但“这绝对没有让事情变得更容易，它让事情变得更难了。”\n\n展望未来，巴尔金表示，比起12个月期的同比数据，他现在更关注1个月期和3个月期的通胀指标。他预计在消费者感到不满之前，一些商家还会继续涨价。他强调，消费者与企业的通胀目标都应该趋于2%。\n在上月月末的议息会议后，美联储宣布连续第四次暂停加息，即将联邦基金利率目标区间继续维持在5.25%至5.50%。\n主席鲍威尔在当天的新闻发布会上提到该行还需看到通胀持续下降的更多证据，并指出“不太可能”在3月会议上开始降息。\n关于当前的高利率需要持续多久，巴尔金在采访中没有透露他的想法，作为联邦公开市场委员会（FOMC）今年的轮值票委，他在这一方面格为谨慎。\n上周，巴尔金解释称，决策者希望在开启降息之前看到更多数据，最新的通胀数据突显了这样做的原因。\n巴尔金称，上一年美国通胀和失业率能一齐持续走低是一个了不起的成果，但现在要保证实现“软着陆”还为时过早，“我们还有很长的路要走，现在还没有正式着陆。”\n编辑/Somer",
+          "link": "https://news.futunn.com/hk/post/38235284",
+          "publishedOn": "2024-02-22T04:55:03.000Z",
+          "wordCount": 14226,
+          "title": "聯儲局票委：美1月通脹數據難言滿意，令後續議息會議變得複雜",
+          "imageUrl": "https://pubimg.futunn.com/20220509034301930280c518f51.jpg"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38260898",
+          "author": "富途資訊",
+          "description": "富途资讯2月22日消息，港股三大指数涨跌不一，截至午盘，恒指涨0.15%，科指跌0.27%，国指涨0.53%。\n\n截至午间收盘，港股上涨787只，下跌843只，收平1353只。\n\n板块方面，科网股多数走弱，阿里涨超1%，网易、京东跌超2%，小米、快手跟跌。\n煤炭股涨幅居前，蒙古焦煤涨超11%，兖矿能源涨超6%，中国神华、中煤能源涨超3%。\n石油股持续走强，中国海洋石油涨近4%，再创历史新高，中国石油股份涨超3%，中国石油化工股份涨超2%。\n旅游股冲高，携程涨超5%，香港中旅、同程旅行涨超2%。\n港口航运股走强，海丰国际涨超1%，中远海能、中远海发、中远海控均涨超2%。\n个股方面，携程集团-S (09961.HK)涨超5%，创历史新高，2023年净营业收入同比增122%。\n汇丰控股 (00005.HK)跌超1%，2023年Q4收入130亿美元，同比下降11%。\n中国中药 (00570.HK)大涨近23%，获国药集团溢价提私有化。\n 蒙古焦煤 (00975.HK)再涨超11%，本月累涨超50%，公司拟8881万美元出售KEX的20%股权。\n半日成交额TOP20\n\n编辑/phoebe",
+          "link": "https://news.futunn.com/hk/post/38260898",
+          "publishedOn": "2024-02-22T04:07:59.000Z",
+          "wordCount": 13974,
+          "title": "港股午評 | 三大指數走勢震盪，煤炭股拉升走強，石油股持續攀升，蒙古焦煤漲超11%，中海油漲近4%再創新高",
+          "imageUrl": "https://newsfile.futunn.com/news-thumbnail/20240222/public/17085707489034606158437.jpeg"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38261386",
+          "author": "棱鏡",
+          "description": "来源：棱镜 作者：温世君\n2024年2月初，日本东京迎来入冬以来首场“警报级”大雪，但寒冷天气却丝毫不影响股市的火热。\n或者说，当下的日本股市正在一个创造历史的节点上。\n2月13日，日经平均指数（日経平均株価，Nikkei 225）单日上冲千点，盘中击穿标志性的38000点。2月22日开盘，指数一度冲上38924.88点， 冲破1989年泡沫时期的历史最高收盘点数。\n1989年12月29日，日经平均指数在盘中升至38957.44点，报收38915.87点。这是1980年代最后一个交易日，也是日本“遍地流金”的泡沫经济时代迈上巅峰、盛极而衰的转折点。\n随后，股市大跌，地产紧接着崩盘，银行、证券公司纷纷破产，日本资产价格持续缩水。泡沫破裂之后，是长期的经济不振，杠杆低位、就业不足、消费低迷、通货紧缩。“失去的10年”过去了，又是一个失去的20年、30年……\n至少从股市来看，收复失地，日本用了35年。\n35年来少见的涨势，丰田市值正式超过茅台 \n日经平均指数反映的是东京证券交易所核心主板（東証Prime）成交量、流通性最高的225支股票股价走势。自1950年9月7日开始编制，是日本股市枯荣最重要的参考指标：\n1990年第一个交易日开始，日经平均指数从历史高峰开始震荡下滑。1992年3月，指数跌破2万点。2001年，美国发生“911”事件，日经平均指数跌破1万点。\n美国次贷危机蔓延成为全球金融危机，2009年3月，日经平均指数跌至7054.98点。这是泡沫经济后，该指数的最低点。\n2010年代，“安倍经济学”三支箭（宽松货币、积极财政、调整结构）下，经济基本面得到逐步改善，日本股市缓慢复苏，并从2017年末开始，持续在2万点上方运行。\n2020年新冠疫情爆发，该指数在这年3月下跌到16552.83点的低点。但这也成为酝酿本轮牛市的一个转折点。\n为对抗疫情冲击，全球经济刺激政策开始落…",
+          "link": "https://news.futunn.com/hk/post/38261386",
+          "publishedOn": "2024-02-22T03:40:36.000Z",
+          "wordCount": 121,
+          "title": "見證歷史！日經指數重返“泡沫時代”峯值",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38253213",
+          "author": "華爾街見聞",
+          "description": "“我们现在还处于第一个AI基础设施浪潮的早期阶段。”\n\n四季度营收、利润双双同比暴涨并超预期，英伟达的业绩又一次碾压同行，惊艳了整个华尔街。\nWedbush分析师Dan Ives认为，这是一个新的“丢麦时刻”，黄仁勋震撼人心地证明了他“AI之父”的地位。\nIves还说：\n\nAI革命已经来临。\n\n资深科技分析师兼Deepwater Asset Management管理合伙人Gene Munster则认为，这只是将推动英伟达股价达到更高的多个AI“浪潮”中的第一个。\nMunster在X平台的一篇文章中写道，长期来看，英伟达的强劲增长仍在继续。\n\n我们现在还处于第一个AI基础设施浪潮的早期阶段，向超大规模数据中心和AI创业公司销售产品。\n\n“生成式AI已达引爆点”“下一代产品需求远超供应”\n当地时间周三公布的财报显示，英伟达四季度营收同比猛增265%至221亿美元，高于分析师预期的204.1亿美元，单季度收入甚至高于2021年全年。最大营收来源数据中心部门，四季度营收达到184亿美元，同比暴增409%。\n英伟达营收和利润已连续三个季度创历史纪录，2024全财年营收增长126%。\n“加速计算和生成式AI已经达到了引爆点。全球各地的公司、行业和国家的需求正在激增，”黄仁勋在稍后召开的财报电话会上表示，“我们的数据中心平台受到越来越多元化的驱动因素的推动，无论是来自大型云服务提供商和专门的GPU提供商的数据处理、训练和推理需求，还是来自企业软件和消费者互联网公司的需求。以汽车、金融服务和医疗保健为的首垂直行业，现在已经达到了数十亿美元的规模。”\n黄仁勋承诺：\n\n未来一年将带来具有卓越创新的重大新产品周期，以帮助推动AI行业向前发展。\n\n英伟达CFO科莱特·克雷斯则表示，当前GPU的供应正在改善，需求强劲。他预计，公司下一代产品的市场需求将远超过供给水平，因为“构建和部署AI解决方案已经触及几乎每一个行业。”\n据英伟达此前透露，公司下一代 “核弹级”AI 芯片B100预计将在未来几个季度发布。\n随着投资者消化这些爆炸性数据，英伟达盘后止跌回涨，涨幅一度超过10%。\n\n在周三公布强劲财报之前，今年迄今为止，英伟达股价已飙涨约36%，带动标准普尔500指数上涨约30%。过去一年里，英伟达的涨幅超过了200%。\n编辑/Somer",
+          "link": "https://news.futunn.com/hk/post/38253213",
+          "publishedOn": "2024-02-22T03:14:09.000Z",
+          "wordCount": 121,
+          "title": "英偉達再度碾壓全場！分析師驚呼：“丟麥時刻”，再次驗證了AI革命",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38259436",
+          "author": "智通財經",
+          "description": "来源：智通财经\n港股石油股早盘继续走高，中海油盘中再创历史新高。截至发稿，中国海洋石油 (00883.HK)涨3.77%，报15.96港元；中国石油股份 (00857.HK)涨3.54%，报6.15港元；中国石油化工股份 (00386.HK)涨2.53%，报4.46港元。\n\n消息面上，瑞银发表报告称，指布伦特期油上周平均价格按周升3.3%至每桶82.5美元，主要受地缘政治因素推动，包括中东紧张局势升温及俄乌冲突持续。在地缘政治因素提振油价情况下，认为三桶油，即中石油、中石化及中海油将会受惠。中金则指出，石油可能仍是今年基本面较好的大宗资产。\n此外，据券商中国报道，市场传言国企相关考核办法近期可能发布，但目前该消息尚未获得权威渠道的确认。中国石油在互动平台表示，公司已将市值表现纳入管理层年度业绩考核，从股价变化（个股对比、综合指数对比）和市场形象（资本运作表现、资本市场奖项、监管机构纪律处分）两个方面，对市值表现进行量化评价。\n编辑/lambor",
+          "link": "https://news.futunn.com/hk/post/38259436",
+          "publishedOn": "2024-02-22T02:58:00.000Z",
+          "wordCount": 14268,
+          "title": "港股異動 | 中海油漲近4%領漲石油股，地緣政治因素推高油價，瑞銀預計三桶油將可受益",
+          "imageUrl": "https://pubimg.futunn.com/2022051203432092b5f02640804.jpg"
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38259482",
+          "author": "富途資訊",
+          "description": "富途资讯2月22日消息，三大指数涨跌不一，截至发稿，恒指涨0.21%，科指跌0.07%，国指涨0.48%。\n\n板块方面，科网股走弱，B站、网易跌近3%，京东跌超2%，小米、快手跌超1%。\n\n煤炭股涨幅居前，蒙古焦煤涨超8%，兖矿能源涨近6%，中国神华、中煤能源涨超3%。\n\n内房股普跌，华润置地、融创中国跌超2%，龙湖集团、碧桂园、万科企业跌超1%。\n\n旅游股冲高，携程涨超5%，同程旅行涨近2%，香港中旅涨超1%，中国中免跟涨。\n\n个股方面，携程集团-S (09961.HK)涨超5%，2023年净营业收入同比增122%。\n\n汇丰控股 (00005.HK)跌超1%，2023年Q4收入130亿美元，同比下降11%。\n\n编辑/Corrine",
+          "link": "https://news.futunn.com/hk/post/38259482",
+          "publishedOn": "2024-02-22T02:49:22.000Z",
+          "wordCount": 121,
+          "title": "盤中速覽 | 三大指數漲跌不一，煤炭股持續走強，兗礦能源漲近6%，中國神華漲超3%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38259306",
+          "author": "智通財經",
+          "description": "来源：智通财经 作者：汪婕\n2月19日，国务院国资委召开“AI赋能 产业焕新”中央企业人工智能专题推进会。会议强调，中央企业要把发展人工智能放在全局工作中统筹谋划，深入推进产业焕新，加快布局和发展智能产业。10家中央企业签订倡议书，表示将主动向社会开放人工智能应用场景。相关标的：中国电信 (00728.HK)、中国移动 (00941.HK)、中国联通 (00762.HK)、中兴通讯 (00763.HK)。\n近年国家频频出台政策部署\n去年9月25日，工信部召开会议表示，要大力推动数字技术与实体经济深度融合，深入实施智能制造工程和中小企业数字化赋能专项行动，推动人工智能创新应用，继续适度超前推进网络、算力等新型信息基础设施建设，加快工业互联网规模化应用，提升网络安全保障能力。\n去年12月12日，工信部举行“发挥国家高新区作用 加快推进新型工业化”新闻发布会表示，国家高新区将聚焦数字技术创新，加快推进园区数字化建设和治理步伐。一是加强人工智能创新应用。推动国家高新区加强人工智能关键核心技术与共性基础技术供给，加大重点领域的应用场景开放力度。二是深入建设数字园区。加快推进园区传统基础设施数字化智能化改造，适度超前建设新型基础设施，提升园区数字化治理能力。三是大力推动制造业数字化转型。大力推动工业互联网规模应用，深化“5G+工业互联网”创新应用，培育“数字领航”企业、中小企业数字化转型标杆。\n今年1月，国务院国资委秘书长、新闻发言人庄树新在国新办举行的新闻发布会上表示，下一步，将完善推进机制、优化支持政策，集全系统之力，持之以恒、全力以赴发展战略性新兴产业和未来产业。以央企产业焕新和未来产业启航“两个行动”为抓手，加快在战略性新兴产业收入和增加值占比上取得关键进展，在央企布局结构上实现战略转型。这其中就包括：谋划推动一批重大工程，遴选战新产业“百项工程”，建设一批战略性新兴产业集群，…",
+          "link": "https://news.futunn.com/hk/post/38259306",
+          "publishedOn": "2024-02-22T02:42:11.000Z",
+          "wordCount": 121,
+          "title": "港股概念追蹤 | 加快佈局！國資委專題推進部署人工智能產業，這些公司已“搶跑”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38255503",
+          "author": "財聯社",
+          "description": "①从技术上看，扫码支付和跳转微信支付没有本质的区别，都是接入微信支付。淘宝和微信支付之间迟迟未打通，问题在于淘宝和微信支付的开放程度，而非技术。②业内认为，淘宝估计是面临极大的竞争压力，才放下身段直接接入微信支付。微信支付直接跳转优化用户体验，有助于提升转化率。\n\n财联社2月22日讯（记者 郭子硕）近日淘宝内测支持微信支付，引发电商圈和支付圈人士热议。在此之前，淘宝也曾多次内测微信支付。上一年淘宝内测“微信扫码支付”，由于消费者需在淘宝结账页面保存二维码，再打开微信App扫码完成支付，冗长的支付流程一度被市场诟病，使用体验太差属于无效创新。\n 从微信扫码支付，到直接微信支付，跳转结算一气呵成，这里面改变了什么？突破的仅仅是技术吗？对于本次淘宝支持微信支付，不少业内人士也有自己的看法。多名受访人士认为，支付方式优化，不仅仅是费率价格问题，也不是技术问题，更是多方博弈的的结果。\n 有华南支付公司人士告诉财联社记者，从技术上看，扫码支付和跳转微信支付没有本质的区别，都是接入微信支付。淘宝和微信支付之间迟迟未打通，问题在于淘宝和微信支付的开放程度，而非技术。\n “给不给淘宝用户用体验更好的支付方式，微信支付具备一定的话语权。”前述华南支付公司人士告诉财联社记者，虽然微信支付开放能增加营收，但同时也会增加淘宝的竞争力。对应的，与腾讯绑定较紧密的京东可能受到影响。\n 对此，有接近微信支付人士告诉财联社记者：“微信支付的接口都是开放的，具体看他们（淘宝）平台的设计。”针对微信支付方式调整的原因，财联社记者联系淘宝相关负责人，截至发稿未获回复。\n 虽然事件全貌不可知，但本次内测对淘宝来说意义重大。目前市场上除了传统电商平台淘宝、拼多多、京东外，以抖音电商为代表的直播电商也在快速抢占市场，电商平台间的竞争越发激烈。\n “淘宝估计是面临极大的竞争压力，才放下身段直接接入微信支付。微信支付直接跳转优化用户体验，有助于提升转化率。规模大的基础上，仅提升一个百分点也能贡献较大收益。”上述华南支付公司人士进一步补充。\n 微信支付一直是第三方支付行业的巨头，用户体量不容小觑。微信的强社交属性，为微信支付增加了一定的使用黏性。支付清算协会调研的数据显示，线下场景中，2022年移动支付用户较常使用的支付产品是微信支付、支付宝和云闪付，占比分别为87.9%、85.3%和80.3%。\n 本次内测“破圈”，也被分析人士认为积极信号明显。“这次的进步是可直接跳转，这不但优化普通用户使用体验，更是真正打破了各大平台曾经设立的‘防火墙’。”博通咨询金融业资深分析师王蓬博告诉财联社记者，微信支付一直没有独立App，使用微信支付必须打开微信，而微信的用户活跃度是平台型的支付类App无法比拟的。\n 目前，淘宝支持微信支付、微信扫码支付均只是小范围内测，并未有明确的上线时间表。在王蓬博看来，淘宝支持微信支付全面放开后是否将挤压其他支付机构线上的交易份额，还需要进一步观察。",
+          "link": "https://news.futunn.com/hk/post/38255503",
+          "publishedOn": "2024-02-22T02:13:21.000Z",
+          "wordCount": 121,
+          "title": "淘寶直接支持微信支付改變了什麼？業內：競爭使其放下身段，後續進展看雙方態度",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38255990",
+          "author": "智通財經",
+          "description": "3月FOMC會議將揭開聯儲局縮表的“面紗”",
+          "link": "https://news.futunn.com/hk/post/38255990",
+          "publishedOn": "2024-02-22T02:00:29.000Z",
+          "wordCount": 121,
+          "title": "3月FOMC會議將揭開聯儲局縮表的“面紗”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.futunn.com/hk/post/38255350",
+          "author": "智通財經",
+          "description": "造車新勢力Rivian盤後一度暴跌超17%! Q4每交付一輛車虧4萬美元",
+          "link": "https://news.futunn.com/hk/post/38255350",
+          "publishedOn": "2024-02-22T01:41:00.000Z",
+          "wordCount": 121,
+          "title": "造車新勢力Rivian盤後一度暴跌超17%! Q4每交付一輛車虧4萬美元",
+          "imageUrl": null
+        },
         {
           "id": "https://news.futunn.com/hk/post/38233697",
           "author": "全天候科技",
@@ -6219,6 +6909,96 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://m.theblockbeats.info/flash/229706?t=binance",
+          "author": "contact@theblockbeats.org (律动BlockBeats)",
+          "description": "BlockBeats 消息，2 月 22 日，据 Snapshot 治理页面显示，TreasureDAO 社区「Treasure Chain 的生态系统选择」提案投票已于今日结束，Arbitrum 得票数位列第一。\n\nBlockBeats 此前报道，TreasureDAO 发布 Treasure Chain Litepaper，计划今年 Q3 上线主网。",
+          "link": "https://m.theblockbeats.info/flash/229706?t=binance",
+          "publishedOn": "2024-02-22T10:18:32.000Z",
+          "wordCount": null,
+          "title": "TreasureDAO社区投票选择于Arbitrum生态开发Treasure Chain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.theblockbeats.info/news/51039?t=binance",
+          "author": "contact@theblockbeats.org (律动BlockBeats)",
+          "description": "一直以来，Vitalik 致力于鼓励以太坊 L2 发展，过去一年多 L2 也得到了快速快速扩张。根据 defillama 数据显示，目前全网各链 TVL 排名中以太坊主网占据 60%，而 L2 Arbitrum、Polygon、Optimism 分别占比 3.94%、1.27% 和 1.15%，TVL 排名前十中 Layer2 链就已占据三席。\n\n\n\n\n\n今年 StarkNet 推出空投、Blast 上线主网等备受期待的事件更是将市场对于 Layer2 的关注推至前所未有高点。以 StarkNet、Arbitrum、Optimism 和 Scroll 组成的 ZK-EVM rollup 生态系统为代表发展迅速，在提高区块链安全性，提高交易速度方面取得了长足进步。而近些年，Vitalik 为了保持以太坊链的纯粹性，一直支持为 Layer2 赋予更多复杂功能。\n\n\n这一坚持了五年之久的理念，今天却动摇了。\n\n\n2 月 22 日，以太坊联合创始人 Vitalik Buterin 在回复用户推文时表示，「老实说，与五年前相比，我对「简化 L1，哪怕牺牲是以（建设）更复杂的 L2 为代价」这个理念的信心也降低了 3 倍。挑战在于，当可以在 L1 bug 风险和 L2 bug 风险之间进行权衡时，实际上并不清楚是不是后者更好！」他进一步解释,「如果 L1 出现问题，开发人员只需要一天即可恢复；而如果 L2 出现问题，可能会造成用户的大量资产损失。因此，值得为 L1 添加一些复杂功能，以减少 L2 的代码负担，并使 L2 变得相对简单。」\n\n\n\n\n\n正当 Layer2 发展看起来蓬勃有劲的时候，Vitalik 为何突发如此感慨？此前大力支持 Layer2 发展的他怎么突然观点反转？真的是因为安全性问题才引发了这样的感慨吗和变化，还是另有原因？对此律动 BlockBeats 整理了一些行业…",
+          "link": "https://m.theblockbeats.info/news/51039?t=binance",
+          "publishedOn": "2024-02-22T10:13:35.000Z",
+          "wordCount": null,
+          "title": "如何看待Vitalik观点反转：「轻」Layer2，「重」Layer1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.theblockbeats.info/flash/229670?t=binance",
+          "author": "contact@theblockbeats.org (律动BlockBeats)",
+          "description": "BlockBeats 消息，2 月 22 日，据 Nansen 2 数据，Smart Money 24 小时在以太坊网络资金流入追踪榜单如下：\n\nALI：约 574 万美元，现报价 0.0562 美元，24 小时涨幅 24.6%；\nWLD：约 140 万美元，现报价 8.25 美元，24 小时涨幅 20.75%；\nPROM：约 134 万美元，现报价 12.13 美元，24 小时涨幅 24.4%。",
+          "link": "https://m.theblockbeats.info/flash/229670?t=binance",
+          "publishedOn": "2024-02-22T09:15:07.000Z",
+          "wordCount": null,
+          "title": "ALI、WLD、PROM位居Smart Money 24小时流入榜单前列",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.theblockbeats.info/news/51042?t=binance",
+          "author": "contact@theblockbeats.org (律动BlockBeats)",
+          "description": "撰稿：Kaori，BlockBeats\n编辑：Jack，BlockBeats\n\n\n悄然间 Mantle 的 TVL 逼近 2 亿美元，近一月涨幅达 50%，生态里的借贷协议 INIT Capital TVL 月涨幅达 383%，TVL 已超过 5000 万美元，借贷 (Borrow) 活动量达 3079 万美元。\n\n\n\n\n\n流动性是检验一个链是否活跃的关键指标，而借贷协议是窜活生态的排头兵。参考前段时间 Sui 生态里的借贷协议 Navi 与 Scallop，或许 Mantle 也会因为 INIT Capital 的发币预期而迎来一波喜人增长。\n\n\nINIT Capital 也于昨日完成了 310 万美元的种子轮融资，Electric Capital 和 Mirana Ventures 领投，BitMEX 创始人 Arthur Hayes 及其家族办公室 Maelstrom、Robot Ventures、Nomad Capital、Tangent Ventures、Bankless Ventures、Selini Capital 和 Faction 等参投。这对于一个 DeFi 产品来说，算是较为理想的融资规模。\n\n\n除此之外，INIT Capital 还于今年 1 月获得 Mantle 生态基金 Mantle EcoFund 的资助，与其它 5 个生态项目共同接受 1000 万美元的投资。BlockBeats 将在本篇内容详细介绍 INIT Capital 的项目机制以及参与玩法，仅供读者参考。\n\n\nLiquidity Hook，INIT 的流动性插件\n\n\n如今 DeFi 协议面临的最大挑战之一是引导初始流动性并持续获取流动性以实现增长。虽然 DeFi 格局不断发展，出现了不同的借贷用例，但借贷协议的架构却没有相应发展。而这导致 DeFi 协议自行独立获取流动性，协议花费…",
+          "link": "https://m.theblockbeats.info/news/51042?t=binance",
+          "publishedOn": "2024-02-22T08:36:15.000Z",
+          "wordCount": null,
+          "title": "INIT Capital：给Eigen空投上杠杆，融资背景豪华的Mantle借贷市场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.theblockbeats.info/news/51036?t=binance",
+          "author": "contact@theblockbeats.org (律动BlockBeats)",
+          "description": "再质押赛道热火朝天，数据显示，基于 EigenLayer 的以太坊再质押协议 TVL 已达 38 亿美元，其中 ether.fi 协议稳坐龙头，TVL 达 13 亿美元，近一个月涨幅超 280%。但近日，ether.fi 突然陷入「偷积分」的争议。\n\n\nEigen Layer 缩水一半，积分去哪了？\n\n\n2 月 19 日，有社区成员反应，质押数和质押时间相同情况下，与 Renzo Protocol 相比，ether.fi 较 Renzo Protocol 少了约 10% 的 eigenlayer 积分。但当时有人指出，这可能是因为质押机制不同所产生的结果。\n\n\n今日，有成员经过测算发现，此时 ether.fi 的 TVL 为 14.2 亿，Renzo Protocol 的 TVL 为 3.6436 亿，仅约占 ether.fi 的 1/4，ether.fi 上的积分却只有 Renzo Protocol 的 1.81 倍。如果按照 Renzo Protocol 的 TVL 与 EigenLayer 积分比值推算，ether.fi 上的积分应该是目前显示的两倍左右。这样的差距已经不能用质押机制不同来解释，但 ether.fi 在此之前并没有就此作出回应。\n\n\n\n\n\n缩水一半，少算的积分去哪了？这样的发现激起了社区的讨论，不见回应，社区成员将此事上升到团队人品和做事方式上。ether.fi 的 Discord 社区里，有人对发现自己积分减少的成员回复称，「如果你只少了 10k 积分，那你还是幸运的」。在推特上，也有 ether.fi 的早期关注者表示「一点也不惊讶」。\n\n\n\n\n\n团队回应：质押机制不同、前端总积分显示有误\n\n\n为何积分会无故消失？ether.fi 真的存在「偷积分」情况吗？BlockBeats 就此事件向 ether.fi 团队做出了求证，获得了独家回应。\n\n\ne…",
+          "link": "https://m.theblockbeats.info/news/51036?t=binance",
+          "publishedOn": "2024-02-22T07:45:40.000Z",
+          "wordCount": null,
+          "title": "ether.fi积分缩水？团队回应：质押机制不同，但前端显示的确有误",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.theblockbeats.info/flash/229607?t=binance",
+          "author": "contact@theblockbeats.org (律动BlockBeats)",
+          "description": "BlockBeats 消息，2 月 22 日，据官方公告，OKX Jumpstart 上线新项目 GPT（QnA3.AI）。\n\n用户可于 2024 年 2 月 26 日 UTC 时间上午 6:00 开始质押 BTC 和 ETH，以换取 GPT 代币。\n\n本次 OKX Jumpstart 限台湾、土耳其、俄罗斯、乌克兰、格鲁吉亚、白俄罗斯、哈萨克斯坦、亚美尼亚、摩尔多瓦、阿塞拜疆、塔吉克斯坦、吉尔吉斯斯坦、土库曼斯坦 KYC 用户参与。\n\nQnA3 是 AI 驱动的一站式 Web3 知识引擎和交易入口，是当下热门的 AI 版块中知名的 Web3 DApp。据 DappRadar 数据显示，目前 QnA3.AI 用户活跃度（UAW）在 BNB Dapp 榜单中位列第一，在全链 Dapp 榜单上暂列第七位。作为 AI+CRYPTO 的问答平台，GPT 填补了 AI 的标的空白，随着项目在 OKX 上市，预计将成为 AI 板块中又一高潜力项目。\n\n项目详情可参见站内文章（可点击下方原文链接跳转）：《详解 Binance Labs 第六季孵化的 AI+Web3 项目 QnA3》",
+          "link": "https://m.theblockbeats.info/flash/229607?t=binance",
+          "publishedOn": "2024-02-22T07:16:36.000Z",
+          "wordCount": null,
+          "title": "OKX Jumpstart上线新项目GPT（QnA3.AI）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.theblockbeats.info/news/51030?t=binance",
+          "author": "contact@theblockbeats.org (律动BlockBeats)",
+          "description": "原文作者：Greg Solano，Yuga Labs 联创、新任CEO\n原文编译：Azuma，Odaily 星球日报\n\n\n北京时间 2 月 22 日，近期饱受争议的 Yuga Labs 迎来了重大人事变更——联合创始人 Garga.eth（Greg Solano）宣布将重新担任 Yuga Labs 的首席执行官。\n\n\n在重掌 Yuga Labs 之际（可参阅《Yuga Labs 不停收购，原生 NFT「无聊猿」蓝筹龙头地位备受挑战》），Garga.eth 于 X 平台发布了一篇公开信，并在信中展望了 Yuga Labs 整体以及 BAYC、Otherside 以及游戏开发等个体的发展规划。\n\n\n以下为 Garga.eth 公开信全文内容：\n\n\n\n\n\n我将再次担任 Yuga Labs 的首席执行官。\n\n\nWylie（Yuga Labs 的另一位联创，常用昵称为 GordonGoner）和我非常感激 Daniel（Garga.eth 之前的 CEO Daniel Alegre）为 Yuga Labs 所做的贡献，也感谢他在过去一年中给予我们的指导。我为能够再次掌舵公司迈向新篇章而感到振奋。\n\n\n展望 Yuga Labs 的未来，我们需要在整个公司范围内以更加「加密原生」（crypto-native）的方式来运作。Wylie 和我认为中几件事情是重中之重：\n\n\n第一件事是关于 BAYC 的发展。\n\n\n感谢大家上周末参加了首次的 Bored Meeting。简而言之，我们对 BAYC 的看法是，BAYC 的价值在于它的网络社群。这就是为什么 ApeFest 如此特别，为什么 Made by Apes 的作品得以迅速流行，为什么俱乐部本身这么受欢迎，以及为什么 BAYC 能够与世界上一些最顶级的品牌合作。\n\n\n在 Yuga Labs 内部，我们希望让 BAYC 团队尽可能地自由发挥其愿景。这需要更集中的专注力，也需要更灵活的操作空间，以便它能做到上述一切，并创造出更多我们以前做到过的神奇事情。\n\n\n专注力与灵活性需要自主权限，就此我们已经迈出了第一步—— BAYC LLC 将作为 Yuga Labs 的子公司成立，负责所有与 BAYC 有关的事务。BAYC 团队中已有一批出色的成员了，但仍有一些关键职位在等待合适的人选。\n\n\n第二件事是关于 Otherside 的发展。\n\n\n在我们的构想中，Otherside 应该成为 Web3 的「客厅」，一个大家默认的游玩和社交空间（不论你属于哪个社区）。\n\n\nOtherside 是一项勇敢的尝试，我们还有很多工作要做，只有大家更频繁地参与并体验，我们才能一起把它建设得更好。在我们构建 Otherside 时，我们的设想让它保持公开且能够持续迭代。我对团队重回这一计划而做的工作很有信心，我们将从本周开始加强社区沟通，首先是 Apes Come Home 活动。未来的一年里，我们也会增加与社区沟通的频率。\n\n\n第三件事是关于游戏的开发。\n\n\n我们需要更加聚焦于对 Yuga Labs 具有效用的游戏模式。对我们而言，需要采取以下两种策略：\n\n\n· 一是创造疯狂而有趣的玩法，让所有童心未泯的人都能享受游戏，越疯狂越好，越大众化越好，就像 Dookey Dash 这样。我们要打开通道，让数以百万计的新用户涌入我们的生态系统，并借此为创作者、IP 持有者和职业玩家创造机会。我很高兴与我们的合作伙伴 Faraway（一家游戏开发工作室）一起见证这方面的进展。\n\n\n· 二是构建「加密原生」的游戏机制和平台，比如 [redacted]（BAYC 路线图中提到过的某个保密游戏）。\n\n\n自 Yuga Labs 成立以来，我们已经走过了三年时光，我们对即将到来的诸多计划感到无比兴奋。我非常感激这里每一个品牌团队的每一位成员。我们还有很多工作要做，如果没有这个团队，没有这个社区的 builders，我们不可能实现愿景。感谢大家的支持。\n\n\n对于那些会出席 NFT Paris 的人们，我将在现场与你们见面。\n\n\n原文链接",
+          "link": "https://m.theblockbeats.info/news/51030?t=binance",
+          "publishedOn": "2024-02-22T06:57:34.000Z",
+          "wordCount": null,
+          "title": "Yuga Labs联创再任CEO后公开信：BAYC的价值在于它的网络社群",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.theblockbeats.info/flash/229587?t=binance",
+          "author": "contact@theblockbeats.org (律动BlockBeats)",
+          "description": "BlockBeats 消息，2 月 22 日，据 OKX 行情数据，WLD 突破 8.2 美元，现报价 8.227 美元，24 小时涨幅 22.82%，创历史新高。",
+          "link": "https://m.theblockbeats.info/flash/229587?t=binance",
+          "publishedOn": "2024-02-22T06:34:28.000Z",
+          "wordCount": null,
+          "title": "WLD突破8.2美元，创历史新高",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.theblockbeats.info/news/50994?t=binance",
+          "author": "contact@theblockbeats.org (律动BlockBeats)",
+          "description": "撰文：Jaleel，BlockBeats\n编辑：Jack，BlockBeats\n\n\n场外交易（OTC）在加密行业并不陌生，对比特币铭文市场来说更是如此。在铭文市场诞生初期，资本入场的速度远远超过了信息流通的速度。利用重重壁垒产生的信息差，OTC 生意场成为了这个领域「最赚钱的生意」。\n\n\n在一切都野蛮生长的阶段，有人一夜暴富，也有人亏损跑路。但无论褒贬，场外交易商无疑是这个新兴市场崛起的关键组成部分，在公开交易基础设施尚处空白的阶段，他们支撑起了铭文市场的资金流通与舆论热度。而在比特币生态基础设施逐渐丰富和完善的当下与未来，这些场外交易商又该何去何从？\n\n\n有人卷钱跑路，有人一纸成名\n\n\n比特币铭文交易初期，基础设施一直处于落后的状态，除了早前的 Unisat 之外，社区想要交易铭文，只能找 OTC 场外交易商。但 OTC 终归是关于信任的交易，在市场初期，所有人似乎都在「碰运气」。有的人低价买入 ORDI 吃到千倍涨幅，有人却因对手方跑路空手而归。\n\n\n曾经的「场外第一人」，卷走了价值 600 万美元的 ORDI\n\n\nORDI 即将「出圈」的前夜，第一起金额过百万的 BRC-20 诈骗案发生了。\n\n\n曾被一些老 ORDI 玩家称为场外第一人的 Bzz.eth，作为群主管理着多个 BRC-20 OTC 群，却跑路带走了受害人十万个 ORDI，按现在一个 ORDI 60 美元的价格计算，这笔「抢劫」金额已达 600 万美元。社区发现，Bzz.eth 利用小号声称高价收购 ORDI，在卖方转账后却突然取消交易，同时还以「无效的 Transfer 铭文」为由推卸责任，拒不归还货币，从而占有了这 10 万个 ORDI。\n\n\n\n吞币过程以及后续被发现二者是同一个人\n\n\n不仅如此，不少社区成员还指责他收取过高的担保费用，并在买卖双方间传递不同的价格信息，从中吞取差价。此前 3 月份，B…",
+          "link": "https://m.theblockbeats.info/news/50994?t=binance",
+          "publishedOn": "2024-02-22T03:01:42.000Z",
+          "wordCount": null,
+          "title": "ORDI拉盘前夜，场外OTC商的暴富故事",
+          "imageUrl": null
+        },
+        {
           "id": "https://m.theblockbeats.info/flash/229395?t=binance",
           "author": "contact@theblockbeats.org (律动BlockBeats)",
           "description": "BlockBeats 消息，2 月 22 日，Coinbase 首席法务官 Paul Grewal 在社交平台表示，Coinbase 已回复美国 SEC 的置评请求，请求批准灰度以太坊现货 ETF 上市申请。该申请旨在将灰度以太坊信托转换为现货以太坊 ETF。\n\nGrewal 称，ETH 不是一种证券。事实上，在以太坊合并之前和之后，SEC、CFTC 和市场都没有将 ETH 视为一种证券。ETH 只是一种商品。",
@@ -7205,6 +7985,736 @@
       "feedUrl": "https://www.chaincatcher.com/rss/clist",
       "siteUrl": "https://www.chaincatcher.com/",
       "articles": [
+        {
+          "id": "https://www.chaincatcher.com/article/2114822",
+          "author": null,
+          "description": "ChainCatcher 消息，据 Snapshot 治理页面显示，TreasureDAO 社区“Treasure Chain 的生态系统选择”提案投票已于今日结束，Arbitrum 得票数位列第一。\r\n\r\n此前消息，TreasureDAO 发布 Treasure Chain Litepaper，计划今年 Q3 上线主网。",
+          "link": "https://www.chaincatcher.com/article/2114822",
+          "publishedOn": "2024-02-22T18:26:37.000Z",
+          "wordCount": 1613,
+          "title": "TreasureDAO 选择于 Arbitrum 生态开发 Treasure Chain",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114821",
+          "author": null,
+          "description": "ChainCatcher 消息，Starknet 基金会宣布 DeFi Spring 活动正式启动，为了庆祝 Starknet DeFi Spring 和 STRK 激励的推出，Starknet 基金会将在 Starknet 上连续开展为期一个月的任务系列，每两天发布 1 个新任务供用户完成，用户将能够根据其完成的任务数量赚取 XP，并探索 Starknet 的 DeFi Spring 中的参与协议。\r\n\r\nDeFi Spring 是一个为期六至八个月的阶段，在此期间，将向参与的协议分发总计 4000 万枚 STRK 激励，以激励网络上的流动性提供。\r\n\r\n该首个计划专注于流动性提供。未来在第二季度和第三季度，计划推出的倡议将专注于交易量、交易以及 DeFi 补贴和孵化计划。",
+          "link": "https://www.chaincatcher.com/article/2114821",
+          "publishedOn": "2024-02-22T18:18:50.000Z",
+          "wordCount": 1684,
+          "title": "Starknet 基金会正式启动 DeFi Spring 活动",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114820",
+          "author": null,
+          "description": "ChainCatcher ，OKX Web3 钱包 DEX 现已新增支持 Metis 网络，用户可以通过 OKX DEX 进行 Metis 网络资产兑换以及与14条主流公链资产进行跨链交易，并享受最优跨链深度与报价。\r\n\r\n据悉，OKX Web3 钱包 DEX 板块是 DEX 和跨链聚合器，现已聚合 10 多条跨链，20 多条公链，300 多个 DEX 等，通过 X Routing 智能路由实现一笔交易同时使用多个 DEX，为用户提供最优价格、最佳流动性且 0 交易服务费，并同时拥有 DEX 行情板块、限价单、KYT 安全检测等功能。",
+          "link": "https://www.chaincatcher.com/article/2114820",
+          "publishedOn": "2024-02-22T18:17:17.000Z",
+          "wordCount": 285,
+          "title": "OKX Web3 钱包 DEX 现已新增支持 Metis 网络",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114819",
+          "author": null,
+          "description": "ChainCatcher 消息，据官方公告，Coinbase International Exchange 和 Coinbase Advanced 已新增对 Polkadot、Internet Computer 和 NEAR Protocol 永续期货合约的支持。限价、市价、止损和止损限价订单现已全部可用。",
+          "link": "https://www.chaincatcher.com/article/2114819",
+          "publishedOn": "2024-02-22T18:03:23.000Z",
+          "wordCount": 1560,
+          "title": "Coinbase 国际站上线 DOT、ICP 和 NEAR 永续期货合约交易",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114818",
+          "author": null,
+          "description": "POKT网络正在向可持续发展阶段过渡。",
+          "link": "https://www.chaincatcher.com/article/2114818",
+          "publishedOn": "2024-02-22T18:01:05.000Z",
+          "wordCount": 890,
+          "title": "POKT Network：DePIN 老将正在向 AI 叙事进发",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240222/1708596045176-124235.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114817",
+          "author": null,
+          "description": "ChainCatcher 消息，OKX-BTC/USDT 现报 $52017.00，24小时涨幅1.36%。",
+          "link": "https://www.chaincatcher.com/article/2114817",
+          "publishedOn": "2024-02-22T17:51:00.000Z",
+          "wordCount": 119,
+          "title": "数据：BTC 突破 52000 美元",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114816",
+          "author": null,
+          "description": "ChainCatcher 消息，据 FOMOonchain 监测，Wintermute 刚刚从 OKX 提出 140 万枚 DYDX，约 451 万美元。过去 1 个月，Wintermute 的 DYDX 总流入余额略高于流出余额约 500 万美元。",
+          "link": "https://www.chaincatcher.com/article/2114816",
+          "publishedOn": "2024-02-22T17:47:51.000Z",
+          "wordCount": 219,
+          "title": "Wintermute 从 OKX 提出 140 万枚 DYDX，约合 451 万美元",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114815",
+          "author": null,
+          "description": "ChainCatcher 据 The Data Nerd 监测，钱包 0x9a1（可能属于 Flow Traders）从 Starknet 收到 500 万枚 STRK。\r\n\r\n\r\n之后，该钱包将 360 万枚 STRK（约 1400 万美元）代币存入了币安和 Crypto.Com，并在 DEX 上以 244 万美元出售了 86 万枚 STRK。目前，其仍然持有 5 万枚 STRK 代币。",
+          "link": "https://www.chaincatcher.com/article/2114815",
+          "publishedOn": "2024-02-22T17:32:48.000Z",
+          "wordCount": 1660,
+          "title": "疑似 Flow Traders 地址 24 小时内将 360 万枚 STRK 存入 CEX，并出售 86 万枚 STRK",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114814",
+          "author": null,
+          "description": "ChainCatcher 消息，BNB Chain 在其官网发布文章，对Web3社区作出如下承诺：开放性、多链能力、赋予创造者和创新者权力、无需许可和永久去中心化。\r\n\r\n在文章中，BNB Chain 还对其 2023 年度做了总结：\r\n\r\n截止 2023 年底，BSC单日处理 3200 万笔交易，达到每秒 2000 笔的峰值吞吐量。 opBNB 在第四季度也创下了历史新高，单日处理 7100 万笔交易，吞吐量迅猛，达到每秒 4500 笔。2023 年，BNB Chain因黑客和欺诈导致的总损失同比减少 85%。\r\n\r\nBNB Chain称，BSC 成为最活跃的 L1 区块链之一，拥有约 100 万 DAU。opBNB 在2023 年底确立了自己作为最活跃的 L2，并且在 2024 年迄今仍然是 DAU 最多的 L2 区块链。\r\n\r\n作为市值第三大的 Layer-1 协议，BSC 在 2023 年第四季度在多个指标上取得了令人印象深刻的进展，突显了其生态系统的活力和生产力：\r\n\r\nBNB 燃烧的 Gas 费，反映网络活动的关键指标，2023 年第三季度和第四季度之间增加了 21%。\r\n\r\n在整个 2023 年，BSC 展示了处理高活动量的能力，网络上的日常交易经历了 35% 的年度增长。\r\n\r\nDeFi 生态系统在 2023 年底达到了 46 亿美元的总锁定价值（TVL），DeFi TVL 季度同比增长了 33%。\r\n\r\nBNB Chain 表示，其重点支持高频 DeFi、全链游戏、AI+Web3、DePIN 等领域。",
+          "link": "https://www.chaincatcher.com/article/2114814",
+          "publishedOn": "2024-02-22T17:30:07.000Z",
+          "wordCount": 353,
+          "title": "BNB Chain 发文回顾 2023，重点关注高频 DeFi、全链游戏、AI+Web3、DePIN",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114813",
+          "author": null,
+          "description": "ChainCatcher 消息，Manta Network 生态 AI 元宇宙项目 Ultiverse 推出 Ulti-Pilot 任务平台，用户可在 Ulti-Pilot 中完成任务，随机获得积分、SOUL、成就等奖励。据官方比例，Ulti-Pilot 将空投 3000 万枚 ULTC 代币。\r\n\r\n此前报道，Ultiverse 获得了币安、红衫、Animoca Brands 投资。Ultiverse 是将 AI 与游戏结合的元宇宙项目，并将 VR 与 NFT 融合到元宇宙世界中。",
+          "link": "https://www.chaincatcher.com/article/2114813",
+          "publishedOn": "2024-02-22T17:25:46.000Z",
+          "wordCount": 247,
+          "title": "Manta Network 生态项目 Ultiverse 推出 Ulti-Pilot 空投任务平台",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114812",
+          "author": null,
+          "description": "ChainCatcher 消息，体育和娱乐区块链解决方案 Chiliz 发推公布 Chiliz Chain 代币经济学 2.0，CHZ 通胀率将从 8.8% 逐年衰减，直至 14 年后降至 1.88% 并在之后的每年中保持该值不变。同时，Chiliz Chain 将实施 EIP-1559，其中绝大多数应计 Gas 将被销毁。",
+          "link": "https://www.chaincatcher.com/article/2114812",
+          "publishedOn": "2024-02-22T17:09:48.000Z",
+          "wordCount": 197,
+          "title": "Chiliz Chain 公布 2.0 代币经济学，将逐年降低 CHZ 通胀率至 1.88%",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114811",
+          "author": null,
+          "description": "ChainCatcher 消息，据 The Block 报道，数字资产经纪商 FalconX 表示，随着该地区机构对加密资产的需求增加，该公司将扩展至香港。\r\n\r\n该公司在周四的一份声明中表示，计划为香港的专业投资者提供场外经纪和加密衍生品服务。这些专业投资者包括专营交易公司、家族办公室和基金经理。",
+          "link": "https://www.chaincatcher.com/article/2114811",
+          "publishedOn": "2024-02-22T16:54:46.000Z",
+          "wordCount": 161,
+          "title": "FalconX 将向香港扩张业务，为专业投资者提供场外经纪和加密衍生品服务",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114810",
+          "author": null,
+          "description": "ChainCatcher 消息，据 Lookonchain 监测，过去 24 小时内，某巨鲸在 DEX 上以 2934 美元价格抛售 16,597 枚 ETH（约 4870 万美元）。该巨鲸于 1 月 12 日通过 5 个钱包从 OKX 提取 16,599 枚 ETH（约 4316 万美元），提取时价格为 2600 美元，利润约为 550 万美元。",
+          "link": "https://www.chaincatcher.com/article/2114810",
+          "publishedOn": "2024-02-22T16:51:51.000Z",
+          "wordCount": 237,
+          "title": "某巨鲸过去 24 小时内抛售逾 1.6 万枚 ETH，获利约 550 万美元",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114809",
+          "author": null,
+          "description": "而看似沉寂了许久的NEAR链，做了不少前端+后端的花样开发，或许是想在“链抽象”新叙事上大干一场。",
+          "link": "https://www.chaincatcher.com/article/2114809",
+          "publishedOn": "2024-02-22T16:49:35.000Z",
+          "wordCount": 993,
+          "title": "“链抽象”赛道上，NEAR 为何是鼻祖？",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240222/1708591350331-568559.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114808",
+          "author": null,
+          "description": "2024 年 1 月，美国比特币 ETF 正式上市， Sui、Ronin 和 Manta Pacific 等公链崭露头角。",
+          "link": "https://www.chaincatcher.com/article/2114808",
+          "publishedOn": "2024-02-22T16:45:39.000Z",
+          "wordCount": 6765,
+          "title": "1 月比特币 ETF 终上市，公链稳健发展",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240218/1708247991794-783383.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114807",
+          "author": null,
+          "description": "上周市场行情让我们闻到了牛市来临的气息，除了BTC价格大幅上涨，成为投资者热议的焦点，WLD也乘势而上，价格和市值纷纷创下历史新高。",
+          "link": "https://www.chaincatcher.com/article/2114807",
+          "publishedOn": "2024-02-22T16:36:48.000Z",
+          "wordCount": 2181,
+          "title": "MIIX Capital 投研周报：迎春风，百花开",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240219/1708353322993-695416.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114806",
+          "author": null,
+          "description": "dlcBTC 代表了资产跨链转移的重大进步，消除了中心化和交易对手漏洞等主要风险。通过使用户能够将 BTC 自行封装在 DLC 密码箱中，dlcBTC 确保资产由储户直接控制，从而显着降低因外部威胁或恶意行为者造成损失的机会。",
+          "link": "https://www.chaincatcher.com/article/2114806",
+          "publishedOn": "2024-02-22T16:32:23.000Z",
+          "wordCount": 4099,
+          "title": "dlcBTC 的理论风险",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240217/1708149222070-940466.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114805",
+          "author": null,
+          "description": "美国现货比特币 ETF 在第一个月就出现了巨大的净流入，加密货币总市值恢复到 2 万亿美元。",
+          "link": "https://www.chaincatcher.com/article/2114805",
+          "publishedOn": "2024-02-22T16:30:39.000Z",
+          "wordCount": 10601,
+          "title": "Coinbase 周报: 通胀、清算等因素是否会扰乱当前涨势？",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240217/1708107896091-296864.jpeg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114804",
+          "author": null,
+          "description": "TVL一周涨幅近25%，空投在即的StarkNet能开启L2全新叙事？",
+          "link": "https://www.chaincatcher.com/article/2114804",
+          "publishedOn": "2024-02-22T16:25:24.000Z",
+          "wordCount": 3018,
+          "title": "130万个地址可参与申领7亿枚代币空投：StarkNet这两天火了",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240215/1708011171843-553518.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114803",
+          "author": null,
+          "description": "ChainCatcher 消息，多链流动性质押平台 Kelp DAO 现已接入OKX Web3 钱包，用户可以通过 OKX Web3 钱包在 Kelp DAO 进行 ETH 以及流动性质押代币的多重质押以及提供流动性等，并赚取收益。Kelp DAO 是一个基于 EigenLayer 的三重收益再质押协议。rsETH 是由 Kelp DAO 发行的流动性重新抵押代币 (LRT)，旨在为存入重新抵押平台的非流动性资产提供流动性。\r\n\r\n据悉，OKX Web3 钱包是行业领先的一站式 Web3 入口，现已支持 85+ 公链，App、插件、网页三端统一，涵盖钱包、DEX、DeFi、NFT 市场、DApp 探索 5 大板块、并支持 Ordinals 市场、MPC 和 AA 智能合约钱包、兑换 Gas、连接硬件钱包等。",
+          "link": "https://www.chaincatcher.com/article/2114803",
+          "publishedOn": "2024-02-22T16:19:36.000Z",
+          "wordCount": 1714,
+          "title": "多链流动性质押平台 Kelp DAO 接入OKX Web3钱包",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114802",
+          "author": null,
+          "description": "亮点：铭文压力负载、RocketX整合、KuCoin交易竞赛",
+          "link": "https://www.chaincatcher.com/article/2114802",
+          "publishedOn": "2024-02-22T15:54:06.000Z",
+          "wordCount": 2100,
+          "title": "Meter 1月最新进展",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240222/1708570322134-19489.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114801",
+          "author": null,
+          "description": "ChainCatcher 消息，据 BusinessDay 报道，尼日利亚对包括币安、OctaFX 和 Coinbase 在内的加密交易平台实施限制访问，目前禁令已生效。\r\n\r\n此前，2023 年 12 月，尼日利亚中央银行改变对加密资产的立场，要求银行无视 2021 年 2 月对加密交易的禁令。",
+          "link": "https://www.chaincatcher.com/article/2114801",
+          "publishedOn": "2024-02-22T15:52:12.000Z",
+          "wordCount": 198,
+          "title": "尼日利亚对币安、Coinbase 等加密交易所实施禁令，限制对其访问",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114800",
+          "author": null,
+          "description": "ChainCatcher 消息，OKX-ETH/USDT 现报 $2998.96，24小时涨幅2.08%。",
+          "link": "https://www.chaincatcher.com/article/2114800",
+          "publishedOn": "2024-02-22T15:44:00.000Z",
+          "wordCount": 1536,
+          "title": "数据：ETH 突破 3000 美元",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114799",
+          "author": null,
+          "description": "ChainCatcher 消息，据《南华早报》报道，一名香港的财务经理被 260 万港元“利润”诱饵吸引后，通过一个虚假交易平台投资黄金和加密货币时被骗走了逾 1700 万港元（约 217.35 万美元）。\r\n\r\n这位 57 岁的女士在最初三个月的投资后，被 260 万港元的“利润”诱饵欺骗，这些“利润”通过 10 多笔交易转入她的银行账户。这些支付被设计来欺骗受害者相信该交易平台是合法的，并用作诱饵吸引她进行更多交易和投入更多资金。",
+          "link": "https://www.chaincatcher.com/article/2114799",
+          "publishedOn": "2024-02-22T15:12:48.000Z",
+          "wordCount": 181,
+          "title": "香港某财务经理因在虚假平台投资黄金和加密货币损失超 200 万美元",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114798",
+          "author": null,
+          "description": "ChainCatcher 消息，据 Scopescan 数据显示，0xc7c 开头被标记为“Teneo：3AC Liquidation”的地址目前持有的加密资产总价值达 9.01 亿美元。其持有的 WLD 目前价值为 6.23 亿美元（7500 万枚），其他资产包括：\r\n\r\n1.34 亿枚 STRK，约合 2.5 亿美元；\r\n\r\n843.7 万枚 DYDX，约合 2500 万美元；\r\n\r\n16 万枚 AXS，约合 124 万美元。",
+          "link": "https://www.chaincatcher.com/article/2114798",
+          "publishedOn": "2024-02-22T15:08:22.000Z",
+          "wordCount": 228,
+          "title": "三箭清算公司 Teneo 一地址资产突破 9 亿美元",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114797",
+          "author": null,
+          "description": "ChainCatcher 消息，据 @ai_9684xtpa 监测，2 分钟前，某累计建仓 106,159 枚 ETH 的巨鲸/机构再次从币安提出 17,188 枚 ETH，约 5041 万美元。\r\n\r\n该地址目前已购入 123,347 枚 ETH，约 3.63 亿美元。",
+          "link": "https://www.chaincatcher.com/article/2114797",
+          "publishedOn": "2024-02-22T14:43:51.000Z",
+          "wordCount": 1621,
+          "title": "某巨鲸再次从币安提出逾 1.7 万枚 ETH，约合 5041 万美元",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114796",
+          "author": null,
+          "description": "ChainCatcher 消息，据 OKX 行情数据，WLD 突破 8.4 美元，现报价 8.343 美元，24 小时涨幅 32.56%，创历史新高。",
+          "link": "https://www.chaincatcher.com/article/2114796",
+          "publishedOn": "2024-02-22T14:40:51.000Z",
+          "wordCount": 159,
+          "title": "数据：WLD 突破 8.4 美元，创历史新高",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114795",
+          "author": null,
+          "description": "ChainCatcher 消息，基于 OP Stack 的 L2 网络 Mode 在 X 上表示，已上线由 Optimism 和 Celestia 提供支持的 Layer3 网络 Mode Flare，专为开发人员部署应用链而设计，适合开发链上游戏和交易平台。具有高吞吐量、快速部署、EVM 兼容性等特点。",
+          "link": "https://www.chaincatcher.com/article/2114795",
+          "publishedOn": "2024-02-22T14:35:18.000Z",
+          "wordCount": 1657,
+          "title": "Mode 宣布上线 L3 网络 Mode Flare",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114794",
+          "author": null,
+          "description": "ChainCatcher 消息，据 Scopescan 监测，约半小时前，DWF Labs 向币安存入 2 亿枚 FUN（112 万美元）。",
+          "link": "https://www.chaincatcher.com/article/2114794",
+          "publishedOn": "2024-02-22T14:32:25.000Z",
+          "wordCount": 1611,
+          "title": "数据：DWF Labs 于半小时前向币安转入 2 亿枚 FUN，约 112 万美元",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114791",
+          "author": null,
+          "description": "注册 Analog 测试网以获取早期体验资格，增加空投几率",
+          "link": "https://www.chaincatcher.com/article/2114791",
+          "publishedOn": "2024-02-22T14:03:03.000Z",
+          "wordCount": 1309,
+          "title": "加密老兵们的新项目 Analog：融资 1600 万美元，有空投预期",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240222/1708581605674-743932.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114790",
+          "author": null,
+          "description": "Optimism是基于Optimistic rollup技术的以太坊Layer2，备受关注。VC支持、链上数据、生态系统发展和市场竞争力显示其潜力。",
+          "link": "https://www.chaincatcher.com/article/2114790",
+          "publishedOn": "2024-02-22T13:22:00.000Z",
+          "wordCount": 6034,
+          "title": "MIIX Capital：OPTIMISM项目调研分析报告",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240221/1708499043193-458255.jpeg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114789",
+          "author": null,
+          "description": "如何将 1000 多年的组织设计学压缩成 10 个简单的模因",
+          "link": "https://www.chaincatcher.com/article/2114789",
+          "publishedOn": "2024-02-22T13:21:19.000Z",
+          "wordCount": 1925,
+          "title": "DAO 建设的 10 条军规",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240221/1708502603000-481346.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114788",
+          "author": null,
+          "description": "作为Kickl CEO的Michael Zhao从传统金融人出身，一路披荆斩棘来到中东开拓自己的web3业务，如今不仅是Klickl的核心创始人，还成立了自己的C1 Fund基金专注于二级资产投资，同时为了更好得在迪拜为创业者们形成固定的社交圈，他还成立了当地首个高尔夫社交场所。不管是创业还是投资，",
+          "link": "https://www.chaincatcher.com/article/2114788",
+          "publishedOn": "2024-02-22T13:20:53.000Z",
+          "wordCount": 2110,
+          "title": "GokuShow：专访 Klickl CEO、资深投资人Michael Zhao",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240222/1708578728962-680984.jpeg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114787",
+          "author": null,
+          "description": "ChainCatcher 消息，据 Spot On Chain 监测，DWF Labs 在过去 15 小时内向币安存入价值 583 万美元的 JASMY、FET 资产，其中包括：\r\n\r\n3.29 亿枚 JASMY（488 万美元），均价为 0.01483 美元。 当前持有量：2.71 亿枚 JASMY（431 万美元），总利润为 644 万美元。\r\n100 万枚 FET（95.4 万美元），均价为 0.954 美元。 当前持有量：305 万枚 FET（327 万美元），总利润为 455 万美元。",
+          "link": "https://www.chaincatcher.com/article/2114787",
+          "publishedOn": "2024-02-22T13:18:49.000Z",
+          "wordCount": 318,
+          "title": "数据：DWF Labs 过去 15 小时向币安转入 3.29 亿枚 JASMY 和 100 万枚 FET",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114786",
+          "author": null,
+          "description": "ChainCatcher 消息，PeckShield监测显示，jaychris.eth 遭受网络钓鱼诈骗，65 枚 NFT 被盗，包括 CoolCats #1466。",
+          "link": "https://www.chaincatcher.com/article/2114786",
+          "publishedOn": "2024-02-22T12:51:37.000Z",
+          "wordCount": 192,
+          "title": "PeckShield：jaychris.eth 因网络钓鱼诈骗损失 65 枚 NFT",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114785",
+          "author": null,
+          "description": "ChainCatcher 消息，据香港 01 报道，近年涉及虚拟资产交易平台的诈骗案件愈来愈多，引起社会关注，香港财经事务及库务局局长许正宇表示，过往 3 年整体涉及虚拟资产诈骗罪案数字共 7148 宗，涉款近 70 亿元，当中逾半涉及去年的骗案。JPEX 案件截至 20 日，警方共拘捕 70 人，暂时没有人被起诉。\r\n\r\n许正宇指出，证监会自去年 9 月起增设“可疑虚拟资产交易平台名单”，截至今年 2 月 14 日，共有 14 间交易平台列于名单。他表示，自去年 12 月起，证监会和警务处更进一步实施了一项资讯分享机制,每周两次互相交换有关虚拟资产交易平台或虚拟资，产相关可疑活动的投诉及情报。截至今年 2 月 2 日，证监会和警务处已就超过 100 宗虚拟资产交易平台或虚拟资产相关活动交换情报。",
+          "link": "https://www.chaincatcher.com/article/2114785",
+          "publishedOn": "2024-02-22T12:49:27.000Z",
+          "wordCount": 1642,
+          "title": "香港虚拟资产骗案过去 3 年涉款共 70 亿元，JPEX 案被捕人数增至 70 人",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114784",
+          "author": null,
+          "description": "ChainCatcher 消息，Layer 1 区块链 5ireChain 宣布推出价值 1000 万美元的资助计划“5ireGrantsProgram”，重点关注多链、EVM 兼容、实物资产（RWA）等领域的项目。计划将从 3 月 1 日开始，为参与项目提供最高 10 万美元的资金支持。",
+          "link": "https://www.chaincatcher.com/article/2114784",
+          "publishedOn": "2024-02-22T12:12:48.000Z",
+          "wordCount": 170,
+          "title": "L1 区块链 5ireChain 推出 1000 万美元资助计划“5ireGrantsProgram”",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114783",
+          "author": null,
+          "description": "ChainCatcher 消息，据官方公告，币安将于 2024年02月22日18:00（东八区时间） 上线 GLM 1-50倍 U本位永续合约 。",
+          "link": "https://www.chaincatcher.com/article/2114783",
+          "publishedOn": "2024-02-22T12:06:47.000Z",
+          "wordCount": 135,
+          "title": "币安将上线 GLM 1-50倍 U本位永续合约",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114782",
+          "author": null,
+          "description": "ChainCatcher 消息，据官方消息，Berachain 生态 DeFi Hub 项目 Honeypot Finance 宣布完成 Pre-Seed 轮融资，AC Capital 和 DEXT Force Ventures 领投，具体金额未披露。",
+          "link": "https://www.chaincatcher.com/article/2114782",
+          "publishedOn": "2024-02-22T12:01:13.000Z",
+          "wordCount": 237,
+          "title": "Berachain 生态项目 Honeypot Finance 完成 Pre-Seed 轮融资，AC Capital 和DEXT Force Ventures 领投",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240222/1708574466655-222702.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114781",
+          "author": null,
+          "description": "ChainCatcher 消息，据 Techcrunch 报道，去中心化云服务提供商 NodeShift 完成 320 万美元种子轮融资，Inovo.vc 领投，Notion Capital、10x Founders、Epic Games 和 Kestrel0x1 等参投，所筹资金将用于加强供应和市场推广工作。\r\n\r\n据悉，NodeShift 提供单一的 API，用于访问独立数据中心运营商的多余计算、存储和图形加速器，并连接到 Akash 和 Filecoin 等低成本去中心化网络服务。",
+          "link": "https://www.chaincatcher.com/article/2114781",
+          "publishedOn": "2024-02-22T11:50:43.000Z",
+          "wordCount": 265,
+          "title": "去中心化云服务提供商 NodeShift 完成 320 万美元种子轮融资，Inovo.vc 领投",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114780",
+          "author": null,
+          "description": "截至北京时间 2 月 22 日 11点，共有超过 4.27 亿个代币被领取，其中最大的单个地址通过汇集 1358 个地址的代币，获得 1,532,750 个STRK代币，价值约 300 万美元。",
+          "link": "https://www.chaincatcher.com/article/2114780",
+          "publishedOn": "2024-02-22T11:35:05.000Z",
+          "wordCount": 1153,
+          "title": "Starknet 空投分析：有用户撸中 1358 个地址，获利 300 万美元，交互多不如入场早？",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240222/1708572892071-302327.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114779",
+          "author": null,
+          "description": "ChainCatcher 消息，马斯克发推称，目前 Grok 还远不够完美，但会迅速改进。V1.5 版本将在两周后发布。",
+          "link": "https://www.chaincatcher.com/article/2114779",
+          "publishedOn": "2024-02-22T11:30:21.000Z",
+          "wordCount": 151,
+          "title": "马斯克：Grok V1.5 版本将于两周后发布",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114778",
+          "author": null,
+          "description": "ChainCatcher 消息，据官方公告，币安杠杆新增 AC Milan Fan Token（ACM）、FIO Protocol（FIO）、IQ（IQ）等全仓、逐仓杠杆可借资产，以及更多全仓、逐仓杠杆交易对。\r\n\r\n全仓杠杆新增交易对：ADA/USDC、AVAX/USDC、MATIC/USDC、XRP/USDC\r\n\r\n逐仓杠杆新增交易对：ACM/USDT、AVAX/USDC、FIO/USDT、IQ/USDT、NEXO/USDT、QKC/USDT",
+          "link": "https://www.chaincatcher.com/article/2114778",
+          "publishedOn": "2024-02-22T11:23:10.000Z",
+          "wordCount": 191,
+          "title": "币安保证金新增 ACM、FIO、IQ 等 USDT 和 USDC 交易对",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114777",
+          "author": null,
+          "description": "作为比特币链上世界的入口，钱包将扮演至关重要的作用。",
+          "link": "https://www.chaincatcher.com/article/2114777",
+          "publishedOn": "2024-02-22T11:21:49.000Z",
+          "wordCount": 621,
+          "title": "支持 BRC20，OKX MPC 无私钥钱包助力比特币生态增长",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240222/1708572046512-936117.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114776",
+          "author": null,
+          "description": "ChainCatcher 消息，Metis 发推称，MetisEDF 将提供 460 万枚 METIS 以资助生态系统，加速 Metis 的发展和采用。",
+          "link": "https://www.chaincatcher.com/article/2114776",
+          "publishedOn": "2024-02-22T11:20:54.000Z",
+          "wordCount": 162,
+          "title": "Metis：MetisEDF 将提供 460 万枚 METIS 以支持生态系统",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240222/1708572052879-668930.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114775",
+          "author": null,
+          "description": "ChainCatcher 消息，据 Blur 数据，NFT 项目 BoredApeYachtClub（BAYC）地板价现报 24.4 ETH，单日涨幅 12.65%。\r\n\r\n早些时候报道， Yuga Labs 联合创始人 Greg Solano 宣布将重新担任 Yuga Labs 首席执行官。Yuga 子公司 BAYC LLC 已成立，将负责所有 BAYC 相关事务。",
+          "link": "https://www.chaincatcher.com/article/2114775",
+          "publishedOn": "2024-02-22T11:14:51.000Z",
+          "wordCount": 224,
+          "title": "数据：BAYC 地板价现报 24.4 ETH，单日涨幅 12.65%",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114774",
+          "author": null,
+          "description": "ChainCatcher 消息，Jupiter 宣布，将为 Solana Mobile 排行榜前 500 名用户平均分配 10 万美元的奖励，奖励将于 3 月发放。",
+          "link": "https://www.chaincatcher.com/article/2114774",
+          "publishedOn": "2024-02-22T11:07:48.000Z",
+          "wordCount": 181,
+          "title": "Jupiter：将为 Solana Mobile 排行榜前 500 名平均分配 10 万美元奖励",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240222/1708571266458-336505.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114773",
+          "author": null,
+          "description": "ChainCatcher 消息，据 Cointelegraph 报道，德克萨斯加密自由联盟（CFAT）和数字资产公司 Lejilex 已起诉美国证券交易委员会（SEC），要求法院对二级市场上出售的数字资产的地位做出裁决。据悉，Lejilex 正计划推出一家名为 Legit.Exchange 的加密货币交易所。根据他在 LinkedIn 上的个人资料，Lejilex 的联合创始人 Mike Wawszczak 是 Alliance DAO 的律师兼总顾问。\r\n\r\n这起诉讼对美国证券交易委员会提出了一项指控，并援引了《宣告判决法》和 2007 年的一个案例作为先例。原告要求法院做出多项裁决，包括 LEJILEX 打算通过 Legit.Exchange 促进的数字资产二级市场销售不是 1934 年《交易法》和 1933 年《证券法》所定义的证券销售。\r\n\r\n还要求法院宣布 Legit.Exchange 不是一家未注册的证券交易所，Lejilex 不会因为运营交易所而成为未注册的经纪人或未注册的清算机构。原告辩称，“美国证券交易委员会最近的执法行动采用了一个新颖的立场，即几乎所有数字资产交易都涉及联邦证券法下的‘投资合同’。”",
+          "link": "https://www.chaincatcher.com/article/2114773",
+          "publishedOn": "2024-02-22T11:04:35.000Z",
+          "wordCount": 247,
+          "title": "数字资产公司 Lejilex 向美 SEC 提起诉讼，要求对其二级市场销售做出裁决",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114772",
+          "author": null,
+          "description": "ChainCatcher 消息，据链上分析师余烬监测，1 小时前，2.73 亿枚 MATIC(约合 2.53 亿美元) 从 Matic 归属合约转入 Matic 基金会地址。 这是 Matic 的最后一笔代币解锁转移，自此 MATIC 进入全流通状态。",
+          "link": "https://www.chaincatcher.com/article/2114772",
+          "publishedOn": "2024-02-22T10:49:20.000Z",
+          "wordCount": 207,
+          "title": "数据：2.73 亿枚 MATIC 于 1 小时前从 Matic 归属合约转入 Matic 基金会地址，MATIC 进入全流通状态",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114771",
+          "author": null,
+          "description": "ChainCatcher 消息，据 Decrypt 报道，游戏区块链网络 Oasys 宣布与韩国视频游戏公司 Kakao Games 旗下 Web3 游戏部门 Metabora SG 达成合作。此次合作旨在创建并向更多用户提供卓越的区块链游戏。据悉，此次合作是 Oasys 2024 年 \"龙更新 \"计划的一部分，该计划的重点是扩大互操作性、发展生态系统和开发优质游戏内容。\r\n\r\nKakao Games 以发行《Black Desert Line》和《PUBG》（韩国）等游戏而闻名。",
+          "link": "https://www.chaincatcher.com/article/2114771",
+          "publishedOn": "2024-02-22T10:46:54.000Z",
+          "wordCount": 241,
+          "title": "游戏区块链 Oasys 宣布与 Kakao 旗下Web3游戏部门 Metabora SG 达成合作",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114770",
+          "author": null,
+          "description": "ChainCatcher 消息，据 The Block 报道，Arbitrum 基金会宣布，通过与 Dpop Studios 合作，该基金会将资助一部由奥斯卡获奖者 Shane Boris 制作的长篇电影。这部名为 \"New Here \"的电影将通过一个跌入加密货币兔子洞的新用户的视角来探索数字艺术世界。该部电影将由去年凭借纪录片《Navalny》获得奥斯卡奖的 Shane Boris 担任部分制片人。",
+          "link": "https://www.chaincatcher.com/article/2114770",
+          "publishedOn": "2024-02-22T10:38:56.000Z",
+          "wordCount": 197,
+          "title": "Arbitrum 基金会资助奥斯卡获奖制片人制作与加密货币相关的电影",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114769",
+          "author": null,
+          "description": "ChainCatcher 消息，据 Lookonchain 监测，截止到目前，Nethermind 已累计出售 341 万枚 STRK，约合 674 万美元。\r\n\r\n目前 Nethermind 仍持有 674 万枚 STRK（约合 1233 万美元）。",
+          "link": "https://www.chaincatcher.com/article/2114769",
+          "publishedOn": "2024-02-22T10:26:38.000Z",
+          "wordCount": 1644,
+          "title": "Nethermind 已累计出售 341 万枚 STRK，约合 674 万美元",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114768",
+          "author": null,
+          "description": "ChainCatcher 消息，币安预计将于东八区时间2024年02月26日14:00暂停Ronin（RONIN）网络的代币充值、提现业务，以支持其网络升级及硬分叉。\r\n此举旨在为用户提供优质体验。\r\n项目方将于区块高度 32,367,400（预计东八区时间2024年02月26日15:00）进行网络升级及硬分叉。",
+          "link": "https://www.chaincatcher.com/article/2114768",
+          "publishedOn": "2024-02-22T10:21:00.000Z",
+          "wordCount": 1519,
+          "title": "币安将支持Ronin（RONIN）网络升级及硬分叉",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114767",
+          "author": null,
+          "description": "ChainCatcher 消息，以太坊基金会宣布与 Aztec、Polygon、Scroll、Taiko 和 zkSync 合作开展一轮资助，以开发零知识公共产品项目。本轮赠款的每位出资人都提供了 15 万美元的资金，赠款总额达到 90 万美元。联合资助方不仅要提供资金，还要参与分配决策。提案申请现已开始，将于 2024 年 3 月 18 日截止。",
+          "link": "https://www.chaincatcher.com/article/2114767",
+          "publishedOn": "2024-02-22T10:12:11.000Z",
+          "wordCount": 219,
+          "title": "以太坊基金会联合 Polygon、Scroll 等推出 ZK 项目资助计划，申请将于 3 月 18 日截止",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114766",
+          "author": null,
+          "description": "利用加密资产逃避外汇管理制度的“红线”风险。",
+          "link": "https://www.chaincatcher.com/article/2114766",
+          "publishedOn": "2024-02-22T10:02:46.000Z",
+          "wordCount": 598,
+          "title": "肖飒：利用加密资产逃避外汇管理？从一起百亿地下钱庄案说起",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240222/1708567362356-823692.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114764",
+          "author": null,
+          "description": "ChainCatcher 消息，据官方公告，流动性质押平台 Kelp DAO 宣布推出积分代币 KEP，旨在为 EigenLayer 积分引入流动性。 用户在 Kelp DAO 质押产生的 EigenLayer 积分可以 1：1 的比例兑换为 KEP（ERC-20 代币），并可以对其自由转移和交易。同时，KEP 持有者将按照其持有的 KEP 代币所代表的 EigenLayer 积分比例获得奖励。 官方表示，KEP 代币申领页面即将上线。",
+          "link": "https://www.chaincatcher.com/article/2114764",
+          "publishedOn": "2024-02-22T09:52:45.000Z",
+          "wordCount": 1621,
+          "title": "Kelp DAO 推出积分代币 KEP，为 EigenLayer 积分引入流动性",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114763",
+          "author": null,
+          "description": "ChainCatcher 消息，去中心化期权平台 Opyn 在 X 平台表示，将推出 v1.0.2 版本。根据其视频显示，新版本或将支持更多种类的抵押品，包括 ERC-20 代币和 Uniswap LP 资产等。",
+          "link": "https://www.chaincatcher.com/article/2114763",
+          "publishedOn": "2024-02-22T09:41:36.000Z",
+          "wordCount": 163,
+          "title": "去中心化期权平台 Opyn 将推出 1.0.2 版本",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114762",
+          "author": null,
+          "description": "ChainCatcher 消息，Spot On Chain 监测显示，0x7a9 开头巨鲸在 9 小时前以 2906 美元的价格再次买入 16,160 枚 ETH（约合4695 万美元)。在过去 4 天里，该鲸鱼以 2875 美元的价格买入了约 8.78 万枚 ETH。现持有 11.29 万枚 ETH（约合3.34 亿美元），未实现利润 1725 万美元。",
+          "link": "https://www.chaincatcher.com/article/2114762",
+          "publishedOn": "2024-02-22T09:37:13.000Z",
+          "wordCount": 1687,
+          "title": "数据：一鲸鱼 9 小时前再次购买 1.61 万枚 ETH，现持有近 11.3 万枚 ETH",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114761",
+          "author": null,
+          "description": "ChainCatcher 消息，据 Cointelegraph 报道，在 Circle 宣布停止在 TRON 区块链上对 USDC 的支持，稳定币发行商 Tether 并未就是否会停止对 Tron 网络的支持给出明确答复。当被问及对 Circle 的评论以及 Tether 是否考虑采取类似举措时，Tether 说道：\"Tether 代币在多个区块链上发行，这些区块链只是此类代币的传输层。\"\r\n\r\n\"Tether 保留冻结每个直接支持的传输层上的交易的能力，以履行其合规职责。尽管如此，Tether 仍会积极监控每个受支持传输层的安全性，以确保为我们的社区提供最高标准的服务。\"\r\n\r\n根据 Tether 2 月 21 日的透明度报告，Tron 网络拥有超过 518 亿 USDT，占多个区块链发行的近 1010 亿 USDT 代币的一半以上。",
+          "link": "https://www.chaincatcher.com/article/2114761",
+          "publishedOn": "2024-02-22T09:17:10.000Z",
+          "wordCount": 327,
+          "title": "稳定币发行商 Tether 暂未就是否计划放弃对 Tron 的支持发表具体评论",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114760",
+          "author": null,
+          "description": "ChainCatcher 消息，据 CoinDesk 报道，SBF 自去年秋天因诈骗和共谋罪被定罪后首次出庭，以确认他对新律师没有意见。他的新首席律师 Mark Mukasey。先前的出庭律师 Mark Cohen 和 Christian Everdell 将退出他的案件。\r\n\r\n据悉，新律师也是前 Celsius 首席执行官 Alex Mashinsky 的代理律师。司法部指控他犯有证券欺诈、商品欺诈和共谋操纵公司代币 CEL 价格等罪行。Mashinsky 将于今年秋天受审。",
+          "link": "https://www.chaincatcher.com/article/2114760",
+          "publishedOn": "2024-02-22T09:05:26.000Z",
+          "wordCount": 181,
+          "title": "SBF 在量刑谈判前更换律师",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114759",
+          "author": null,
+          "description": "ChainCatcher 消息，Coinbase 首席法务官 Paul Grewal 在 X 上表示，Coinbase 已回应了美 SEC 就灰度以太坊信托(ETHE)转换为现货 ETF 发表评论的请求。Grewal 称，ETH 不是一种证券。事实上，在合并前后，美国证券交易委员会（SEC）、美国商品期货交易委员会（CFTC）和市场都没有将 ETH 视为证券，而是商品。其次，以太坊的 \"权益证明\"（Proof of Stake）具有明显的强大治理能力，在所有权集中度、共识、流动性和治理方面表现出稳健的特征，降低了欺诈和操纵的风险。\r\n\r\n此外，经济学表明，在满足委员会的 ETP 批准标准方面，ETH 与 BTC 一样具有弹性。",
+          "link": "https://www.chaincatcher.com/article/2114759",
+          "publishedOn": "2024-02-22T08:59:11.000Z",
+          "wordCount": 507,
+          "title": "Coinbase 就灰度以太坊现货 ETF 回应美 SEC：强调 ETH 非证券，具备强大的治理特性",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114758",
+          "author": null,
+          "description": "ChainCatcher 消息，BitMEX 联合创始人 Arthur Hayes 在其最新博客文章中表示，加密市场中叙事的重要性往往要超过技术本身，因为投资者通常依赖于他人的评价和故事的传播来决定投资。Arthurs 作为 Maelstrom 的首席投资官，实际上更像是一个“首席叙事官”，工作是讲述那些能够引起广泛传播的好故事，故事的传播度越好，其相关代币就会越增值。\r\n\r\n此外，Arthur Hayes 表示，比特币现货 ETF 和或将推出的以太坊现货 ETF 将推高这两种资产的价格，可能会加仓一些，但总的来说，正在将注意力转移到山寨币。",
+          "link": "https://www.chaincatcher.com/article/2114758",
+          "publishedOn": "2024-02-22T08:45:03.000Z",
+          "wordCount": 196,
+          "title": "Arthur Hayes：加密市场中叙事的重要性往往超过技术本身，正在关注山寨币",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114757",
+          "author": null,
+          "description": "ChainCatcher 消息，据 Farside Investors 监测，灰度 GBTC 昨日(2 月 21 日)资金净流出 1.993 亿美元，ARK 21Shares 的 ARKB 资金净流入 1070 万美元，Franklin 的 EZBC 资金净流入 300 万美元。",
+          "link": "https://www.chaincatcher.com/article/2114757",
+          "publishedOn": "2024-02-22T08:44:49.000Z",
+          "wordCount": 251,
+          "title": "数据：灰度 GBTC 昨日资金净流出近 2 亿美元",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114756",
+          "author": null,
+          "description": "ChainCatcher 消息，据 CoinDesk 报道，Digital Money Group（DCG）反对子公司 Genesis 与纽约总检察长办公室提出的和解方案。 Genesis Global 本月早些时候与总检察长办公室达成了一项协议，以解决其欺诈投资者的指控，但其母公司认为这并不是一项适当的和解。DCG 在向纽约南区美国破产法院提交的反对书中称：\"Genesis 不能打着'和解'的幌子，违反绝对优先权，从较低等级的债权人那里拿走价值，并将其重新分配给优先债权人。\"\r\n\r\nDCG 在周三散发的另一份声明中称，该交易是 \"规避美国破产法的后门企图\"，是 \"最后一刻秘密达成的颠覆性安排\"。前总检察长办公室联席首席副手、纽约前高级联邦检察官 Jason Brown 支持 DCG 的反对行动，他在法庭文件中声称和解协议的细节可能没有得到妥善处理。",
+          "link": "https://www.chaincatcher.com/article/2114756",
+          "publishedOn": "2024-02-22T08:42:49.000Z",
+          "wordCount": 236,
+          "title": "DCG 反对子公司 Genesis 与纽约总检察长办公室达成的和解提议",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114755",
+          "author": null,
+          "description": "ChainCatcher 消息，Coinbase Assets 宣布，Coinbase 将在以太坊网络（ERC-20代币）上添加对 Starknet（STRK）的支持，并为其添加“实验性”标签。如果流动性条件满足，交易将于今日晚些时候开始。一旦该资产供应充足，STRK-USD 交易对将分阶段启动交易。",
+          "link": "https://www.chaincatcher.com/article/2114755",
+          "publishedOn": "2024-02-22T08:37:54.000Z",
+          "wordCount": 242,
+          "title": "Coinbase 将上线 Starknet（STRK）",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114754",
+          "author": null,
+          "description": "ChainCatcher 消息，据黑山当地媒体 Pobjeda 报道，Terra 创始人 Do Kwon 将被引渡到美国。黑山法务部长 Andrej Milović 表示，这一决定是“政治性的”，并称“美国是我们的主要外交伙伴，我们希望尽快签署双边引渡协议，以便为将来的引渡建立法律框架。”。",
+          "link": "https://www.chaincatcher.com/article/2114754",
+          "publishedOn": "2024-02-22T08:35:18.000Z",
+          "wordCount": 153,
+          "title": "Terra 创始人 Do Kwon 将被引渡到美国",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114752",
+          "author": null,
+          "description": "ChainCatcher 消息，以太坊联合创始人 Vitalik Buterin 在 X 上表示，与五年前相比，其对“简化 L1，即使以更复杂的 L2 为代价”这一概念的信心降低了 3 倍。问题在于，在 L1 bug 风险和 L2 bug 风险之间进行权衡时，并不清楚后者是否更好。\r\n\r\n“如果出现 L1 出现问题，核心开发人员会忙上一天，但最终一切都会恢复正常。如果出现 L2 错误，人们可能会永久性地损失大量资金。因此，我认为实际上值得添加一些相当复杂的 L1 功能，以减轻 L2 的代码负担，并使其相当简单。”",
+          "link": "https://www.chaincatcher.com/article/2114752",
+          "publishedOn": "2024-02-22T08:27:52.000Z",
+          "wordCount": 230,
+          "title": "Vitalik：值得添加一些复杂的 L1 功能，以减轻 L2 的代码负担",
+          "imageUrl": "https://www.chaincatcher.com/upload/image/20240222/1708561599316-638322.jpg"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114751",
+          "author": null,
+          "description": "ChainCatcher 消息， Coinbase Assets 宣布， Coinbase 将在 Solana 网络（ SPL 代币）上添加对 Helium Mobile（MOBILE ）的支持。如果满足流动性条件，交易将于北京时间 2024 年 2 月 23 日凌晨 1 点左右开始。一旦该资产供应充足， MOBILE-USD 交易对将分阶段启动交易。",
+          "link": "https://www.chaincatcher.com/article/2114751",
+          "publishedOn": "2024-02-22T08:22:32.000Z",
+          "wordCount": 197,
+          "title": "Coinbase 将上线 Helium Mobile（MOBILE）",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114750",
+          "author": null,
+          "description": "ChainCatcher 消息，据 Aave 治理论坛网站显示，DeFi 风险管理公司 Gauntlet 宣布将停止与 Aave 合作，Gauntlet 将尽快终止付款流，并与其他贡献者合作寻找风险管理员的替代者。Gauntlet 首席运营官兼联合创始人 John Morrow 表示：“在过去的一年里，我们发现很难应对最大利益相关者不一致的指导方针和不成文的目标，由于这一切，继续 Gauntlet 使命的最佳地点是其他地方。”\r\n\r\n据悉，Gauntlet 自 2020 年以来一直担任 Aave DAO 的独立风险经理。在此期间，该公司负责监控 Aave 借贷市场的风险，例如清算风险、新区块链上的部署以及接受新资产作为抵押品等。",
+          "link": "https://www.chaincatcher.com/article/2114750",
+          "publishedOn": "2024-02-22T08:20:45.000Z",
+          "wordCount": 233,
+          "title": "DeFi 风险管理公司 Gauntlet 宣布停止与 Aave 合作",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114749",
+          "author": null,
+          "description": "ChainCatcher 消息， Yuga Labs 联合创始人 Greg Solano 宣布将重新担任 Yuga Labs 首席执行官。Greg Solano 表示，BAYC 的效用来自于网络。来自俱乐部中的每一个人，希望尽可能解除 YUGA 的 BAYC 团队的束缚，使其能够按照愿景执行。为此，Yuga 子公司 BAYC LLC 已成立，将负责所有 BAYC 相关事务。\r\n\r\nGreg Solano 还指出，Otherside 还有很多工作要做，尤其是增强用户体验。本周将从 \"Apes Come Home \"开始加强沟通。从现在开始到全年，都需要进行更频繁的沟通。",
+          "link": "https://www.chaincatcher.com/article/2114749",
+          "publishedOn": "2024-02-22T08:20:42.000Z",
+          "wordCount": 265,
+          "title": "Yuga Labs 联创 Greg Solano 将重新担任 CEO",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114748",
+          "author": null,
+          "description": "ChainCatcher 消息，Polygon 与 StarkWare 宣布联手推出“Circle STARKs”，该技术旨在提升交易速度和降低交易成本。官方公告称“这是对当前零知识证明（ZK）的重大技术升级。”",
+          "link": "https://www.chaincatcher.com/article/2114748",
+          "publishedOn": "2024-02-22T08:16:09.000Z",
+          "wordCount": 186,
+          "title": "Polygon 与 StarkWare 合作推出 ZK 重大技术升级“Circle STARK”",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114747",
+          "author": null,
+          "description": "ChainCatcher 消息，据 CoinDesk 报道，比特币 ZK Rollup 协议 Citrea 完成 270 万美元种子轮融资，Galaxy Ventures 领投，Delphi Ventures、Taproot Wizards 联合创始人 Eric Wall、数据可用性区块链 Avail 联合创始人 Anurag Arjun 等参投。Citrea 计划利用零知识加密技术帮助比特币中的 DeFi 和 NFT 生态系统发展。\r\n\r\nCitrea 的 ZK Rollup 将基于以太坊虚拟机(EVM)，这意味着开发人员能够迁移他们为以太坊和其他兼容网络构建的应用程序。Citrea 尚未推出，但团队计划在下个季度发布测试网络。",
+          "link": "https://www.chaincatcher.com/article/2114747",
+          "publishedOn": "2024-02-22T08:14:45.000Z",
+          "wordCount": 296,
+          "title": "比特币 ZK Rollup 协议 Citrea 完成 270 万美元种子轮融资，Galaxy Ventures 领投",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
+        {
+          "id": "https://www.chaincatcher.com/article/2114746",
+          "author": null,
+          "description": "ChainCatcher 消息，Coinbase 首席法务官 Paul Grewal 在 X 平台表示，Coinbase 已回复美国 SEC 的置评请求，请求批准灰度以太坊现货 ETF 上市申请。\r\n\r\n该申请旨在将灰度以太坊信托转换为以太坊现货 ETF。 Grewal 称，ETH 不是一种证券。事实上，在以太坊合并之前和之后，SEC、CFTC 和市场都没有将 ETH 视为一种证券，ETH 只是一种商品。",
+          "link": "https://www.chaincatcher.com/article/2114746",
+          "publishedOn": "2024-02-22T08:11:06.000Z",
+          "wordCount": 217,
+          "title": "Coinbase 敦促 SEC 批准灰度提交的以太坊现货 ETF 上市申请",
+          "imageUrl": "https://www.chaincatcher.com/_nuxt/img/wx_icon.ca09afc.png"
+        },
         {
           "id": "https://www.chaincatcher.com/article/2114745",
           "author": null,
@@ -23793,6 +25303,16 @@
       "siteUrl": "https://this-week-in-rust.org/",
       "articles": [
         {
+          "id": "tag:this-week-in-rust.org,2024-02-21:/blog/2024/02/21/this-week-in-rust-535/",
+          "author": "TWiR Contributors",
+          "description": "Hello and welcome to another issue of This Week in Rust!\nRust is a programming language empowering everyone to build reliable and efficient software.\nThis is a weekly summary of its progress and community.\nWant something mentioned? Tag us at @ThisWeekInRust on Twitter or @ThisWeekinRust on mastodon.social, or send us a pull request.\nWant to get involved? We love contributions.\nThis Week in Rust is openly developed on GitHub and archives can be viewed at this-week-in-rust.org.\nIf you find any errors in this week's issue, please submit a PR.\nUpdates from Rust Community\nOfficial\n2023 Annual Rust Survey Results\nRust participates in Google Summer of Code 2024\nLeadership Council March Representative Selections\nFoundation\nSave the Date: RustConf 2024 – September 10-13\nSecond Security Initiative R…",
+          "link": "https://this-week-in-rust.org/blog/2024/02/21/this-week-in-rust-535/",
+          "publishedOn": "2024-02-21T05:00:00.000Z",
+          "wordCount": 2156,
+          "title": "This Week in Rust 535",
+          "imageUrl": null
+        },
+        {
           "id": "tag:this-week-in-rust.org,2024-02-14:/blog/2024/02/14/this-week-in-rust-534/",
           "author": "TWiR Contributors",
           "description": "Hello and welcome to another issue of This Week in Rust!\nRust is a programming language empowering everyone to build reliable and efficient software.\nThis is a weekly summary of its progress and community.\nWant something mentioned? Tag us at @ThisWeekInRust on Twitter or @ThisWeekinRust on mastodon.social, or send us a pull request.\nWant to get involved? We love contributions.\nThis Week in Rust is openly developed on GitHub and archives can be viewed at this-week-in-rust.org.\nIf you find any errors in this week's issue, please submit a PR.\nUpdates from Rust Community\nOfficial\nAnnouncing Rust 1.76.0\nThis Development-cycle in Cargo: 1.77\nProject/Tooling Updates\nzbus 4.0 released. zbus is a pure Rust D-Bus crate. The new version brings a more ergonomic and safer API. Release: zbus4\nThis Month…",
@@ -23839,6 +25359,76 @@
       "feedUrl": "https://www.chainfeeds.xyz/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://twitter.com/i/web/status/1760236869085020580",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>作为开启比特币生态「潘多拉魔盒」的 Ordinals 协议创始人，Casey Rodarmor 在去年 9 月宣布要推出 Runes 协议之后，就受到了整个生态的关注。加密货币 KOL 0xSea 盘点了 Runes 概念项目。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/i/web/status/1760236869085020580\">https://twitter.com/i/web/status/1760236869085020580</a></p>\n<p><strong>文章作者：</strong></p><p>0xSea</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>0xSea：</strong>RSIC 是 Rune Specific Inscription Circuits 的缩写，这是一个 Ordinals 上的 NFT，总量 21,000 枚，10% 由项目方保留。90% 的 RSIC 由项目方自掏腰包空投给了 holders，花费超过 3 BTC，被社区怒赞格局超大。具体的空投规则和标准并没有公布，推测主要是根据钱包持有的蓝筹 NFT 而来的。由于是空投，一些钱包并不知道自己拿到了 NFT，所以需要进行一次转移（买卖 / 转给自己都行）才算激活。激活后就开始进行「挖矿」了，挖的是未来项目方要在 Runes 部署的某个代币的 token 份额。这也充分说明 RSIC 项目方是 Ordinals 生态的 OG，不然难以得到 Ordiscan 浏览器的快速支持。\n\nRSIC Boost 是 RSIC 项目推出的一个附加工具。这一次不是空投，而是需要持有 RSIC 的钱包去 mint（需要花～$170 以上），放在钱包里，就可以加速 RSIC 的挖矿过程。这个举措进一步筛选出了链上活跃钱包，增加了市场博弈玩法，再次证明项目方很会搞事情。\n\nRune Mania Miner。果然，很快就有项目方给 RSIC Boost 持有者（相当于同时也持有 RSIC）发了空投，这个项目就是 Rune Mania Miner。总量 3,800 张，3,547 张空投给社区，253 张由团队预留。跟 RSIC 一样，也需要转移一次（转给自己也行）才算激活，进行挖矿。</p><a href=\"https://twitter.com/i/web/status/1760236869085020580\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/i/web/status/1760236869085020580",
+          "publishedOn": "2024-02-22T07:59:10.000Z",
+          "wordCount": null,
+          "title": "【长推】比特币一层 Runes 协议有哪些 Alpha 机会？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://x.com/StoryProtocol/status/1760348712940052666",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Story Protocol 通过构建可编程的知识产权（IP）层解决创作者在保护和发展作品方面的困境。通过类比加密货币的发展，Story Protocol 阐述了可编程 IP 的概念，并详细介绍了其工作原理以及如何增加 IP 的可读性和流动性。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://x.com/StoryProtocol/status/1760348712940052666\">https://x.com/StoryProtocol/status/1760348712940052666</a></p>\n<p><strong>文章作者：</strong></p><p>Story Protocol</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>Story Protocol：</strong>生成式人工智能正在开拓创造力的疆域。现在，只要能连接互联网，任何人都能创作出高品质的音乐、艺术、散文和视频。这本应像以往所有的创造性技术一样，迎来创造的黄金时代。然而，尽管有了全球范围的传播和神一般的人工智能工具，创作者们仍在为保护和发展自己的作品而苦苦挣扎。罪魁祸首就是知识产权。知识产权仍被困在中世纪 -- 孤立、不透明、静态。Story Protocol  正在构建一个可编程的知识产权层，让知识产权可以通过创作者设定的链上规则进行创作和货币化。通过将代码转化为法律，我们将推动链上文艺复兴。\n\n那么，究竟什么是可编程 IP 呢？可编程 IP 指的是一种知识产权（IP）范式，通过区块链技术和智能合约等工具，使得 IP 具有可编程性和自动执行能力。这意味着创作者可以通过设定一系列在区块链上执行的规则，来管理其知识产权，包括授权、转让、收益分享等方面。通过可编程 IP，创作者可以更加灵活地管理和保护其作品，而且整个过程可以自动化执行，减少了中间环节和不确定性，提高了创作者的效率和收益。\n\n工作原理：我们的可编程 IP 层包括两个要素：数据结构和模块。数据结构是协议的「名词」，将相关的 IP 元数据存储到「IP 积木」中。模块是「动词」，为在协议上注册的 IP 资产提供多样化功能。Story Protocol 的数据结构捕获了 IP 的核心组件，而其模块代表了可以对数据结构执行的操作。数据结构提供了一个可在链上、可扩展、可组合的可编程 IP 标准。就像 HTTP、HTML 和 CSS 等协议的创建加速了互联网采用，通过启用可靠且结构化的信息共享，Story Protocol 上的 IP 被设计为类似地简化和网络化。\n\n我们的模块构成了可编程 IP 的功能层。一旦 IP 被捕获到我们的 IP 积木中，它就可以通过我们的模块轻松地进行组合和扩展。模块是解锁一系列能力的函数，如许可、衍生作品的收益流、以及全球资本的访问。例如，我们的许可模块使得可以生成可编程许可 NFT，具有与代码一样的灵活性和表现力，就像适用于所有形式 IP 的可编程 Getty Images。创作者无需依赖一对一的法律谈判，而是可以透明地设定自己的再创作条件，以便他人无缝扩展自己的作品。【原文为英文】</p><a href=\"https://x.com/StoryProtocol/status/1760348712940052666\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://x.com/StoryProtocol/status/1760348712940052666",
+          "publishedOn": "2024-02-22T07:42:03.000Z",
+          "wordCount": null,
+          "title": "【英文长推】新项目前瞻｜Story Protocol ：通过可编程 IP 释放创造力和流动性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.decentralised.co/p/frame-this",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Farcaster 是一个 Web3 社交网络的新兴平台，加密货币 KOL Joel John 着重介绍了其引入的「Frames」功能。Frames 通过简化区块链交互，为用户提供了便捷的社交和商业交易体验，吸引了大量用户。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://www.decentralised.co/p/frame-this\">https://www.decentralised.co/p/frame-this</a></p>\n<p><strong>文章作者：</strong></p><p>Joel John</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>Joel John：</strong>Frames 对 Farcaster 的作用就像（2000 年代中期的）独立应用程序对社交网络应用程序的作用一样。你必须依靠亲朋好友在这些产品上发布有趣的内容。对于 Web3 社交网络来说，没有亲朋好友 -- 只有 degens 和空投 farmer，他们都想尽早进入 Web3 原生社交网络。因此，在过去的几个季度里，大多数 Web3 社交网络都没有为访问它们的用户提供什么服务。应用商店（2000 年代）和 Frames 通过开发者的聪明才智解决了内容匮乏的问题。你不再局限于用户生成的内容，而是可以访问开发者创造的大量体验。\n\n现今的 Web3 社交网络很难提供与已有几十年历史的平台相媲美的内容。据推测，创作者（包括我自己）不会仅仅因为一个新的 Web3 平台声称是去中心化的，就将其移植到该平台上。撇开创作本身的核心乐趣不谈，创作者通常会为两个核心动机之一而工作。一个核心激励因素是注意力，这也是 Twitter 等产品目前的优势所在。另一个是资本激励或货币化，这也是 Substack 和 Mirror 等产品目前的重点。在没有庞大用户群的情况下，创作者主要通过高参与度获得激励。与我交谈过的大多数创作者对 Farcaster 都有同样的评价：氛围完美无瑕。以加密货币为中心的用户发现，Farcaster 是一个比其他平台更好的展示自我的平台。这是有原因的。Farcaster 在历史上一直与外界隔绝，专注于接纳忠实于行业精神的核心用户。\n\nFarcaster 面临着一个岔路口。一个方向是留住 Web3 原生用户，让他们在链上开展更多活动。另一个方向则是吸引那些不太关心去中心化但对加密货币好奇的零售用户。如果他们选择走后一条路，那么 Farcaster 基于 Base 构建并得到 Coinbase 的支持这一事实将发挥巨大作用，因为这有助于分销。在我看来，他们很可能会选择前者。Farcaster（作为一个协议）的魅力在于，这个决定并不一定由 Farcaster 背后的团队做出。决定权在社区手中。【原文为英文】</p><a href=\"https://www.decentralised.co/p/frame-this\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://www.decentralised.co/p/frame-this",
+          "publishedOn": "2024-02-22T06:24:14.000Z",
+          "wordCount": 6692,
+          "title": "【英文】Farcaster： 用 Frames 重新定义 Web3 社交网络",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b5c2228-0d5c-437a-97d4-f9bbfeb779fe_2921x1880.jpeg"
+        },
+        {
+          "id": "https://twitter.com/i/web/status/1760177742350520597",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>近期 AI 板块大涨，Bittensor（$TAO）作为 AI 板块的龙头代币，其市值已经高达 38 亿美元，代币价格也一路屡破新高。TechFlow 深潮盘点 Bittensor 生态中的早期项目。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/i/web/status/1760177742350520597\">https://twitter.com/i/web/status/1760177742350520597</a></p>\n<p><strong>文章作者：</strong></p><p>深潮 TechFlow</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>深潮 TechFlow：</strong>TaoPad （$TPAD）：扩大 Bittensor 生态的项目发射台 TaoPad 正在为 $TAO 构建 DeFi 生态，并构建了第一个以 Bittensor 为中心的发射平台。作为从以太坊进入 Bittensor 网络的网关，TaoPad 使 $TPAD 的持有者能够通过充当开发代理促进 Bittensor 网络上的活动并将获得的奖励分配给持有者，从而获得 Bittensor 网络上不断增长的价值。\n\nKizuna （$KIZUNA）： Bittensor 上的 Meme $KIZUNA 是由去中心化 AI 网络 Bittensor 构建的第一个代币，其灵感来自 Ryoshi （SHIB 币创始人）去中心化极简主义的成功原则。值得一提的是，Kizuna 币的愿景、Logo 等相关信息是在 BitAPAI 上生成的，而这是一个构建在 Bittensor 上的类似于 Chatgpt 的语言模型。也就是说，MEME 本身由 AI 创建，从精神内核而言，这个 MEME 显得更加「AI Native」。\n\nAIT Protocol（$AIT） 是一种人工智能数据基础设施，提供 Web3 人工智能解决方案。AIT 去中心化市场为数百万加密货币用户提供了一个特殊而广泛的机会，其业务模式非常容易理解：让他们参与「Train to Earn（训练即赚钱）」任务，使他们能够获得奖励，同时积极为人工智能模型的发展做出数据贡献。$AIT 是 AIT 协议生态系统的原生代币和治理代币，同时作为平台货币，用于支付 Marketplace 的订阅费、数据处理、AI 租赁和 Launchpad。</p><a href=\"https://twitter.com/i/web/status/1760177742350520597\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/i/web/status/1760177742350520597",
+          "publishedOn": "2024-02-22T04:49:30.000Z",
+          "wordCount": null,
+          "title": "TAO 屡破新高，Bittensor 上哪些早期生态项目值得重点关注？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hellobtc.com/kp/du/02/5034.html#name",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>DN404 和 ERC404 采用不同实现机制，通过提升 NFT 流通性互相竞争，共同推动着区块链上的去中心化 NFT 应用。加密货币 KOL Marshallalllen 详细介绍了 DN404 和 ERC404。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://www.hellobtc.com/kp/du/02/5034.html#name\">https://www.hellobtc.com/kp/du/02/5034.html#name</a></p>\n<p><strong>文章作者：</strong></p><p>Marshallalllen</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>Marshallalllen：</strong>DN404：挑战者崛起。DN404，这个新来者正在挑战 ERC404 的主导地位。由一群加密货币爱好者开发，DN404 旨在提供与 ERC404 类似的好处，但具有更高的效率和更低的交易成本。通过利用两个独立但相互关联的合约 —— 一个基于 ERC-20 的合约和一个镜像的 ERC-721 合约 ——DN404 试图解决其前任的缺点，并与现有的 Token 标准保持兼容。DN404 对效率和安全性的关注使其迅速获得了开发人员和那些寻求更可持续的 NFT 去中心化解决方案的用户的支持。\n\nERC404：开创创新但有代价。虽然 ERC404 是第一个进入市场的，但其迅速崛起是有代价的。在其推出之后，以太坊交易费用飙升，引发了对 Token 标准的可扩展性和可持续性的担忧。尽管 ERC404 具有创新特性，包括本地分散化和与现有协议的无缝集成，但它因对网络拥塞和燃气费用的影响而受到批评。在开发人员努力改进和优化 ERC404 的同时，以太坊社区对其长期可行性存在分歧。\n\nDN404 和 ERC404Token 的主要目标是解决数字资产市场中与 NFT 去中心化和流动性相关的固有挑战。传统 NFT 本质上是不可分割的，这使得它们成为流动性不足的资产，难以以分数形式进行交易。DN404 和 ERC404Token 通过引入本地去中心化能力来克服这个限制，使用户能够轻松地将 NFT 的部分进行 Token 化和交易。这为投资者提供了多样化投资组合的新机会，并能参与蓬勃发展的 NFT 市场，而无需大量资本支出。此外，通过部分所有权增强流动性，DN404 和 ERC404Token 为数字资产生态系统提供了更加充满活力和动态的环境，为创作者、收藏家和投资者共同释放价值。</p><a href=\"https://www.hellobtc.com/kp/du/02/5034.html#name\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://www.hellobtc.com/kp/du/02/5034.html#name",
+          "publishedOn": "2024-02-22T04:46:57.000Z",
+          "wordCount": 306,
+          "title": "新以太坊代币之间的竞争：DN404 和 ERC-404",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://2lambroz.substack.com/p/leverage-farm-lrt-cheapest-way-to",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Gearbox 是一个 OG 协议，可以实现永续合约交易，通过真实现货资产进行杠杆挖矿，并提供最便宜的交易手续费。加密货币 KOL 2Lambroz.eth 从潜力、运作原理等方面介绍了此协议。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://2lambroz.substack.com/p/leverage-farm-lrt-cheapest-way-to\">https://2lambroz.substack.com/p/leverage-farm-lrt-cheapest-way-to</a></p>\n<p><strong>文章作者：</strong></p><p>2lambroz.eth</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>2lambroz.eth：</strong>为什么我现在正在关注它？L2 激励措施即将推出；U 杠杆挖矿 LRT 协议，例如 Eigenlayer，etherFi，Renzo， Stakewise；应该是最便宜的杠杆方式；真实的现货资产和高度可组合的结构。Gearbox 协议有 3 个核心部分：杠杆（针对交易者）；被动收益（针对流动性提供者）；信用账户（持有杠杆头寸）。该协议如何运作？1）流动性提供者存入被动收益；2）交易者将抵押品存入信用账户；3）交易者可以从被动赚钱中借钱并使用白名单协议。【原文为英文】</p><a href=\"https://2lambroz.substack.com/p/leverage-farm-lrt-cheapest-way-to\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://2lambroz.substack.com/p/leverage-farm-lrt-cheapest-way-to",
+          "publishedOn": "2024-02-22T04:44:57.000Z",
+          "wordCount": null,
+          "title": "【英文】重新审视 Gearbox：支持 Eigenlayer 挖矿的可组合杠杆协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/tech/2024/02/21/bitcoin-zero-knowledge-rollup-citrea-raises-27m-in-seed-funding/",
+          "author": null,
+          "description": "<p>比特币 ZK Rollup 协议 Citrea 完成 270 万美元种子轮融资，Galaxy Ventures 领投，Delphi Ventures、Taproot Wizards 联合创始人 Eric Wall、模块化区块链 Avail 联合创始人 Anurag Arjun 等参投。所筹资金将用于协议开发，以帮助比特币 DeFi 和 NFT 生态系统发展。Citrea 尚未推出，团队计划在下个季度发布测试网络。</p><p><a href=\"https://www.coindesk.com/tech/2024/02/21/bitcoin-zero-knowledge-rollup-citrea-raises-27m-in-seed-funding/\">内容来源</a></p><hr><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://www.coindesk.com/tech/2024/02/21/bitcoin-zero-knowledge-rollup-citrea-raises-27m-in-seed-funding/",
+          "publishedOn": "2024-02-22T04:36:37.000Z",
+          "wordCount": 10022,
+          "title": "比特币 ZK Rollup 协议 Citrea 完成 270 万美元种子轮融资，Galaxy Ventures 领投",
+          "imageUrl": "https://www.coindesk.com/resizer/1U509JIMPtC0APxEBIMn2RRIusA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BL4V6ISNC5DY3IPKCOLY53NWLY.jpg"
+        },
         {
           "id": "https://forum.degate.com/t/topic/71",
           "author": null,
@@ -25267,6 +26857,16 @@
       "siteUrl": "https://ethresear.ch/latest",
       "articles": [
         {
+          "id": "ethresear.ch-topic-18751",
+          "author": "casparschwa",
+          "description": "Endgame Staking Economics: A Case for Targeting\nby @adietrichs and @casparschwa .\nThis post explores the status quo of staking economics, its drawbacks as we see them and what the endgame of staking economics could look like.\nRead about our separate proposal for an immediate issuance policy update in Electra here.\nMany thanks to Anders, Barnabé, Francesco, Julian, Dankrad, Thomas, Vitalik, Mike, Justin, Jon, Nixo, and Sam for feedback and discussions.\nReviews \\neq endorsements. This post expresses opinions of the authors, which may not be shared by reviewers.\nThe work presented here is built on the shoulders of Anders’ prior work:\nProperties of issuance level consensus incentives and variability across potential reward curves\nMinimum viable issuance\ntl;dr\nToday, 30M ETH or 1/4 of all ETH, …",
+          "link": "https://ethresear.ch/t/endgame-staking-economics-a-case-for-targeting/18751",
+          "publishedOn": "2024-02-22T00:13:06.000Z",
+          "wordCount": 5646,
+          "title": "Endgame Staking Economics: A Case for Targeting",
+          "imageUrl": "https://ethresear.ch/uploads/default/optimized/2X/9/9793c373e0ccdd3e3153f61890c3ad4e32f54b7c_2_1024x338.jpeg"
+        },
+        {
           "id": "ethresear.ch-topic-18749",
           "author": "umbnat92",
           "description": "by U. Natale.\nAcknowledgements\nChorus One. We are grateful to M. Moser and G. Sofia for useful discussions and comments. We acknowledge Data_Always for providing some of the data used in this analysis.\n1. Introduction\nCurrently, MEV-Boost selects the highest bid, in terms of value, from a collection of bids submitted by associated relays for a specific slot. This value denotes the quantity of ETH a builder pays to a proposer in return for acquiring the proposer’s block space for execution. Relays determine this value by comparing the balance of the fee_recipient after the execution payload is processed to the balance before execution. This approach encounters challenges when a block includes consensus-layer withdrawals to the fee_recipient intended for payment by the builder, as it artific…",
@@ -25634,16 +27234,6 @@
           "publishedOn": "2024-01-24T10:01:20.000Z",
           "wordCount": null,
           "title": "On Block Sizes, Gas Limits and Scalability",
-          "imageUrl": null
-        },
-        {
-          "id": "ethresear.ch-topic-18439",
-          "author": "Mirror",
-          "description": "In the “play to earn” concept, players hope to earn profits while enjoying the game. However, GameFi is constrained by high GAS costs and an underdeveloped blockchain gaming ecosystem, leading to challenges in achieving player acceptance due to issues in security and transparency. This pushes GameFi towards an extreme of constantly optimizing economic models and profit mechanisms, which shortens the earning cycle and may ultimately result in a crash. In the new cycle, the widespread adoption of L2, cross-chain gaming engines, and ZK technology will bring on-chain privacy and more complex on-chain gaming mechanisms to users. This addresses issues of performance, privacy, and trust, shifting focus from Ponzi schemes to more trustworthy and intricate on-chain games. Application-layer ZK techn…",
-          "link": "https://ethresear.ch/t/completely-recursive-snark-circuit-the-savior-of-play-to-earn/18439",
-          "publishedOn": "2024-01-23T14:24:27.000Z",
-          "wordCount": null,
-          "title": "Completely Recursive SNARK Circuit - The Savior of \"Play to Earn\"",
           "imageUrl": null
         }
       ]

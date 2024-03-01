@@ -12,13 +12,19 @@
 * Ghost: Appending "/rss" to link, e.g. <https://fuel-labs.ghost.io/rss/>
 * Medium: Adding "/feed" after medium.com, e.g. <https://medium.com/feed/anomanetwork>
 * CSDN: Adding "/rss/list" to link, e.g. <https://blog.csdn.net/mutourend/rss/list>
+* dev.to: Adding "/feed" to host, e.g. <https://dev.to/feed/tag/webdev> <https://dev.to/feed/alexkhismatulin>
 
-## rss proxy
+## RSS proxy
 
 * <https://github.com/damoeb/rss-proxy> - <https://rssproxy.migor.org/>
 * <https://github.com/damoeb/feedless>
 * <https://freshrss.org/>
 * <https://github.com/DIYgod/RSSHub>
+
+## RSS Reader
+
+* miniflux - Go + Postgresql, self-hosted, easy to deploy.
+* omnivore - self-hosted and free cloud, cross platform.
 
 ## Docs
 

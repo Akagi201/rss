@@ -20,6 +20,7 @@
 * <https://github.com/damoeb/feedless>
 * <https://freshrss.org/>
 * <https://github.com/DIYgod/RSSHub>
+* <https://github.com/cooderl/wewe-rss/> - wechat to rss
 
 ## RSS Reader
 

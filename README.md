@@ -22,10 +22,15 @@
 * <https://github.com/DIYgod/RSSHub>
 * <https://github.com/cooderl/wewe-rss/> - wechat to rss
 
+## RSS Tool
+
+* <https://github.com/adulau/rss-tools>
+
 ## RSS Reader
 
 * miniflux - Go + Postgresql, self-hosted, easy to deploy.
 * omnivore - self-hosted and free cloud, cross platform.
+* freedium.cfg - unlock medium.
 
 ## Docs
 

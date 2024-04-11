@@ -13,6 +13,7 @@
 * Medium: Adding "/feed" after medium.com, e.g. <https://medium.com/feed/anomanetwork>
 * CSDN: Adding "/rss/list" to link, e.g. <https://blog.csdn.net/mutourend/rss/list>
 * dev.to: Adding "/feed" to host, e.g. <https://dev.to/feed/tag/webdev> <https://dev.to/feed/alexkhismatulin>
+* Just use [RSSHub Radar](https://chromewebstore.google.com/detail/kefjpfngnndepjbopdmoebkipbgkggaa) to detect rss of any website.
 
 ## RSS proxy
 
@@ -21,13 +22,17 @@
 * <https://freshrss.org/>
 * <https://github.com/DIYgod/RSSHub>
 * <https://github.com/cooderl/wewe-rss/> - wechat to rss
+* <https://weread.qq.com/> - 微信阅读订阅微信公众号，加入书架即可，新文章有通知。
 
 ## RSS Tool
 
 * <https://github.com/adulau/rss-tools>
+* <https://chromewebstore.google.com/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa>
 
 ## RSS Reader
 
+* self modified [matcha](https://github.com/akfork/matcha) + obsidian: now using
+* <https://feeeed.nateparrott.com/> - the most powerful RSS reader.
 * miniflux - Go + Postgresql, self-hosted, easy to deploy.
 * omnivore - self-hosted and free cloud, cross platform.
 * freedium.cfg - unlock medium.

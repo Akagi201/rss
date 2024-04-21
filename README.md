@@ -20,14 +20,40 @@
 * <https://github.com/damoeb/rss-proxy> - <https://rssproxy.migor.org/>
 * <https://github.com/damoeb/feedless>
 * <https://freshrss.org/>
+* <https://openrss.org/>
 * <https://github.com/DIYgod/RSSHub>
+* <https://rss.diffbot.com/> - <https://github.com/diffbot/rss-anything>
 * <https://github.com/cooderl/wewe-rss/> - wechat to rss
 * <https://weread.qq.com/> - 微信阅读订阅微信公众号，加入书架即可，新文章有通知。
+* `https://news.google.com/rss/search?q=site:twitter.com+llm+when:14d` - google news rss
+* <https://morss.it/>
+* <https://fetchrss.com/>
+* <https://rsstotweet.xyz/>
 
 ## RSS Tool
 
 * <https://github.com/adulau/rss-tools>
+* <https://morerss.com/>
 * <https://chromewebstore.google.com/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa>
+* <https://rss2ytm.net/> - podcast to youtube mjusic
+* <https://feed.mikle.com/> - add rss to site.
+* <https://www.rsstranslator.com/>
+* <https://rsseverything.com/>
+* <https://feedful.app/>
+* <https://www.feedgears.com/newsgears>
+* <https://markdowndown.vercel.app/> - webpage to markdown
+
+## Bypass Tool
+
+* <https://github.com/bpc-clone/bpc_updates>
+* <https://12ft.io/>
+
+## GPT Summary resource
+
+* <https://hackernews.betacat.io/feed.xml> hacker news ai summary
+* <https://www.buzzing.cc/> - manay site's ai summary
+* <https://www.newsminimalist.com/> - AI-powered news aggregator and curator
+* <https://news.agpt.co/> - news
 
 ## RSS Reader
 
@@ -37,9 +63,14 @@
 * omnivore - self-hosted and free cloud, cross platform.
 * freedium.cfg - unlock medium.
 
+## RSS + AI products
+
+* <https://stocknews.ai/>
+
 ## Docs
 
 * [Feed Reference](https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md)
+* <https://efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d>
 
 ## RSS Feeds
 

@@ -35,13 +35,16 @@
 * <https://github.com/adulau/rss-tools>
 * <https://morerss.com/>
 * <https://chromewebstore.google.com/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa>
-* <https://rss2ytm.net/> - podcast to youtube mjusic
+* <https://rss2ytm.net/> - podcast to youtube music
 * <https://feed.mikle.com/> - add rss to site.
 * <https://www.rsstranslator.com/>
 * <https://rsseverything.com/>
 * <https://feedful.app/>
 * <https://www.feedgears.com/newsgears>
 * <https://markdowndown.vercel.app/> - webpage to markdown
+* <https://podwise.ai> - podcast ai processing
+* <https://podfyai.com/> - podcast ai processing, rss, audio, youtube
+* <https://www.kzzimu.com/> - generate video subtitle
 
 ## Bypass Tool
 

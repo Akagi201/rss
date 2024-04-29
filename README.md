@@ -46,6 +46,7 @@
 * <https://podfyai.com/> - podcast ai processing, rss, audio, youtube
 * <https://www.kzzimu.com/> - generate video subtitle
 * <https://github.com/madeofpendletonwool/PinePods> - self hosted podcast management
+* <https://rss.app/rss-feed>
 
 ## Bypass Tool
 

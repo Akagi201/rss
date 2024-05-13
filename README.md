@@ -29,6 +29,7 @@
 * <https://morss.it/>
 * <https://fetchrss.com/>
 * <https://rsstotweet.xyz/>
+* <https://feed.indiehackers.world/> - IndieHackers Feed <https://github.com/ahonn/ihrss>
 
 ## RSS Tool
 

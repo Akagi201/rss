@@ -49,6 +49,15 @@
 * <https://github.com/madeofpendletonwool/PinePods> - self hosted podcast management
 * <https://rss.app/rss-feed>
 
+## RSS Source
+
+* <https://www.feedspot.com>
+* <https://msrc.microsoft.com/blog/rss/>
+
+## Twitter Tool
+
+* <https://twitter-thread.com> - free thread reader
+
 ## Bypass Tool
 
 * <https://github.com/bpc-clone/bpc_updates>

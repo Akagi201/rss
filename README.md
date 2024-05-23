@@ -48,6 +48,7 @@
 * <https://www.kzzimu.com/> - generate video subtitle
 * <https://github.com/madeofpendletonwool/PinePods> - self hosted podcast management
 * <https://rss.app/rss-feed>
+* <https://github.com/mkadirtan/feed-toolbelt> - search feed from a site
 
 ## RSS Source
 

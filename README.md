@@ -15,6 +15,17 @@
 * dev.to: Adding "/feed" to host, e.g. <https://dev.to/feed/tag/webdev> <https://dev.to/feed/alexkhismatulin>
 * Just use [RSSHub Radar](https://chromewebstore.google.com/detail/kefjpfngnndepjbopdmoebkipbgkggaa) to detect rss of any website.
 
+## Keyword based RSS
+
+* Google News: `https://news.google.com/rss/search?q=site:twitter.com+llm+when:14d`
+* Bing News: `https://www.bing.com/news/search?format=RSS&q=llm`
+* Bing: `https://www.bing.com/search?format=RSS&q=llm`
+* Wordpress: `https://en.search.wordpress.com/?f=feed&q=llm`
+* Internet Archive: `https://archive.org/services/collection-rss.php?query=description:llm`
+* Hacker News: `https://hnrss.org/newest?q=llm`
+* Blawg Search: `https://blawgsearch.justia.com/rss/search?mode=rss&l=20&s=0&query=llm`
+* Reddit: `https://www.reddit.com/search.rss?sort=new&q=llm`
+
 ## RSS proxy
 
 * <https://github.com/damoeb/rss-proxy> - <https://rssproxy.migor.org/>
@@ -25,7 +36,6 @@
 * <https://rss.diffbot.com/> - <https://github.com/diffbot/rss-anything>
 * <https://github.com/cooderl/wewe-rss/> - wechat to rss
 * <https://weread.qq.com/> - 微信阅读订阅微信公众号，加入书架即可，新文章有通知。
-* `https://news.google.com/rss/search?q=site:twitter.com+llm+when:14d` - google news rss
 * <https://morss.it/>
 * <https://fetchrss.com/>
 * <https://rsstotweet.xyz/>
@@ -49,6 +59,7 @@
 * <https://github.com/madeofpendletonwool/PinePods> - self hosted podcast management
 * <https://rss.app/rss-feed>
 * <https://github.com/mkadirtan/feed-toolbelt> - search feed from a site
+* <https://github.com/0x2E/rss-finder> -- find and sniff rss links
 
 ## RSS Source
 

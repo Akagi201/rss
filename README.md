@@ -84,11 +84,15 @@
 
 ## RSS Reader
 
-* self modified [matcha](https://github.com/akfork/matcha) + obsidian: now using
 * <https://feeeed.nateparrott.com/> - the most powerful RSS reader.
 * miniflux - Go + Postgresql, self-hosted, easy to deploy.
 * omnivore - self-hosted and free cloud, cross platform.
 * freedium.cfg - unlock medium.
+
+## RSS Source
+
+* <https://www.bestblogs.dev/sources>
+* <https://engineeringblogs.xyz/>
 
 ## RSS + AI products
 

@@ -30,13 +30,12 @@
 
 * <https://github.com/damoeb/rss-proxy> - <https://rssproxy.migor.org/>
 * <https://github.com/damoeb/feedless>
-* <https://freshrss.org/>
 * <https://openrss.org/>
 * <https://github.com/DIYgod/RSSHub>
 * <https://rss.diffbot.com/> - <https://github.com/diffbot/rss-anything>
 * <https://github.com/cooderl/wewe-rss/> - wechat to rss
 * <https://weread.qq.com/> - 微信阅读订阅微信公众号，加入书架即可，新文章有通知。
-* <https://morss.it/>
+* <https://github.com/pictuga/morss>
 * <https://fetchrss.com/>
 * <https://rsstotweet.xyz/>
 * <https://feed.indiehackers.world/> - IndieHackers Feed <https://github.com/ahonn/ihrss>
@@ -65,6 +64,7 @@
 
 * <https://www.feedspot.com>
 * <https://msrc.microsoft.com/blog/rss/>
+* <https://github.com/timqian/chinese-independent-blogs>
 
 ## Twitter Tool
 

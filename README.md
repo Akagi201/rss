@@ -39,6 +39,8 @@
 * <https://fetchrss.com/>
 * <https://rsstotweet.xyz/>
 * <https://feed.indiehackers.world/> - IndieHackers Feed <https://github.com/ahonn/ihrss>
+* <https://github.com/dgtlmoon/changedetection.io>
+* <https://politepol.com>
 
 ## RSS Tool
 
@@ -52,6 +54,8 @@
 * <https://feedful.app/>
 * <https://www.feedgears.com/newsgears>
 * <https://markdowndown.vercel.app/> - webpage to markdown
+* <https://github.com/letmutex/htmd> - html to markdown in rust
+* <https://github.com/mixmark-io/turndown> - html to markdown
 * <https://podwise.ai> - podcast ai processing
 * <https://podfyai.com/> - podcast ai processing, rss, audio, youtube
 * <https://www.kzzimu.com/> - generate video subtitle
@@ -65,10 +69,13 @@
 * <https://www.feedspot.com>
 * <https://msrc.microsoft.com/blog/rss/>
 * <https://github.com/timqian/chinese-independent-blogs>
+* <https://www.newsminimalist.com/>
 
-## Twitter Tool
+## Twitter/X Tool
 
 * <https://twitter-thread.com> - free thread reader
+* <https://twitsave.com/> - twitter thread video downloader
+* <https://github.com/dylanpdx/BetterTwitFix> - better twitter video embeds
 
 ## Bypass Tool
 
@@ -97,6 +104,7 @@
 ## RSS + AI products
 
 * <https://stocknews.ai/>
+* <https://github.com/AgentEra/Agently-Daily-News-Collector> - keyword base news collector
 
 ## Docs
 

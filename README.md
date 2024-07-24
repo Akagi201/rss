@@ -63,6 +63,7 @@
 * <https://rss.app/rss-feed>
 * <https://github.com/mkadirtan/feed-toolbelt> - search feed from a site
 * <https://github.com/0x2E/rss-finder> -- find and sniff rss links
+* <https://rssisawesome.com/> - rss reader and opml editor
 
 ## RSS Source
 

@@ -41,6 +41,7 @@
 * <https://feed.indiehackers.world/> - IndieHackers Feed <https://github.com/ahonn/ihrss>
 * <https://github.com/dgtlmoon/changedetection.io>
 * <https://politepol.com>
+* <https://github.com/aigoncharov/telegram-to-rss> - telegram message to rss
 
 ## RSS Tool
 
@@ -64,6 +65,7 @@
 * <https://github.com/mkadirtan/feed-toolbelt> - search feed from a site
 * <https://github.com/0x2E/rss-finder> -- find and sniff rss links
 * <https://rssisawesome.com/> - rss reader and opml editor
+* <https://opml.imadij.com/> - opml editor
 
 ## RSS Source
 
@@ -106,6 +108,7 @@
 
 * <https://stocknews.ai/>
 * <https://github.com/AgentEra/Agently-Daily-News-Collector> - keyword base news collector
+* <https://smartreader.app/>
 
 ## Docs
 

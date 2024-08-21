@@ -119,3 +119,7 @@
 
 * <https://github.com/chainfeeds/RSSAggregatorforWeb3>
 * <https://github.com/yinan-c/RSS-GPT>
+
+## Website changes notifier
+
+* <https://github.com/devin-liu/glanceables>

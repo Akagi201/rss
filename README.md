@@ -119,6 +119,7 @@
 
 * <https://github.com/chainfeeds/RSSAggregatorforWeb3>
 * <https://github.com/yinan-c/RSS-GPT>
+* <https://github.com/fabriziosalmi/UglyFeed> - rss feed rewrite
 
 ## Website changes notifier
 

@@ -42,6 +42,7 @@
 * <https://github.com/dgtlmoon/changedetection.io>
 * <https://politepol.com>
 * <https://github.com/aigoncharov/telegram-to-rss> - telegram message to rss
+* <https://feedless.org/>
 
 ## RSS Tool
 
@@ -66,6 +67,7 @@
 * <https://github.com/0x2E/rss-finder> -- find and sniff rss links
 * <https://rssisawesome.com/> - rss reader and opml editor
 * <https://opml.imadij.com/> - opml editor
+* <https://politepol.com/en/> - rss feed generator
 
 ## RSS Source
 
@@ -79,6 +81,7 @@
 * <https://twitter-thread.com> - free thread reader
 * <https://twitsave.com/> - twitter thread video downloader
 * <https://github.com/dylanpdx/BetterTwitFix> - better twitter video embeds
+* <https://nitter.poast.org/Akagi201/rss> - x/twitter rss feed
 
 ## Bypass Tool
 

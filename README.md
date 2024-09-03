@@ -82,6 +82,9 @@
 * <https://twitsave.com/> - twitter thread video downloader
 * <https://github.com/dylanpdx/BetterTwitFix> - better twitter video embeds
 * <https://nitter.poast.org/Akagi201/rss> - x/twitter rss feed
+* <https://github.com/insin/control-panel-for-twitter> - twitter improved
+* <https://greasyfork.org/en/scripts/404587-x-twitter-add-notes-to-the-user> + Violentmonkey: add notes to x username
+* Twitter Hunter X: <https://tweethunter.io/twemex> Hightlights and Enhanced Search
 
 ## Bypass Tool
 

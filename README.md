@@ -131,6 +131,11 @@
 
 * <https://github.com/devin-liu/glanceables>
 
+## Clean webpage
+
+* <https://12ft.io/>
+* <https://github.com/wasi-master/13ft>
+
 ## Articles with no RSS
 
 * <https://etherpedia.2077.xyz/>

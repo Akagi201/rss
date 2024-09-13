@@ -14,6 +14,7 @@
 * CSDN: Adding "/rss/list" to link, e.g. <https://blog.csdn.net/mutourend/rss/list>
 * dev.to: Adding "/feed" to host, e.g. <https://dev.to/feed/tag/webdev> <https://dev.to/feed/alexkhismatulin>
 * Just use [RSSHub Radar](https://chromewebstore.google.com/detail/kefjpfngnndepjbopdmoebkipbgkggaa) to detect rss of any website.
+* Reddit: `https://www.reddit.com//r/simpsonsshitposting/top/.rss?t=month` top posts from the month
 
 ## Keyword based RSS
 
@@ -43,6 +44,7 @@
 * <https://politepol.com>
 * <https://github.com/aigoncharov/telegram-to-rss> - telegram message to rss
 * <https://feedless.org/>
+* <https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html> - rss-bridge
 
 ## RSS Tool
 
@@ -68,6 +70,8 @@
 * <https://rssisawesome.com/> - rss reader and opml editor
 * <https://opml.imadij.com/> - opml editor
 * <https://politepol.com/en/> - rss feed generator
+* <https://lighthouseapp.io/tools/feed-finder> - rss feed finder
+* <https://kill-the-newsletter.com/> - newsletter to rss
 
 ## RSS Source
 
@@ -142,3 +146,23 @@
 * <https://eips.wiki/>
 * <https://research.2077.xyz/>
 * <https://tunglevo.com/>
+
+## Reddit Feeds
+
+You can do the above hack with multiple subreddits too (like a multi-reddit, it combines multiple subreddits into one feed). For example:
+
+`https://www.reddit.com/r/sub1+sub2+sub3/top/.rss?t=month`
+
+Just replace sub1, sub2, etc... with the subs you want. NOTE- if I remember correctly, you can't use private or NSFW subreddits and the maximum number of subs per feed is something like 20 subs (i forget the exact number).
+
+In addition, if you use the "Custom Feeds" feature and have some feeds you to follow via RSS, you can use that too:
+
+`https://www.reddit.com/user/<USERNAME>/m/<FEED_NAME>/top/.rss?t=month`
+
+The Custom Feed needs to be public and can't include any private or NSFW subreddits, similarly to the above.
+
+Finally you can follow searches (like searching for something via the search bar) via RSS using a URL like this:
+
+`https://www.reddit.com/search/.rss?q=search_term&t=month&sort=top`
+
+Replace search_term with what you want to search for (and replace sort=top with sort=hot, sort=new, etc...). For "top of month" use "t=month" like the example, for "top day" use "t=day", etc.

@@ -44,7 +44,7 @@
 * <https://politepol.com>
 * <https://github.com/aigoncharov/telegram-to-rss> - telegram message to rss
 * <https://feedless.org/>
-* <https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html> - rss-bridge
+* <https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html> - rss-bridge, official: <https://rss-bridge.org/bridge01/>
 
 ## RSS Tool
 
@@ -146,6 +146,7 @@
 * <https://eips.wiki/>
 * <https://research.2077.xyz/>
 * <https://tunglevo.com/>
+* <https://bosun.ai/posts/>
 
 ## Reddit Feeds
 

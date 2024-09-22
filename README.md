@@ -140,14 +140,6 @@
 * <https://12ft.io/>
 * <https://github.com/wasi-master/13ft>
 
-## Articles with no RSS
-
-* <https://etherpedia.2077.xyz/>
-* <https://eips.wiki/>
-* <https://research.2077.xyz/>
-* <https://tunglevo.com/>
-* <https://bosun.ai/posts/>
-
 ## Reddit Feeds
 
 You can do the above hack with multiple subreddits too (like a multi-reddit, it combines multiple subreddits into one feed). For example:

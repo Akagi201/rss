@@ -72,6 +72,7 @@
 * <https://politepol.com/en/> - rss feed generator
 * <https://lighthouseapp.io/tools/feed-finder> - rss feed finder
 * <https://kill-the-newsletter.com/> - newsletter to rss
+* <https://rss.diffbot.com/> - rss feed generator
 
 ## RSS Source
 

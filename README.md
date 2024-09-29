@@ -13,7 +13,7 @@
 * Medium: Adding "/feed" after medium.com, e.g. <https://medium.com/feed/anomanetwork>
 * CSDN: Adding "/rss/list" to link, e.g. <https://blog.csdn.net/mutourend/rss/list>
 * dev.to: Adding "/feed" to host, e.g. <https://dev.to/feed/tag/webdev> <https://dev.to/feed/alexkhismatulin>
-* Just use [RSSHub Radar](https://chromewebstore.google.com/detail/kefjpfngnndepjbopdmoebkipbgkggaa) to detect rss of any website.
+* Just use [RSSHub Radar](https://chromewebstore.google.com/detail/kefjpfngnndepjbopdmoebkipbgkggaa) and [get-rss-feed-url-extension](https://github.com/shevabam/get-rss-feed-url-extension) to detect rss of any website.
 * Reddit: `https://www.reddit.com//r/simpsonsshitposting/top/.rss?t=month` top posts from the month
 
 ## Keyword based RSS

@@ -73,6 +73,8 @@
 * <https://lighthouseapp.io/tools/feed-finder> - rss feed finder
 * <https://kill-the-newsletter.com/> - newsletter to rss
 * <https://rss.diffbot.com/> - rss feed generator
+* <https://lighthouseapp.io/tools/feed-finder> - rss feed finder
+* <https://www.happyou.info/fs/> - rss feed generator
 
 ## RSS Source
 
@@ -80,6 +82,7 @@
 * <https://msrc.microsoft.com/blog/rss/>
 * <https://github.com/timqian/chinese-independent-blogs>
 * <https://www.newsminimalist.com/>
+* <https://mshibanami.github.io/GitHubTrendingRSS/>
 
 ## Twitter/X Tool
 
@@ -90,6 +93,7 @@
 * <https://github.com/insin/control-panel-for-twitter> - twitter improved
 * <https://greasyfork.org/en/scripts/404587-x-twitter-add-notes-to-the-user> + Violentmonkey: add notes to x username
 * Twitter Hunter X: <https://tweethunter.io/twemex> Hightlights and Enhanced Search
+* <https://github.com/ErfanEbrahimnia/nope-x> - chrome extension to nope a post.
 
 ## Bypass Tool
 
@@ -114,6 +118,7 @@
 
 * <https://www.bestblogs.dev/sources>
 * <https://engineeringblogs.xyz/>
+* <https://github.com/weekend-project-space/top-rss-list>
 
 ## RSS + AI products
 

@@ -75,6 +75,7 @@
 * <https://rss.diffbot.com/> - rss feed generator
 * <https://lighthouseapp.io/tools/feed-finder> - rss feed finder
 * <https://www.happyou.info/fs/> - rss feed generator
+* <https://rssweball.top/#/> - rss feed generator
 
 ## RSS Source
 

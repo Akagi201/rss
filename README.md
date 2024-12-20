@@ -95,6 +95,11 @@
 * <https://greasyfork.org/en/scripts/404587-x-twitter-add-notes-to-the-user> + Violentmonkey: add notes to x username
 * Twitter Hunter X: <https://tweethunter.io/twemex> Hightlights and Enhanced Search
 * <https://github.com/ErfanEbrahimnia/nope-x> - chrome extension to nope a post.
+* <https://github.com/sekai-soft/guide-nitter-self-hosting> - self hosting a Nitter service
+
+## News Letter to RSS
+
+* <https://lighthouseapp.io/tools/newsletter-to-rss>
 
 ## Bypass Tool
 
@@ -146,6 +151,10 @@
 
 * <https://12ft.io/>
 * <https://github.com/wasi-master/13ft>
+
+## Decentralized RSS
+
+* <https://github.com/really-simple-decentralized-syndication/>
 
 ## Reddit Feeds
 

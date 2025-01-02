@@ -16,6 +16,31 @@
       <height>128</height>
     </image>
       <item>
+        <title>Revm feels like going through Ethereum&apos;s history..
+
+For example it&apos;s support for older transaction types lets you trace the evolution of fork-specific validations⬇️
+
+Way more effective and sticky than reading EIPs.
+
+Obviously implementing them is even better..
+
+2025 goal 🫡</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Revm feels like going through Ethereum's history..<br>
+<br>
+For example it's support for older transaction types lets you trace the evolution of fork-specific validations⬇️<br>
+<br>
+Way more effective and sticky than reading EIPs.<br>
+<br>
+Obviously implementing them is even better..<br>
+<br>
+2025 goal 🫡</p>
+<img src="https://nitter.poast.org/pic/media%2FGgNhUstWkAAA0hE.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 13:38:00 GMT</pubDate>
+        <guid>https://nitter.poast.org/letsgetonchain/status/1874450001792848050#m</guid>
+        <link>https://nitter.poast.org/letsgetonchain/status/1874450001792848050#m</link>
+      </item>
+      <item>
         <title>If nodes execute smart contracts as machine code doesn&apos;t this increase the risk of consensus bugs due to nodes running on different hardware? 
 
 I thought evm interpreter based execution was necessary to abstract from underlying platform</title>
@@ -311,31 +336,6 @@ gg</p>]]></description>
         <pubDate>Tue, 03 Dec 2024 10:10:38 GMT</pubDate>
         <guid>https://nitter.poast.org/letsgetonchain/status/1863888567715447071#m</guid>
         <link>https://nitter.poast.org/letsgetonchain/status/1863888567715447071#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: 5/ Now, let’s flip it.
-
-We take the $INST received from Ethereum and simulate selling it back on Polygon:
-
-1⃣ Spin up a Polygon REVM instance 🔄
-2⃣Call the Uniswap quoter smart contract on Polygon
-while inputting the  $INST we got earlier.
-
-Let&apos;s print the results:</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>5/ Now, let’s flip it.<br>
-<br>
-We take the <a href="https://nitter.poast.org/search?q=%23INST">$INST</a> received from Ethereum and simulate selling it back on Polygon:<br>
-<br>
-1⃣ Spin up a Polygon REVM instance 🔄<br>
-2⃣Call the Uniswap quoter smart contract on Polygon<br>
-while inputting the  <a href="https://nitter.poast.org/search?q=%23INST">$INST</a> we got earlier.<br>
-<br>
-Let's print the results:</p>
-<img src="https://nitter.poast.org/pic/media%2FGd3aVocW8AA8sKb.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 03 Dec 2024 10:10:38 GMT</pubDate>
-        <guid>https://nitter.poast.org/letsgetonchain/status/1863888565479887028#m</guid>
-        <link>https://nitter.poast.org/letsgetonchain/status/1863888565479887028#m</link>
       </item>
 
   </channel>

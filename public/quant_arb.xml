@@ -16,6 +16,15 @@
       <height>128</height>
     </image>
       <item>
+        <title>Cmon man</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>Cmon man</p>
+<img src="https://nitter.poast.org/pic/media%2FGgNTzuhWwAEKl3h.png" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 12:34:33 GMT</pubDate>
+        <guid>https://nitter.poast.org/quant_arb/status/1874434034845225024#m</guid>
+        <link>https://nitter.poast.org/quant_arb/status/1874434034845225024#m</link>
+      </item>
+      <item>
         <title>https://github.com/tardis-dev/tardis-node/blob/master/src/consts.ts
 
 Quite a few Tardis exchanges I didnt know about in case anyone else is unaware</title>
@@ -215,15 +224,6 @@ Here it is with 9 more years of data, with ONE observation per non-overlapping d
         <pubDate>Sat, 28 Dec 2024 09:59:23 GMT</pubDate>
         <guid>https://nitter.poast.org/quant_arb/status/1872945431724081222#m</guid>
         <link>https://nitter.poast.org/quant_arb/status/1872945431724081222#m</link>
-      </item>
-      <item>
-        <title>Couldn’t be worse</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>Couldn’t be worse</p>
-<img src="https://nitter.poast.org/pic/media%2FGf1RS3uWIAEv0BK.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 27 Dec 2024 20:32:38 GMT</pubDate>
-        <guid>https://nitter.poast.org/quant_arb/status/1872742408045379711#m</guid>
-        <link>https://nitter.poast.org/quant_arb/status/1872742408045379711#m</link>
       </item>
 
   </channel>

@@ -16,6 +16,150 @@
       <height>128</height>
     </image>
       <item>
+        <title>Automattic / harper: The Grammar Checker for Developers ★2673 https://github.com/Automattic/harper</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>Automattic / harper: The Grammar Checker for Developers ★2673 <a href="https://github.com/Automattic/harper">github.com/Automattic/harper</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1873603830211842049%2FkfnUyJqO%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 02 Jan 2025 01:25:53 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874628146882043905#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874628146882043905#m</link>
+      </item>
+      <item>
+        <title>rolldown: Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. ★9530 https://github.com/rolldown/rolldown</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>rolldown: Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. ★9530 <a href="https://github.com/rolldown/rolldown">github.com/rolldown/rolldown</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1872583589231230976%2FRrJPON1_%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 02 Jan 2025 00:25:49 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874613028051898611#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874613028051898611#m</link>
+      </item>
+      <item>
+        <title>dandavison / delta: A syntax-highlighting pager for git, diff, grep, and blame output ★24925 https://github.com/dandavison/delta</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>dandavison / delta: A syntax-highlighting pager for git, diff, grep, and blame output ★24925 <a href="https://github.com/dandavison/delta">github.com/dandavison/delta</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1873717756224233472%2FWIIO7Ggr%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 23:25:44 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874597908475269554#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874597908475269554#m</link>
+      </item>
+      <item>
+        <title>tauri-apps / plugins-workspace: All of the official Tauri plugins in one place! ★1047 https://github.com/tauri-apps/plugins-workspace</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>tauri-apps / plugins-workspace: All of the official Tauri plugins in one place! ★1047 <a href="https://github.com/tauri-apps/plugins-workspace">github.com/tauri-apps/plugin…</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1872427289008640000%2FpgtLEWfC%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 22:25:39 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874582789192106167#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874582789192106167#m</link>
+      </item>
+      <item>
+        <title>denoland / deno: A modern runtime for JavaScript and TypeScript. ★100923 https://github.com/denoland/deno</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>denoland / deno: A modern runtime for JavaScript and TypeScript. ★100923 <a href="https://github.com/denoland/deno">github.com/denoland/deno</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1873999694147575809%2Fhf-O0uwB%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 21:25:34 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874567670114460014#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874567670114460014#m</link>
+      </item>
+      <item>
+        <title>influxdata / influxdb: Scalable datastore for metrics, events, and real-time analytics ★29244 https://github.com/influxdata/influxdb</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>influxdata / influxdb: Scalable datastore for metrics, events, and real-time analytics ★29244 <a href="https://github.com/influxdata/influxdb">github.com/influxdata/influx…</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1872315032387694592%2FOJLbSRty%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 20:23:18 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874552000005972051#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874552000005972051#m</link>
+      </item>
+      <item>
+        <title>BurntSushi / ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore ★49506 https://github.com/BurntSushi/ripgrep</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>BurntSushi / ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore ★49506 <a href="https://github.com/BurntSushi/ripgrep">github.com/BurntSushi/ripgre…</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1873831090378481664%2FPBwrP8OI%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 19:23:14 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874536880920023302#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874536880920023302#m</link>
+      </item>
+      <item>
+        <title>embassy-rs / embassy: Modern embedded framework, using Rust and async. ★5846 https://github.com/embassy-rs/embassy</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>embassy-rs / embassy: Modern embedded framework, using Rust and async. ★5846 <a href="https://github.com/embassy-rs/embassy">github.com/embassy-rs/embass…</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1873544741234851840%2FkSYBtW4a%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 18:23:09 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874521761632710843#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874521761632710843#m</link>
+      </item>
+      <item>
+        <title>louis-e / arnis: Generate any location from the real world in Minecraft Java Edition with a high level of detail. ★913 https://github.com/louis-e/arnis</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>louis-e / arnis: Generate any location from the real world in Minecraft Java Edition with a high level of detail. ★913 <a href="https://github.com/louis-e/arnis">github.com/louis-e/arnis</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1872151752952119296%2FN1HxT72Q%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 15:23:04 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874476440252743862#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874476440252743862#m</link>
+      </item>
+      <item>
+        <title>gleam-lang / gleam: ⭐️ A friendly language for building type-safe, scalable systems! ★18426 https://github.com/gleam-lang/gleam</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>gleam-lang / gleam: ⭐️ A friendly language for building type-safe, scalable systems! ★18426 <a href="https://github.com/gleam-lang/gleam">github.com/gleam-lang/gleam</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1873809132836548608%2FICpYDPck%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 14:22:59 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874461323142349260#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874461323142349260#m</link>
+      </item>
+      <item>
+        <title>openobserve: 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). ★13898 https://github.com/openobserve/openobserve</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>openobserve: 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). ★13898 <a href="https://github.com/openobserve/openobserve">github.com/openobserve/openo…</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1874568220209823744%2FDqw-eLMX%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 13:22:55 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874446204962214270#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874446204962214270#m</link>
+      </item>
+      <item>
+        <title>qdrant: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ ★21165 https://github.com/qdrant/qdrant</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>qdrant: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud <a href="https://cloud.qdrant.io/">cloud.qdrant.io/</a> ★21165 <a href="https://github.com/qdrant/qdrant">github.com/qdrant/qdrant</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1872926726042611712%2FsYIFo6NU%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 07:22:30 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874355503826162065#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874355503826162065#m</link>
+      </item>
+      <item>
+        <title>ast-grep: ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust ★7797 https://github.com/ast-grep/ast-grep</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>ast-grep: ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust ★7797 <a href="https://github.com/ast-grep/ast-grep">github.com/ast-grep/ast-grep</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1874014055259922432%2FjDrbIbuX%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 06:22:26 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874340385167900837#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874340385167900837#m</link>
+      </item>
+      <item>
+        <title>GraphiteEditor / Graphite: 2D vector &amp; raster editor that melds traditional layers &amp; tools with a modern node-based, non-destructive, procedural workflow. ★10008 https://github.com/GraphiteEditor/Graphite</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>GraphiteEditor / Graphite: 2D vector &amp; raster editor that melds traditional layers &amp; tools with a modern node-based, non-destructive, procedural workflow. ★10008 <a href="https://github.com/GraphiteEditor/Graphite">github.com/GraphiteEditor/Gr…</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1872611863084900353%2F2Y-oSFLz%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 05:22:21 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874325268002988310#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874325268002988310#m</link>
+      </item>
+      <item>
+        <title>spaceandtimelabs / sxt-proof-of-sql: Space and Time | Proof of SQL ★3887 https://github.com/spaceandtimelabs/sxt-proof-of-sql</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>spaceandtimelabs / sxt-proof-of-sql: Space and Time | Proof of SQL ★3887 <a href="https://github.com/spaceandtimelabs/sxt-proof-of-sql">github.com/spaceandtimelabs/…</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1874477585050320896%2FJuYXiFUl%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 04:22:17 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874310149986541776#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874310149986541776#m</link>
+      </item>
+      <item>
+        <title>dani-garcia / vaultwarden: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs ★40354 https://github.com/dani-garcia/vaultwarden</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>dani-garcia / vaultwarden: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs ★40354 <a href="https://github.com/dani-garcia/vaultwarden">github.com/dani-garcia/vault…</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1872290339655991296%2F5YwoBrAg%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 03:22:13 GMT</pubDate>
+        <guid>https://nitter.poast.org/RustTrending/status/1874295032355926285#m</guid>
+        <link>https://nitter.poast.org/RustTrending/status/1874295032355926285#m</link>
+      </item>
+      <item>
         <title>librespot-org / librespot: Open Source Spotify client library ★4978 https://github.com/librespot-org/librespot</title>
         <dc:creator>@RustTrending</dc:creator>
         <description><![CDATA[<p>librespot-org / librespot: Open Source Spotify client library ★4978 <a href="https://github.com/librespot-org/librespot">github.com/librespot-org/lib…</a></p>
@@ -28,7 +172,7 @@
         <title>cloudflare / quiche: 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 ★9663 https://github.com/cloudflare/quiche</title>
         <dc:creator>@RustTrending</dc:creator>
         <description><![CDATA[<p>cloudflare / quiche: 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 ★9663 <a href="https://github.com/cloudflare/quiche">github.com/cloudflare/quiche</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1872068404107960320%2FlR8amNRn%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.poast.org/pic/card_img%2F1874605472776687616%2FEZRleIjw%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Wed, 01 Jan 2025 01:22:04 GMT</pubDate>
         <guid>https://nitter.poast.org/RustTrending/status/1874264798785118276#m</guid>
         <link>https://nitter.poast.org/RustTrending/status/1874264798785118276#m</link>
@@ -37,7 +181,7 @@
         <title>launchbadge / sqlx: 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. ★13760 https://github.com/launchbadge/sqlx</title>
         <dc:creator>@RustTrending</dc:creator>
         <description><![CDATA[<p>launchbadge / sqlx: 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. ★13760 <a href="https://github.com/launchbadge/sqlx">github.com/launchbadge/sqlx</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1872064066543300608%2FFz9COrC8%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.poast.org/pic/card_img%2F1874601990623211520%2Fk_sCyptY%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Tue, 31 Dec 2024 22:21:57 GMT</pubDate>
         <guid>https://nitter.poast.org/RustTrending/status/1874219469025001488#m</guid>
         <link>https://nitter.poast.org/RustTrending/status/1874219469025001488#m</link>
@@ -50,150 +194,6 @@
         <pubDate>Tue, 31 Dec 2024 21:21:52 GMT</pubDate>
         <guid>https://nitter.poast.org/RustTrending/status/1874204348575896006#m</guid>
         <link>https://nitter.poast.org/RustTrending/status/1874204348575896006#m</link>
-      </item>
-      <item>
-        <title>iced-rs / iced: A cross-platform GUI library for Rust, inspired by Elm ★25194 https://github.com/iced-rs/iced</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>iced-rs / iced: A cross-platform GUI library for Rust, inspired by Elm ★25194 <a href="https://github.com/iced-rs/iced">github.com/iced-rs/iced</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1873790511317676032%2FUctXYUfL%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 31 Dec 2024 20:21:48 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1874189232140607957#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1874189232140607957#m</link>
-      </item>
-      <item>
-        <title>helix-editor / helix: A post-modern modal text editor. ★34571 https://github.com/helix-editor/helix</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>helix-editor / helix: A post-modern modal text editor. ★34571 <a href="https://github.com/helix-editor/helix">github.com/helix-editor/heli…</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1871939884413300736%2Fk9ACQnUh%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 31 Dec 2024 19:21:43 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1874174110802338153#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1874174110802338153#m</link>
-      </item>
-      <item>
-        <title>Spotifyd / spotifyd: A spotify daemon ★9962 https://github.com/Spotifyd/spotifyd</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>Spotifyd / spotifyd: A spotify daemon ★9962 <a href="https://github.com/Spotifyd/spotifyd">github.com/Spotifyd/spotifyd</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1873203187240308736%2FjEkxysj3%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 31 Dec 2024 18:21:39 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1874158993964519527#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1874158993964519527#m</link>
-      </item>
-      <item>
-        <title>jj-vcs / jj: A Git-compatible VCS that is both simple and powerful ★10177 https://github.com/jj-vcs/jj</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>jj-vcs / jj: A Git-compatible VCS that is both simple and powerful ★10177 <a href="https://github.com/jj-vcs/jj">github.com/jj-vcs/jj</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1872882887432851456%2Fb9-H_77k%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 31 Dec 2024 17:21:34 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1874143877009203509#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1874143877009203509#m</link>
-      </item>
-      <item>
-        <title>serde-rs / serde: Serialization framework for Rust ★9309 https://github.com/serde-rs/serde</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>serde-rs / serde: Serialization framework for Rust ★9309 <a href="https://github.com/serde-rs/serde">github.com/serde-rs/serde</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1874005493854638080%2FU-Ow3qQ6%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 31 Dec 2024 16:21:30 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1874128760418820361#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1874128760418820361#m</link>
-      </item>
-      <item>
-        <title>getzola / zola: A fast static site generator in a single binary with everything built-in. https://www.getzola.org ★14439 https://github.com/getzola/zola</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>getzola / zola: A fast static site generator in a single binary with everything built-in. <a href="https://www.getzola.org">getzola.org</a> ★14439 <a href="https://github.com/getzola/zola">github.com/getzola/zola</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1874203446795988992%2F5Fz2Yb3I%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 31 Dec 2024 15:21:26 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1874113642398179775#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1874113642398179775#m</link>
-      </item>
-      <item>
-        <title>ajeetdsouza / zoxide: A smarter cd command. Supports all major shells. ★23783 https://github.com/ajeetdsouza/zoxide</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>ajeetdsouza / zoxide: A smarter cd command. Supports all major shells. ★23783 <a href="https://github.com/ajeetdsouza/zoxide">github.com/ajeetdsouza/zoxid…</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1872668717244661760%2F6yI2jmHn%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 31 Dec 2024 14:21:22 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1874098524973130113#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1874098524973130113#m</link>
-      </item>
-      <item>
-        <title>alacritty: A cross-platform, OpenGL terminal emulator. ★57147 https://github.com/alacritty/alacritty</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>alacritty: A cross-platform, OpenGL terminal emulator. ★57147 <a href="https://github.com/alacritty/alacritty">github.com/alacritty/alacrit…</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1870688488976183296%2FIXbC5hFL%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 31 Dec 2024 13:21:17 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1874083406860190001#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1874083406860190001#m</link>
-      </item>
-      <item>
-        <title>eza-community / eza: A modern alternative to ls ★13213 https://github.com/eza-community/eza</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>eza-community / eza: A modern alternative to ls ★13213 <a href="https://github.com/eza-community/eza">github.com/eza-community/eza</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1872328680992813057%2Fppt28w8B%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 31 Dec 2024 03:20:32 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1873932223323529529#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1873932223323529529#m</link>
-      </item>
-      <item>
-        <title>0xPlaygrounds / rig: ⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents ★1893 https://github.com/0xPlaygrounds/rig</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>0xPlaygrounds / rig: ⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents ★1893 <a href="https://github.com/0xPlaygrounds/rig">github.com/0xPlaygrounds/rig</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1873190795823472640%2FWV1JBMvx%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 31 Dec 2024 02:20:28 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1873917107194434038#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1873917107194434038#m</link>
-      </item>
-      <item>
-        <title>fish-shell: The user-friendly command line shell. ★26986 https://github.com/fish-shell/fish-shell</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>fish-shell: The user-friendly command line shell. ★26986 <a href="https://github.com/fish-shell/fish-shell">github.com/fish-shell/fish-s…</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1873745189556371456%2FrGWvDhzE%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 31 Dec 2024 01:20:24 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1873901990616736191#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1873901990616736191#m</link>
-      </item>
-      <item>
-        <title>0xPlaygrounds / rig: ⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents ★1883 https://github.com/0xPlaygrounds/rig</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>0xPlaygrounds / rig: ⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents ★1883 <a href="https://github.com/0xPlaygrounds/rig">github.com/0xPlaygrounds/rig</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1873190795823472640%2FWV1JBMvx%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 31 Dec 2024 01:05:43 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1873898294583451695#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1873898294583451695#m</link>
-      </item>
-      <item>
-        <title>fish-shell: The user-friendly command line shell. ★26972 https://github.com/fish-shell/fish-shell</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>fish-shell: The user-friendly command line shell. ★26972 <a href="https://github.com/fish-shell/fish-shell">github.com/fish-shell/fish-s…</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1873745189556371456%2FrGWvDhzE%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 31 Dec 2024 00:05:39 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1873883178987053112#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1873883178987053112#m</link>
-      </item>
-      <item>
-        <title>fish-shell: The user-friendly command line shell. ★26858 https://github.com/fish-shell/fish-shell</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>fish-shell: The user-friendly command line shell. ★26858 <a href="https://github.com/fish-shell/fish-shell">github.com/fish-shell/fish-s…</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1873745189556371456%2FrGWvDhzE%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 31 Dec 2024 00:03:48 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1873882714258235806#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1873882714258235806#m</link>
-      </item>
-      <item>
-        <title>Smithay / smithay: A smithy for rusty wayland compositors ★1957 https://github.com/Smithay/smithay</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>Smithay / smithay: A smithy for rusty wayland compositors ★1957 <a href="https://github.com/Smithay/smithay">github.com/Smithay/smithay</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1871806370829520896%2FJy0Tvsvf%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 30 Dec 2024 23:03:45 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1873867599404224634#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1873867599404224634#m</link>
-      </item>
-      <item>
-        <title>jj-vcs / jj: A Git-compatible VCS that is both simple and powerful ★10151 https://github.com/jj-vcs/jj</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>jj-vcs / jj: A Git-compatible VCS that is both simple and powerful ★10151 <a href="https://github.com/jj-vcs/jj">github.com/jj-vcs/jj</a></p>
-<img src="https://nitter.poast.org/pic/card_img%2F1872882887432851456%2Fb9-H_77k%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 30 Dec 2024 22:03:40 GMT</pubDate>
-        <guid>https://nitter.poast.org/RustTrending/status/1873852482394481035#m</guid>
-        <link>https://nitter.poast.org/RustTrending/status/1873852482394481035#m</link>
       </item>
 
   </channel>

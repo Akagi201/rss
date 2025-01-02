@@ -16,6 +16,47 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @gakonst: And by getting the most out of the L1, I think of things like: 
+
+How do I know when to publish updates and whether it should be to blob or call data? How do I tap into a shared sequencer to save L1 costs? How do I add a bridge deployment? How do I send a cross chain message? I’m running an L1 stack and have access to &gt;32 ether, can I run a (distributed) validator easily in the same deployment to subsidise its cost?</title>
+        <dc:creator>@OisinKyne</dc:creator>
+        <description><![CDATA[<p>And by getting the most out of the L1, I think of things like: <br>
+<br>
+How do I know when to publish updates and whether it should be to blob or call data? How do I tap into a shared sequencer to save L1 costs? How do I add a bridge deployment? How do I send a cross chain message? I’m running an L1 stack and have access to &gt;32 ether, can I run a (distributed) validator easily in the same deployment to subsidise its cost?</p>]]></description>
+        <pubDate>Wed, 01 Jan 2025 18:38:55 GMT</pubDate>
+        <guid>https://nitter.poast.org/OisinKyne/status/1874525731092332855#m</guid>
+        <link>https://nitter.poast.org/OisinKyne/status/1874525731092332855#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Lots probably exist that I’m unaware of, but I think the user journey is:
+
+“How do I dev on my reth-sdk L2 idea  locally, running it with/on anvil, and then; how do I run it HA in prod with a diversity of setups while doing the least amount of grunt work to actually figure that out?” 
+
+I’m imaging the heroku like experience of build + deploy but for L2s (even better if this can work for ExEx ideas, more practical than spinning up a fresh L2 for a feature). Ideally you end up with an ecosystem of ExExs that the next wave of developers can add like crates to their new reth-sdk chain idea. (Staking, restaking, alt-da, indexers, etc)</title>
+        <dc:creator>@OisinKyne</dc:creator>
+        <description><![CDATA[<p>Lots probably exist that I’m unaware of, but I think the user journey is:<br>
+<br>
+“How do I dev on my reth-sdk L2 idea  locally, running it with/on anvil, and then; how do I run it HA in prod with a diversity of setups while doing the least amount of grunt work to actually figure that out?” <br>
+<br>
+I’m imaging the heroku like experience of build + deploy but for L2s (even better if this can work for ExEx ideas, more practical than spinning up a fresh L2 for a feature). Ideally you end up with an ecosystem of ExExs that the next wave of developers can add like crates to their new reth-sdk chain idea. (Staking, restaking, alt-da, indexers, etc)</p>]]></description>
+        <pubDate>Wed, 01 Jan 2025 18:26:11 GMT</pubDate>
+        <guid>https://nitter.poast.org/OisinKyne/status/1874522523280577004#m</guid>
+        <link>https://nitter.poast.org/OisinKyne/status/1874522523280577004#m</link>
+      </item>
+      <item>
+        <title>2025 is here! happy new year!
+
+what should we build?</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>2025 is here! happy new year!<br>
+<br>
+what should we build?</p>
+<p><a href="https://nitter.poast.org/gakonst/status/1872444116312916385#m">nitter.poast.org/gakonst/status/1872444116312916385#m</a></p>]]></description>
+        <pubDate>Wed, 01 Jan 2025 14:53:28 GMT</pubDate>
+        <guid>https://nitter.poast.org/gakonst/status/1874468994230714567#m</guid>
+        <link>https://nitter.poast.org/gakonst/status/1874468994230714567#m</link>
+      </item>
+      <item>
         <title>RT by @gakonst: I wrote a short note on the things I am anticipating for applied crypto in 2025:
 
 &quot;Incomplete Musings on Applied Cryptography in 2025&quot;
@@ -182,31 +223,6 @@ if things move slow it's because somebody is not testing/benching sufficiently, 
         <pubDate>Fri, 27 Dec 2024 21:51:51 GMT</pubDate>
         <guid>https://nitter.poast.org/gakonst/status/1872762342825709864#m</guid>
         <link>https://nitter.poast.org/gakonst/status/1872762342825709864#m</link>
-      </item>
-      <item>
-        <title>martin.kleppmann.com/2024/05…</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p><a href="https://martin.kleppmann.com/2024/05/30/local-first-conference.html">martin.kleppmann.com/2024/05…</a></p>
-<img src="https://nitter.poast.org/pic/media%2FGf098w6XQAAo4QJ.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 27 Dec 2024 19:08:07 GMT</pubDate>
-        <guid>https://nitter.poast.org/gakonst/status/1872721140109738082#m</guid>
-        <link>https://nitter.poast.org/gakonst/status/1872721140109738082#m</link>
-      </item>
-      <item>
-        <title>if you could customize one thing in any of the existing L1/L2s what would you do?
-
-what does it unlock to that L1/L2?
-
-anything is fair game. new opcode, tx type, precompile, vm, centrized stablecoin issuance api etc</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>if you could customize one thing in any of the existing L1/L2s what would you do?<br>
-<br>
-what does it unlock to that L1/L2?<br>
-<br>
-anything is fair game. new opcode, tx type, precompile, vm, centrized stablecoin issuance api etc</p>]]></description>
-        <pubDate>Fri, 27 Dec 2024 15:55:17 GMT</pubDate>
-        <guid>https://nitter.poast.org/gakonst/status/1872672612020797770#m</guid>
-        <link>https://nitter.poast.org/gakonst/status/1872672612020797770#m</link>
       </item>
 
   </channel>

@@ -91,12 +91,16 @@
 * <https://twitter-thread.com> - free thread reader
 * <https://twitsave.com/> - twitter thread video downloader
 * <https://github.com/dylanpdx/BetterTwitFix> - better twitter video embeds
-* <https://nitter.poast.org/Akagi201/rss> - x/twitter rss feed
 * <https://github.com/insin/control-panel-for-twitter> - twitter improved
 * <https://greasyfork.org/en/scripts/404587-x-twitter-add-notes-to-the-user> + Violentmonkey: add notes to x username
 * Twitter Hunter X: <https://tweethunter.io/twemex> Hightlights and Enhanced Search
 * <https://github.com/ErfanEbrahimnia/nope-x> - chrome extension to nope a post.
 * <https://github.com/sekai-soft/guide-nitter-self-hosting> - self hosting a Nitter service
+
+## Nitter
+
+* <https://nitter.poast.org/Akagi201/rss> - x/twitter rss feed
+* <https://nitter.freedit.eu/Akagi201/rss>
 
 ## News Letter to RSS
 

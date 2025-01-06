@@ -16,6 +16,31 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @rakitadragan: Revm feels like going through Ethereum&apos;s history..
+
+For example it&apos;s support for older transaction types lets you trace the evolution of fork-specific validations⬇️
+
+Way more effective and sticky than reading EIPs.
+
+Obviously implementing them is even better..
+
+2025 goal 🫡</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Revm feels like going through Ethereum's history..<br>
+<br>
+For example it's support for older transaction types lets you trace the evolution of fork-specific validations⬇️<br>
+<br>
+Way more effective and sticky than reading EIPs.<br>
+<br>
+Obviously implementing them is even better..<br>
+<br>
+2025 goal 🫡</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGgNhUstWkAAA0hE.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 13:38:00 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1874450001792848050#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1874450001792848050#m</link>
+      </item>
+      <item>
         <title>1M downloads, do feel good!</title>
         <dc:creator>@rakitadragan</dc:creator>
         <description><![CDATA[<p>1M downloads, do feel good!</p>
@@ -220,15 +245,6 @@ First the core builder struct looks like this, where:<br>
         <pubDate>Fri, 08 Nov 2024 15:14:53 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1854905437717418355#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1854905437717418355#m</link>
-      </item>
-      <item>
-        <title>It would be fun to see flash chains (short lived chains for specific purposes), systematic merging or splitting of chain states and state regenesis for chains (in essence, removing history burden).</title>
-        <dc:creator>@rakitadragan</dc:creator>
-        <description><![CDATA[<p>It would be fun to see flash chains (short lived chains for specific purposes), systematic merging or splitting of chain states and state regenesis for chains (in essence, removing history burden).</p>
-<p><a href="https://nitter.freedit.eu/ayyyeandy/status/1854303380052603027#m">nitter.freedit.eu/ayyyeandy/status/1854303380052603027#m</a></p>]]></description>
-        <pubDate>Thu, 07 Nov 2024 00:25:24 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rakitadragan/status/1854319203592892750#m</guid>
-        <link>https://nitter.freedit.eu/rakitadragan/status/1854319203592892750#m</link>
       </item>
 
   </channel>

@@ -16,6 +16,19 @@
       <height>128</height>
     </image>
       <item>
+        <title>polars will soon be usable in the web browser via pyodide
+
+this enables lots of new possibilities for data web apps</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>polars will soon be usable in the web browser via pyodide<br>
+<br>
+this enables lots of new possibilities for data web apps</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGgZoNAfaoAAXAT0.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 03 Jan 2025 21:59:03 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1875300871946571831#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1875300871946571831#m</link>
+      </item>
+      <item>
         <title>what are the best ways for an OSS crypto dev to financially support themselves in 2025?
 
 multiple devs asked me this in the past month and I don&apos;t have great answers. OSS is still a major tragedy of the commons</title>
@@ -35,7 +48,7 @@ U256 context: https://github.com/pola-rs/polars/issues/15443</title>
         <description><![CDATA[<p>merged Int128 PR: <a href="https://github.com/pola-rs/polars/pull/20232">github.com/pola-rs/polars/pu…</a><br>
 <br>
 U256 context: <a href="https://github.com/pola-rs/polars/issues/15443">github.com/pola-rs/polars/is…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1872925574173532161%2FXTHXGY7H%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1875462792574357505%2FA0GP1RvQ%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Fri, 27 Dec 2024 00:35:19 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1872441093234803080#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1872441093234803080#m</link>
@@ -310,15 +323,6 @@ Let's build.</p>
         <pubDate>Thu, 21 Nov 2024 19:28:36 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1859680331621859631#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1859680331621859631#m</link>
-      </item>
-      <item>
-        <title>data sovereignty is Only Possible On Ethereum</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>data sovereignty is Only Possible On Ethereum</p>
-<p><a href="https://nitter.freedit.eu/dariaagad/status/1856992134655828066#m">nitter.freedit.eu/dariaagad/status/1856992134655828066#m</a></p>]]></description>
-        <pubDate>Fri, 15 Nov 2024 02:48:16 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1857254259479445645#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1857254259479445645#m</link>
       </item>
 
   </channel>

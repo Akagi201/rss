@@ -16,6 +16,47 @@
       <height>128</height>
     </image>
       <item>
+        <title>Came across EIP-2930 access lists in revm.
+
+These lists allow tx to specify addresses/storage slots  they will use.
+
+Making use of them reduces gas costs:
+    
+Cold addr: 2600
+Access list addr: 2400
+
+Cold storage: 2100
+Access list storage: 1900
+
+Are most dapps using these?</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Came across EIP-2930 access lists in revm.<br>
+<br>
+These lists allow tx to specify addresses/storage slots  they will use.<br>
+<br>
+Making use of them reduces gas costs:<br>
+    <br>
+Cold addr: 2600<br>
+Access list addr: 2400<br>
+<br>
+Cold storage: 2100<br>
+Access list storage: 1900<br>
+<br>
+Are most dapps using these?</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGgXTHkFWoAA4_3G.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 03 Jan 2025 11:07:51 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1875136991836471300#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1875136991836471300#m</link>
+      </item>
+      <item>
+        <title>Any good blog posts on how forced withdrawals, fraud proofs etc for rollups work under the hood?</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Any good blog posts on how forced withdrawals, fraud proofs etc for rollups work under the hood?</p>]]></description>
+        <pubDate>Fri, 03 Jan 2025 10:28:08 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1875126996134764942#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1875126996134764942#m</link>
+      </item>
+      <item>
         <title>Been a solidity dev for the last three years and thus aware of the 24 kb limit for runtime contract size.
 
 Didn&apos;t know that there was a limit on the init code as well of two times that, 48kb.
@@ -287,44 +328,6 @@ Since everyone is hyped about <a href="https://nitter.freedit.eu/search?q=%23INS
         <pubDate>Tue, 03 Dec 2024 10:10:35 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1863888553052139686#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1863888553052139686#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: 8/ ⚠️ Keep in mind:
-
-Cross-chain arbitrage isn&apos;t atomic, so there&apos;s risk.
-You need to hold capital and exposure to tokens on both chains. 
-
-If you&apos;re interested in  the full codebase, DM me or join my discord here https://discord.gg/AjQbkaPpdd</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>8/ ⚠️ Keep in mind:<br>
-<br>
-Cross-chain arbitrage isn't atomic, so there's risk.<br>
-You need to hold capital and exposure to tokens on both chains. <br>
-<br>
-If you're interested in  the full codebase, DM me or join my discord here <a href="https://discord.gg/AjQbkaPpdd">discord.gg/AjQbkaPpdd</a></p>]]></description>
-        <pubDate>Tue, 03 Dec 2024 10:10:39 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1863888571054088495#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1863888571054088495#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: 7/
-
-Finding profitable arbitrage opportunities is extremely tough and probably not worse your time but if you want to try for fun you need to simulate across tons of pools, tokens, and volumes.
-
-The good news: REVM + CacheDB lets you do this super efficiently.
-
-The bad news: Everyone is competing for these crumbs. 🥲</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>7/<br>
-<br>
-Finding profitable arbitrage opportunities is extremely tough and probably not worse your time but if you want to try for fun you need to simulate across tons of pools, tokens, and volumes.<br>
-<br>
-The good news: REVM + CacheDB lets you do this super efficiently.<br>
-<br>
-The bad news: Everyone is competing for these crumbs. 🥲</p>]]></description>
-        <pubDate>Tue, 03 Dec 2024 10:10:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1863888569254736258#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1863888569254736258#m</link>
       </item>
 
   </channel>

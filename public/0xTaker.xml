@@ -16,6 +16,58 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @0xTaker: respectfully, a lot of people&apos;s complaints (not for products, mostly on who should fund what) are skill issue / low quality of execution and having too much ego to self reflect on opportunities to improve one&apos;s approach</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>respectfully, a lot of people's complaints (not for products, mostly on who should fund what) are skill issue / low quality of execution and having too much ego to self reflect on opportunities to improve one's approach</p>]]></description>
+        <pubDate>Sat, 04 Jan 2025 20:18:14 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1875637887091535996#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1875637887091535996#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: x.com/i/article/187526381735…</title>
+        <dc:creator>@fulminmaxi</dc:creator>
+        <description><![CDATA[<p><a href="http://x.com/i/article/1875263817359167488">x.com/i/article/187526381735…</a></p>]]></description>
+        <pubDate>Fri, 03 Jan 2025 22:27:40 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fulminmaxi/status/1875308073029660768#m</guid>
+        <link>https://nitter.freedit.eu/fulminmaxi/status/1875308073029660768#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: ethereum down so bad we arguing about a newsletter</title>
+        <dc:creator>@DeanEigenmann</dc:creator>
+        <description><![CDATA[<p>ethereum down so bad we arguing about a newsletter</p>]]></description>
+        <pubDate>Fri, 03 Jan 2025 20:45:58 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/DeanEigenmann/status/1875282480124850369#m</guid>
+        <link>https://nitter.freedit.eu/DeanEigenmann/status/1875282480124850369#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: yesterday was officially my last day at @aori_io 
+
+bittersweet moment but i&apos;m super proud of everything we accomplished together over the last 3 years
+
+as for my next endeavors i am now open for work primarily wrt bd/partnerships or adjacent
+
+dms open</title>
+        <dc:creator>@etoeth</dc:creator>
+        <description><![CDATA[<p>yesterday was officially my last day at <a href="https://nitter.freedit.eu/aori_io" title="aori ⑁">@aori_io</a> <br>
+<br>
+bittersweet moment but i'm super proud of everything we accomplished together over the last 3 years<br>
+<br>
+as for my next endeavors i am now open for work primarily wrt bd/partnerships or adjacent<br>
+<br>
+dms open</p>]]></description>
+        <pubDate>Fri, 03 Jan 2025 13:56:36 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/etoeth/status/1875179457276957025#m</guid>
+        <link>https://nitter.freedit.eu/etoeth/status/1875179457276957025#m</link>
+      </item>
+      <item>
+        <title>Are ERC20s the hyperfinancialisation of everything? Seems like NFTs (721s / 1155s) have faded out of existence and ERC20s convey &apos;enough&apos; for collectors, traders and creators</title>
+        <dc:creator>@0xTaker</dc:creator>
+        <description><![CDATA[<p>Are ERC20s the hyperfinancialisation of everything? Seems like NFTs (721s / 1155s) have faded out of existence and ERC20s convey 'enough' for collectors, traders and creators</p>]]></description>
+        <pubDate>Fri, 03 Jan 2025 12:49:56 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xTaker/status/1875162678437798018#m</guid>
+        <link>https://nitter.freedit.eu/0xTaker/status/1875162678437798018#m</link>
+      </item>
+      <item>
         <title>RT by @0xTaker: Thread on how we improved @echodotxyz p95 response latency by 7x</title>
         <dc:creator>@willsewell_</dc:creator>
         <description><![CDATA[<p>Thread on how we improved <a href="https://nitter.freedit.eu/echodotxyz" title="echo">@echodotxyz</a> p95 response latency by 7x</p>]]></description>
@@ -233,91 +285,6 @@ Lets walk through different rollup centric designs and evaluate the rights of di
         <pubDate>Fri, 13 Dec 2024 16:37:04 GMT</pubDate>
         <guid>https://nitter.freedit.eu/Jskybowen/status/1867609694677975124#m</guid>
         <link>https://nitter.freedit.eu/Jskybowen/status/1867609694677975124#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: SQLite is already fast. But can we make it even faster?
-
-Today I will share my notes on &quot;Serverless Runtime / Database Co-Design With Asynchronous I/O&quot; paper by @penberg and authors who propose an Async I/O design for SQLite.
-
-The result: Up to 100x reduction in tail latency!
-
-This is the foundational paper behind Limbo, the SQLite rewrite in Rust. Let&apos;s dive in.</title>
-        <dc:creator>@iavins</dc:creator>
-        <description><![CDATA[<p>SQLite is already fast. But can we make it even faster?<br>
-<br>
-Today I will share my notes on "Serverless Runtime / Database Co-Design With Asynchronous I/O" paper by <a href="https://nitter.freedit.eu/penberg" title="Pekka Enberg">@penberg</a> and authors who propose an Async I/O design for SQLite.<br>
-<br>
-The result: Up to 100x reduction in tail latency!<br>
-<br>
-This is the foundational paper behind Limbo, the SQLite rewrite in Rust. Let's dive in.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGesHoc5bsAISKMP.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 13 Dec 2024 16:02:01 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/iavins/status/1867600876422279573#m</guid>
-        <link>https://nitter.freedit.eu/iavins/status/1867600876422279573#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: open-sourced another building block on the path to cross-chain swaps:
-
-a reference implementation of a minimalistic server-based allocator for The Compact
-
-it&apos;s called Smallocator 🤏
-
-https://github.com/Uniswap/smallocator
-
-if you&apos;re wondering &quot;what the hell is an allocator&quot; then read on
-
-↓</title>
-        <dc:creator>@z0age</dc:creator>
-        <description><![CDATA[<p>open-sourced another building block on the path to cross-chain swaps:<br>
-<br>
-a reference implementation of a minimalistic server-based allocator for The Compact<br>
-<br>
-it's called Smallocator 🤏<br>
-<br>
-<a href="https://github.com/Uniswap/smallocator">github.com/Uniswap/smallocat…</a><br>
-<br>
-if you're wondering "what the hell is an allocator" then read on<br>
-<br>
-↓</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1874871140226613248%2FpO2c3Wc6%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 12 Dec 2024 17:43:17 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/z0age/status/1867263972900274606#m</guid>
-        <link>https://nitter.freedit.eu/z0age/status/1867263972900274606#m</link>
-      </item>
-      <item>
-        <title>OH: “I was explaining to my wife the other day and realised that AI agents are just Twitter profiles with a coin attached to it”</title>
-        <dc:creator>@0xTaker</dc:creator>
-        <description><![CDATA[<p>OH: “I was explaining to my wife the other day and realised that AI agents are just Twitter profiles with a coin attached to it”</p>]]></description>
-        <pubDate>Thu, 12 Dec 2024 19:25:45 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xTaker/status/1867289758520496390#m</guid>
-        <link>https://nitter.freedit.eu/0xTaker/status/1867289758520496390#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: 1/ Excited to release a the history of how early internet entrepreneurs revolutionized financial markets, the (sad) state of public offerings in the US, and how financial markets need to change</title>
-        <dc:creator>@AustinAdams10</dc:creator>
-        <description><![CDATA[<p>1/ Excited to release a the history of how early internet entrepreneurs revolutionized financial markets, the (sad) state of public offerings in the US, and how financial markets need to change</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGenGaaSWsAE4fE7.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 12 Dec 2024 16:20:00 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/AustinAdams10/status/1867243011375018268#m</guid>
-        <link>https://nitter.freedit.eu/AustinAdams10/status/1867243011375018268#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: 🚨 Big news!
-
-Sprinter has officially acquired @projectblanc_ch, one of the top Solvers on @CoWSwap, adding their Advanced Solving System to the Sprinter Stack!
-
-Let&apos;s break it down. 🧵</title>
-        <dc:creator>@sprinter_ux</dc:creator>
-        <description><![CDATA[<p>🚨 Big news!<br>
-<br>
-Sprinter has officially acquired <a href="https://nitter.freedit.eu/projectblanc_ch" title="project blanc">@projectblanc_ch</a>, one of the top Solvers on <a href="https://nitter.freedit.eu/CoWSwap" title="CoW DAO | Don't get milked ™️">@CoWSwap</a>, adding their Advanced Solving System to the Sprinter Stack!<br>
-<br>
-Let's break it down. 🧵</p>
-<video poster="https://nitter.freedit.eu/pic/tweet_video_thumb%2FGehr2eXaEAcY9YX.jpg" autoplay muted loop style="max-width:250px;">
-  <source src="https://nitter.freedit.eu/pic/video.twimg.com%2Ftweet_video%2FGehr2eXaEAcY9YX.mp4" type="video/mp4"></video>]]></description>
-        <pubDate>Wed, 11 Dec 2024 15:00:35 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/sprinter_ux/status/1866860637533638935#m</guid>
-        <link>https://nitter.freedit.eu/sprinter_ux/status/1866860637533638935#m</link>
       </item>
 
   </channel>

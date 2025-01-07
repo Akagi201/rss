@@ -16,6 +16,31 @@
       <height>128</height>
     </image>
       <item>
+        <title>Passed my IQ test and scored in the top 85%, lot of quants I know couldn&apos;t score anywhere near this high 🤫</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>Passed my IQ test and scored in the top 85%, lot of quants I know couldn't score anywhere near this high 🤫</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGgYp0vyXoAAHVJn.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 03 Jan 2025 17:27:17 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1875232476525969602#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1875232476525969602#m</link>
+      </item>
+      <item>
+        <title>RT by @quant_arb: How I handle data deduplication:
+
+1. ONLY parse the metadata that is required to identify the raw event from the exchange. Depending on its kind, you can check if its an event you have already seen by its ID or timestamp
+
+2. If its new data, then make sure its data that triggers an action in your system, otherwise throw it away.</title>
+        <dc:creator>@ninjaquant_</dc:creator>
+        <description><![CDATA[<p>How I handle data deduplication:<br>
+<br>
+1. ONLY parse the metadata that is required to identify the raw event from the exchange. Depending on its kind, you can check if its an event you have already seen by its ID or timestamp<br>
+<br>
+2. If its new data, then make sure its data that triggers an action in your system, otherwise throw it away.</p>]]></description>
+        <pubDate>Fri, 03 Jan 2025 16:07:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ninjaquant_/status/1875212476230582364#m</guid>
+        <link>https://nitter.freedit.eu/ninjaquant_/status/1875212476230582364#m</link>
+      </item>
+      <item>
         <title>Cmon man</title>
         <dc:creator>@quant_arb</dc:creator>
         <description><![CDATA[<p>Cmon man</p>
@@ -199,31 +224,6 @@ Here it is with 9 more years of data, with ONE observation per non-overlapping d
         <pubDate>Sat, 28 Dec 2024 23:01:22 GMT</pubDate>
         <guid>https://nitter.freedit.eu/quant_arb/status/1873142225200398347#m</guid>
         <link>https://nitter.freedit.eu/quant_arb/status/1873142225200398347#m</link>
-      </item>
-      <item>
-        <title>R to @quant_arb: This is a tourist activity for me</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>This is a tourist activity for me</p>]]></description>
-        <pubDate>Sat, 28 Dec 2024 22:20:10 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1873131855396180450#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1873131855396180450#m</link>
-      </item>
-      <item>
-        <title>Anyone know which US megachurch is the one with the monster trucks during service?</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>Anyone know which US megachurch is the one with the monster trucks during service?</p>]]></description>
-        <pubDate>Sat, 28 Dec 2024 22:19:31 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1873131695240823030#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1873131695240823030#m</link>
-      </item>
-      <item>
-        <title>Image</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGf4J8Z2WEAAQPcW.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 28 Dec 2024 09:59:23 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1872945431724081222#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1872945431724081222#m</link>
       </item>
 
   </channel>

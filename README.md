@@ -45,6 +45,7 @@
 * <https://github.com/aigoncharov/telegram-to-rss> - telegram message to rss
 * <https://feedless.org/>
 * <https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html> - rss-bridge, official: <https://rss-bridge.org/bridge01/>
+* <https://github.com/ccbikai/RSS.Beauty> - turn rss to a html page
 
 ## RSS Tool
 
@@ -77,6 +78,7 @@
 * <https://www.happyou.info/fs/> - rss feed generator
 * <https://rssweball.top/#/> - rss feed generator
 * <https://github.com/easychen/ai-rss> - ai rss feed generator
+* <https://github.com/ccbikai/BroadcastChannel> - turn tg channel to a micro blog with rss
 
 ## RSS Source
 
@@ -124,6 +126,7 @@
 * miniflux - Go + Postgresql, self-hosted, easy to deploy.
 * omnivore - self-hosted and free cloud, cross platform.
 * freedium.cfg - unlock medium.
+* <https://www.rsstabs.com> - AI powered RSS Reader 
 
 ## RSS Source
 

@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
@@ -16,6 +15,118 @@
       <width>128</width>
       <height>128</height>
     </image>
+      <item>
+        <title>Aori mentioned
+
+@aori_io</title>
+        <dc:creator>@0xTaker</dc:creator>
+        <description><![CDATA[<p>Aori mentioned<br>
+<br>
+<a href="https://nitter.freedit.eu/aori_io" title="aori ⑁">@aori_io</a></p>
+<p><a href="https://nitter.freedit.eu/berachain/status/1877067622652719584#m">nitter.freedit.eu/berachain/status/1877067622652719584#m</a></p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 19:10:37 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xTaker/status/1877432811017138396#m</guid>
+        <link>https://nitter.freedit.eu/0xTaker/status/1877432811017138396#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: Introducing Apptokens: infinitely programmable token smart contracts for next-generation digital economies
+
+The apptokens release is the culmination of Limit Break’s work designing novel token smart contracts to unlock an array of critical features for web3 game developers.</title>
+        <dc:creator>@limitbreak</dc:creator>
+        <description><![CDATA[<p>Introducing Apptokens: infinitely programmable token smart contracts for next-generation digital economies<br>
+<br>
+The apptokens release is the culmination of Limit Break’s work designing novel token smart contracts to unlock an array of critical features for web3 game developers.</p>]]></description>
+        <pubDate>Tue, 07 Jan 2025 20:08:54 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/limitbreak/status/1876722703517749699#m</guid>
+        <link>https://nitter.freedit.eu/limitbreak/status/1876722703517749699#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: sincerely don&apos;t know who uses bridges these days outside of market makers rebalancing inventory -- just use intent-based stuff, it&apos;s instant, gives you asset you&apos;re looking for, works for most chains; yeah if you&apos;re trading the long tail chain you can&apos;t expect all the best</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>sincerely don't know who uses bridges these days outside of market makers rebalancing inventory -- just use intent-based stuff, it's instant, gives you asset you're looking for, works for most chains; yeah if you're trading the long tail chain you can't expect all the best</p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 09:32:25 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1877287302617002084#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1877287302617002084#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: the quoted post is slop. for an actually useful market structure primer, use this: 
+
+https://primer.prooftrading.com/</title>
+        <dc:creator>@elletwocache</dc:creator>
+        <description><![CDATA[<p>the quoted post is slop. for an actually useful market structure primer, use this: <br>
+<br>
+<a href="https://primer.prooftrading.com/">primer.prooftrading.com/</a></p>
+<p><a href="https://nitter.freedit.eu/christinaqi/status/1876813940145201374#m">nitter.freedit.eu/christinaqi/status/1876813940145201374#m</a></p>]]></description>
+        <pubDate>Wed, 08 Jan 2025 17:01:41 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/elletwocache/status/1877037976208752714#m</guid>
+        <link>https://nitter.freedit.eu/elletwocache/status/1877037976208752714#m</link>
+      </item>
+      <item>
+        <title>&quot;____, where is that techno music coming from? Are you in an MDMA lounge?&quot;
+&quot;No, it&apos;s just a normal Wednesday morning&quot;</title>
+        <dc:creator>@0xTaker</dc:creator>
+        <description><![CDATA[<p>"____, where is that techno music coming from? Are you in an MDMA lounge?"<br>
+"No, it's just a normal Wednesday morning"</p>]]></description>
+        <pubDate>Wed, 08 Jan 2025 13:49:04 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xTaker/status/1876989499881709577#m</guid>
+        <link>https://nitter.freedit.eu/0xTaker/status/1876989499881709577#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: Bridging isn’t future-proof—it&apos;s messy, slow, and user-unfriendly. While pure synchronous atomic composability may be the ideal end state, there’s still plenty of low-hanging fruit to tackle today.
+
+My latest piece dives into how cross-chain intents, solver networks, and ERC-7683 can mitigate MEV leakage while paving the way for frictionless transactions.</title>
+        <dc:creator>@arjunbmohan</dc:creator>
+        <description><![CDATA[<p>Bridging isn’t future-proof—it's messy, slow, and user-unfriendly. While pure synchronous atomic composability may be the ideal end state, there’s still plenty of low-hanging fruit to tackle today.<br>
+<br>
+My latest piece dives into how cross-chain intents, solver networks, and ERC-7683 can mitigate MEV leakage while paving the way for frictionless transactions.</p>
+<p><a href="https://nitter.freedit.eu/CumberlandLabs/status/1876736138506822113#m">nitter.freedit.eu/CumberlandLabs/status/1876736138506822113#m</a></p>]]></description>
+        <pubDate>Tue, 07 Jan 2025 21:22:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/arjunbmohan/status/1876741236746342860#m</guid>
+        <link>https://nitter.freedit.eu/arjunbmohan/status/1876741236746342860#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: i love base but this aint it. sadly the majority of this volume is fake :(
+
+@SynFuturesDefi making up vast majority (90%+) of this stated volume and their volume is clearly all fake. haven&apos;t seen anyone call them out on their bs but we didn&apos;t integrate because of it
+
+how can i tell their volume is majority fake? 
+
+1) oi/volume. they claim 24hr BTC/USDT PERP volume of $312m but only $3m open interest - so OI/volume = 1%. for comparison binance is $9bn / $20bn -&gt; OI/volume = 45%
+
+2) spread. despite having -1 bp maker fees their spread on BTC/USDT PERP is 10 bps (could drive a semi truck through this, as far as blue chips go). this would collapse to being tick-wide given the rebate, at 9 figure daily volume. binance&apos;s spread is a tick wide and their best fee tier on usdt-m perps is much smaller.
+
+3) volume patterns. they&apos;re too smooth. volume arrives in fits and jumps around volatility - not in smooth sine wave patterns. zoom out on 1 hr timescale and compare to binance.
+
+@bsx_labs is a notable exception. good platform, great UI, strong team. no bullshit metrics, honest people. criminally underutilized imo</title>
+        <dc:creator>@0xLoris</dc:creator>
+        <description><![CDATA[<p>i love base but this aint it. sadly the majority of this volume is fake :(<br>
+<br>
+<a href="https://nitter.freedit.eu/SynFuturesDefi" title="SynFutures">@SynFuturesDefi</a> making up vast majority (90%+) of this stated volume and their volume is clearly all fake. haven't seen anyone call them out on their bs but we didn't integrate because of it<br>
+<br>
+how can i tell their volume is majority fake? <br>
+<br>
+1) oi/volume. they claim 24hr BTC/USDT PERP volume of $312m but only $3m open interest - so OI/volume = 1%. for comparison binance is $9bn / $20bn -&gt; OI/volume = 45%<br>
+<br>
+2) spread. despite having -1 bp maker fees their spread on BTC/USDT PERP is 10 bps (could drive a semi truck through this, as far as blue chips go). this would collapse to being tick-wide given the rebate, at 9 figure daily volume. binance's spread is a tick wide and their best fee tier on usdt-m perps is much smaller.<br>
+<br>
+3) volume patterns. they're too smooth. volume arrives in fits and jumps around volatility - not in smooth sine wave patterns. zoom out on 1 hr timescale and compare to binance.<br>
+<br>
+<a href="https://nitter.freedit.eu/bsx_labs" title="BSX">@bsx_labs</a> is a notable exception. good platform, great UI, strong team. no bullshit metrics, honest people. criminally underutilized imo</p>
+<p><a href="https://nitter.freedit.eu/jessepollak/status/1876346768625185078#m">nitter.freedit.eu/jessepollak/status/1876346768625185078#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGgons_hWkAAyUmI.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGgontyPXcAAz8UC.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 06 Jan 2025 19:55:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xLoris/status/1876356867082854875#m</guid>
+        <link>https://nitter.freedit.eu/0xLoris/status/1876356867082854875#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: x.com/i/article/186543519469…</title>
+        <dc:creator>@TheiaResearch</dc:creator>
+        <description><![CDATA[<p><a href="http://x.com/i/article/1865435194699755520">x.com/i/article/186543519469…</a></p>]]></description>
+        <pubDate>Tue, 07 Jan 2025 13:15:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/TheiaResearch/status/1876618725547233417#m</guid>
+        <link>https://nitter.freedit.eu/TheiaResearch/status/1876618725547233417#m</link>
+      </item>
       <item>
         <title>RT by @0xTaker: respectfully, a lot of people&apos;s complaints (not for products, mostly on who should fund what) are skill issue / low quality of execution and having too much ego to self reflect on opportunities to improve one&apos;s approach</title>
         <dc:creator>@gakonst</dc:creator>
@@ -99,7 +210,7 @@ The initial version was created in collaboration with <a href="https://nitter.fr
 <br>
 🧵👇<br>
 <a href="https://blog.chain.link/chainlink-smart-value-recapture-svr/">blog.chain.link/chainlink-sm…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1873777122981847040%2FnjX78ezr%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1876313866344566784%2F4tZh4hEj%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Mon, 23 Dec 2024 17:09:06 GMT</pubDate>
         <guid>https://nitter.freedit.eu/chainlink/status/1871241636211982752#m</guid>
         <link>https://nitter.freedit.eu/chainlink/status/1871241636211982752#m</link>
@@ -153,139 +264,6 @@ token-based futarchy still seems like the dominant way it’ll be used, but metr
         <pubDate>Thu, 19 Dec 2024 18:03:17 GMT</pubDate>
         <guid>https://nitter.freedit.eu/blairlmarshall/status/1869805718821634243#m</guid>
         <link>https://nitter.freedit.eu/blairlmarshall/status/1869805718821634243#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: read the full blog post on our new engineering blog
-
-https://blog.base.dev/scaling-base-with-reth</title>
-        <dc:creator>@jessepollak</dc:creator>
-        <description><![CDATA[<p>read the full blog post on our new engineering blog<br>
-<br>
-<a href="https://blog.base.dev/scaling-base-with-reth">blog.base.dev/scaling-base-w…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1874511246323511296%2FfoKdnd0p%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 19 Dec 2024 17:23:44 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/jessepollak/status/1869795767654945030#m</guid>
-        <link>https://nitter.freedit.eu/jessepollak/status/1869795767654945030#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: Fast-fill intents (less than 15 seconds) generate a huge amount of fees, but they only represent 3% of all bridging volume🤔
-
-Users clearly want to bridge faster, so why aren’t we seeing more fills under 15 seconds?
-
-🧵👇</title>
-        <dc:creator>@MikeCalvanese</dc:creator>
-        <description><![CDATA[<p>Fast-fill intents (less than 15 seconds) generate a huge amount of fees, but they only represent 3% of all bridging volume🤔<br>
-<br>
-Users clearly want to bridge faster, so why aren’t we seeing more fills under 15 seconds?<br>
-<br>
-🧵👇</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGfG-uCBXwAAspSY.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 18 Dec 2024 22:32:28 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/MikeCalvanese/status/1869511075571593259#m</guid>
-        <link>https://nitter.freedit.eu/MikeCalvanese/status/1869511075571593259#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: 2 years of solving, 2 rewrites, thousands of hours of integrations, fully open source – its finally here:
-
-Tycho Simulation – simulate any DEX, fast ⚡️, flawless, with 0 effort.
-
-👉 Quickstart Docs: https://docs.propellerheads.xyz/tycho/for-solvers/quickstart-guide-to-tycho
-
-The why and how behind Tycho Simulation: http://www.propellerheads.xyz/blog/tycho-simulation-is-live</title>
-        <dc:creator>@PropellerSwap</dc:creator>
-        <description><![CDATA[<p>2 years of solving, 2 rewrites, thousands of hours of integrations, fully open source – its finally here:<br>
-<br>
-Tycho Simulation – simulate any DEX, fast ⚡️, flawless, with 0 effort.<br>
-<br>
-👉 Quickstart Docs: <a href="https://docs.propellerheads.xyz/tycho/for-solvers/quickstart-guide-to-tycho">docs.propellerheads.xyz/tych…</a><br>
-<br>
-The why and how behind Tycho Simulation: <a href="http://www.propellerheads.xyz/blog/tycho-simulation-is-live">propellerheads.xyz/blog/tych…</a></p>
-<video poster="https://nitter.freedit.eu/pic/tweet_video_thumb%2FGfFL5QgbAAAp4DL.jpg" autoplay muted loop style="max-width:250px;">
-  <source src="https://nitter.freedit.eu/pic/video.twimg.com%2Ftweet_video%2FGfFL5QgbAAAp4DL.mp4" type="video/mp4"></video>]]></description>
-        <pubDate>Wed, 18 Dec 2024 12:27:18 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/PropellerSwap/status/1869358779378352634#m</guid>
-        <link>https://nitter.freedit.eu/PropellerSwap/status/1869358779378352634#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: I’ve been thinking about this tweet a lot.
-
-There’s been a wave of newcomers that voice disconcern &gt; get angry when their feedback isn’t reciprocated &gt; become resentful and this cycle persists. 
-
-But if you aren’t getting a response on Twitter here are some more impactful ways to voice feedback:
-- Writing a proposal in https://ethresear.ch/ about your idea 
-- Building out a community to support your idea or empower other builders 
-- Build out the idea itself (with tooling or infra)
-
-There’s a lot of pointing fingers as to who is going to change Ethereum and it’s you, it’s me, it’s every builder that is working in this ecosystem. If you see a gap in the system the EF is there to empower you with grants or mentorship but you are have to create actionable change. 
-
-But that sounds hard. It’s not and I promise you can do it if you really want to. Now, let’s walk through my favourite examples of people that did this.</title>
-        <dc:creator>@html_tina</dc:creator>
-        <description><![CDATA[<p>I’ve been thinking about this tweet a lot.<br>
-<br>
-There’s been a wave of newcomers that voice disconcern &gt; get angry when their feedback isn’t reciprocated &gt; become resentful and this cycle persists. <br>
-<br>
-But if you aren’t getting a response on Twitter here are some more impactful ways to voice feedback:<br>
-- Writing a proposal in <a href="https://ethresear.ch/">ethresear.ch/</a> about your idea <br>
-- Building out a community to support your idea or empower other builders <br>
-- Build out the idea itself (with tooling or infra)<br>
-<br>
-There’s a lot of pointing fingers as to who is going to change Ethereum and it’s you, it’s me, it’s every builder that is working in this ecosystem. If you see a gap in the system the EF is there to empower you with grants or mentorship but you are have to create actionable change. <br>
-<br>
-But that sounds hard. It’s not and I promise you can do it if you really want to. Now, let’s walk through my favourite examples of people that did this.</p>
-<p><a href="https://nitter.freedit.eu/ameensol/status/1867917439645937839#m">nitter.freedit.eu/ameensol/status/1867917439645937839#m</a></p>]]></description>
-        <pubDate>Mon, 16 Dec 2024 18:36:51 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/html_tina/status/1868727004201201953#m</guid>
-        <link>https://nitter.freedit.eu/html_tina/status/1868727004201201953#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: We looked into the option of selling multiple TimeBoost licenses. While having multiple arbitrageurs with time advantage has obvious advantages and disadvantages, there is a considerable probability one monopolist will buy all of them, given extra value from owning all licenses is sufficiently large: http://research.arbitrum.io/t/auctioning-multiple-timeboost-licenses/9699. This is a joint effort with @EdFelten. We thank @BenBerg07141321 for his feedback.</title>
-        <dc:creator>@kakia1989</dc:creator>
-        <description><![CDATA[<p>We looked into the option of selling multiple TimeBoost licenses. While having multiple arbitrageurs with time advantage has obvious advantages and disadvantages, there is a considerable probability one monopolist will buy all of them, given extra value from owning all licenses is sufficiently large: <a href="http://research.arbitrum.io/t/auctioning-multiple-timeboost-licenses/9699">research.arbitrum.io/t/aucti…</a>. This is a joint effort with <a href="https://nitter.freedit.eu/EdFelten" title="Ed Felten">@EdFelten</a>. We thank <a href="https://nitter.freedit.eu/BenBerg07141321" title="Ben Berger">@BenBerg07141321</a> for his feedback.</p>]]></description>
-        <pubDate>Tue, 17 Dec 2024 18:01:41 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/kakia1989/status/1869080541728780685#m</guid>
-        <link>https://nitter.freedit.eu/kakia1989/status/1869080541728780685#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: DoubleZero = a faster internet
-
-Those of you in the old school who believe DoubleZero is a bubble simply have not understood the new mathematics of high-performance global base-level internet connectivity, or you did not care enough to try. Jitter is mathematically impossible in this new paradigm, as are dropped transactions and everything else
-
-Lucky for you we @heliuslabs summarized everything you need to educate yourself about DoubleZero</title>
-        <dc:creator>@__lostin__</dc:creator>
-        <description><![CDATA[<p>DoubleZero = a faster internet<br>
-<br>
-Those of you in the old school who believe DoubleZero is a bubble simply have not understood the new mathematics of high-performance global base-level internet connectivity, or you did not care enough to try. Jitter is mathematically impossible in this new paradigm, as are dropped transactions and everything else<br>
-<br>
-Lucky for you we <a href="https://nitter.freedit.eu/heliuslabs" title="Helius">@heliuslabs</a> summarized everything you need to educate yourself about DoubleZero</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGes5g_JbsAUCPrh.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 13 Dec 2024 19:24:12 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/__lostin__/status/1867651756425195662#m</guid>
-        <link>https://nitter.freedit.eu/__lostin__/status/1867651756425195662#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: My EC talk on Tullock contests in crypto/web3 is now on YT. (Link in replies.) Covers mining, staking, execution tickets, shared sequencing. Includes ongoing work with @PGarimidi @mikeneuder. Thx to @tarunchitra @theo_diamandis @ks_kulk @malleshpai @MaxResnick1 for the invite!</title>
-        <dc:creator>@Tim_Roughgarden</dc:creator>
-        <description><![CDATA[<p>My EC talk on Tullock contests in crypto/web3 is now on YT. (Link in replies.) Covers mining, staking, execution tickets, shared sequencing. Includes ongoing work with <a href="https://nitter.freedit.eu/PGarimidi" title="Pranav Garimidi">@PGarimidi</a> <a href="https://nitter.freedit.eu/mikeneuder" title="mikeneuder.eth ⟠">@mikeneuder</a>. Thx to <a href="https://nitter.freedit.eu/tarunchitra" title="Tarun Chitra">@tarunchitra</a> <a href="https://nitter.freedit.eu/theo_diamandis" title="Theo Diamandis">@theo_diamandis</a> <a href="https://nitter.freedit.eu/ks_kulk" title="K Kulkarni">@ks_kulk</a> <a href="https://nitter.freedit.eu/malleshpai" title="Mallesh Pai">@malleshpai</a> <a href="https://nitter.freedit.eu/MaxResnick1" title="Max Resnick">@MaxResnick1</a> for the invite!</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGetAIksWoAAAe51.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 13 Dec 2024 19:54:49 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/Tim_Roughgarden/status/1867659458912170348#m</guid>
-        <link>https://nitter.freedit.eu/Tim_Roughgarden/status/1867659458912170348#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: Who owns the write lock?
-
-This is the critical question when discussing MEV and broader blockchain designs.
-
-Lets walk through different rollup centric designs and evaluate the rights of different actors in the system: proposers, relays, sequencers, gateways, and inclusion lists</title>
-        <dc:creator>@Jskybowen</dc:creator>
-        <description><![CDATA[<p>Who owns the write lock?<br>
-<br>
-This is the critical question when discussing MEV and broader blockchain designs.<br>
-<br>
-Lets walk through different rollup centric designs and evaluate the rights of different actors in the system: proposers, relays, sequencers, gateways, and inclusion lists</p>]]></description>
-        <pubDate>Fri, 13 Dec 2024 16:37:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/Jskybowen/status/1867609694677975124#m</guid>
-        <link>https://nitter.freedit.eu/Jskybowen/status/1867609694677975124#m</link>
       </item>
 
   </channel>

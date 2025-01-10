@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
@@ -17,294 +16,259 @@
       <height>128</height>
     </image>
       <item>
-        <title>RT by @fede_intern: Short note on L2 interop:
-where we are, progress underway, and why interop needs to be solved now if we want to build the world computer 
-
-link below (2 min. read) 🙏</title>
-        <dc:creator>@rudolf6_</dc:creator>
-        <description><![CDATA[<p>Short note on L2 interop:<br>
-where we are, progress underway, and why interop needs to be solved now if we want to build the world computer <br>
-<br>
-link below (2 min. read) 🙏</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgj34nSaMAAEvrM.jpg" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGgj3-8xa8AAmuIB.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 05 Jan 2025 21:47:01 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rudolf6_/status/1876022616731046251#m</guid>
-        <link>https://nitter.freedit.eu/rudolf6_/status/1876022616731046251#m</link>
-      </item>
-      <item>
-        <title>R to @fede_intern: I forgot to add the most important things ever: sleep 8 hours and drink enough water.</title>
+        <title>I’m in a barbershop in Buenos Aires with @rj_aligned and @fran_aligned and a guy is saying that there are safaris in Ukraine where rich people can go and kill everyone for some money. I can’t contain it, I started laughing too much in front of the guy.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>I forgot to add the most important things ever: sleep 8 hours and drink enough water.</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 21:16:07 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1876014840793411966#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1876014840793411966#m</link>
+        <description><![CDATA[<p>I’m in a barbershop in Buenos Aires with <a href="https://nitter.freedit.eu/rj_aligned" title="RJ 🟩">@rj_aligned</a> and <a href="https://nitter.freedit.eu/fran_aligned" title="Francisco Strambini 🟩">@fran_aligned</a> and a guy is saying that there are safaris in Ukraine where rich people can go and kill everyone for some money. I can’t contain it, I started laughing too much in front of the guy.</p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 23:00:24 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877490636904898778#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877490636904898778#m</link>
       </item>
       <item>
-        <title>if you’re young these are my recommendations. this is what I wished I knew when I was younger.
+        <title>RT by @fede_intern: JUST SEND ME A CA JFC THESE FOUNDERS</title>
+        <dc:creator>@odysseas_eth</dc:creator>
+        <description><![CDATA[<p>JUST SEND ME A CA JFC THESE FOUNDERS</p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 21:26:08 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/odysseas_eth/status/1877466913422332100#m</guid>
+        <link>https://nitter.freedit.eu/odysseas_eth/status/1877466913422332100#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: I NEED ROBERTO NOW</title>
+        <dc:creator>@gregthegreek</dc:creator>
+        <description><![CDATA[<p>I NEED ROBERTO NOW</p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 22:32:50 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gregthegreek/status/1877483698221670796#m</guid>
+        <link>https://nitter.freedit.eu/gregthegreek/status/1877483698221670796#m</link>
+      </item>
+      <item>
+        <title>The biggest competitor Ethereum can have isn’t Solana but OP_CAT being added to Bitcoin.
 
-master the foundations
-learn english. if you’re an english native speaker, learn spanish, mandarin or arabic.
-
-learn mathematics:
-- study linear algebra and calculus with gilbert strang, and probability with william feller.
-- dive into mathematics: its content, methods, and meaning by kolmogorov and all the math you missed by garrity to explore the breadth of mathematical power.
-- watch 3blue1brown’s videos to visualize complex concepts.
-
-learn physics:
-- start with the feynman lectures on physics and coursera courses.
-- if you’re curious, check out books from editorial mir of the soviet union, which were some of my favorites growing up.
-
-develop technical skills
-- learn linux internals: work through linux from scratch or experiment with gentoo, void, or arch linux to understand operating systems deeply.
-- code in c and assembly: build foundational projects like a virtual machine, a compiler, a small operating system, or an http server.
-- master algorithms: practice regularly on platforms like leetcode and exercism to sharpen your problem-solving skills.
-- explore machine learning: start with andrew ng’s coursera courses, then move on to http://fast.ai for a hands-on approach to modern ai.
-
-expand your worldview
-- read philosophy: start with popper, russell, nietzsche, taleb, and marcus aurelius. these thinkers offer profound insights into logic, ethics, skepticism, and resilience.
-- learn history: gain perspective by reading eric hobsbawm, yuval noah harari, and peter frankopan. their works offer deep and nuanced views of global history.
-- understand finance and economics:
-- watch the online courses of robert shiller and perry mehrling to understand how money and markets work
-- read the financial times.
-
-care for your body and mind
-- train your body: run (use the c25k subreddit as a guide) and practice calisthenics (bodyweight fitness subreddit). mind and body are one; in modern western society, we often forget this connection.
-- eat well: avoid sugar. focus on a diet rich in meat and vegetables for sustained energy and health.
-- avoid excessive usage of drugs and alcohol.
-
-cultivate essential life skills
-- improve social skills: go on dates, many of them. focus not on sex, but on learning how to be entertaining and how to listen. if you can’t connect with others, you won’t be able to lead or persuade effectively.
-- be patient: mastery takes time, usually one to two decades. embrace failure as part of the process.
-- help others: support your family, friends, and community. whether through religion, education, or mentorship, find a way to give back. for me, helping others in education and supporting other founders has been deeply rewarding.</title>
+With ZK and L2s, Bitcoin value proposition becomes a direct competitor to Ethereum since with ZK verification and intents you can build most of the things Ethereum has.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>if you’re young these are my recommendations. this is what I wished I knew when I was younger.<br>
+        <description><![CDATA[<p>The biggest competitor Ethereum can have isn’t Solana but OP_CAT being added to Bitcoin.<br>
 <br>
-master the foundations<br>
-learn english. if you’re an english native speaker, learn spanish, mandarin or arabic.<br>
-<br>
-learn mathematics:<br>
-- study linear algebra and calculus with gilbert strang, and probability with william feller.<br>
-- dive into mathematics: its content, methods, and meaning by kolmogorov and all the math you missed by garrity to explore the breadth of mathematical power.<br>
-- watch 3blue1brown’s videos to visualize complex concepts.<br>
-<br>
-learn physics:<br>
-- start with the feynman lectures on physics and coursera courses.<br>
-- if you’re curious, check out books from editorial mir of the soviet union, which were some of my favorites growing up.<br>
-<br>
-develop technical skills<br>
-- learn linux internals: work through linux from scratch or experiment with gentoo, void, or arch linux to understand operating systems deeply.<br>
-- code in c and assembly: build foundational projects like a virtual machine, a compiler, a small operating system, or an http server.<br>
-- master algorithms: practice regularly on platforms like leetcode and exercism to sharpen your problem-solving skills.<br>
-- explore machine learning: start with andrew ng’s coursera courses, then move on to <a href="http://fast.ai">fast.ai</a> for a hands-on approach to modern ai.<br>
-<br>
-expand your worldview<br>
-- read philosophy: start with popper, russell, nietzsche, taleb, and marcus aurelius. these thinkers offer profound insights into logic, ethics, skepticism, and resilience.<br>
-- learn history: gain perspective by reading eric hobsbawm, yuval noah harari, and peter frankopan. their works offer deep and nuanced views of global history.<br>
-- understand finance and economics:<br>
-- watch the online courses of robert shiller and perry mehrling to understand how money and markets work<br>
-- read the financial times.<br>
-<br>
-care for your body and mind<br>
-- train your body: run (use the c25k subreddit as a guide) and practice calisthenics (bodyweight fitness subreddit). mind and body are one; in modern western society, we often forget this connection.<br>
-- eat well: avoid sugar. focus on a diet rich in meat and vegetables for sustained energy and health.<br>
-- avoid excessive usage of drugs and alcohol.<br>
-<br>
-cultivate essential life skills<br>
-- improve social skills: go on dates, many of them. focus not on sex, but on learning how to be entertaining and how to listen. if you can’t connect with others, you won’t be able to lead or persuade effectively.<br>
-- be patient: mastery takes time, usually one to two decades. embrace failure as part of the process.<br>
-- help others: support your family, friends, and community. whether through religion, education, or mentorship, find a way to give back. for me, helping others in education and supporting other founders has been deeply rewarding.</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 20:12:30 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1875998830174613562#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1875998830174613562#m</link>
+With ZK and L2s, Bitcoin value proposition becomes a direct competitor to Ethereum since with ZK verification and intents you can build most of the things Ethereum has.</p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 22:35:27 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877484358564516120#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877484358564516120#m</link>
       </item>
       <item>
-        <title>R to @fede_intern: just kidding 🤣 I actually like the roadmap.</title>
+        <title>Mission: accelerate ethereum.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>just kidding 🤣 I actually like the roadmap.</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 18:21:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1875970850568159277#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1875970850568159277#m</link>
+        <description><![CDATA[<p>Mission: accelerate ethereum.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGg4iS1qWoAAYBsy.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 09 Jan 2025 22:01:28 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877475807116828742#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877475807116828742#m</link>
       </item>
       <item>
-        <title>Now that we got AGI our AI lords will be able to accelerate the roadmap of Ethereum from 5 years to 4 years.</title>
+        <title>We found there are a few rollups at risks. We will ask the party involved if they have notified them.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Now that we got AGI our AI lords will be able to accelerate the roadmap of Ethereum from 5 years to 4 years.</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 18:21:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1875970786659627325#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1875970786659627325#m</link>
+        <description><![CDATA[<p>We found there are a few rollups at risks. We will ask the party involved if they have notified them.</p>
+<p><a href="https://nitter.freedit.eu/fede_intern/status/1869564975670493424#m">nitter.freedit.eu/fede_intern/status/1869564975670493424#m</a></p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 19:54:14 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877443784729833559#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877443784729833559#m</link>
       </item>
       <item>
-        <title>In two to three months we make the next move.</title>
+        <title>Based rollups are gonna be the default and future of Ethereum. Just a matter of time.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>In two to three months we make the next move.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgjHuvqWgAA0hjo.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 05 Jan 2025 18:13:25 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1875968862476435577#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1875968862476435577#m</link>
+        <description><![CDATA[<p>Based rollups are gonna be the default and future of Ethereum. Just a matter of time.</p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 19:22:43 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877435854567743816#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877435854567743816#m</link>
       </item>
       <item>
-        <title>One of the best books you can read.</title>
+        <title>You can&apos;t be the &quot;nice guy&quot; when you fight back.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>One of the best books you can read.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgjGoX7W4AAYB8f.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 05 Jan 2025 18:08:35 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1875967648909099475#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1875967648909099475#m</link>
+        <description><![CDATA[<p>You can't be the "nice guy" when you fight back.</p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 18:59:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877430070102401275#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877430070102401275#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: This is incredible..
+        <title>Ethereum isn&apos;t far from being owned by one party. If there is no push back that&apos;s what is gonna happen.
 
-This AI agents can go through your CV, find matching jobs online, and start applying for them on its own.</title>
-        <dc:creator>@EHuanglu</dc:creator>
-        <description><![CDATA[<p>This is incredible..<br>
-<br>
-This AI agents can go through your CV, find matching jobs online, and start applying for them on its own.</p>
-<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1874918843484971008%2Fpu%2Fimg%2F1zOmX4-aJUxhQWZy.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 05 Jan 2025 11:13:51 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/EHuanglu/status/1875863276925735255#m</guid>
-        <link>https://nitter.freedit.eu/EHuanglu/status/1875863276925735255#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: Nah, you brought up &quot;possible&quot; vs. &quot;economically rational&quot; and got two examples of why the former is mostly meaningless. If anything, you distorting your lack of understanding to this semantics was the strawman.
-
-Regarding your &quot;idea&quot;, you made a bold claim about (Mega&apos;s) centralized sequencer&apos;s speed constraint and suggested beefing based infrastructure up to that scale without even knowing the cost of running one (lol). 
-
-That is worse than napkin research and yet you claim &quot;dead serious&quot;. Maybe people would take all of us more seriously if you did more as @fede_intern suggested.</title>
-        <dc:creator>@hai_rise</dc:creator>
-        <description><![CDATA[<p>Nah, you brought up "possible" vs. "economically rational" and got two examples of why the former is mostly meaningless. If anything, you distorting your lack of understanding to this semantics was the strawman.<br>
-<br>
-Regarding your "idea", you made a bold claim about (Mega's) centralized sequencer's speed constraint and suggested beefing based infrastructure up to that scale without even knowing the cost of running one (lol). <br>
-<br>
-That is worse than napkin research and yet you claim "dead serious". Maybe people would take all of us more seriously if you did more as <a href="https://nitter.freedit.eu/fede_intern" title="Fede’s intern 🥊">@fede_intern</a> suggested.</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 16:03:10 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/hai_rise/status/1875936082820497530#m</guid>
-        <link>https://nitter.freedit.eu/hai_rise/status/1875936082820497530#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: https://t.co/J3dln8Gzyx Woa, nice. A perplexity competitor and its on GitHub!</title>
-        <dc:creator>@kimmonismus</dc:creator>
-        <description><![CDATA[<p>https://nitter.freedit.eu/t.co/J3dln8Gzyx Woa, nice. A perplexity competitor and its on GitHub!</p>
-<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1875650714938068992%2Fpu%2Fimg%2FgRSXe-hA8-ZFNaxj.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 05 Jan 2025 13:08:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/kimmonismus/status/1875892162505871824#m</guid>
-        <link>https://nitter.freedit.eu/kimmonismus/status/1875892162505871824#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: Kanye West and Elon Musk
-
-🧵A Thread:</title>
-        <dc:creator>@apollovwrld</dc:creator>
-        <description><![CDATA[<p>Kanye West and Elon Musk<br>
-<br>
-🧵A Thread:</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgexvrKbYAAioLm.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 04 Jan 2025 21:58:52 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/apollovwrld/status/1875663210487202070#m</guid>
-        <link>https://nitter.freedit.eu/apollovwrld/status/1875663210487202070#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: Why we, at @l2beat, are so critical of current Validiums/Optimiums ? It&apos;s mainly because of their current setup - even though they may use alt-DAs such as @celestia, most don&apos;t use DA bridge. Pick any one of them as an example and let me explain the trust assumptions</title>
-        <dc:creator>@bkiepuszewski</dc:creator>
-        <description><![CDATA[<p>Why we, at <a href="https://nitter.freedit.eu/l2beat" title="L2BEAT 💗">@l2beat</a>, are so critical of current Validiums/Optimiums ? It's mainly because of their current setup - even though they may use alt-DAs such as <a href="https://nitter.freedit.eu/celestia" title="Celestia 🦣">@celestia</a>, most don't use DA bridge. Pick any one of them as an example and let me explain the trust assumptions</p>
-<p><a href="https://nitter.freedit.eu/bkiepuszewski/status/1875229219506286996#m">nitter.freedit.eu/bkiepuszewski/status/1875229219506286996#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGghfYfpXsAAoUo_.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 05 Jan 2025 11:01:39 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/bkiepuszewski/status/1875860206472909069#m</guid>
-        <link>https://nitter.freedit.eu/bkiepuszewski/status/1875860206472909069#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: Yeah, it’s over. Real or AI generated? You tell me
-
-Via /r/chatgpt</title>
-        <dc:creator>@kimmonismus</dc:creator>
-        <description><![CDATA[<p>Yeah, it’s over. Real or AI generated? You tell me<br>
-<br>
-Via /r/chatgpt</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgiwPnHXMAA-Yr6.jpg" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGgiwPnIXUAAObwH.jpg" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGgiwPnKWUAAbj6J.jpg" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGgiwPnFXgAA6sJH.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 05 Jan 2025 16:30:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/kimmonismus/status/1875943032979378614#m</guid>
-        <link>https://nitter.freedit.eu/kimmonismus/status/1875943032979378614#m</link>
-      </item>
-      <item>
-        <title>I almost don’t google anymore. Just claude and chatgpt.</title>
+The most interesting thing to me is that almost all the important parties know it but only a small minority say it loudly.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>I almost don’t google anymore. Just claude and chatgpt.</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 05:25:43 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1875775667243278738#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1875775667243278738#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: This is why therapy often backfires</title>
-        <dc:creator>@oldbooksguy</dc:creator>
-        <description><![CDATA[<p>This is why therapy often backfires</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgdkwwja8AIXWDz.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 04 Jan 2025 16:22:32 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/oldbooksguy/status/1875578569902190860#m</guid>
-        <link>https://nitter.freedit.eu/oldbooksguy/status/1875578569902190860#m</link>
-      </item>
-      <item>
-        <title>R to @fede_intern: In my case I’m an Ethereum and L2 folk since I believe we need the maximum amount of decentralization to defend ourselves against tail events. If the L1 focuses on that it can’t be fast enough to onboard millions of active users. Users go to the L2. 
-
-Why have multiple L2s? Sub communities of internet.</title>
-        <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>In my case I’m an Ethereum and L2 folk since I believe we need the maximum amount of decentralization to defend ourselves against tail events. If the L1 focuses on that it can’t be fast enough to onboard millions of active users. Users go to the L2. <br>
+        <description><![CDATA[<p>Ethereum isn't far from being owned by one party. If there is no push back that's what is gonna happen.<br>
 <br>
-Why have multiple L2s? Sub communities of internet.</p>]]></description>
-        <pubDate>Sat, 04 Jan 2025 23:46:45 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1875690361672396947#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1875690361672396947#m</link>
+The most interesting thing to me is that almost all the important parties know it but only a small minority say it loudly.</p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 18:32:55 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877423322469724661#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877423322469724661#m</link>
       </item>
       <item>
-        <title>The funny thing is that as a believer ik Ethereum and it’s L2 roadmap I agree more with @aeyakovenko than @jessepollak.
+        <title>We’re building something similar 🙈. Congrats @hypemarketfun. It’s good that a few of us are doing the same. It means there might be value there.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>We’re building something similar 🙈. Congrats <a href="https://nitter.freedit.eu/hypemarketfun" title="HypeMarket 🖤">@hypemarketfun</a>. It’s good that a few of us are doing the same. It means there might be value there.</p>
+<p><a href="https://nitter.freedit.eu/hypemarketfun/status/1873607111726526831#m">nitter.freedit.eu/hypemarketfun/status/1873607111726526831#m</a></p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 17:00:50 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877400148545851403#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877400148545851403#m</link>
+      </item>
+      <item>
+        <title>Fully agree with @musalbas.
 
-You can’t escape Pareto. Almost everything will happen in one L2 and there will be only a few major smart contracts: stablecoins, swaps, NFTs,  It seems @base is that L2.
+Bitcoin and Ethereum are in the expensive/revenue category.
 
-I don’t see how believing there are more smart contracts makes you more close to Ethereum philosophy that focuses on decentralization and robustness.</title>
+All the others we should try to be ridiculous cheap to onboard as many people as possible using our products to then find ways of monetizing it in 5 to 10 years. Maybe in 10-15 years.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>The funny thing is that as a believer ik Ethereum and it’s L2 roadmap I agree more with <a href="https://nitter.freedit.eu/aeyakovenko" title="toly 🇺🇸">@aeyakovenko</a> than <a href="https://nitter.freedit.eu/jessepollak" title="jesse.base.eth">@jessepollak</a>.<br>
+        <description><![CDATA[<p>Fully agree with <a href="https://nitter.freedit.eu/musalbas" title="Mustafa Al-Bassam">@musalbas</a>.<br>
 <br>
-You can’t escape Pareto. Almost everything will happen in one L2 and there will be only a few major smart contracts: stablecoins, swaps, NFTs,  It seems <a href="https://nitter.freedit.eu/base" title="Base">@base</a> is that L2.<br>
+Bitcoin and Ethereum are in the expensive/revenue category.<br>
 <br>
-I don’t see how believing there are more smart contracts makes you more close to Ethereum philosophy that focuses on decentralization and robustness.</p>
-<p><a href="https://nitter.freedit.eu/jessepollak/status/1875674062711878109#m">nitter.freedit.eu/jessepollak/status/1875674062711878109#m</a></p>]]></description>
-        <pubDate>Sat, 04 Jan 2025 23:46:44 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1875690357469401441#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1875690357469401441#m</link>
+All the others we should try to be ridiculous cheap to onboard as many people as possible using our products to then find ways of monetizing it in 5 to 10 years. Maybe in 10-15 years.</p>
+<p><a href="https://nitter.freedit.eu/musalbas/status/1877296575757574286#m">nitter.freedit.eu/musalbas/status/1877296575757574286#m</a></p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 16:21:59 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877390372902416674#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877390372902416674#m</link>
       </item>
       <item>
-        <title>R to @fede_intern: youtube url: https://youtu.be/-w7ddIRFfqM</title>
+        <title>R to @fede_intern: https://github.com/lambdaclass/cairo_native/pull/962
+https://github.com/lambdaclass/cairo_native/pull/963
+https://github.com/lambdaclass/cairo_native/pull/964</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>youtube url: <a href="https://piped.video/-w7ddIRFfqM">piped.video/-w7ddIRFfqM</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1875664696134488064%2F6fw3g_dz%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 04 Jan 2025 22:05:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1875664834622271822#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1875664834622271822#m</link>
+        <description><![CDATA[<p><a href="https://github.com/lambdaclass/cairo_native/pull/962">github.com/lambdaclass/cairo…</a><br>
+<a href="https://github.com/lambdaclass/cairo_native/pull/963">github.com/lambdaclass/cairo…</a><br>
+<a href="https://github.com/lambdaclass/cairo_native/pull/964">github.com/lambdaclass/cairo…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1877388666269552640%2F5WZ0V7JT%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 09 Jan 2025 16:15:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877388819533541854#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877388819533541854#m</link>
       </item>
       <item>
-        <title>TIM ROUGHGARDEN: THE PRICE OF ANARCHY</title>
-        <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>TIM ROUGHGARDEN: THE PRICE OF ANARCHY</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgezK1vXcAAu9nY.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 04 Jan 2025 22:05:18 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1875664831363322214#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1875664831363322214#m</link>
-      </item>
-      <item>
-        <title>12 months between these two videos.
+        <title>With the @KakarotZkEvm team we found a bottleneck in how Cairo Native operates dictionaries.
 
-AI is going to change everything and people still believe it won&apos;t be that big. It&apos;s the first time in my carrer I can&apos;t keep up with all the things that are happening.</title>
+We benchmarked Cairo VM and Cairo Native before and after optimizing dictionary operations. For benchmarks we used an Ethereum Foundation test.
+
+Here are the execution times for each case:
+Cairo VM: 778.1 seconds
+Cairo Native before optimizations: 934.1 seconds
+Cairo Native after optimizations: 1 second
+
+This means that, with these optimizations, Cairo Native runs this EF test 778 times faster than Cairo VM.
+
+These are the PRs that implement the optimizations mentioned: #962 #963 #964.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>12 months between these two videos.<br>
+        <description><![CDATA[<p>With the <a href="https://nitter.freedit.eu/KakarotZkEvm" title="Kakarot ZK-EVM">@KakarotZkEvm</a> team we found a bottleneck in how Cairo Native operates dictionaries.<br>
 <br>
-AI is going to change everything and people still believe it won't be that big. It's the first time in my carrer I can't keep up with all the things that are happening.</p>
-<p><a href="https://nitter.freedit.eu/kimmonismus/status/1875617192248799665#m">nitter.freedit.eu/kimmonismus/status/1875617192248799665#m</a></p>]]></description>
-        <pubDate>Sat, 04 Jan 2025 20:37:27 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1875642724193595599#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1875642724193595599#m</link>
+We benchmarked Cairo VM and Cairo Native before and after optimizing dictionary operations. For benchmarks we used an Ethereum Foundation test.<br>
+<br>
+Here are the execution times for each case:<br>
+Cairo VM: 778.1 seconds<br>
+Cairo Native before optimizations: 934.1 seconds<br>
+Cairo Native after optimizations: 1 second<br>
+<br>
+This means that, with these optimizations, Cairo Native runs this EF test 778 times faster than Cairo VM.<br>
+<br>
+These are the PRs that implement the optimizations mentioned: #962 #963 #964.</p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 16:15:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877388817445040547#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877388817445040547#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: As a recovering ex academic, this rings true. 
+————————
+For-profit academic publishing companies suck the value out from government grants. 
+
+But there is something far more pernicious going on. 
+————————
+The academic system doesn’t run on money. Instead it runs on status. 
+————————
+Status is a zero-sum object (I realized this thanks to @naval tweets): if someone funds 100 Nobel prizes in an area there will be super Nobel which only one person can get. 
+
+Academic status games suffer from many problems: (1) zero-sum nature, (2) non-transferability of status, (3) non-fungibility of status (you cannot move across areas easily). 
+
+This leads to a certain type of players dominating: those that can play win-win-lose games where academics setup quid-pro-quo deals (you nominate me for an award and I will recommend your student as a professor), where the loser is merit. 
+
+This makes it is really hard for many people to operate inside this ecosystem. Most importantly, those that really value curiosity, don’t want to setup dark quiz pro quo and are not luckily in a field which has suddenly discovered something that has immediate value. 
+
+————————
+So what might a capitalist version of academia look like?
+
+It should reward novelty, divergence, discovery of things that have no immediate value but eventually play a role in building something useful.
+
+We need a better system of attribution of value, ie, a better system of  karma, where all the previous moves are recorded (need crypto and blockchain for it). And a better system where the value is divided across all the different past players, like a retroactive Q function (using ai). 
+
+We look forward to crypto and AI play a huge role in setting this up well. We will be building some foundation infrastructure that can enable these type of applications over at @eigenlayer.</title>
+        <dc:creator>@sreeramkannan</dc:creator>
+        <description><![CDATA[<p>As a recovering ex academic, this rings true. <br>
+————————<br>
+For-profit academic publishing companies suck the value out from government grants. <br>
+<br>
+But there is something far more pernicious going on. <br>
+————————<br>
+The academic system doesn’t run on money. Instead it runs on status. <br>
+————————<br>
+Status is a zero-sum object (I realized this thanks to <a href="https://nitter.freedit.eu/naval" title="Naval">@naval</a> tweets): if someone funds 100 Nobel prizes in an area there will be super Nobel which only one person can get. <br>
+<br>
+Academic status games suffer from many problems: (1) zero-sum nature, (2) non-transferability of status, (3) non-fungibility of status (you cannot move across areas easily). <br>
+<br>
+This leads to a certain type of players dominating: those that can play win-win-lose games where academics setup quid-pro-quo deals (you nominate me for an award and I will recommend your student as a professor), where the loser is merit. <br>
+<br>
+This makes it is really hard for many people to operate inside this ecosystem. Most importantly, those that really value curiosity, don’t want to setup dark quiz pro quo and are not luckily in a field which has suddenly discovered something that has immediate value. <br>
+<br>
+————————<br>
+So what might a capitalist version of academia look like?<br>
+<br>
+It should reward novelty, divergence, discovery of things that have no immediate value but eventually play a role in building something useful.<br>
+<br>
+We need a better system of attribution of value, ie, a better system of  karma, where all the previous moves are recorded (need crypto and blockchain for it). And a better system where the value is divided across all the different past players, like a retroactive Q function (using ai). <br>
+<br>
+We look forward to crypto and AI play a huge role in setting this up well. We will be building some foundation infrastructure that can enable these type of applications over at <a href="https://nitter.freedit.eu/eigenlayer" title="EigenLayer">@eigenlayer</a>.</p>
+<p><a href="https://nitter.freedit.eu/BasedBeffJezos/status/1862229533211918558#m">nitter.freedit.eu/BasedBeffJezos/status/1862229533211918558#m</a></p>]]></description>
+        <pubDate>Thu, 28 Nov 2024 21:05:01 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/sreeramkannan/status/1862241309328814405#m</guid>
+        <link>https://nitter.freedit.eu/sreeramkannan/status/1862241309328814405#m</link>
+      </item>
+      <item>
+        <title>Opacity @OpacityNetwork is pretty cool too. I need to dive deeper in their docs and architecture.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>Opacity <a href="https://nitter.freedit.eu/OpacityNetwork" title="Opacity Network">@OpacityNetwork</a> is pretty cool too. I need to dive deeper in their docs and architecture.</p>
+<p><a href="https://nitter.freedit.eu/fede_intern/status/1877380943662489945#m">nitter.freedit.eu/fede_intern/status/1877380943662489945#m</a></p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 15:46:53 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877381537513017569#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877381537513017569#m</link>
+      </item>
+      <item>
+        <title>R to @fede_intern: url: https://reclaimprotocol.org/blog/posts/zk-in-zktls</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>url: <a href="https://reclaimprotocol.org/blog/posts/zk-in-zktls">reclaimprotocol.org/blog/pos…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1876199801282248704%2FjKjvJg8S%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 09 Jan 2025 15:44:32 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877380946120282498#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877380946120282498#m</link>
+      </item>
+      <item>
+        <title>Great post by @reclaimprotocol about zkTLS. I believe zkTLS / webproofs is the major advancement in years in the blockchain world since it will enable many new usecases by bridging with the web2 world. I&apos;ve built many big web2 projects that could be enhaced with it.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>Great post by <a href="https://nitter.freedit.eu/reclaimprotocol" title="Reclaim Protocol">@reclaimprotocol</a> about zkTLS. I believe zkTLS / webproofs is the major advancement in years in the blockchain world since it will enable many new usecases by bridging with the web2 world. I've built many big web2 projects that could be enhaced with it.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGg3LthkWMAAKl3w.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 09 Jan 2025 15:44:31 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877380943662489945#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877380943662489945#m</link>
+      </item>
+      <item>
+        <title>We live in a simulation.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>We live in a simulation.</p>
+<p><a href="https://nitter.freedit.eu/kimmonismus/status/1877351050748871038#m">nitter.freedit.eu/kimmonismus/status/1877351050748871038#m</a></p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 14:12:13 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877357713048400165#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877357713048400165#m</link>
+      </item>
+      <item>
+        <title>Small models winning over big models.
+
+The world is gonna change faster than expected.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>Small models winning over big models.<br>
+<br>
+The world is gonna change faster than expected.</p>
+<p><a href="https://nitter.freedit.eu/_akhaliq/status/1877206745652592763#m">nitter.freedit.eu/_akhaliq/status/1877206745652592763#m</a></p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 14:07:36 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1877356551502954880#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1877356551502954880#m</link>
       </item>
 
   </channel>

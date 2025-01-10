@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
@@ -17,227 +16,248 @@
       <height>128</height>
     </image>
       <item>
-        <title>do we have any smart contracts that abstract over zk verified identity for usage in wallets? cc @yush_g 
+        <title>RT by @gakonst: 1/ The early net was characterized by competing frameworks w/ hardcoded apps. Then came TCP/IP &amp; the modern web.
 
-something like a zk credential store contract which I can call out in a wallet contract for account recovery with either jwt, email,. passport etc</title>
+Early AI had neural nets with predetermined tasks. Then we got generalized LLMs.
+
+Early ZK was app-specific circuits and rollups. Then came SP1 &amp; Provable Software.</title>
+        <dc:creator>@VirtualElena</dc:creator>
+        <description><![CDATA[<p>1/ The early net was characterized by competing frameworks w/ hardcoded apps. Then came TCP/IP &amp; the modern web.<br>
+<br>
+Early AI had neural nets with predetermined tasks. Then we got generalized LLMs.<br>
+<br>
+Early ZK was app-specific circuits and rollups. Then came SP1 &amp; Provable Software.</p>
+<p><a href="https://nitter.freedit.eu/SuccinctLabs/status/1877416309434023962#m">nitter.freedit.eu/SuccinctLabs/status/1877416309434023962#m</a></p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 18:08:46 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/VirtualElena/status/1877417245011321033#m</guid>
+        <link>https://nitter.freedit.eu/VirtualElena/status/1877417245011321033#m</link>
+      </item>
+      <item>
+        <title>One more 7702 demo. Super excited for the ecosystem to be ready to support this on Day 1. Once we transition the first Ethereum testnet, it&apos;s time to add EIP7702 with the same spec to every L2 and then get on to solving interop.</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>do we have any smart contracts that abstract over zk verified identity for usage in wallets? cc <a href="https://nitter.freedit.eu/yush_g" title="Yush">@yush_g</a> <br>
-<br>
-something like a zk credential store contract which I can call out in a wallet contract for account recovery with either jwt, email,. passport etc</p>]]></description>
-        <pubDate>Mon, 06 Jan 2025 00:29:39 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1876063547312193608#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1876063547312193608#m</link>
+        <description><![CDATA[<p>One more 7702 demo. Super excited for the ecosystem to be ready to support this on Day 1. Once we transition the first Ethereum testnet, it's time to add EIP7702 with the same spec to every L2 and then get on to solving interop.</p>
+<p><a href="https://nitter.freedit.eu/buidlguidl/status/1877373500450656263#m">nitter.freedit.eu/buidlguidl/status/1877373500450656263#m</a></p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 20:51:09 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1877458109397901397#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1877458109397901397#m</link>
       </item>
       <item>
-        <title>RT by @gakonst: reth custom rpc method for sending private tx, avoiding the public mempool and sent directly to major block builders
-https://github.com/Quertyy/reth-private-transaction</title>
-        <dc:creator>@quertyeth</dc:creator>
-        <description><![CDATA[<p>reth custom rpc method for sending private tx, avoiding the public mempool and sent directly to major block builders<br>
-<a href="https://github.com/Quertyy/reth-private-transaction">github.com/Quertyy/reth-priv…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1875925979220119552%2Fm_2mnkEK%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 15 Dec 2024 14:42:02 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quertyeth/status/1868305523017457948#m</guid>
-        <link>https://nitter.freedit.eu/quertyeth/status/1868305523017457948#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: The moat is great user experience and interface, recurring users that love your product, and you having a passion for improving the product</title>
-        <dc:creator>@levelsio</dc:creator>
-        <description><![CDATA[<p>The moat is great user experience and interface, recurring users that love your product, and you having a passion for improving the product</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 20:24:57 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/levelsio/status/1876001966662488184#m</guid>
-        <link>https://nitter.freedit.eu/levelsio/status/1876001966662488184#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: The 2nd -- and cooler -- thing  I wrote is reth + malachite integration PoC
-
-I called it &quot;rem&quot;
-
-Two parts worth noting:
-
-1️⃣ Replaced reth’s default validation mode for Ethereum so that we bypass some of the Ethereum-specific block (eg gas) validation logic.</title>
-        <dc:creator>@AdiSeredinschi</dc:creator>
-        <description><![CDATA[<p>The 2nd -- and cooler -- thing  I wrote is reth + malachite integration PoC<br>
-<br>
-I called it "rem"<br>
-<br>
-Two parts worth noting:<br>
-<br>
-1️⃣ Replaced reth’s default validation mode for Ethereum so that we bypass some of the Ethereum-specific block (eg gas) validation logic.</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 19:27:57 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/AdiSeredinschi/status/1875987621215961283#m</guid>
-        <link>https://nitter.freedit.eu/AdiSeredinschi/status/1875987621215961283#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: The code for the log abstraction is in the same repo as with the simulator, which are open source at: https://github.com/adizere/malachite-simulator</title>
-        <dc:creator>@AdiSeredinschi</dc:creator>
-        <description><![CDATA[<p>The code for the log abstraction is in the same repo as with the simulator, which are open source at: <a href="https://github.com/adizere/malachite-simulator">github.com/adizere/malachite…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1875987611858391040%2FNAF_TMAr%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 05 Jan 2025 19:27:54 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/AdiSeredinschi/status/1875987609568297146#m</guid>
-        <link>https://nitter.freedit.eu/AdiSeredinschi/status/1875987609568297146#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Next on my mind is to to explore a multi-proposer abstraction for Tendermint
-
-Imagine multiple peers contributing to the content of each block collaboratively</title>
-        <dc:creator>@AdiSeredinschi</dc:creator>
-        <description><![CDATA[<p>Next on my mind is to to explore a multi-proposer abstraction for Tendermint<br>
-<br>
-Imagine multiple peers contributing to the content of each block collaboratively</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 19:28:06 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/AdiSeredinschi/status/1875987656200597996#m</guid>
-        <link>https://nitter.freedit.eu/AdiSeredinschi/status/1875987656200597996#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: 2️⃣ And added Malachite simulator tasks to the reth node, which led to running the consensus library alongside the execution client—all within the same process
-
-The fact that I was able to do this using simulator was the shortcut to build this in a few days</title>
-        <dc:creator>@AdiSeredinschi</dc:creator>
-        <description><![CDATA[<p>2️⃣ And added Malachite simulator tasks to the reth node, which led to running the consensus library alongside the execution client—all within the same process<br>
-<br>
-The fact that I was able to do this using simulator was the shortcut to build this in a few days</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 19:28:00 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/AdiSeredinschi/status/1875987632863482039#m</guid>
-        <link>https://nitter.freedit.eu/AdiSeredinschi/status/1875987632863482039#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: The code for rem is here: https://github.com/adizere/rem-poc/tree/main
-
-Can&apos;t emphasize enough that this is a mere proof of concept - a toy!</title>
-        <dc:creator>@AdiSeredinschi</dc:creator>
-        <description><![CDATA[<p>The code for rem is here: <a href="https://github.com/adizere/rem-poc/tree/main">github.com/adizere/rem-poc/t…</a><br>
-<br>
-Can't emphasize enough that this is a mere proof of concept - a toy!</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 19:28:03 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/AdiSeredinschi/status/1875987644485976482#m</guid>
-        <link>https://nitter.freedit.eu/AdiSeredinschi/status/1875987644485976482#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: </title>
+        <title>R to @gakonst: the most intg areas for innovation is how to make settlement really effective for market makers, you can allow the intent originator to specify a settlement mechanism and the wallet integration could decide that depending on how they want to utilize their orderflow</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgisvNSWAAEknHH.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 05 Jan 2025 16:15:35 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1875939208000627103#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1875939208000627103#m</link>
+        <description><![CDATA[<p>the most intg areas for innovation is how to make settlement really effective for market makers, you can allow the intent originator to specify a settlement mechanism and the wallet integration could decide that depending on how they want to utilize their orderflow</p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 12:51:15 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1877337339678101927#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1877337339678101927#m</link>
       </item>
       <item>
-        <title>for the people catching up to interop discourse, we wrote about intents as a great solution to the problem a while ago, still very relevant 
+        <title>R to @gakonst: doesn&apos;t need any system of validators, protocol or stake btw, it &quot;just works&quot; and could be public 0 cost utility on the smart contract side.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>doesn't need any system of validators, protocol or stake btw, it "just works" and could be public 0 cost utility on the smart contract side.</p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 12:51:13 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1877337330429681871#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1877337330429681871#m</link>
+      </item>
+      <item>
+        <title>storage proofs are super important because they allow a market maker to get paid on origin chain for fulfilling an intent on the destination chain w/o the market maker being known, 1-click for the user, permissionless mm competition on the other side, assumes 2 L2s to same L1.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>storage proofs are super important because they allow a market maker to get paid on origin chain for fulfilling an intent on the destination chain w/o the market maker being known, 1-click for the user, permissionless mm competition on the other side, assumes 2 L2s to same L1.</p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 12:45:22 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1877335856534413461#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1877335856534413461#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: if you&apos;re a whale transferring size then you can afford to wait or odds are you want to use USDC / CCTP or similar, but for the hot path of &quot;normie&quot; users I think the problem is basically solved and needs some good UX cleanup</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>if you're a whale transferring size then you can afford to wait or odds are you want to use USDC / CCTP or similar, but for the hot path of "normie" users I think the problem is basically solved and needs some good UX cleanup</p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 10:00:58 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1877294486071480495#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1877294486071480495#m</link>
+      </item>
+      <item>
+        <title>sincerely don&apos;t know who uses bridges these days outside of market makers rebalancing inventory -- just use intent-based stuff, it&apos;s instant, gives you asset you&apos;re looking for, works for most chains; yeah if you&apos;re trading the long tail chain you can&apos;t expect all the best</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>sincerely don't know who uses bridges these days outside of market makers rebalancing inventory -- just use intent-based stuff, it's instant, gives you asset you're looking for, works for most chains; yeah if you're trading the long tail chain you can't expect all the best</p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 09:32:25 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1877287302617002084#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1877287302617002084#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Defining hardware requirements for Ethereum entities is important because it parametrizes what we mean by decentralization, enables informed decision making about protocol upgrades and allows for meaningful benchmark comparisons.
 
-https://www.paradigm.xyz/2023/06/intents</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>for the people catching up to interop discourse, we wrote about intents as a great solution to the problem a while ago, still very relevant <br>
-<br>
-<a href="https://www.paradigm.xyz/2023/06/intents">paradigm.xyz/2023/06/intents</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1874079419448328192%2F5DY21HB7%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 05 Jan 2025 16:05:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1875936706911969572#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1875936706911969572#m</link>
-      </item>
-      <item>
-        <title>In 2024, we started seeing the commoditization of perf in crypto. While it didn&apos;t fully play out in 2024, I think 2025 will be full of gigagas networks.
+We have been gathering feedback on the current recommendations for validators:
 
-What other competitive advantage will start eroding in 2025? Where to aggressively commoditise?</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>In 2024, we started seeing the commoditization of perf in crypto. While it didn't fully play out in 2024, I think 2025 will be full of gigagas networks.<br>
-<br>
-What other competitive advantage will start eroding in 2025? Where to aggressively commoditise?</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 15:56:52 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1875934498292183529#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1875934498292183529#m</link>
-      </item>
-      <item>
-        <title>is anyone going to use bls sig aggregation across different users when the many pairing checks (linear w # users) cost 10x ecrecover vs just paying extra data costs?
+- $1,000 total spend
+- 8 cores/16 threads CPU
+- 4TB SSD
+- 32GB RAM minimum
 
-(Not referring to sig aggregation of a single user&apos;s tx bundle)
+Less powerful machines work today, but these specs would guide protocol changes related to validators.</title>
+        <dc:creator>@kevaundray</dc:creator>
+        <description><![CDATA[<p>Defining hardware requirements for Ethereum entities is important because it parametrizes what we mean by decentralization, enables informed decision making about protocol upgrades and allows for meaningful benchmark comparisons.<br>
+<br>
+We have been gathering feedback on the current recommendations for validators:<br>
+<br>
+- $1,000 total spend<br>
+- 8 cores/16 threads CPU<br>
+- 4TB SSD<br>
+- 32GB RAM minimum<br>
+<br>
+Less powerful machines work today, but these specs would guide protocol changes related to validators.</p>]]></description>
+        <pubDate>Wed, 08 Jan 2025 23:15:19 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/kevaundray/status/1877132001087533225#m</guid>
+        <link>https://nitter.freedit.eu/kevaundray/status/1877132001087533225#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: I think this is &quot;rough consensus&quot;</title>
+        <dc:creator>@TimBeiko</dc:creator>
+        <description><![CDATA[<p>I think this is "rough consensus"</p>
+<p><a href="https://nitter.freedit.eu/TimBeiko/status/1877065689371959615#m">nitter.freedit.eu/TimBeiko/status/1877065689371959615#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGgyt3fJbcAAhUnN.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 08 Jan 2025 18:54:26 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/TimBeiko/status/1877066350222299373#m</guid>
+        <link>https://nitter.freedit.eu/TimBeiko/status/1877066350222299373#m</link>
+      </item>
+      <item>
+        <title>Same story every year with the Greek wildfires. Peoples&apos; lives not disrupted, obliterated.
 
-cc @VitalikButerin @optimizoor</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>is anyone going to use bls sig aggregation across different users when the many pairing checks (linear w # users) cost 10x ecrecover vs just paying extra data costs?<br>
-<br>
-(Not referring to sig aggregation of a single user's tx bundle)<br>
-<br>
-cc <a href="https://nitter.freedit.eu/VitalikButerin" title="vitalik.eth">@VitalikButerin</a> <a href="https://nitter.freedit.eu/optimizoor" title="vectorized.eth">@optimizoor</a></p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 15:56:20 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1875934365517303920#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1875934365517303920#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: i want to run claude in a way that i can have high confidence that someone else won’t be looking at the conversation later — the same way that i have that expectation for my signal messages, discussions with a therapist, etc</title>
-        <dc:creator>@hdevalence</dc:creator>
-        <description><![CDATA[<p>i want to run claude in a way that i can have high confidence that someone else won’t be looking at the conversation later — the same way that i have that expectation for my signal messages, discussions with a therapist, etc</p>]]></description>
-        <pubDate>Thu, 02 Jan 2025 01:05:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/hdevalence/status/1874622907516846353#m</guid>
-        <link>https://nitter.freedit.eu/hdevalence/status/1874622907516846353#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: when I say passwordless I specifically don&apos;t mean magic links -- these hurt conversion for newcomers because they break the flow. you want full embedding as one shot as possible, a popup with multiple prompts that might take 2s to load on a weak mobile connection hurts a ton.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>when I say passwordless I specifically don't mean magic links -- these hurt conversion for newcomers because they break the flow. you want full embedding as one shot as possible, a popup with multiple prompts that might take 2s to load on a weak mobile connection hurts a ton.</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 14:05:08 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1875906378797302074#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1875906378797302074#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: for user management / analytics you can offer a thin middleware which captures opted in user info and exposes them to app devs (@privy_io killing it there), but the passwords part/sso services seem very weak in a post crypto world</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>for user management / analytics you can offer a thin middleware which captures opted in user info and exposes them to app devs (<a href="https://nitter.freedit.eu/privy_io" title="Privy">@privy_io</a> killing it there), but the passwords part/sso services seem very weak in a post crypto world</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 14:00:05 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1875905108812398760#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1875905108812398760#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: rolling my own auth sucks bc I need to manage user passwords and I can get popped
+Solidarity to 0age and all the affected families. 
 
-let&apos;s say there&apos;s no password, and the user can have multiple credentials to auth in securely, which are auto backed up across devices etc
+Governmental responsibility -- nowhere in sight. When do you start being complicit?</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Same story every year with the Greek wildfires. Peoples' lives not disrupted, obliterated.<br>
+<br>
+Solidarity to 0age and all the affected families. <br>
+<br>
+Governmental responsibility -- nowhere in sight. When do you start being complicit?</p>
+<p><a href="https://nitter.freedit.eu/z0age/status/1877127753956471235#m">nitter.freedit.eu/z0age/status/1877127753956471235#m</a></p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 05:36:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1877228006747369935#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1877228006747369935#m</link>
+      </item>
+      <item>
+        <title>Maybe this is the year!</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Maybe this is the year!</p>
+<p><a href="https://nitter.freedit.eu/karpathy/status/1828530326613958965#m">nitter.freedit.eu/karpathy/status/1828530326613958965#m</a></p>]]></description>
+        <pubDate>Wed, 08 Jan 2025 22:07:34 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1877114952193880102#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1877114952193880102#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: I&apos;m super proud of the whole Irreducible team for pulling this together! We finally have a live production service and an amazing and fast developer platform for ZK. https://www.binius.xyz/
 
-What gives?</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>rolling my own auth sucks bc I need to manage user passwords and I can get popped<br>
+We&apos;re about to take Binius to new heights, now&apos;s the time to get involved!</title>
+        <dc:creator>@jimpo_potamus</dc:creator>
+        <description><![CDATA[<p>I'm super proud of the whole Irreducible team for pulling this together! We finally have a live production service and an amazing and fast developer platform for ZK. <a href="https://www.binius.xyz/">binius.xyz/</a><br>
 <br>
-let's say there's no password, and the user can have multiple credentials to auth in securely, which are auto backed up across devices etc<br>
-<br>
-What gives?</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 13:57:43 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1875904513938534719#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1875904513938534719#m</link>
+We're about to take Binius to new heights, now's the time to get involved!</p>
+<p><a href="https://nitter.freedit.eu/IrreducibleHW/status/1877086675907871044#m">nitter.freedit.eu/IrreducibleHW/status/1877086675907871044#m</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1877120939118276608%2FEy4MS-Um%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 08 Jan 2025 20:26:13 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/jimpo_potamus/status/1877089447461716364#m</guid>
+        <link>https://nitter.freedit.eu/jimpo_potamus/status/1877089447461716364#m</link>
       </item>
       <item>
-        <title>why does clerk / authzero matter in a world with broad passkey / pki distribution?</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>why does clerk / authzero matter in a world with broad passkey / pki distribution?</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 13:56:00 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1875904080306168052#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1875904080306168052#m</link>
+        <title>RT by @gakonst: Binius is about 50x times faster when dealing with Keccak.</title>
+        <dc:creator>@weikengchen</dc:creator>
+        <description><![CDATA[<p>Binius is about 50x times faster when dealing with Keccak.</p>
+<p><a href="https://nitter.freedit.eu/IrreducibleHW/status/1877086675907871044#m">nitter.freedit.eu/IrreducibleHW/status/1877086675907871044#m</a></p>]]></description>
+        <pubDate>Wed, 08 Jan 2025 20:30:45 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/weikengchen/status/1877090589721673794#m</guid>
+        <link>https://nitter.freedit.eu/weikengchen/status/1877090589721673794#m</link>
       </item>
       <item>
-        <title>how do I get early access to @cloudflaredev container platform?</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>how do I get early access to <a href="https://nitter.freedit.eu/CloudflareDev" title="Cloudflare Developers">@cloudflaredev</a> container platform?</p>]]></description>
-        <pubDate>Sun, 05 Jan 2025 13:00:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1875890185784963507#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1875890185784963507#m</link>
-      </item>
-      <item>
-        <title>surprised I don&apos;t see the Solana address lookup table idea in more L2 AA wallets for shorter data fees
+        <title>Incredible feat by @IrreducibleHW -- real time proving / blazing-fast Type-1 zkEVMs seem closer and closer to reality.
 
-what&apos;s the latest on data vs execution fees and how people design around the ratio changing dynamically?</title>
+Binius is the future of fast ZKP.</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>surprised I don't see the Solana address lookup table idea in more L2 AA wallets for shorter data fees<br>
+        <description><![CDATA[<p>Incredible feat by <a href="https://nitter.freedit.eu/IrreducibleHW" title="Irreducible">@IrreducibleHW</a> -- real time proving / blazing-fast Type-1 zkEVMs seem closer and closer to reality.<br>
 <br>
-what's the latest on data vs execution fees and how people design around the ratio changing dynamically?</p>]]></description>
-        <pubDate>Sat, 04 Jan 2025 22:54:06 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1875677112935575638#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1875677112935575638#m</link>
+Binius is the future of fast ZKP.</p>
+<p><a href="https://nitter.freedit.eu/IrreducibleHW/status/1877086675907871044#m">nitter.freedit.eu/IrreducibleHW/status/1877086675907871044#m</a></p>]]></description>
+        <pubDate>Wed, 08 Jan 2025 21:54:47 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1877111735338873307#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1877111735338873307#m</link>
       </item>
       <item>
-        <title>RT by @gakonst: Great read about how #io_uring manages worker pools and how to limit them https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/</title>
-        <dc:creator>@normanmaurer</dc:creator>
-        <description><![CDATA[<p>Great read about how <a href="https://nitter.freedit.eu/search?q=%23io_uring">#io_uring</a> manages worker pools and how to limit them <a href="https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/">blog.cloudflare.com/missing-…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1876021388143906816%2FA4U56ruP%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 04 Jan 2025 13:41:45 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/normanmaurer/status/1875538107069821269#m</guid>
-        <link>https://nitter.freedit.eu/normanmaurer/status/1875538107069821269#m</link>
+        <title>RT by @gakonst: History has been made! @PhalaNetwork is the first ever rollup to get the fast finality and unmatched security of ZKPs powered by @SuccinctLabs.
+
+Phala also uses:
+@Optimism OP Stack
+@superbridgeapp native bridge UI
+@privy_io onboarding
+And Conduit RPCs</title>
+        <dc:creator>@conduitxyz</dc:creator>
+        <description><![CDATA[<p>History has been made! <a href="https://nitter.freedit.eu/PhalaNetwork" title="Phala Network">@PhalaNetwork</a> is the first ever rollup to get the fast finality and unmatched security of ZKPs powered by <a href="https://nitter.freedit.eu/SuccinctLabs" title="Succinct">@SuccinctLabs</a>.<br>
+<br>
+Phala also uses:<br>
+<a href="https://nitter.freedit.eu/Optimism" title="Optimism">@Optimism</a> OP Stack<br>
+<a href="https://nitter.freedit.eu/superbridgeapp" title="Superbridge">@superbridgeapp</a> native bridge UI<br>
+<a href="https://nitter.freedit.eu/privy_io" title="Privy">@privy_io</a> onboarding<br>
+And Conduit RPCs</p>
+<p><a href="https://nitter.freedit.eu/PhalaNetwork/status/1877052813383184606#m">nitter.freedit.eu/PhalaNetwork/status/1877052813383184606#m</a></p>
+<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1877053849665421313%2Fpu%2Fimg%2FYLzgVRDtD4fxxnKJ.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 08 Jan 2025 18:07:11 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/conduitxyz/status/1877054456698753408#m</guid>
+        <link>https://nitter.freedit.eu/conduitxyz/status/1877054456698753408#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Don&apos;t sleep on ERC-7846: the Wallet Connection API.
+
+Currently (Image 1), connecting a Wallet with SIWE and/or other connection actions requires 2+ user interactions. 
+
+We can make it one user interaction with `wallet_connect` by leveraging ERC-5792 capabilities (Image 2).</title>
+        <dc:creator>@_jxom</dc:creator>
+        <description><![CDATA[<p>Don't sleep on ERC-7846: the Wallet Connection API.<br>
+<br>
+Currently (Image 1), connecting a Wallet with SIWE and/or other connection actions requires 2+ user interactions. <br>
+<br>
+We can make it one user interaction with `wallet_connect` by leveraging ERC-5792 capabilities (Image 2).</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGgy2Yf3aMAUrbDH.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGgy2Ze9aMAETinv.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 08 Jan 2025 19:32:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/_jxom/status/1877076010430091317#m</guid>
+        <link>https://nitter.freedit.eu/_jxom/status/1877076010430091317#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: I like FOCIL, not sure if things are fully figured out. Let&apos;s do it in 2026.
+
+On statelessness stuff IMO we&apos;ll have good enough solutions w/o even needing to change the trie by the time we need it. We&apos;re dropping pre-merge history soon which is the biggest driver of disk bloat.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>I like FOCIL, not sure if things are fully figured out. Let's do it in 2026.<br>
+<br>
+On statelessness stuff IMO we'll have good enough solutions w/o even needing to change the trie by the time we need it. We're dropping pre-merge history soon which is the biggest driver of disk bloat.</p>]]></description>
+        <pubDate>Wed, 08 Jan 2025 18:44:56 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1877063957589922221#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1877063957589922221#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: Truthfully I don&apos;t view EVMMAX/SIMD as a good use of time. The EVM on L1 is not gonna be doing much compute, it&apos;s coordinating asset transfers with some light math. We don&apos;t need to add a general purpose abstraction for adding new crypto. On L2s we&apos;ll have JIT/AOT or RISC-V runtimes.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Truthfully I don't view EVMMAX/SIMD as a good use of time. The EVM on L1 is not gonna be doing much compute, it's coordinating asset transfers with some light math. We don't need to add a general purpose abstraction for adding new crypto. On L2s we'll have JIT/AOT or RISC-V runtimes.</p>]]></description>
+        <pubDate>Wed, 08 Jan 2025 18:42:25 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1877063325718294932#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1877063325718294932#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: Larger smart contracts with more complex logic, via EOF; no more 24KB limit.
+
+Gas limit increase: Delay the state root, pump the gas. Be mindful though and don&apos;t propose numbers out of thin air. Do the math.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Larger smart contracts with more complex logic, via EOF; no more 24KB limit.<br>
+<br>
+Gas limit increase: Delay the state root, pump the gas. Be mindful though and don't propose numbers out of thin air. Do the math.</p>]]></description>
+        <pubDate>Wed, 08 Jan 2025 18:32:29 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1877060826374238356#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1877060826374238356#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: We can do smarter pricing of SLOAD/SSTORE by having block-level context information. SSTORE&apos;ing to the same slot many times in a block shouldn&apos;t cost like a cold SSTORE. SLOAD&apos;ing the same slot across transactions should assume the read was in memory the 2nd time. Easy wins.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>We can do smarter pricing of SLOAD/SSTORE by having block-level context information. SSTORE'ing to the same slot many times in a block shouldn't cost like a cold SSTORE. SLOAD'ing the same slot across transactions should assume the read was in memory the 2nd time. Easy wins.</p>]]></description>
+        <pubDate>Wed, 08 Jan 2025 18:29:46 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1877060140911767961#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1877060140911767961#m</link>
       </item>
 
   </channel>

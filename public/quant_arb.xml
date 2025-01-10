@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
@@ -16,6 +15,27 @@
       <width>128</width>
       <height>128</height>
     </image>
+      <item>
+        <title>R to @quant_arb: Probably not ideal for finding the actual latency as post-engineering you may have a significantly different number + matching engine latency will add a lot (esp true for the DEXs)</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>Probably not ideal for finding the actual latency as post-engineering you may have a significantly different number + matching engine latency will add a lot (esp true for the DEXs)</p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 16:26:58 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1877391624499507666#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1877391624499507666#m</link>
+      </item>
+      <item>
+        <title>Very useful reference sheet for exchange locations. Some are not in AWS (Alibaba Cloud) or this is outdated so not 100% accurate but still v. useful for most:
+
+https://docs.google.com/spreadsheets/d/1W345Qgp1QdcKdyg_hRkzl79OTkGVtxMJJZnJGjtdSp4/edit?gid=0#gid=0</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>Very useful reference sheet for exchange locations. Some are not in AWS (Alibaba Cloud) or this is outdated so not 100% accurate but still v. useful for most:<br>
+<br>
+<a href="https://docs.google.com/spreadsheets/d/1W345Qgp1QdcKdyg_hRkzl79OTkGVtxMJJZnJGjtdSp4/edit?gid=0#gid=0">docs.google.com/spreadsheets…</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGg3VfeFWMAIR0Id.png" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 09 Jan 2025 16:26:57 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1877391621202784491#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1877391621202784491#m</link>
+      </item>
       <item>
         <title>Passed my IQ test and scored in the top 85%, lot of quants I know couldn&apos;t score anywhere near this high 🤫</title>
         <dc:creator>@quant_arb</dc:creator>
@@ -216,15 +236,6 @@ Here it is with 9 more years of data, with ONE observation per non-overlapping d
         <pubDate>Sun, 29 Dec 2024 06:46:10 GMT</pubDate>
         <guid>https://nitter.freedit.eu/skyquake_1/status/1873259196558524871#m</guid>
         <link>https://nitter.freedit.eu/skyquake_1/status/1873259196558524871#m</link>
-      </item>
-      <item>
-        <title>90% of the return period in each of these data points overlaps with another. Not very independent, and generally misleading</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>90% of the return period in each of these data points overlaps with another. Not very independent, and generally misleading</p>
-<p><a href="https://nitter.freedit.eu/MikeZaccardi/status/1873096140364890515#m">nitter.freedit.eu/MikeZaccardi/status/1873096140364890515#m</a></p>]]></description>
-        <pubDate>Sat, 28 Dec 2024 23:01:22 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1873142225200398347#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1873142225200398347#m</link>
       </item>
 
   </channel>

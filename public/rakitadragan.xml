@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
@@ -16,6 +15,32 @@
       <width>128</width>
       <height>128</height>
     </image>
+      <item>
+        <title>RT by @rakitadragan: Defining hardware requirements for Ethereum entities is important because it parametrizes what we mean by decentralization, enables informed decision making about protocol upgrades and allows for meaningful benchmark comparisons.
+
+We have been gathering feedback on the current recommendations for validators:
+
+- $1,000 total spend
+- 8 cores/16 threads CPU
+- 4TB SSD
+- 32GB RAM minimum
+
+Less powerful machines work today, but these specs would guide protocol changes related to validators.</title>
+        <dc:creator>@kevaundray</dc:creator>
+        <description><![CDATA[<p>Defining hardware requirements for Ethereum entities is important because it parametrizes what we mean by decentralization, enables informed decision making about protocol upgrades and allows for meaningful benchmark comparisons.<br>
+<br>
+We have been gathering feedback on the current recommendations for validators:<br>
+<br>
+- $1,000 total spend<br>
+- 8 cores/16 threads CPU<br>
+- 4TB SSD<br>
+- 32GB RAM minimum<br>
+<br>
+Less powerful machines work today, but these specs would guide protocol changes related to validators.</p>]]></description>
+        <pubDate>Wed, 08 Jan 2025 23:15:19 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/kevaundray/status/1877132001087533225#m</guid>
+        <link>https://nitter.freedit.eu/kevaundray/status/1877132001087533225#m</link>
+      </item>
       <item>
         <title>RT by @rakitadragan: Revm feels like going through Ethereum&apos;s history..
 
@@ -207,7 +232,7 @@ Going to make a quick intro to ExExes and show how to build an indexer with the 
         <title>R to @rakitadragan: app.devcon.org/schedule/VEEY…</title>
         <dc:creator>@rakitadragan</dc:creator>
         <description><![CDATA[<p><a href="https://app.devcon.org/schedule/VEEYFZ">app.devcon.org/schedule/VEEY…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1873727661379620864%2FPhebBR4A%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1876270198791270400%2F86hrceq7%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Mon, 11 Nov 2024 12:30:36 GMT</pubDate>
         <guid>https://nitter.freedit.eu/rakitadragan/status/1855951256575262835#m</guid>
         <link>https://nitter.freedit.eu/rakitadragan/status/1855951256575262835#m</link>
@@ -223,29 +248,6 @@ And super hyped for the "Revm endgame" talk, I will tell a story of its beginnin
         <pubDate>Mon, 11 Nov 2024 12:29:29 GMT</pubDate>
         <guid>https://nitter.freedit.eu/rakitadragan/status/1855950977645576321#m</guid>
         <link>https://nitter.freedit.eu/rakitadragan/status/1855950977645576321#m</link>
-      </item>
-      <item>
-        <title>RT by @rakitadragan: 1/Let&apos;s have a look at how the revm (evm implemented in rust)  by @rakitadragan @DaniPopes @mattsse_ and many others uses the Rust builder pattern to create a type-safe and flexible EVM implementation. 
-
-First the core builder struct looks like this, where:
-
-- database -&gt;  the ethereum state
-- external_context -&gt; represents stuff like block.number, block.timestamp, tx.origin etc...
-- handler -&gt;  is the component that contains the logic for the EVM execution
-- phantom -&gt; is a marker type that is used at compile time to make sure different builder methods are called in the right order</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>1/Let's have a look at how the revm (evm implemented in rust)  by <a href="https://nitter.freedit.eu/rakitadragan" title="Dragan Rakita">@rakitadragan</a> <a href="https://nitter.freedit.eu/DaniPopes" title="DaniPopes">@DaniPopes</a> <a href="https://nitter.freedit.eu/mattsse_" title="Matthias Seitz">@mattsse_</a> and many others uses the Rust builder pattern to create a type-safe and flexible EVM implementation. <br>
-<br>
-First the core builder struct looks like this, where:<br>
-<br>
-- database -&gt;  the ethereum state<br>
-- external_context -&gt; represents stuff like block.number, block.timestamp, tx.origin etc...<br>
-- handler -&gt;  is the component that contains the logic for the EVM execution<br>
-- phantom -&gt; is a marker type that is used at compile time to make sure different builder methods are called in the right order</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGb3de8fXoAA8MJ7.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 08 Nov 2024 15:14:53 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1854905437717418355#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1854905437717418355#m</link>
       </item>
 
   </channel>

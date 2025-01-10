@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
@@ -16,6 +15,111 @@
       <width>128</width>
       <height>128</height>
     </image>
+      <item>
+        <title>crypto data becomes good if and only if it&apos;s prioritized by ecosystem + leadership
+
+crypto data has always been trust-but-verify. but instead of telling ppl to deprioritize data, we should tell ecosystems + leaders to step up and make good data a priority. data = tablestakes</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>crypto data becomes good if and only if it's prioritized by ecosystem + leadership<br>
+<br>
+crypto data has always been trust-but-verify. but instead of telling ppl to deprioritize data, we should tell ecosystems + leaders to step up and make good data a priority. data = tablestakes</p>]]></description>
+        <pubDate>Wed, 08 Jan 2025 19:30:02 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1877075306395193825#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1877075306395193825#m</link>
+      </item>
+      <item>
+        <title>R to @notnotstorm: from an old thread last year https://ethresear.ch/t/proper-disk-i-o-gas-pricing-via-lru-cache/18146/19?u=storm</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>from an old thread last year <a href="https://ethresear.ch/t/proper-disk-i-o-gas-pricing-via-lru-cache/18146/19?u=storm">ethresear.ch/t/proper-disk-i…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1877058117751681027%2FpjlbSDPu%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 08 Jan 2025 18:43:52 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1877063691956339041#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1877063691956339041#m</link>
+      </item>
+      <item>
+        <title>R to @notnotstorm: beyond slots it&apos;s an even more extreme story for accessing cold accounts
+
+caching 100K accounts could make &gt;80% of account accesses super cheap</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>beyond slots it's an even more extreme story for accessing cold accounts<br>
+<br>
+caching 100K accounts could make &gt;80% of account accesses super cheap</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGgyq-p-a4AAfx58.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGgyq_w6aMAEnGQk.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 08 Jan 2025 18:43:52 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1877063689045483924#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1877063689045483924#m</link>
+      </item>
+      <item>
+        <title>cache-aware storage pricing would be a nice boost for scaling ethereum L1
+
+if node clients cached 100K storage slots, that could make &gt;50% of all storage reads virtually free (and it would require only 10&apos;s of MB&apos;s of memory)</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>cache-aware storage pricing would be a nice boost for scaling ethereum L1<br>
+<br>
+if node clients cached 100K storage slots, that could make &gt;50% of all storage reads virtually free (and it would require only 10's of MB's of memory)</p>
+<p><a href="https://nitter.freedit.eu/adietrichs/status/1877021863412482356#m">nitter.freedit.eu/adietrichs/status/1877021863412482356#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGgymd9SagAAWclQ.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 08 Jan 2025 18:43:51 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1877063686529102179#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1877063686529102179#m</link>
+      </item>
+      <item>
+        <title>rust has restored python back to its roots of simplicity, elegance, and effortlessness
+
+python used to be the best at these things, then fell way behind, now it&apos;s making a comeback</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>rust has restored python back to its roots of simplicity, elegance, and effortlessness<br>
+<br>
+python used to be the best at these things, then fell way behind, now it's making a comeback</p>
+<p><a href="https://nitter.freedit.eu/charliermarsh/status/1876783696943931439#m">nitter.freedit.eu/charliermarsh/status/1876783696943931439#m</a></p>]]></description>
+        <pubDate>Wed, 08 Jan 2025 00:39:43 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1876790854079184939#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1876790854079184939#m</link>
+      </item>
+      <item>
+        <title>ICYMI @andrewhong5297 has the best guides for learning crypto data science + data engineering
+
+he just dropped the latest version of his annual everything-guide</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>ICYMI <a href="https://nitter.freedit.eu/andrewhong5297" title="ilemi">@andrewhong5297</a> has the best guides for learning crypto data science + data engineering<br>
+<br>
+he just dropped the latest version of his annual everything-guide</p>
+<p><a href="https://nitter.freedit.eu/andrewhong5297/status/1876332359727092092#m">nitter.freedit.eu/andrewhong5297/status/1876332359727092092#m</a></p>]]></description>
+        <pubDate>Mon, 06 Jan 2025 18:27:07 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1876334699494425062#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1876334699494425062#m</link>
+      </item>
+      <item>
+        <title>R to @notnotstorm: it took a long time to ensure near equivalence between alloy cryo and ethers cryo
+
+it required us to build a custom testing framework to test 37 datasets under a variety of environments and parameters
+
+there may still be some diffs. will have stability before v1.0</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>it took a long time to ensure near equivalence between alloy cryo and ethers cryo<br>
+<br>
+it required us to build a custom testing framework to test 37 datasets under a variety of environments and parameters<br>
+<br>
+there may still be some diffs. will have stability before v1.0</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGglT1XhbQAAxHXr.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 06 Jan 2025 04:33:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1876124923053347288#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1876124923053347288#m</link>
+      </item>
+      <item>
+        <title>cryo has finally made the upgrade from ethers to alloy 💪 this is the largest upgrade to cryo since launch
+
+massive shoutout to @Yadomin1 for getting this over the line. this is was a big blocker on the path to cryo 1.0 (major updates coming soon)</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>cryo has finally made the upgrade from ethers to alloy 💪 this is the largest upgrade to cryo since launch<br>
+<br>
+massive shoutout to <a href="https://nitter.freedit.eu/Yadomin1" title="北原雪菜">@Yadomin1</a> for getting this over the line. this is was a big blocker on the path to cryo 1.0 (major updates coming soon)</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGglVCX6aQAAAJS5.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 06 Jan 2025 04:33:32 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1876124920843059215#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1876124920843059215#m</link>
+      </item>
       <item>
         <title>polars will soon be usable in the web browser via pyodide
 
@@ -190,140 +294,6 @@ when institutions adopt ethereum, they unwittingly hegemonize its core principle
         <pubDate>Sat, 14 Dec 2024 06:14:52 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1867815501440893160#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1867815501440893160#m</link>
-      </item>
-      <item>
-        <title>ithaca is developing weapons-grade opensource libs for bringing crypto to the masses
-
-the next gen of crypto apps will be unrecognizable. you won&apos;t even know they&apos;re crypto apps</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>ithaca is developing weapons-grade opensource libs for bringing crypto to the masses<br>
-<br>
-the next gen of crypto apps will be unrecognizable. you won't even know they're crypto apps</p>
-<p><a href="https://nitter.freedit.eu/gakonst/status/1867248189780512777#m">nitter.freedit.eu/gakonst/status/1867248189780512777#m</a></p>]]></description>
-        <pubDate>Thu, 12 Dec 2024 16:45:16 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1867249371332624633#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1867249371332624633#m</link>
-      </item>
-      <item>
-        <title>smart ppl think in distributions because distributions capture the noise+complexity of realworld phenomena
-
-but so far, prediction markets only allow expressing simple yes-no beliefs
-
-Dave&apos;s new AMM enables decentralized prediction markets for expressing distributional beliefs</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>smart ppl think in distributions because distributions capture the noise+complexity of realworld phenomena<br>
-<br>
-but so far, prediction markets only allow expressing simple yes-no beliefs<br>
-<br>
-Dave's new AMM enables decentralized prediction markets for expressing distributional beliefs</p>
-<p><a href="https://nitter.freedit.eu/_Dave__White_/status/1866497496773804434#m">nitter.freedit.eu/_Dave__White_/status/1866497496773804434#m</a></p>]]></description>
-        <pubDate>Tue, 10 Dec 2024 15:16:54 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1866502356155969857#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1866502356155969857#m</link>
-      </item>
-      <item>
-        <title>RT by @notnotstorm: This was almost a year ago
-
-It has been talked about for even longer
-
-Nothing has happened
-
-If we’re going to do it, there is absolutely no reason to continue delaying this
-
-Pump the gas now and you’ll have plenty of time before Pectra
-
-▫️◽️◻️ ⬜️</title>
-        <dc:creator>@jon_charb</dc:creator>
-        <description><![CDATA[<p>This was almost a year ago<br>
-<br>
-It has been talked about for even longer<br>
-<br>
-Nothing has happened<br>
-<br>
-If we’re going to do it, there is absolutely no reason to continue delaying this<br>
-<br>
-Pump the gas now and you’ll have plenty of time before Pectra<br>
-<br>
-▫️◽️◻️ ⬜️</p>
-<p><a href="https://nitter.freedit.eu/notnotstorm/status/1745147860495315094#m">nitter.freedit.eu/notnotstorm/status/1745147860495315094#m</a></p>]]></description>
-        <pubDate>Wed, 04 Dec 2024 18:01:56 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/jon_charb/status/1864369561706901711#m</guid>
-        <link>https://nitter.freedit.eu/jon_charb/status/1864369561706901711#m</link>
-      </item>
-      <item>
-        <title>provable computation will enable lots of new technologies that seem like pure black magic
-
-succinct&apos;s new prover network is the next step in making provable computation easy and ubiquitous</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>provable computation will enable lots of new technologies that seem like pure black magic<br>
-<br>
-succinct's new prover network is the next step in making provable computation easy and ubiquitous</p>
-<p><a href="https://nitter.freedit.eu/SuccinctLabs/status/1863998744301371667#m">nitter.freedit.eu/SuccinctLabs/status/1863998744301371667#m</a></p>]]></description>
-        <pubDate>Tue, 03 Dec 2024 18:32:05 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1864014759642943643#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1864014759642943643#m</link>
-      </item>
-      <item>
-        <title>beyond just being memetically popular, what is the financial mechanics explanation for how xrp got to a $156B valuation? ($274B FDV). low liquidity + diamond handed whales?</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>beyond just being memetically popular, what is the financial mechanics explanation for how xrp got to a $156B valuation? ($274B FDV). low liquidity + diamond handed whales?</p>]]></description>
-        <pubDate>Tue, 03 Dec 2024 04:27:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1863802250419941771#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1863802250419941771#m</link>
-      </item>
-      <item>
-        <title>RT by @notnotstorm: I think it is time we increased the gas limit.
-
-If you run a validator, you can contribute to this -- every block acts as a vote on whether to increase it. If more than 50% of the stake agrees to an increase, the gas limit will increase.
-
-I just set my validators to vote for up to 60m gas.</title>
-        <dc:creator>@dankrad</dc:creator>
-        <description><![CDATA[<p>I think it is time we increased the gas limit.<br>
-<br>
-If you run a validator, you can contribute to this -- every block acts as a vote on whether to increase it. If more than 50% of the stake agrees to an increase, the gas limit will increase.<br>
-<br>
-I just set my validators to vote for up to 60m gas.</p>]]></description>
-        <pubDate>Mon, 02 Dec 2024 02:40:25 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/dankrad/status/1863412876901306599#m</guid>
-        <link>https://nitter.freedit.eu/dankrad/status/1863412876901306599#m</link>
-      </item>
-      <item>
-        <title>RT by @notnotstorm: Over the last few days I&apos;ve been working on a post that aims to safely pick a blob count for Pectra by looking at blocks proposed by Solo Stakers and then observed by Home Users.
-
-TL;DR  4/8 and 6/9 are both safe for Mainnet
-
- https://ethresear.ch/t/block-arrivals-home-stakers-bumping-the-blob-count/21096</title>
-        <dc:creator>@samcmAU</dc:creator>
-        <description><![CDATA[<p>Over the last few days I've been working on a post that aims to safely pick a blob count for Pectra by looking at blocks proposed by Solo Stakers and then observed by Home Users.<br>
-<br>
-TL;DR  4/8 and 6/9 are both safe for Mainnet<br>
-<br>
- <a href="https://ethresear.ch/t/block-arrivals-home-stakers-bumping-the-blob-count/21096">ethresear.ch/t/block-arrival…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1872081460800401408%2F_cGF-8Si%3Fformat%3Dpng%26name%3D420x420_2" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 27 Nov 2024 13:34:52 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/samcmAU/status/1861765636952891726#m</guid>
-        <link>https://nitter.freedit.eu/samcmAU/status/1861765636952891726#m</link>
-      </item>
-      <item>
-        <title>RT by @notnotstorm: NEW @paradigm Research: The 5 Levels of Secure Hardware.
-
-Secure hardware combined with cryptography can be extremely powerful.
-
-We frame FIVE levels to secure hardware, where each level gives us access to more use cases, better performance, and higher security.
-
-Let&apos;s build.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>NEW <a href="https://nitter.freedit.eu/paradigm" title="Paradigm">@paradigm</a> Research: The 5 Levels of Secure Hardware.<br>
-<br>
-Secure hardware combined with cryptography can be extremely powerful.<br>
-<br>
-We frame FIVE levels to secure hardware, where each level gives us access to more use cases, better performance, and higher security.<br>
-<br>
-Let's build.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGc7pZ41aAAEv_rU.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 21 Nov 2024 19:28:36 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1859680331621859631#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1859680331621859631#m</link>
       </item>
 
   </channel>

@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
@@ -16,6 +15,19 @@
       <width>128</width>
       <height>128</height>
     </image>
+      <item>
+        <title>At @rise_chain, each performance-sensitive change to the RISE Stack (as &quot;small&quot; as an OP Stack config tweak or a cargo update in the EL) must undergo 2+ hours of benchmarking to see effects on chain stability, throughput, and user latency under load.
+
+While I enjoy our bare metals and the decentralising deployment talks at Devcon, cannot help but feel grateful for the credits @googlecloud gave us as we spun the 6th benchmarking instance...</title>
+        <dc:creator>@hai_rise</dc:creator>
+        <description><![CDATA[<p>At <a href="https://nitter.freedit.eu/rise_chain" title="RISE Chain">@rise_chain</a>, each performance-sensitive change to the RISE Stack (as "small" as an OP Stack config tweak or a cargo update in the EL) must undergo 2+ hours of benchmarking to see effects on chain stability, throughput, and user latency under load.<br>
+<br>
+While I enjoy our bare metals and the decentralising deployment talks at Devcon, cannot help but feel grateful for the credits <a href="https://nitter.freedit.eu/googlecloud" title="Google Cloud">@googlecloud</a> gave us as we spun the 6th benchmarking instance...</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGfppgDeaQAAOT8t.png" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 25 Dec 2024 14:24:28 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/hai_rise/status/1871924979107090610#m</guid>
+        <link>https://nitter.freedit.eu/hai_rise/status/1871924979107090610#m</link>
+      </item>
       <item>
         <title>Excellent read for anyone operating an OP-based rollup. 
 
@@ -310,7 +322,7 @@ https://github.com/paradigmxyz/reth/issues/12838</title>
         <dc:creator>@hai_rise</dc:creator>
         <description><![CDATA[<p>Call to Collaboration #2:<br>
 <a href="https://github.com/paradigmxyz/reth/issues/12838">github.com/paradigmxyz/reth/…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1873731445492981760%2FkN61o1DY%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1876293282017255424%2F4mv4SDx2%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Mon, 25 Nov 2024 12:48:05 GMT</pubDate>
         <guid>https://nitter.freedit.eu/hai_rise/status/1861029087680286724#m</guid>
         <link>https://nitter.freedit.eu/hai_rise/status/1861029087680286724#m</link>
@@ -321,7 +333,7 @@ https://github.com/paradigmxyz/reth/issues/12811</title>
         <dc:creator>@hai_rise</dc:creator>
         <description><![CDATA[<p>Call to Collaboration #1:<br>
 <a href="https://github.com/paradigmxyz/reth/issues/12811">github.com/paradigmxyz/reth/…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1873799138455986176%2FZlM7yZUW%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1876406320531714048%2Fq6ixzhYf%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Mon, 25 Nov 2024 12:48:04 GMT</pubDate>
         <guid>https://nitter.freedit.eu/hai_rise/status/1861029085545484590#m</guid>
         <link>https://nitter.freedit.eu/hai_rise/status/1861029085545484590#m</link>
@@ -364,18 +376,6 @@ We'll upstream as much to Reth as possible and open-source the RISE Mempool in Q
         <pubDate>Thu, 14 Nov 2024 12:25:25 GMT</pubDate>
         <guid>https://nitter.freedit.eu/mattsse_/status/1857037118029111637#m</guid>
         <link>https://nitter.freedit.eu/mattsse_/status/1857037118029111637#m</link>
-      </item>
-      <item>
-        <title>RT by @hai_rise: I will be around @EFDevcon Wednesday/Thursday and down to chat about Revm.
-
-And super hyped for the &quot;Revm endgame&quot; talk, I will tell a story of its beginning and more importantly its final endgame stage.</title>
-        <dc:creator>@rakitadragan</dc:creator>
-        <description><![CDATA[<p>I will be around <a href="https://nitter.freedit.eu/EFDevcon" title="Deva the Devcon Unicorn">@EFDevcon</a> Wednesday/Thursday and down to chat about Revm.<br>
-<br>
-And super hyped for the "Revm endgame" talk, I will tell a story of its beginning and more importantly its final endgame stage.</p>]]></description>
-        <pubDate>Mon, 11 Nov 2024 12:29:29 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rakitadragan/status/1855950977645576321#m</guid>
-        <link>https://nitter.freedit.eu/rakitadragan/status/1855950977645576321#m</link>
       </item>
 
   </channel>

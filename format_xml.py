@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import os
 
 def remove_empty_or_whitespace_first_line(filepath):

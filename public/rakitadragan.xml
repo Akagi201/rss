@@ -16,6 +16,27 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @rakitadragan: Wrote a blog post about how the main execution loop in revm orchestrates the call stack 🤠 
+
+Two scenarios covered:  
+
+1) Transaction with a simple execution without any additional frame creations  
+
+2) Transaction with a STATICCALL, demonstrating a call stack depth of 2</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Wrote a blog post about how the main execution loop in revm orchestrates the call stack 🤠 <br>
+<br>
+Two scenarios covered:  <br>
+<br>
+1) Transaction with a simple execution without any additional frame creations  <br>
+<br>
+2) Transaction with a STATICCALL, demonstrating a call stack depth of 2</p>
+<p><a href="https://nitter.freedit.eu/letsgetonchain/status/1876577088595210412#m">nitter.freedit.eu/letsgetonchain/status/1876577088595210412#m</a></p>]]></description>
+        <pubDate>Thu, 09 Jan 2025 13:08:46 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1877341747673436250#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1877341747673436250#m</link>
+      </item>
+      <item>
         <title>RT by @rakitadragan: Defining hardware requirements for Ethereum entities is important because it parametrizes what we mean by decentralization, enables informed decision making about protocol upgrades and allows for meaningful benchmark comparisons.
 
 We have been gathering feedback on the current recommendations for validators:
@@ -236,18 +257,6 @@ Going to make a quick intro to ExExes and show how to build an indexer with the 
         <pubDate>Mon, 11 Nov 2024 12:30:36 GMT</pubDate>
         <guid>https://nitter.freedit.eu/rakitadragan/status/1855951256575262835#m</guid>
         <link>https://nitter.freedit.eu/rakitadragan/status/1855951256575262835#m</link>
-      </item>
-      <item>
-        <title>I will be around @EFDevcon Wednesday/Thursday and down to chat about Revm.
-
-And super hyped for the &quot;Revm endgame&quot; talk, I will tell a story of its beginning and more importantly its final endgame stage.</title>
-        <dc:creator>@rakitadragan</dc:creator>
-        <description><![CDATA[<p>I will be around <a href="https://nitter.freedit.eu/EFDevcon" title="Deva the Devcon Unicorn">@EFDevcon</a> Wednesday/Thursday and down to chat about Revm.<br>
-<br>
-And super hyped for the "Revm endgame" talk, I will tell a story of its beginning and more importantly its final endgame stage.</p>]]></description>
-        <pubDate>Mon, 11 Nov 2024 12:29:29 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rakitadragan/status/1855950977645576321#m</guid>
-        <link>https://nitter.freedit.eu/rakitadragan/status/1855950977645576321#m</link>
       </item>
 
   </channel>

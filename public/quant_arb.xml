@@ -16,6 +16,15 @@
       <height>128</height>
     </image>
       <item>
+        <title>You guys are watching the wrong stuff on this website</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>You guys are watching the wrong stuff on this website</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGhC15pVXIAAUXyn.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sat, 11 Jan 2025 22:03:42 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1878201141210591581#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1878201141210591581#m</link>
+      </item>
+      <item>
         <title>R to @quant_arb: Probably not ideal for finding the actual latency as post-engineering you may have a significantly different number + matching engine latency will add a lot (esp true for the DEXs)</title>
         <dc:creator>@quant_arb</dc:creator>
         <description><![CDATA[<p>Probably not ideal for finding the actual latency as post-engineering you may have a significantly different number + matching engine latency will add a lot (esp true for the DEXs)</p>]]></description>
@@ -202,40 +211,6 @@ Having this much compute communicates status to women and business relationships
         <pubDate>Sun, 29 Dec 2024 14:16:27 GMT</pubDate>
         <guid>https://nitter.freedit.eu/quant_arb/status/1873372513960657289#m</guid>
         <link>https://nitter.freedit.eu/quant_arb/status/1873372513960657289#m</link>
-      </item>
-      <item>
-        <title>RT by @quant_arb: Enough is enough. 
-Ive been baited on this fine Sunday to put this bullshit to bed once and for all.
-
-There&apos;s only 3 independent observations here, might as well use 1min data to make the R^2 even higher.
-
-Here&apos;s how it looks with Bloomie data as a sanity check - close enough
-
-Now lets look at 1 year fwd returns: wats the R^2 now bucko? (still a chart crime)
-
-Here it is with 9 more years of data, with ONE observation per non-overlapping data point as they teach you in stat101:
-
-0 points for Gryffindor and may god have mercy on your soul</title>
-        <dc:creator>@skyquake_1</dc:creator>
-        <description><![CDATA[<p>Enough is enough. <br>
-Ive been baited on this fine Sunday to put this bullshit to bed once and for all.<br>
-<br>
-There's only 3 independent observations here, might as well use 1min data to make the R^2 even higher.<br>
-<br>
-Here's how it looks with Bloomie data as a sanity check - close enough<br>
-<br>
-Now lets look at 1 year fwd returns: wats the R^2 now bucko? (still a chart crime)<br>
-<br>
-Here it is with 9 more years of data, with ONE observation per non-overlapping data point as they teach you in stat101:<br>
-<br>
-0 points for Gryffindor and may god have mercy on your soul</p>
-<p><a href="https://nitter.freedit.eu/MikeZaccardi/status/1873096140364890515#m">nitter.freedit.eu/MikeZaccardi/status/1873096140364890515#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGf8kOliawAIQpaC.png" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGf8kaAOaEAAm08A.png" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGf8mMMZawAIRyAI.png" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 29 Dec 2024 06:46:10 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/skyquake_1/status/1873259196558524871#m</guid>
-        <link>https://nitter.freedit.eu/skyquake_1/status/1873259196558524871#m</link>
       </item>
 
   </channel>

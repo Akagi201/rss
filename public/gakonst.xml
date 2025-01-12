@@ -16,6 +16,125 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @gakonst: Yup, 7702 is necessary for withdraw/pull flows which cannot be implemented into solving flows without risk (user would have to trust solver infra). It also enables solving intents for contracts that don&apos;t have a &apos;address onBehalfOf&apos;-like parameter in their functions.</title>
+        <dc:creator>@0xZodomo</dc:creator>
+        <description><![CDATA[<p>Yup, 7702 is necessary for withdraw/pull flows which cannot be implemented into solving flows without risk (user would have to trust solver infra). It also enables solving intents for contracts that don't have a 'address onBehalfOf'-like parameter in their functions.</p>]]></description>
+        <pubDate>Sat, 11 Jan 2025 19:14:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xZodomo/status/1878158637056639018#m</guid>
+        <link>https://nitter.freedit.eu/0xZodomo/status/1878158637056639018#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Excited to announce Porto!
+
+Porto is a developer-first Typescript library that enables auth, crypto payments, and account recovery for your app, wallet or existing toolkit like Wagmi or Privy.
+
+Porto is built on open standards and is released as an Apache/MIT OSS library by @ithacaxyz.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Excited to announce Porto!<br>
+<br>
+Porto is a developer-first Typescript library that enables auth, crypto payments, and account recovery for your app, wallet or existing toolkit like Wagmi or Privy.<br>
+<br>
+Porto is built on open standards and is released as an Apache/MIT OSS library by <a href="https://nitter.freedit.eu/ithacaxyz" title="Ithaca">@ithacaxyz</a>.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGenMVTMaMAAxI4x.png" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 12 Dec 2024 16:40:34 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1867248189780512777#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1867248189780512777#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Hello EXP-0002, App Sessions.
+
+Fixing UX is the most essential thing in crypto-powered applications.
+
+EXP-0002 is our take on empowering developers with next-generation UX to access cheap and global crypto rails. 
+
+No redundant actions or popups, just sessions. 
+
+Read on!</title>
+        <dc:creator>@ithacaxyz</dc:creator>
+        <description><![CDATA[<p>Hello EXP-0002, App Sessions.<br>
+<br>
+Fixing UX is the most essential thing in crypto-powered applications.<br>
+<br>
+EXP-0002 is our take on empowering developers with next-generation UX to access cheap and global crypto rails. <br>
+<br>
+No redundant actions or popups, just sessions. <br>
+<br>
+Read on!</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGdU0BphaoAI3I0h.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 26 Nov 2024 16:51:38 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ithacaxyz/status/1861452765555499157#m</guid>
+        <link>https://nitter.freedit.eu/ithacaxyz/status/1861452765555499157#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Hello EXP-0001.
+
+Today, we’re releasing a deep dive on how Ethereum account delegation with EIP-7702 works, a spec for third parties looking to integrate, and a forkable codebase that you can extend to build next-generation wallets.
+
+And, of course, a demo!</title>
+        <dc:creator>@ithacaxyz</dc:creator>
+        <description><![CDATA[<p>Hello EXP-0001.<br>
+<br>
+Today, we’re releasing a deep dive on how Ethereum account delegation with EIP-7702 works, a spec for third parties looking to integrate, and a forkable codebase that you can extend to build next-generation wallets.<br>
+<br>
+And, of course, a demo!</p>
+<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1851300536643174402%2Fimg%2FUFwjBwiRiELRZ5rI.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 29 Oct 2024 16:30:24 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ithacaxyz/status/1851300561855086816#m</guid>
+        <link>https://nitter.freedit.eu/ithacaxyz/status/1851300561855086816#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: </title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p></p>
+<p><a href="https://nitter.freedit.eu/ithacaxyz/status/1851300561855086816#m">nitter.freedit.eu/ithacaxyz/status/1851300561855086816#m</a></p>]]></description>
+        <pubDate>Sat, 11 Jan 2025 17:54:06 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1878138330292097262#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1878138330292097262#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: </title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p></p>
+<p><a href="https://nitter.freedit.eu/gakonst/status/1867248189780512777#m">nitter.freedit.eu/gakonst/status/1867248189780512777#m</a></p>]]></description>
+        <pubDate>Sat, 11 Jan 2025 17:53:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1878138236163526694#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1878138236163526694#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: Some resources below.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Some resources below.</p>
+<p><a href="https://nitter.freedit.eu/ithacaxyz/status/1861452765555499157#m">nitter.freedit.eu/ithacaxyz/status/1861452765555499157#m</a></p>]]></description>
+        <pubDate>Sat, 11 Jan 2025 17:53:21 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1878138141313507452#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1878138141313507452#m</link>
+      </item>
+      <item>
+        <title>EIP7702 will 100x EVM chain UX.
+
+We have built the most extensive demos and open source code examples for it so far.
+
+AMA? Happy to help apps, wallets and L2s learn how to integrate.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>EIP7702 will 100x EVM chain UX.<br>
+<br>
+We have built the most extensive demos and open source code examples for it so far.<br>
+<br>
+AMA? Happy to help apps, wallets and L2s learn how to integrate.</p>]]></description>
+        <pubDate>Sat, 11 Jan 2025 17:53:01 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1878138056752189669#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1878138056752189669#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: We&apos;re open-sourcing Sparse Autoencoders (SAEs) for Llama 3.3 70B and Llama 3.1 8B! These are, to the best of our knowledge, the first open-source SAEs for models at this scale and capability level.</title>
+        <dc:creator>@GoodfireAI</dc:creator>
+        <description><![CDATA[<p>We're open-sourcing Sparse Autoencoders (SAEs) for Llama 3.3 70B and Llama 3.1 8B! These are, to the best of our knowledge, the first open-source SAEs for models at this scale and capability level.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGg8ubRuaAAAp_lR.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 10 Jan 2025 18:01:04 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/GoodfireAI/status/1877777694936694962#m</guid>
+        <link>https://nitter.freedit.eu/GoodfireAI/status/1877777694936694962#m</link>
+      </item>
+      <item>
         <title>RT by @gakonst: 1/ The early net was characterized by competing frameworks w/ hardcoded apps. Then came TCP/IP &amp; the modern web.
 
 Early AI had neural nets with predetermined tasks. Then we got generalized LLMs.
@@ -142,122 +261,6 @@ Governmental responsibility -- nowhere in sight. When do you start being complic
         <pubDate>Wed, 08 Jan 2025 22:07:34 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1877114952193880102#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1877114952193880102#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: I&apos;m super proud of the whole Irreducible team for pulling this together! We finally have a live production service and an amazing and fast developer platform for ZK. https://www.binius.xyz/
-
-We&apos;re about to take Binius to new heights, now&apos;s the time to get involved!</title>
-        <dc:creator>@jimpo_potamus</dc:creator>
-        <description><![CDATA[<p>I'm super proud of the whole Irreducible team for pulling this together! We finally have a live production service and an amazing and fast developer platform for ZK. <a href="https://www.binius.xyz/">binius.xyz/</a><br>
-<br>
-We're about to take Binius to new heights, now's the time to get involved!</p>
-<p><a href="https://nitter.freedit.eu/IrreducibleHW/status/1877086675907871044#m">nitter.freedit.eu/IrreducibleHW/status/1877086675907871044#m</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1877120939118276608%2FEy4MS-Um%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 08 Jan 2025 20:26:13 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/jimpo_potamus/status/1877089447461716364#m</guid>
-        <link>https://nitter.freedit.eu/jimpo_potamus/status/1877089447461716364#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Binius is about 50x times faster when dealing with Keccak.</title>
-        <dc:creator>@weikengchen</dc:creator>
-        <description><![CDATA[<p>Binius is about 50x times faster when dealing with Keccak.</p>
-<p><a href="https://nitter.freedit.eu/IrreducibleHW/status/1877086675907871044#m">nitter.freedit.eu/IrreducibleHW/status/1877086675907871044#m</a></p>]]></description>
-        <pubDate>Wed, 08 Jan 2025 20:30:45 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/weikengchen/status/1877090589721673794#m</guid>
-        <link>https://nitter.freedit.eu/weikengchen/status/1877090589721673794#m</link>
-      </item>
-      <item>
-        <title>Incredible feat by @IrreducibleHW -- real time proving / blazing-fast Type-1 zkEVMs seem closer and closer to reality.
-
-Binius is the future of fast ZKP.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Incredible feat by <a href="https://nitter.freedit.eu/IrreducibleHW" title="Irreducible">@IrreducibleHW</a> -- real time proving / blazing-fast Type-1 zkEVMs seem closer and closer to reality.<br>
-<br>
-Binius is the future of fast ZKP.</p>
-<p><a href="https://nitter.freedit.eu/IrreducibleHW/status/1877086675907871044#m">nitter.freedit.eu/IrreducibleHW/status/1877086675907871044#m</a></p>]]></description>
-        <pubDate>Wed, 08 Jan 2025 21:54:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1877111735338873307#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1877111735338873307#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: History has been made! @PhalaNetwork is the first ever rollup to get the fast finality and unmatched security of ZKPs powered by @SuccinctLabs.
-
-Phala also uses:
-@Optimism OP Stack
-@superbridgeapp native bridge UI
-@privy_io onboarding
-And Conduit RPCs</title>
-        <dc:creator>@conduitxyz</dc:creator>
-        <description><![CDATA[<p>History has been made! <a href="https://nitter.freedit.eu/PhalaNetwork" title="Phala Network">@PhalaNetwork</a> is the first ever rollup to get the fast finality and unmatched security of ZKPs powered by <a href="https://nitter.freedit.eu/SuccinctLabs" title="Succinct">@SuccinctLabs</a>.<br>
-<br>
-Phala also uses:<br>
-<a href="https://nitter.freedit.eu/Optimism" title="Optimism">@Optimism</a> OP Stack<br>
-<a href="https://nitter.freedit.eu/superbridgeapp" title="Superbridge">@superbridgeapp</a> native bridge UI<br>
-<a href="https://nitter.freedit.eu/privy_io" title="Privy">@privy_io</a> onboarding<br>
-And Conduit RPCs</p>
-<p><a href="https://nitter.freedit.eu/PhalaNetwork/status/1877052813383184606#m">nitter.freedit.eu/PhalaNetwork/status/1877052813383184606#m</a></p>
-<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1877053849665421313%2Fpu%2Fimg%2FYLzgVRDtD4fxxnKJ.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 08 Jan 2025 18:07:11 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/conduitxyz/status/1877054456698753408#m</guid>
-        <link>https://nitter.freedit.eu/conduitxyz/status/1877054456698753408#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Don&apos;t sleep on ERC-7846: the Wallet Connection API.
-
-Currently (Image 1), connecting a Wallet with SIWE and/or other connection actions requires 2+ user interactions. 
-
-We can make it one user interaction with `wallet_connect` by leveraging ERC-5792 capabilities (Image 2).</title>
-        <dc:creator>@_jxom</dc:creator>
-        <description><![CDATA[<p>Don't sleep on ERC-7846: the Wallet Connection API.<br>
-<br>
-Currently (Image 1), connecting a Wallet with SIWE and/or other connection actions requires 2+ user interactions. <br>
-<br>
-We can make it one user interaction with `wallet_connect` by leveraging ERC-5792 capabilities (Image 2).</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgy2Yf3aMAUrbDH.jpg" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGgy2Ze9aMAETinv.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 08 Jan 2025 19:32:49 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/_jxom/status/1877076010430091317#m</guid>
-        <link>https://nitter.freedit.eu/_jxom/status/1877076010430091317#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: I like FOCIL, not sure if things are fully figured out. Let&apos;s do it in 2026.
-
-On statelessness stuff IMO we&apos;ll have good enough solutions w/o even needing to change the trie by the time we need it. We&apos;re dropping pre-merge history soon which is the biggest driver of disk bloat.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>I like FOCIL, not sure if things are fully figured out. Let's do it in 2026.<br>
-<br>
-On statelessness stuff IMO we'll have good enough solutions w/o even needing to change the trie by the time we need it. We're dropping pre-merge history soon which is the biggest driver of disk bloat.</p>]]></description>
-        <pubDate>Wed, 08 Jan 2025 18:44:56 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1877063957589922221#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1877063957589922221#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: Truthfully I don&apos;t view EVMMAX/SIMD as a good use of time. The EVM on L1 is not gonna be doing much compute, it&apos;s coordinating asset transfers with some light math. We don&apos;t need to add a general purpose abstraction for adding new crypto. On L2s we&apos;ll have JIT/AOT or RISC-V runtimes.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Truthfully I don't view EVMMAX/SIMD as a good use of time. The EVM on L1 is not gonna be doing much compute, it's coordinating asset transfers with some light math. We don't need to add a general purpose abstraction for adding new crypto. On L2s we'll have JIT/AOT or RISC-V runtimes.</p>]]></description>
-        <pubDate>Wed, 08 Jan 2025 18:42:25 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1877063325718294932#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1877063325718294932#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: Larger smart contracts with more complex logic, via EOF; no more 24KB limit.
-
-Gas limit increase: Delay the state root, pump the gas. Be mindful though and don&apos;t propose numbers out of thin air. Do the math.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Larger smart contracts with more complex logic, via EOF; no more 24KB limit.<br>
-<br>
-Gas limit increase: Delay the state root, pump the gas. Be mindful though and don't propose numbers out of thin air. Do the math.</p>]]></description>
-        <pubDate>Wed, 08 Jan 2025 18:32:29 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1877060826374238356#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1877060826374238356#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: We can do smarter pricing of SLOAD/SSTORE by having block-level context information. SSTORE&apos;ing to the same slot many times in a block shouldn&apos;t cost like a cold SSTORE. SLOAD&apos;ing the same slot across transactions should assume the read was in memory the 2nd time. Easy wins.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>We can do smarter pricing of SLOAD/SSTORE by having block-level context information. SSTORE'ing to the same slot many times in a block shouldn't cost like a cold SSTORE. SLOAD'ing the same slot across transactions should assume the read was in memory the 2nd time. Easy wins.</p>]]></description>
-        <pubDate>Wed, 08 Jan 2025 18:29:46 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1877060140911767961#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1877060140911767961#m</link>
       </item>
 
   </channel>

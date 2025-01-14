@@ -16,6 +16,27 @@
       <height>128</height>
     </image>
       <item>
+        <title>ppl like to dunk on “ethereum roadmap” but literally every other eco of sufficient relevancy ends up doing the same things
+
+curious</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>ppl like to dunk on “ethereum roadmap” but literally every other eco of sufficient relevancy ends up doing the same things<br>
+<br>
+curious</p>]]></description>
+        <pubDate>Mon, 13 Jan 2025 19:22:42 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1878885401718628363#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1878885401718628363#m</link>
+      </item>
+      <item>
+        <title>hello world (computer)</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>hello world (computer)</p>
+<p><a href="https://nitter.freedit.eu/ethereum/status/1878791000732393665#m">nitter.freedit.eu/ethereum/status/1878791000732393665#m</a></p>]]></description>
+        <pubDate>Mon, 13 Jan 2025 17:27:45 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1878856473004106086#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1878856473004106086#m</link>
+      </item>
+      <item>
         <title>very exciting work by Kev and co</title>
         <dc:creator>@ralexstokes</dc:creator>
         <description><![CDATA[<p>very exciting work by Kev and co</p>
@@ -119,7 +140,7 @@ https://youtu.be/WRraHa4oy20</title>
 recording is up! enjoy<br>
 <br>
 <a href="https://piped.video/WRraHa4oy20">piped.video/WRraHa4oy20</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1876375744475275264%2FfeVnv1Vi%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1878919380014432256%2FScsMWree%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
         <pubDate>Mon, 16 Dec 2024 20:23:10 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ralexstokes/status/1868753759222071756#m</guid>
         <link>https://nitter.freedit.eu/ralexstokes/status/1868753759222071756#m</link>
@@ -181,7 +202,7 @@ https://collective.flashbots.net/t/mev-boost-community-call-11-10-dec-2024/4206<
 see you there<br>
 <br>
 <a href="https://collective.flashbots.net/t/mev-boost-community-call-11-10-dec-2024/4206">collective.flashbots.net/t/m…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1875960792954056704%2FpzMjLJEM%3Fformat%3Dpng%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1875960792954056704%2FAukxuobC%3Fformat%3Dpng%26name%3D420x420_2" style="max-width:250px;" />]]></description>
         <pubDate>Tue, 03 Dec 2024 15:21:38 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ralexstokes/status/1863966833696493661#m</guid>
         <link>https://nitter.freedit.eu/ralexstokes/status/1863966833696493661#m</link>
@@ -250,26 +271,6 @@ apply here↓<br>
         <pubDate>Thu, 21 Nov 2024 21:23:37 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ralexstokes/status/1859709275641348354#m</guid>
         <link>https://nitter.freedit.eu/ralexstokes/status/1859709275641348354#m</link>
-      </item>
-      <item>
-        <title>R to @ralexstokes: skimmed the uniswap SDK and the gnosis safe SDK software but didn&apos;t see any way for uniswap to know it was working with a &quot;batching&quot; aware wallet</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>skimmed the uniswap SDK and the gnosis safe SDK software but didn't see any way for uniswap to know it was working with a "batching" aware wallet</p>]]></description>
-        <pubDate>Thu, 21 Nov 2024 19:20:23 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1859678260587790622#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1859678260587790622#m</link>
-      </item>
-      <item>
-        <title>if I wanted to batch ERC20 approve + transfer from e.g. Uniswap, using e.g. Gnosis Safe
-
-how would the app frontend communicate this to the wallet software? rather than just piping over 2 different transactions</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>if I wanted to batch ERC20 approve + transfer from e.g. Uniswap, using e.g. Gnosis Safe<br>
-<br>
-how would the app frontend communicate this to the wallet software? rather than just piping over 2 different transactions</p>]]></description>
-        <pubDate>Thu, 21 Nov 2024 19:19:31 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1859678043448672430#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1859678043448672430#m</link>
       </item>
 
   </channel>

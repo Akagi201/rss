@@ -16,6 +16,64 @@
       <height>128</height>
     </image>
       <item>
+        <title>What are the best discords / telegram groups to ask questions about Ethereum core development stuff?</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>What are the best discords / telegram groups to ask questions about Ethereum core development stuff?</p>]]></description>
+        <pubDate>Mon, 13 Jan 2025 09:03:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1878729635250483248#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1878729635250483248#m</link>
+      </item>
+      <item>
+        <title>RT by @letsgetonchain: After EIP-7702 and EIP-7212 are live I will recommend my mum to go on chain
+
+Executing any action on chain through touch id is secure and simple. 
+
+Can&apos;t wait to see it bring unprecedented adoption 🚀</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>After EIP-7702 and EIP-7212 are live I will recommend my mum to go on chain<br>
+<br>
+Executing any action on chain through touch id is secure and simple. <br>
+<br>
+Can't wait to see it bring unprecedented adoption 🚀</p>]]></description>
+        <pubDate>Sun, 12 Jan 2025 20:33:16 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1878540773408342524#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1878540773408342524#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: Question for such a user onboarding flow.
+
+The first step is still to create an EOA wallet and the first action then is to sign the eip 7702 authorization to a delegated smart contract that verifies Secp256r1 signature. 
+
+Thereafter the user can do anything he wants with his touch id, no eoa private key needed. 
+
+Do hot wallets even need to store the eoa&apos;s private key thereafter or can they just remove it after the user has exported it ?</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Question for such a user onboarding flow.<br>
+<br>
+The first step is still to create an EOA wallet and the first action then is to sign the eip 7702 authorization to a delegated smart contract that verifies Secp256r1 signature. <br>
+<br>
+Thereafter the user can do anything he wants with his touch id, no eoa private key needed. <br>
+<br>
+Do hot wallets even need to store the eoa's private key thereafter or can they just remove it after the user has exported it ?</p>]]></description>
+        <pubDate>Sun, 12 Jan 2025 20:52:22 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1878545580265553927#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1878545580265553927#m</link>
+      </item>
+      <item>
+        <title>Switching between my &quot;Following&quot; and &quot;For you&quot; tab on X literally feels like switching between bright and dark side
+of crypto twitter..
+
+Wish I was more disciplined</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Switching between my "Following" and "For you" tab on X literally feels like switching between bright and dark side<br>
+of crypto twitter..<br>
+<br>
+Wish I was more disciplined</p>]]></description>
+        <pubDate>Sun, 12 Jan 2025 11:22:00 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1878402043024388239#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1878402043024388239#m</link>
+      </item>
+      <item>
         <title>why is my account targeted by these ai twitter agents?
 
 getting like 20 likes+retweets from these fake accounts that started posting beginning of jan
@@ -228,53 +286,6 @@ I thought evm interpreter based execution was necessary to abstract from underly
         <pubDate>Fri, 27 Dec 2024 18:48:06 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1872716099974042016#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1872716099974042016#m</link>
-      </item>
-      <item>
-        <title>Are there any analytics about realized losses incurred by solvers in intent based protocols due to finality risks?</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Are there any analytics about realized losses incurred by solvers in intent based protocols due to finality risks?</p>]]></description>
-        <pubDate>Tue, 17 Dec 2024 12:08:42 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1868991711898378361#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1868991711898378361#m</link>
-      </item>
-      <item>
-        <title>RT by @letsgetonchain: Got two of those merged this week 🫡 
-
-Your turn anon !</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Got two of those merged this week 🫡 <br>
-<br>
-Your turn anon !</p>
-<p><a href="https://nitter.freedit.eu/letsgetonchain/status/1866125652212043990#m">nitter.freedit.eu/letsgetonchain/status/1866125652212043990#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGe01Tc-XYAALeyt.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 15 Dec 2024 08:14:51 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1868208081924231408#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1868208081924231408#m</link>
-      </item>
-      <item>
-        <title>RT by @letsgetonchain: Excellent guide on the logic part of Revm (Handlers) and sneak peek on example of using erc20 to pay for gas.</title>
-        <dc:creator>@rakitadragan</dc:creator>
-        <description><![CDATA[<p>Excellent guide on the logic part of Revm (Handlers) and sneak peek on example of using erc20 to pay for gas.</p>
-<p><a href="https://nitter.freedit.eu/TheFiatBubble/status/1867092471131541971#m">nitter.freedit.eu/TheFiatBubble/status/1867092471131541971#m</a></p>]]></description>
-        <pubDate>Thu, 12 Dec 2024 11:04:28 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rakitadragan/status/1867163606908895618#m</guid>
-        <link>https://nitter.freedit.eu/rakitadragan/status/1867163606908895618#m</link>
-      </item>
-      <item>
-        <title>RT by @letsgetonchain: Big changes have landed in revm, transforming it into a full-blown EVM framework. 
-
-Customising your evm is now much easier and more straightforward then every before.
-
-Let&apos;s dive in what changed 🧵</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Big changes have landed in revm, transforming it into a full-blown EVM framework. <br>
-<br>
-Customising your evm is now much easier and more straightforward then every before.<br>
-<br>
-Let's dive in what changed 🧵</p>]]></description>
-        <pubDate>Mon, 09 Dec 2024 14:19:55 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1866125627067429102#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1866125627067429102#m</link>
       </item>
 
   </channel>

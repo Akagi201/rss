@@ -16,6 +16,76 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @rakitadragan: In the end, don&apos;t take this list seriously, they are just ideas and I like to think about this kind of stuff.
+🧵 5/5</title>
+        <dc:creator>@rakitadragan</dc:creator>
+        <description><![CDATA[<p>In the end, don't take this list seriously, they are just ideas and I like to think about this kind of stuff.<br>
+🧵 5/5</p>]]></description>
+        <pubDate>Mon, 13 Jan 2025 22:32:02 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/rakitadragan/status/1878933050819772637#m</guid>
+        <link>https://nitter.freedit.eu/rakitadragan/status/1878933050819772637#m</link>
+      </item>
+      <item>
+        <title>R to @rakitadragan: The biggest EF focus should be on client validation and networks. In future we will see even more clients types and network strains, having infrastructure for testing, fuzzing, benchmarking on both clients and the network will be essential.
+
+I feel that we are already going there, and the teams last year were amazing. Still, testing, DevOps, and security needs to be considered essential and receive even more focus and support.
+🧵 4/5</title>
+        <dc:creator>@rakitadragan</dc:creator>
+        <description><![CDATA[<p>The biggest EF focus should be on client validation and networks. In future we will see even more clients types and network strains, having infrastructure for testing, fuzzing, benchmarking on both clients and the network will be essential.<br>
+<br>
+I feel that we are already going there, and the teams last year were amazing. Still, testing, DevOps, and security needs to be considered essential and receive even more focus and support.<br>
+🧵 4/5</p>]]></description>
+        <pubDate>Mon, 13 Jan 2025 22:32:02 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/rakitadragan/status/1878933048751784318#m</guid>
+        <link>https://nitter.freedit.eu/rakitadragan/status/1878933048751784318#m</link>
+      </item>
+      <item>
+        <title>R to @rakitadragan: Protocol evolution and decision making right now are very chaotic, you need to follow discord, live chats, forums, EIPs, github PRs and tweets to figure out what needs to be added. And it is not clear how this happens.
+
+The technical board of 20 (or 50 people) should be responsible for decisions, and it would be good to have a fail safe veto mechanism of ~3-5 people (Vitalik for example, among others)
+
+Transparency in the process will bring stability.
+🧵 3/5</title>
+        <dc:creator>@rakitadragan</dc:creator>
+        <description><![CDATA[<p>Protocol evolution and decision making right now are very chaotic, you need to follow discord, live chats, forums, EIPs, github PRs and tweets to figure out what needs to be added. And it is not clear how this happens.<br>
+<br>
+The technical board of 20 (or 50 people) should be responsible for decisions, and it would be good to have a fail safe veto mechanism of ~3-5 people (Vitalik for example, among others)<br>
+<br>
+Transparency in the process will bring stability.<br>
+🧵 3/5</p>]]></description>
+        <pubDate>Mon, 13 Jan 2025 22:32:01 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/rakitadragan/status/1878933046608470119#m</guid>
+        <link>https://nitter.freedit.eu/rakitadragan/status/1878933046608470119#m</link>
+      </item>
+      <item>
+        <title>R to @rakitadragan: Funding needs to be looked at and needs to be transparent even with all the scrutiny that this will bring. This mechanism should have the purpose of distributing funds to the projects that impact Ethereum and enable long term sustainability.
+🧵 2/5</title>
+        <dc:creator>@rakitadragan</dc:creator>
+        <description><![CDATA[<p>Funding needs to be looked at and needs to be transparent even with all the scrutiny that this will bring. This mechanism should have the purpose of distributing funds to the projects that impact Ethereum and enable long term sustainability.<br>
+🧵 2/5</p>]]></description>
+        <pubDate>Mon, 13 Jan 2025 22:32:01 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/rakitadragan/status/1878933044817739819#m</guid>
+        <link>https://nitter.freedit.eu/rakitadragan/status/1878933044817739819#m</link>
+      </item>
+      <item>
+        <title>My (not strong) take on what the Ethereum Foundation should focus on in the next 5 years (as only critiquing is not constructive):
+
+* A robust funds distribution mechanism/group to fund projects and teams. The budget is done yearly and funded by basefee (unused basefee continues to be burned).
+* Protocol governance where a technical board makes decisions.
+* Protocol verification aka testing suites, benchmark suites, pen tests, fuzzing and infra should be the main focus of EF.
+🧵 1/5</title>
+        <dc:creator>@rakitadragan</dc:creator>
+        <description><![CDATA[<p>My (not strong) take on what the Ethereum Foundation should focus on in the next 5 years (as only critiquing is not constructive):<br>
+<br>
+* A robust funds distribution mechanism/group to fund projects and teams. The budget is done yearly and funded by basefee (unused basefee continues to be burned).<br>
+* Protocol governance where a technical board makes decisions.<br>
+* Protocol verification aka testing suites, benchmark suites, pen tests, fuzzing and infra should be the main focus of EF.<br>
+🧵 1/5</p>]]></description>
+        <pubDate>Mon, 13 Jan 2025 22:32:01 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/rakitadragan/status/1878933043169067235#m</guid>
+        <link>https://nitter.freedit.eu/rakitadragan/status/1878933043169067235#m</link>
+      </item>
+      <item>
         <title>RT by @rakitadragan: Wrote a blog post about how the main execution loop in revm orchestrates the call stack 🤠 
 
 Two scenarios covered:  
@@ -207,56 +277,6 @@ cut the 3, just call it web</p>]]></description>
         <pubDate>Wed, 13 Nov 2024 16:14:14 GMT</pubDate>
         <guid>https://nitter.freedit.eu/dxo1312/status/1856732313570480396#m</guid>
         <link>https://nitter.freedit.eu/dxo1312/status/1856732313570480396#m</link>
-      </item>
-      <item>
-        <title>Thank you for using it</title>
-        <dc:creator>@rakitadragan</dc:creator>
-        <description><![CDATA[<p>Thank you for using it</p>
-<p><a href="https://nitter.freedit.eu/Zoltan_Fazekas/status/1856932938480513147#m">nitter.freedit.eu/Zoltan_Fazekas/status/1856932938480513147#m</a></p>]]></description>
-        <pubDate>Thu, 14 Nov 2024 09:05:28 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rakitadragan/status/1856986800088388028#m</guid>
-        <link>https://nitter.freedit.eu/rakitadragan/status/1856986800088388028#m</link>
-      </item>
-      <item>
-        <title>RT by @rakitadragan: @rakitadragan talks about the future of revm @EFDevcon - building an EVM framework to support all EVM chains</title>
-        <dc:creator>@jenpaff</dc:creator>
-        <description><![CDATA[<p><a href="https://nitter.freedit.eu/rakitadragan" title="Dragan Rakita">@rakitadragan</a> talks about the future of revm <a href="https://nitter.freedit.eu/EFDevcon" title="Deva the Devcon Unicorn">@EFDevcon</a> - building an EVM framework to support all EVM chains</p>]]></description>
-        <pubDate>Thu, 14 Nov 2024 05:01:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/jenpaff/status/1856925292478304384#m</guid>
-        <link>https://nitter.freedit.eu/jenpaff/status/1856925292478304384#m</link>
-      </item>
-      <item>
-        <title>RT by @rakitadragan: If you are at DevCon I&apos;ve reserved the Orange Discussion Corner from 1330 to 1430 on Thursday for an EVM / EOF meetup.  It&apos;s the discussion corner close to the EVM track (stage 3).
-
-Come stop by to chat about EOF.  No formal presentation planned, just vibes and info sharing.</title>
-        <dc:creator>@shemnon</dc:creator>
-        <description><![CDATA[<p>If you are at DevCon I've reserved the Orange Discussion Corner from 1330 to 1430 on Thursday for an EVM / EOF meetup.  It's the discussion corner close to the EVM track (stage 3).<br>
-<br>
-Come stop by to chat about EOF.  No formal presentation planned, just vibes and info sharing.</p>]]></description>
-        <pubDate>Wed, 13 Nov 2024 08:53:36 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/shemnon/status/1856621422556102662#m</guid>
-        <link>https://nitter.freedit.eu/shemnon/status/1856621422556102662#m</link>
-      </item>
-      <item>
-        <title>RT by @rakitadragan: Come find me this Wednesday 15:00 at @EFDevcon Stage 2 where I&apos;ll be giving a talk &quot;Using Reth Execution Extensions for next generation indexing&quot;
-
-Going to make a quick intro to ExExes and show how to build an indexer with the Node Builder. No node forking!</title>
-        <dc:creator>@ashekhirin</dc:creator>
-        <description><![CDATA[<p>Come find me this Wednesday 15:00 at <a href="https://nitter.freedit.eu/EFDevcon" title="Deva the Devcon Unicorn">@EFDevcon</a> Stage 2 where I'll be giving a talk "Using Reth Execution Extensions for next generation indexing"<br>
-<br>
-Going to make a quick intro to ExExes and show how to build an indexer with the Node Builder. No node forking!</p>]]></description>
-        <pubDate>Mon, 11 Nov 2024 11:37:58 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ashekhirin/status/1855938013131669643#m</guid>
-        <link>https://nitter.freedit.eu/ashekhirin/status/1855938013131669643#m</link>
-      </item>
-      <item>
-        <title>R to @rakitadragan: app.devcon.org/schedule/VEEY…</title>
-        <dc:creator>@rakitadragan</dc:creator>
-        <description><![CDATA[<p><a href="https://app.devcon.org/schedule/VEEYFZ">app.devcon.org/schedule/VEEY…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1876270198791270400%2F86hrceq7%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 11 Nov 2024 12:30:36 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rakitadragan/status/1855951256575262835#m</guid>
-        <link>https://nitter.freedit.eu/rakitadragan/status/1855951256575262835#m</link>
       </item>
 
   </channel>

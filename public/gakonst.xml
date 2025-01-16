@@ -16,6 +16,64 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @gakonst: 🤖 New EIP: XXXX
+
+By: 
+- Charlie Noyes
+ -Dan Robinson
+ -Justin Drake
+ -Toni Wahrstätter
+
+🔗 https://github.com/ethereum/EIPs/pull/9241
+
+This EIP proposes delaying the ExecutionPayload&apos;s state root reference by one block, so that for each block `n`, the `state_root` in block `n`&apos;s `ExecutionPayload` references the post-state of block `n-1`. This change aims to remove the expensive state root computation from the block-propagation critical path, reducing end-to-end latency for block production and potentially increasing throughput. It simplifies the block production pipeline, accelerates real-time ZK proving, and is a consensus-breaking change requiring a coordinated hard fork.</title>
+        <dc:creator>@ethresearchbot</dc:creator>
+        <description><![CDATA[<p>🤖 New EIP: XXXX<br>
+<br>
+By: <br>
+- Charlie Noyes<br>
+ -Dan Robinson<br>
+ -Justin Drake<br>
+ -Toni Wahrstätter<br>
+<br>
+🔗 <a href="https://github.com/ethereum/EIPs/pull/9241">github.com/ethereum/EIPs/pul…</a><br>
+<br>
+This EIP proposes delaying the ExecutionPayload's state root reference by one block, so that for each block `n`, the `state_root` in block `n`'s `ExecutionPayload` references the post-state of block `n-1`. This change aims to remove the expensive state root computation from the block-propagation critical path, reducing end-to-end latency for block production and potentially increasing throughput. It simplifies the block production pipeline, accelerates real-time ZK proving, and is a consensus-breaking change requiring a coordinated hard fork.</p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1879330372225204224%2Fd892LX-X%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 00:51:54 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ethresearchbot/status/1879330635745292579#m</guid>
+        <link>https://nitter.freedit.eu/ethresearchbot/status/1879330635745292579#m</link>
+      </item>
+      <item>
+        <title>this is also what we used to call WoW players that were bad</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>this is also what we used to call WoW players that were bad</p>
+<p><a href="https://nitter.freedit.eu/tolly_xyz/status/1879001196616355862#m">nitter.freedit.eu/tolly_xyz/status/1879001196616355862#m</a></p>]]></description>
+        <pubDate>Wed, 15 Jan 2025 03:42:01 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1879373447815741472#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1879373447815741472#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: as part of this change, I’ll no longer be the team lead at ARG; @kevaundray is the new team lead, bringing his deep expertise to help ethereum grow.
+
+watch for the spectacular work coming from this group in 2025 — it’s going to be a big year as we scale the world computer.</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>as part of this change, I’ll no longer be the team lead at ARG; <a href="https://nitter.freedit.eu/kevaundray" title="Kev">@kevaundray</a> is the new team lead, bringing his deep expertise to help ethereum grow.<br>
+<br>
+watch for the spectacular work coming from this group in 2025 — it’s going to be a big year as we scale the world computer.</p>]]></description>
+        <pubDate>Tue, 14 Jan 2025 17:12:15 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1879214961207148953#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1879214961207148953#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: I’ll be stepping up as a co-lead with @barnabemonnot  for research at the @ethereumfndn. Researchers at the EF are some of the most inspiring and passionate colleagues I’ve found in life and I could not be more excited to support our work both inside and outside the EF.</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>I’ll be stepping up as a co-lead with <a href="https://nitter.freedit.eu/barnabemonnot" title="barnabe.eth">@barnabemonnot</a>  for research at the <a href="https://nitter.freedit.eu/ethereumfndn" title="Ethereum Foundation">@ethereumfndn</a>. Researchers at the EF are some of the most inspiring and passionate colleagues I’ve found in life and I could not be more excited to support our work both inside and outside the EF.</p>]]></description>
+        <pubDate>Tue, 14 Jan 2025 17:12:14 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1879214957268742266#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1879214957268742266#m</link>
+      </item>
+      <item>
         <title>RT by @gakonst: hello world computer</title>
         <dc:creator>@ethereum</dc:creator>
         <description><![CDATA[<p>hello world computer</p>]]></description>
@@ -251,39 +309,6 @@ Early ZK was app-specific circuits and rollups. Then came SP1 &amp; Provable Sof
         <pubDate>Thu, 09 Jan 2025 18:08:46 GMT</pubDate>
         <guid>https://nitter.freedit.eu/VirtualElena/status/1877417245011321033#m</guid>
         <link>https://nitter.freedit.eu/VirtualElena/status/1877417245011321033#m</link>
-      </item>
-      <item>
-        <title>One more 7702 demo. Super excited for the ecosystem to be ready to support this on Day 1. Once we transition the first Ethereum testnet, it&apos;s time to add EIP7702 with the same spec to every L2 and then get on to solving interop.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>One more 7702 demo. Super excited for the ecosystem to be ready to support this on Day 1. Once we transition the first Ethereum testnet, it's time to add EIP7702 with the same spec to every L2 and then get on to solving interop.</p>
-<p><a href="https://nitter.freedit.eu/buidlguidl/status/1877373500450656263#m">nitter.freedit.eu/buidlguidl/status/1877373500450656263#m</a></p>]]></description>
-        <pubDate>Thu, 09 Jan 2025 20:51:09 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1877458109397901397#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1877458109397901397#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: the most intg areas for innovation is how to make settlement really effective for market makers, you can allow the intent originator to specify a settlement mechanism and the wallet integration could decide that depending on how they want to utilize their orderflow</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>the most intg areas for innovation is how to make settlement really effective for market makers, you can allow the intent originator to specify a settlement mechanism and the wallet integration could decide that depending on how they want to utilize their orderflow</p>]]></description>
-        <pubDate>Thu, 09 Jan 2025 12:51:15 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1877337339678101927#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1877337339678101927#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: doesn&apos;t need any system of validators, protocol or stake btw, it &quot;just works&quot; and could be public 0 cost utility on the smart contract side.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>doesn't need any system of validators, protocol or stake btw, it "just works" and could be public 0 cost utility on the smart contract side.</p>]]></description>
-        <pubDate>Thu, 09 Jan 2025 12:51:13 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1877337330429681871#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1877337330429681871#m</link>
-      </item>
-      <item>
-        <title>storage proofs are super important because they allow a market maker to get paid on origin chain for fulfilling an intent on the destination chain w/o the market maker being known, 1-click for the user, permissionless mm competition on the other side, assumes 2 L2s to same L1.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>storage proofs are super important because they allow a market maker to get paid on origin chain for fulfilling an intent on the destination chain w/o the market maker being known, 1-click for the user, permissionless mm competition on the other side, assumes 2 L2s to same L1.</p>]]></description>
-        <pubDate>Thu, 09 Jan 2025 12:45:22 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1877335856534413461#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1877335856534413461#m</link>
       </item>
 
   </channel>

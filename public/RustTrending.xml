@@ -16,184 +16,184 @@
       <height>128</height>
     </image>
       <item>
-        <title>coral-xyz / anchor: ⚓ Solana Sealevel Framework ★3886 https://github.com/coral-xyz/anchor</title>
+        <title>rustdesk: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. ★79261 https://github.com/rustdesk/rustdesk</title>
         <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>coral-xyz / anchor: ⚓ Solana Sealevel Framework ★3886 <a href="https://github.com/coral-xyz/anchor">github.com/coral-xyz/anchor</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1876977501739630593%2F3MfB3DWh%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 13 Jan 2025 19:31:33 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878887630710149252#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878887630710149252#m</link>
+        <description><![CDATA[<p>rustdesk: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. ★79261 <a href="https://github.com/rustdesk/rustdesk">github.com/rustdesk/rustdesk</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1876136534925332480%2FqXhI5oHO%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 16 Jan 2025 00:15:35 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879683884885168233#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879683884885168233#m</link>
       </item>
       <item>
-        <title>ankitects / anki: Anki&apos;s shared backend and web components, and the Qt frontend ★19561 https://github.com/ankitects/anki</title>
+        <title>qdrant: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ ★21348 https://github.com/qdrant/qdrant</title>
         <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>ankitects / anki: Anki's shared backend and web components, and the Qt frontend ★19561 <a href="https://github.com/ankitects/anki">github.com/ankitects/anki</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1878334360182812672%2FAvpfsONQ%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 13 Jan 2025 18:31:29 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878872511183757482#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878872511183757482#m</link>
+        <description><![CDATA[<p>qdrant: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud <a href="https://cloud.qdrant.io/">cloud.qdrant.io/</a> ★21348 <a href="https://github.com/qdrant/qdrant">github.com/qdrant/qdrant</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1878003450090237952%2FOlCbP5Id%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 23:15:34 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879668779975885302#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879668779975885302#m</link>
       </item>
       <item>
-        <title>alvr-org / ALVR: Stream VR games from your PC to your headset via Wi-Fi ★5764 https://github.com/alvr-org/ALVR</title>
+        <title>squidowl / halloy: IRC application written in Rust ★1878 https://github.com/squidowl/halloy</title>
         <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>alvr-org / ALVR: Stream VR games from your PC to your headset via Wi-Fi ★5764 <a href="https://github.com/alvr-org/ALVR">github.com/alvr-org/ALVR</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1876502197451608064%2F7A8qAoXe%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 13 Jan 2025 17:31:24 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878857391946842526#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878857391946842526#m</link>
+        <description><![CDATA[<p>squidowl / halloy: IRC application written in Rust ★1878 <a href="https://github.com/squidowl/halloy">github.com/squidowl/halloy</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1879002216780206080%2FZgL7vRQL%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 22:15:29 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879653660428493199#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879653660428493199#m</link>
       </item>
       <item>
-        <title>0xPlaygrounds / rig: ⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents ★2378 https://github.com/0xPlaygrounds/rig</title>
+        <title>astral-sh / uv: An extremely fast Python package and project manager, written in Rust. ★35845 https://github.com/astral-sh/uv</title>
         <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>0xPlaygrounds / rig: ⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents ★2378 <a href="https://github.com/0xPlaygrounds/rig">github.com/0xPlaygrounds/rig</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1878264300693028864%2FOU5NWLq9%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 13 Jan 2025 16:31:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878842270641979575#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878842270641979575#m</link>
+        <description><![CDATA[<p>astral-sh / uv: An extremely fast Python package and project manager, written in Rust. ★35845 <a href="https://github.com/astral-sh/uv">github.com/astral-sh/uv</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1877476969014538240%2F1wC98hA3%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 21:15:25 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879638542961496369#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879638542961496369#m</link>
       </item>
       <item>
-        <title>ClementTsang / bottom: Yet another cross-platform graphical process/system monitor. ★10598 https://github.com/ClementTsang/bottom</title>
+        <title>nushell: A new type of shell ★33395 https://github.com/nushell/nushell</title>
         <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>ClementTsang / bottom: Yet another cross-platform graphical process/system monitor. ★10598 <a href="https://github.com/ClementTsang/bottom">github.com/ClementTsang/bott…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1876851566067716096%2FNx-QLJgR%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 13 Jan 2025 15:31:17 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878827165460131879#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878827165460131879#m</link>
+        <description><![CDATA[<p>nushell: A new type of shell ★33395 <a href="https://github.com/nushell/nushell">github.com/nushell/nushell</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1877484790334488576%2FC_2gbuXk%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 20:15:24 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879623438245244951#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879623438245244951#m</link>
       </item>
       <item>
-        <title>huggingface / candle: Minimalist ML framework for Rust ★16274 https://github.com/huggingface/candle</title>
+        <title>railwayapp / nixpacks: App source + Nix packages + Docker = Image ★2814 https://github.com/railwayapp/nixpacks</title>
         <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>huggingface / candle: Minimalist ML framework for Rust ★16274 <a href="https://github.com/huggingface/candle">github.com/huggingface/candl…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1877659167038525440%2FEj9ZDJOc%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 13 Jan 2025 14:31:13 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878812046650937596#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878812046650937596#m</link>
+        <description><![CDATA[<p>railwayapp / nixpacks: App source + Nix packages + Docker = Image ★2814 <a href="https://github.com/railwayapp/nixpacks">github.com/railwayapp/nixpac…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1878474536280002560%2F5e4f3mGW%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 19:15:20 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879608323009646808#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879608323009646808#m</link>
       </item>
       <item>
-        <title>mufeedvh / code2prompt: A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. ★2923 https://github.com/mufeedvh/code2prompt</title>
+        <title>embassy-rs / embassy: Modern embedded framework, using Rust and async. ★6007 https://github.com/embassy-rs/embassy</title>
         <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>mufeedvh / code2prompt: A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. ★2923 <a href="https://github.com/mufeedvh/code2prompt">github.com/mufeedvh/code2pro…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1876641620017160192%2FdO-p5hiT%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 13 Jan 2025 13:31:08 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878796928408043896#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878796928408043896#m</link>
+        <description><![CDATA[<p>embassy-rs / embassy: Modern embedded framework, using Rust and async. ★6007 <a href="https://github.com/embassy-rs/embassy">github.com/embassy-rs/embass…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1878623054328176641%2FFqedwvl7%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 18:15:15 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879593203718029743#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879593203718029743#m</link>
       </item>
       <item>
-        <title>TabbyML / tabby: Self-hosted AI coding assistant ★23708 https://github.com/TabbyML/tabby</title>
+        <title>coral-xyz / anchor: ⚓ Solana Sealevel Framework ★3899 https://github.com/coral-xyz/anchor</title>
         <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>TabbyML / tabby: Self-hosted AI coding assistant ★23708 <a href="https://github.com/TabbyML/tabby">github.com/TabbyML/tabby</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1877659248320253952%2FbHhqGCAa%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 13 Jan 2025 12:31:07 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878781822781538486#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878781822781538486#m</link>
+        <description><![CDATA[<p>coral-xyz / anchor: ⚓ Solana Sealevel Framework ★3899 <a href="https://github.com/coral-xyz/anchor">github.com/coral-xyz/anchor</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1879514629669519360%2FtCho9hm2%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 17:15:10 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879578083818344518#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879578083818344518#m</link>
       </item>
       <item>
-        <title>Morganamilo / paru: Feature packed AUR helper ★6408 https://github.com/Morganamilo/paru</title>
+        <title>helix-editor / helix: A post-modern modal text editor. ★35037 https://github.com/helix-editor/helix</title>
         <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>Morganamilo / paru: Feature packed AUR helper ★6408 <a href="https://github.com/Morganamilo/paru">github.com/Morganamilo/paru</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1876984196553433088%2FF8gJ0EiL%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 13 Jan 2025 03:30:57 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878645887595130919#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878645887595130919#m</link>
+        <description><![CDATA[<p>helix-editor / helix: A post-modern modal text editor. ★35037 <a href="https://github.com/helix-editor/helix">github.com/helix-editor/heli…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1879550162487353344%2Fv1P0N9UF%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 16:15:06 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879562965177024853#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879562965177024853#m</link>
       </item>
       <item>
-        <title>qarmin / czkawka: Multi functional app to find duplicates, empty folders, similar images etc. ★21165 https://github.com/qarmin/czkawka</title>
+        <title>esp-rs / esp-hal: no_std Hardware Abstraction Layers for ESP32 microcontrollers ★885 https://github.com/esp-rs/esp-hal</title>
         <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>qarmin / czkawka: Multi functional app to find duplicates, empty folders, similar images etc. ★21165 <a href="https://github.com/qarmin/czkawka">github.com/qarmin/czkawka</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1877202878198415360%2FQOiEuK6Z%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 13 Jan 2025 02:30:53 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878630769712853285#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878630769712853285#m</link>
+        <description><![CDATA[<p>esp-rs / esp-hal: no_std Hardware Abstraction Layers for ESP32 microcontrollers ★885 <a href="https://github.com/esp-rs/esp-hal">github.com/esp-rs/esp-hal</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1879396400053833728%2F3YZ5cIUt%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 11:14:40 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879487361521975630#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879487361521975630#m</link>
       </item>
       <item>
-        <title>RustScan: 🤖 The Modern Port Scanner 🤖 ★15218 https://github.com/RustScan/RustScan</title>
+        <title>biomejs / biome: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. ★16429 https://github.com/biomejs/biome</title>
         <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>RustScan: 🤖 The Modern Port Scanner 🤖 ★15218 <a href="https://github.com/RustScan/RustScan">github.com/RustScan/RustScan</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1877069275996778496%2Fpm1xJrt8%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 13 Jan 2025 01:30:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878615650618470830#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878615650618470830#m</link>
+        <description><![CDATA[<p>biomejs / biome: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. ★16429 <a href="https://github.com/biomejs/biome">github.com/biomejs/biome</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1877925004303585280%2F0VxcSqe7%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 10:14:39 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879472256843423753#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879472256843423753#m</link>
       </item>
       <item>
-        <title>shadowsocks / shadowsocks-rust: A Rust port of shadowsocks ★8924 https://github.com/shadowsocks/shadowsocks-rust</title>
+        <title>starship: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! ★46506 https://github.com/starship/starship</title>
         <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>shadowsocks / shadowsocks-rust: A Rust port of shadowsocks ★8924 <a href="https://github.com/shadowsocks/shadowsocks-rust">github.com/shadowsocks/shado…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1877762712417308673%2F8mQMJyt4%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 13 Jan 2025 00:30:44 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878600531557703949#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878600531557703949#m</link>
-      </item>
-      <item>
-        <title>pop-os / cosmic-comp: Compositor for the COSMIC desktop environment ★519 https://github.com/pop-os/cosmic-comp</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>pop-os / cosmic-comp: Compositor for the COSMIC desktop environment ★519 <a href="https://github.com/pop-os/cosmic-comp">github.com/pop-os/cosmic-com…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1878585417265819648%2F96wxWgGn%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 12 Jan 2025 23:30:39 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878585414430458330#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878585414430458330#m</link>
-      </item>
-      <item>
-        <title>YaLTeR / niri: A scrollable-tiling Wayland compositor. ★4533 https://github.com/YaLTeR/niri</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>YaLTeR / niri: A scrollable-tiling Wayland compositor. ★4533 <a href="https://github.com/YaLTeR/niri">github.com/YaLTeR/niri</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1878417140216369152%2FCv_vNSZz%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 12 Jan 2025 22:30:35 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878570296694960624#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878570296694960624#m</link>
-      </item>
-      <item>
-        <title>jj-vcs / jj: A Git-compatible VCS that is both simple and powerful ★10448 https://github.com/jj-vcs/jj</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>jj-vcs / jj: A Git-compatible VCS that is both simple and powerful ★10448 <a href="https://github.com/jj-vcs/jj">github.com/jj-vcs/jj</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1877957468749197312%2F2mp0I_j-%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 12 Jan 2025 21:30:31 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878555179760689226#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878555179760689226#m</link>
-      </item>
-      <item>
-        <title>emilk / egui: egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native ★23327 https://github.com/emilk/egui</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>emilk / egui: egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native ★23327 <a href="https://github.com/emilk/egui">github.com/emilk/egui</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1878889767158358016%2FpL53_wFo%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 12 Jan 2025 20:30:26 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878540059546411501#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878540059546411501#m</link>
-      </item>
-      <item>
-        <title>tokio-rs / tokio: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... ★27627 https://github.com/tokio-rs/tokio</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>tokio-rs / tokio: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... ★27627 <a href="https://github.com/tokio-rs/tokio">github.com/tokio-rs/tokio</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1877444243196887040%2FcMpAFaNH%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 12 Jan 2025 19:30:24 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878524951973732731#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878524951973732731#m</link>
-      </item>
-      <item>
-        <title>starship: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! ★46427 https://github.com/starship/starship</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>starship: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! ★46427 <a href="https://github.com/starship/starship">github.com/starship/starship</a></p>
+        <description><![CDATA[<p>starship: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! ★46506 <a href="https://github.com/starship/starship">github.com/starship/starship</a></p>
 <img src="https://nitter.freedit.eu/pic/card_img%2F1878141836843515904%2FKFG40P3V%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 12 Jan 2025 18:30:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878509831205871914#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878509831205871914#m</link>
+        <pubDate>Wed, 15 Jan 2025 09:14:35 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879457139628060881#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879457139628060881#m</link>
       </item>
       <item>
-        <title>tw93 / Pake: 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 ★33968 https://github.com/tw93/Pake</title>
+        <title>AppFlowy-IO / AppFlowy-Cloud: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. ★1221 https://github.com/AppFlowy-IO/AppFlowy-Cloud</title>
         <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>tw93 / Pake: 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 ★33968 <a href="https://github.com/tw93/Pake">github.com/tw93/Pake</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1878436486623932416%2FyfnG1EXV%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 12 Jan 2025 17:30:14 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878494712363172291#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878494712363172291#m</link>
+        <description><![CDATA[<p>AppFlowy-IO / AppFlowy-Cloud: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. ★1221 <a href="https://github.com/AppFlowy-IO/AppFlowy-Cloud">github.com/AppFlowy-IO/AppFl…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1877364650238685184%2FHvoaTyb2%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 08:14:30 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879442021003534734#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879442021003534734#m</link>
       </item>
       <item>
-        <title>esp-rs / esp-hal: no_std Hardware Abstraction Layers for ESP32 microcontrollers ★858 https://github.com/esp-rs/esp-hal</title>
+        <title>YaLTeR / niri: A scrollable-tiling Wayland compositor. ★4713 https://github.com/YaLTeR/niri</title>
         <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>esp-rs / esp-hal: no_std Hardware Abstraction Layers for ESP32 microcontrollers ★858 <a href="https://github.com/esp-rs/esp-hal">github.com/esp-rs/esp-hal</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1876856009161105408%2FYZWpcgLr%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 12 Jan 2025 16:30:07 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1878479582871146539#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1878479582871146539#m</link>
+        <description><![CDATA[<p>YaLTeR / niri: A scrollable-tiling Wayland compositor. ★4713 <a href="https://github.com/YaLTeR/niri">github.com/YaLTeR/niri</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1878417140216369152%2FCv_vNSZz%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 07:14:26 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879426903985336550#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879426903985336550#m</link>
+      </item>
+      <item>
+        <title>mainmatter / 100-exercises-to-learn-rust: A self-paced course to learn Rust, one exercise at a time. ★6929 https://github.com/mainmatter/100-exercises-to-learn-rust</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>mainmatter / 100-exercises-to-learn-rust: A self-paced course to learn Rust, one exercise at a time. ★6929 <a href="https://github.com/mainmatter/100-exercises-to-learn-rust">github.com/mainmatter/100-ex…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1878763643237801984%2Fljr1KIDD%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 06:14:22 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879411786551824415#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879411786551824415#m</link>
+      </item>
+      <item>
+        <title>mufeedvh / code2prompt: A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. ★3271 https://github.com/mufeedvh/code2prompt</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>mufeedvh / code2prompt: A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. ★3271 <a href="https://github.com/mufeedvh/code2prompt">github.com/mufeedvh/code2pro…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1879178502982832128%2FSFik_cYF%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 05:14:21 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879396681483202636#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879396681483202636#m</link>
+      </item>
+      <item>
+        <title>quickwit-oss / quickwit: Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. ★9423 https://github.com/quickwit-oss/quickwit</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>quickwit-oss / quickwit: Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. ★9423 <a href="https://github.com/quickwit-oss/quickwit">github.com/quickwit-oss/quic…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1877913337478213632%2FqOgBBuEG%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 04:14:16 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879381564926378197#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879381564926378197#m</link>
+      </item>
+      <item>
+        <title>TabbyML / tabby: Self-hosted AI coding assistant ★25544 https://github.com/TabbyML/tabby</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>TabbyML / tabby: Self-hosted AI coding assistant ★25544 <a href="https://github.com/TabbyML/tabby">github.com/TabbyML/tabby</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1877659248320253952%2FbHhqGCAa%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 03:14:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879366446066831525#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879366446066831525#m</link>
+      </item>
+      <item>
+        <title>quickwit-oss / quickwit: Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. ★9421 https://github.com/quickwit-oss/quickwit</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>quickwit-oss / quickwit: Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. ★9421 <a href="https://github.com/quickwit-oss/quickwit">github.com/quickwit-oss/quic…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1877913337478213632%2FqOgBBuEG%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 02:56:59 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879362113665384885#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879362113665384885#m</link>
+      </item>
+      <item>
+        <title>TabbyML / tabby: Self-hosted AI coding assistant ★25445 https://github.com/TabbyML/tabby</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>TabbyML / tabby: Self-hosted AI coding assistant ★25445 <a href="https://github.com/TabbyML/tabby">github.com/TabbyML/tabby</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1877659248320253952%2FbHhqGCAa%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 15 Jan 2025 01:56:58 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1879347008743555395#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1879347008743555395#m</link>
       </item>
 
   </channel>

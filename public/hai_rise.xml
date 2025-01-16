@@ -16,6 +16,35 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @hai_rise: Introducing Quick Merkle Database (QMDB), a high-performance verifiable database optimized for blockchains.
+
+• 2.28M state updates per second, 1M TPS (benchmarked transfers per second).
+
+• Benchmarked with workloads up to 15B (10x Ethereum’s 2024 state) and proven capacity to scale to 280B entries on a single server.
+
+• Single read per state access, O(1) I/O for updates, and in-memory Merkleization on a footprint as small as 2.3 bytes per entry.
+
+• Efficiently scales across both consumer grade and enterprise hardware.
+
+Developed by LayerZero Labs, QMDB is MIT and apache-2 licensed and completely open-source.</title>
+        <dc:creator>@LayerZero_Core</dc:creator>
+        <description><![CDATA[<p>Introducing Quick Merkle Database (QMDB), a high-performance verifiable database optimized for blockchains.<br>
+<br>
+• 2.28M state updates per second, 1M TPS (benchmarked transfers per second).<br>
+<br>
+• Benchmarked with workloads up to 15B (10x Ethereum’s 2024 state) and proven capacity to scale to 280B entries on a single server.<br>
+<br>
+• Single read per state access, O(1) I/O for updates, and in-memory Merkleization on a footprint as small as 2.3 bytes per entry.<br>
+<br>
+• Efficiently scales across both consumer grade and enterprise hardware.<br>
+<br>
+Developed by LayerZero Labs, QMDB is MIT and apache-2 licensed and completely open-source.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGhQ95sOaUAAJr-G.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 14 Jan 2025 15:56:24 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/LayerZero_Core/status/1879195871042310159#m</guid>
+        <link>https://nitter.freedit.eu/LayerZero_Core/status/1879195871042310159#m</link>
+      </item>
+      <item>
         <title>This may or may not be @rise_chain&apos;s cultural question for tech candidates 🫣:
 
 &quot;You&apos;re stuck with this tricky bug for 3 days without a clue. Which music plays in the background when you sacrifice a goat to Satan for an answer?&quot;</title>
@@ -349,36 +378,6 @@ https://github.com/paradigmxyz/reth/issues/12811</title>
         <pubDate>Mon, 25 Nov 2024 12:48:04 GMT</pubDate>
         <guid>https://nitter.freedit.eu/hai_rise/status/1861029085545484590#m</guid>
         <link>https://nitter.freedit.eu/hai_rise/status/1861029085545484590#m</link>
-      </item>
-      <item>
-        <title>An underrated design space in high-performance chains is the mempool.
-
-Intuitively, one must insert 100k new transactions every second to maintain 100k TPS throughput. 
-
-A naive implementation would be congested with each new transaction competing for write access. Batching this wrong would lead to poor latency as queued transaction submissions block new ones.
-
-Another trap is to have transaction insertions starve write access for canonical state updates, which blocks the building of the next block as the mempool is not yet ready.
-
-At @rise_chain, we&apos;re optimizing the Reth mempool and customizing it for high load and low block time (have we mentioned sharding??). 
-The end game is to build a DAG-based mempool that estimates state access at transaction insertion time, to minimize state conflicts for the Parallel-EVM block builder to go brr.
-
-We&apos;ll upstream as much to Reth as possible and open-source the RISE Mempool in Q2/2025. Reach out if mempools fascinate you too 😁!</title>
-        <dc:creator>@hai_rise</dc:creator>
-        <description><![CDATA[<p>An underrated design space in high-performance chains is the mempool.<br>
-<br>
-Intuitively, one must insert 100k new transactions every second to maintain 100k TPS throughput. <br>
-<br>
-A naive implementation would be congested with each new transaction competing for write access. Batching this wrong would lead to poor latency as queued transaction submissions block new ones.<br>
-<br>
-Another trap is to have transaction insertions starve write access for canonical state updates, which blocks the building of the next block as the mempool is not yet ready.<br>
-<br>
-At <a href="https://nitter.freedit.eu/rise_chain" title="RISE Chain">@rise_chain</a>, we're optimizing the Reth mempool and customizing it for high load and low block time (have we mentioned sharding??). <br>
-The end game is to build a DAG-based mempool that estimates state access at transaction insertion time, to minimize state conflicts for the Parallel-EVM block builder to go brr.<br>
-<br>
-We'll upstream as much to Reth as possible and open-source the RISE Mempool in Q2/2025. Reach out if mempools fascinate you too 😁!</p>]]></description>
-        <pubDate>Mon, 25 Nov 2024 12:48:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/hai_rise/status/1861029083360198993#m</guid>
-        <link>https://nitter.freedit.eu/hai_rise/status/1861029083360198993#m</link>
       </item>
 
   </channel>

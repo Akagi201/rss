@@ -16,6 +16,26 @@
       <height>128</height>
     </image>
       <item>
+        <title>Any good ai tools to edit &quot;uhmmms&quot; out of a video?</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Any good ai tools to edit "uhmmms" out of a video?</p>]]></description>
+        <pubDate>Wed, 15 Jan 2025 12:55:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1879512794581864879#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1879512794581864879#m</link>
+      </item>
+      <item>
+        <title>I&apos;m so excited about EIP 7702 that I am going to spam your timeline with a video about it tomorrow
+
+I will show you every new line of code in the evm that comes with it 🫡</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>I'm so excited about EIP 7702 that I am going to spam your timeline with a video about it tomorrow<br>
+<br>
+I will show you every new line of code in the evm that comes with it 🫡</p>]]></description>
+        <pubDate>Tue, 14 Jan 2025 20:41:57 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1879267733696844277#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1879267733696844277#m</link>
+      </item>
+      <item>
         <title>What are the best discords / telegram groups to ask questions about Ethereum core development stuff?</title>
         <dc:creator>@letsgetonchain</dc:creator>
         <description><![CDATA[<p>What are the best discords / telegram groups to ask questions about Ethereum core development stuff?</p>]]></description>
@@ -248,44 +268,6 @@ You only get a full picture of the evm by going through its implementation line 
         <pubDate>Thu, 02 Jan 2025 10:57:04 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1874771887370453314#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1874771887370453314#m</link>
-      </item>
-      <item>
-        <title>Revm feels like going through Ethereum&apos;s history..
-
-For example it&apos;s support for older transaction types lets you trace the evolution of fork-specific validations⬇️
-
-Way more effective and sticky than reading EIPs.
-
-Obviously implementing them is even better..
-
-2025 goal 🫡</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Revm feels like going through Ethereum's history..<br>
-<br>
-For example it's support for older transaction types lets you trace the evolution of fork-specific validations⬇️<br>
-<br>
-Way more effective and sticky than reading EIPs.<br>
-<br>
-Obviously implementing them is even better..<br>
-<br>
-2025 goal 🫡</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgNhUstWkAAA0hE.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 01 Jan 2025 13:38:00 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1874450001792848050#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1874450001792848050#m</link>
-      </item>
-      <item>
-        <title>If nodes execute smart contracts as machine code doesn&apos;t this increase the risk of consensus bugs due to nodes running on different hardware? 
-
-I thought evm interpreter based execution was necessary to abstract from underlying platform</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>If nodes execute smart contracts as machine code doesn't this increase the risk of consensus bugs due to nodes running on different hardware? <br>
-<br>
-I thought evm interpreter based execution was necessary to abstract from underlying platform</p>
-<p><a href="https://nitter.freedit.eu/gakonst/status/1804143468983521453#m">nitter.freedit.eu/gakonst/status/1804143468983521453#m</a></p>]]></description>
-        <pubDate>Fri, 27 Dec 2024 18:48:06 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1872716099974042016#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1872716099974042016#m</link>
       </item>
 
   </channel>

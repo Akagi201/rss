@@ -16,6 +16,49 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @rakitadragan: lol didn&apos;t say it, but it is an amazing analysis</title>
+        <dc:creator>@rakitadragan</dc:creator>
+        <description><![CDATA[<p>lol didn't say it, but it is an amazing analysis</p>]]></description>
+        <pubDate>Thu, 16 Jan 2025 14:22:46 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/rakitadragan/status/1879897085933473825#m</guid>
+        <link>https://nitter.freedit.eu/rakitadragan/status/1879897085933473825#m</link>
+      </item>
+      <item>
+        <title>RT by @rakitadragan: 🚨ETHEREUM UX IS ABOUT TO 100X YOU ARE NOT READY 🚨
+
+EIP-7702 is about to be shipped!
+
+I explain how it works and go through every line of code in the evm (revm) that changes because of it 🤓
+
+No better way to really understand it!</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>🚨ETHEREUM UX IS ABOUT TO 100X YOU ARE NOT READY 🚨<br>
+<br>
+EIP-7702 is about to be shipped!<br>
+<br>
+I explain how it works and go through every line of code in the evm (revm) that changes because of it 🤓<br>
+<br>
+No better way to really understand it!</p>
+<p><a href="https://nitter.freedit.eu/letsgetonchain/status/1879267733696844277#m">nitter.freedit.eu/letsgetonchain/status/1879267733696844277#m</a></p>
+<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1879866101003063296%2Fimg%2Fny3yF5Y_bzCWVOau.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 16 Jan 2025 13:06:46 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1879877957017362537#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1879877957017362537#m</link>
+      </item>
+      <item>
+        <title>It makes sense to add block level warming, on the other hand it is just a 5% saving.
+
+Additionaly, we could introduce a partial refund on the access list item that was already warmed.</title>
+        <dc:creator>@rakitadragan</dc:creator>
+        <description><![CDATA[<p>It makes sense to add block level warming, on the other hand it is just a 5% saving.<br>
+<br>
+Additionaly, we could introduce a partial refund on the access list item that was already warmed.</p>
+<p><a href="https://nitter.freedit.eu/nero_eth/status/1879806424173404180#m">nitter.freedit.eu/nero_eth/status/1879806424173404180#m</a></p>]]></description>
+        <pubDate>Thu, 16 Jan 2025 14:01:13 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/rakitadragan/status/1879891663142940723#m</guid>
+        <link>https://nitter.freedit.eu/rakitadragan/status/1879891663142940723#m</link>
+      </item>
+      <item>
         <title>R to @rakitadragan: In the end, don&apos;t take this list seriously, they are just ideas and I like to think about this kind of stuff.
 🧵 5/5</title>
         <dc:creator>@rakitadragan</dc:creator>
@@ -251,32 +294,6 @@ cut the 3, just call it web</p>]]></description>
         <pubDate>Sun, 17 Nov 2024 17:46:52 GMT</pubDate>
         <guid>https://nitter.freedit.eu/Rjected/status/1858205178358296658#m</guid>
         <link>https://nitter.freedit.eu/Rjected/status/1858205178358296658#m</link>
-      </item>
-      <item>
-        <title>Work hard, rest hard!</title>
-        <dc:creator>@rakitadragan</dc:creator>
-        <description><![CDATA[<p>Work hard, rest hard!</p>
-<p><a href="https://nitter.freedit.eu/peter_szilagyi/status/1857703746236788974#m">nitter.freedit.eu/peter_szilagyi/status/1857703746236788974#m</a></p>]]></description>
-        <pubDate>Sat, 16 Nov 2024 10:12:31 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rakitadragan/status/1857728447415468417#m</guid>
-        <link>https://nitter.freedit.eu/rakitadragan/status/1857728447415468417#m</link>
-      </item>
-      <item>
-        <title>Thank you for this great summary!</title>
-        <dc:creator>@rakitadragan</dc:creator>
-        <description><![CDATA[<p>Thank you for this great summary!</p>
-<p><a href="https://nitter.freedit.eu/ethernal_tech/status/1857440294481899643#m">nitter.freedit.eu/ethernal_tech/status/1857440294481899643#m</a></p>]]></description>
-        <pubDate>Sat, 16 Nov 2024 03:32:22 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rakitadragan/status/1857627745662259685#m</guid>
-        <link>https://nitter.freedit.eu/rakitadragan/status/1857627745662259685#m</link>
-      </item>
-      <item>
-        <title>RT by @rakitadragan: Why is the EVM the only part of L1 that is supposed to ossify. Are we supposed to just accept compilers being shit forever?</title>
-        <dc:creator>@dxo1312</dc:creator>
-        <description><![CDATA[<p>Why is the EVM the only part of L1 that is supposed to ossify. Are we supposed to just accept compilers being shit forever?</p>]]></description>
-        <pubDate>Wed, 13 Nov 2024 16:14:14 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/dxo1312/status/1856732313570480396#m</guid>
-        <link>https://nitter.freedit.eu/dxo1312/status/1856732313570480396#m</link>
       </item>
 
   </channel>

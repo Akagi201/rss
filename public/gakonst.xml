@@ -16,6 +16,130 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @gakonst: I understand a malicious app could just upgrade your account to anything. You can work with the apps to register the delegation contracts they want. Alternatively let the app suggest an address the first time the user wants to upgrade, assuming the app is honest the first time. Seems fine as an assumption.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>I understand a malicious app could just upgrade your account to anything. You can work with the apps to register the delegation contracts they want. Alternatively let the app suggest an address the first time the user wants to upgrade, assuming the app is honest the first time. Seems fine as an assumption.</p>]]></description>
+        <pubDate>Thu, 16 Jan 2025 20:34:11 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1879990554425241968#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1879990554425241968#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: The default path rn is wallets pick a single delegation contract they like for their users, in the name of security. 
+
+Can they encapsulate the functionality apps need? Why not empower the apps?</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>The default path rn is wallets pick a single delegation contract they like for their users, in the name of security. <br>
+<br>
+Can they encapsulate the functionality apps need? Why not empower the apps?</p>]]></description>
+        <pubDate>Thu, 16 Jan 2025 20:34:11 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1879990552885944403#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1879990552885944403#m</link>
+      </item>
+      <item>
+        <title>My most unpopular opinion is that Metamask and other wallets should allow apps to choose their own EIP7702 delegation contract.
+
+Empower the apps to give the best UX to their users. Chrome Extensions shouldn&apos;t be the intermediary to users&apos; accounts.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>My most unpopular opinion is that Metamask and other wallets should allow apps to choose their own EIP7702 delegation contract.<br>
+<br>
+Empower the apps to give the best UX to their users. Chrome Extensions shouldn't be the intermediary to users' accounts.</p>]]></description>
+        <pubDate>Thu, 16 Jan 2025 20:25:18 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1879988318227820631#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1879988318227820631#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: it&apos;s really fucked up that contributor charts are adjusted by the top contributor, you can&apos;t compete with this man</title>
+        <dc:creator>@ashekhirin</dc:creator>
+        <description><![CDATA[<p>it's really fucked up that contributor charts are adjusted by the top contributor, you can't compete with this man</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGhb8hmOWMAAGzOn.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 16 Jan 2025 19:03:02 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ashekhirin/status/1879967614916858007#m</guid>
+        <link>https://nitter.freedit.eu/ashekhirin/status/1879967614916858007#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Excited to announce our partnership with @RISCZero to integrate Binius, bringing ultra-fast performance to the original RISC-V zkVM.
+
+Together, we&apos;re setting new standards for ZK performance and accessibility.
+
+https://www.irreducible.com/posts/irreducible-x-risc-zero</title>
+        <dc:creator>@IrreducibleHW</dc:creator>
+        <description><![CDATA[<p>Excited to announce our partnership with <a href="https://nitter.freedit.eu/RiscZero" title="RISC Zero 🟡">@RISCZero</a> to integrate Binius, bringing ultra-fast performance to the original RISC-V zkVM.<br>
+<br>
+Together, we're setting new standards for ZK performance and accessibility.<br>
+<br>
+<a href="https://www.irreducible.com/posts/irreducible-x-risc-zero">irreducible.com/posts/irredu…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1879892047491907584%2FmCXm9GXH%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 16 Jan 2025 14:06:10 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/IrreducibleHW/status/1879892909388144906#m</guid>
+        <link>https://nitter.freedit.eu/IrreducibleHW/status/1879892909388144906#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Reth ExEx project idea: index all state changes (accounts, storages), hash addresses and storage slots, write them to an SQLite database (for simplicity)
+
+@ithacaxyz will host it on one of our production machines and expose a simple API for querying</title>
+        <dc:creator>@ashekhirin</dc:creator>
+        <description><![CDATA[<p>Reth ExEx project idea: index all state changes (accounts, storages), hash addresses and storage slots, write them to an SQLite database (for simplicity)<br>
+<br>
+<a href="https://nitter.freedit.eu/ithacaxyz" title="Ithaca">@ithacaxyz</a> will host it on one of our production machines and expose a simple API for querying</p>
+<p><a href="https://nitter.freedit.eu/ashekhirin/status/1879590142455013538#m">nitter.freedit.eu/ashekhirin/status/1879590142455013538#m</a></p>]]></description>
+        <pubDate>Thu, 16 Jan 2025 19:21:31 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ashekhirin/status/1879972268241219902#m</guid>
+        <link>https://nitter.freedit.eu/ashekhirin/status/1879972268241219902#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Reminder: if you recently updated Foundry and your build starts breaking with stack too deep set `optimizer = true` in your foundry.toml
+
+We’ve recently stopped enabling the optimizer by default and now require you to enable it explicitly
+
+https://github.com/foundry-rs/foundry/issues/2486</title>
+        <dc:creator>@zerosnacks</dc:creator>
+        <description><![CDATA[<p>Reminder: if you recently updated Foundry and your build starts breaking with stack too deep set `optimizer = true` in your foundry.toml<br>
+<br>
+We’ve recently stopped enabling the optimizer by default and now require you to enable it explicitly<br>
+<br>
+<a href="https://github.com/foundry-rs/foundry/issues/2486">github.com/foundry-rs/foundr…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1878346224199176192%2FxmUa_nBn%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 12 Jan 2025 07:42:08 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/zerosnacks/status/1878346710079971675#m</guid>
+        <link>https://nitter.freedit.eu/zerosnacks/status/1878346710079971675#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: most browser extension wallets handle your PK - better trust the wallet.
+setting up your hw wallet - better trust the wallet.
+making sure SCA wallets have a secure contract implementation - better trust the wallet.
+etc etc etc.
+
+why can’t we trust it with not persisting a private key?</title>
+        <dc:creator>@_jxom</dc:creator>
+        <description><![CDATA[<p>most browser extension wallets handle your PK - better trust the wallet.<br>
+setting up your hw wallet - better trust the wallet.<br>
+making sure SCA wallets have a secure contract implementation - better trust the wallet.<br>
+etc etc etc.<br>
+<br>
+why can’t we trust it with not persisting a private key?</p>]]></description>
+        <pubDate>Wed, 15 Jan 2025 20:23:13 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/_jxom/status/1879625406724321467#m</guid>
+        <link>https://nitter.freedit.eu/_jxom/status/1879625406724321467#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: - On 1 &amp; 2: valid concern if user wants multisig/strict execution guards - but this could be solved by deactivating the private key (EIP-7851)
+- On 2: usually the wallet would perform the delegation, so I would trust the wallet to “throw away” the private key (if that’s the intention) if we are trusting them with everything else
+- On 3: I’m not quite following the advantage of create2 addresses for EOAs since you can already determine a users address before delegation (just not via create2)
+- On 4: probably won’t be possible for apps to delegate since no wallets expose eth_sign nor is there any RPC method to 7702 sign (highly doubt there will be too as it’s analogous to programmatically exporting your PK). Generally wallets will orchestrate the delegation behind the scenes, and pretty much all wallets have very good security practices (inc. audited account contracts). If we are already trusting wallets with our private key, then I’m sure we can trust them with upgrading our accounts appropriately.
+
+Seems that most of the concern here is the risk of persisting the private key, and it would be great to push on EIP-7851 to mitigate this.</title>
+        <dc:creator>@_jxom</dc:creator>
+        <description><![CDATA[<p>- On 1 & 2: valid concern if user wants multisig/strict execution guards - but this could be solved by deactivating the private key (EIP-7851)<br>
+- On 2: usually the wallet would perform the delegation, so I would trust the wallet to “throw away” the private key (if that’s the intention) if we are trusting them with everything else<br>
+- On 3: I’m not quite following the advantage of create2 addresses for EOAs since you can already determine a users address before delegation (just not via create2)<br>
+- On 4: probably won’t be possible for apps to delegate since no wallets expose eth_sign nor is there any RPC method to 7702 sign (highly doubt there will be too as it’s analogous to programmatically exporting your PK). Generally wallets will orchestrate the delegation behind the scenes, and pretty much all wallets have very good security practices (inc. audited account contracts). If we are already trusting wallets with our private key, then I’m sure we can trust them with upgrading our accounts appropriately.<br>
+<br>
+Seems that most of the concern here is the risk of persisting the private key, and it would be great to push on EIP-7851 to mitigate this.</p>]]></description>
+        <pubDate>Wed, 15 Jan 2025 09:04:36 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/_jxom/status/1879454626086609032#m</guid>
+        <link>https://nitter.freedit.eu/_jxom/status/1879454626086609032#m</link>
+      </item>
+      <item>
         <title>RT by @gakonst: 🤖 New EIP: XXXX
 
 By: 
@@ -181,134 +305,6 @@ I cannot wait to show the world what full force crypto is, the stack is finally 
         <pubDate>Sat, 11 Jan 2025 19:14:48 GMT</pubDate>
         <guid>https://nitter.freedit.eu/0xZodomo/status/1878158637056639018#m</guid>
         <link>https://nitter.freedit.eu/0xZodomo/status/1878158637056639018#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Excited to announce Porto!
-
-Porto is a developer-first Typescript library that enables auth, crypto payments, and account recovery for your app, wallet or existing toolkit like Wagmi or Privy.
-
-Porto is built on open standards and is released as an Apache/MIT OSS library by @ithacaxyz.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Excited to announce Porto!<br>
-<br>
-Porto is a developer-first Typescript library that enables auth, crypto payments, and account recovery for your app, wallet or existing toolkit like Wagmi or Privy.<br>
-<br>
-Porto is built on open standards and is released as an Apache/MIT OSS library by <a href="https://nitter.freedit.eu/ithacaxyz" title="Ithaca">@ithacaxyz</a>.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGenMVTMaMAAxI4x.png" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 12 Dec 2024 16:40:34 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1867248189780512777#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1867248189780512777#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Hello EXP-0002, App Sessions.
-
-Fixing UX is the most essential thing in crypto-powered applications.
-
-EXP-0002 is our take on empowering developers with next-generation UX to access cheap and global crypto rails. 
-
-No redundant actions or popups, just sessions. 
-
-Read on!</title>
-        <dc:creator>@ithacaxyz</dc:creator>
-        <description><![CDATA[<p>Hello EXP-0002, App Sessions.<br>
-<br>
-Fixing UX is the most essential thing in crypto-powered applications.<br>
-<br>
-EXP-0002 is our take on empowering developers with next-generation UX to access cheap and global crypto rails. <br>
-<br>
-No redundant actions or popups, just sessions. <br>
-<br>
-Read on!</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGdU0BphaoAI3I0h.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 26 Nov 2024 16:51:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ithacaxyz/status/1861452765555499157#m</guid>
-        <link>https://nitter.freedit.eu/ithacaxyz/status/1861452765555499157#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Hello EXP-0001.
-
-Today, we’re releasing a deep dive on how Ethereum account delegation with EIP-7702 works, a spec for third parties looking to integrate, and a forkable codebase that you can extend to build next-generation wallets.
-
-And, of course, a demo!</title>
-        <dc:creator>@ithacaxyz</dc:creator>
-        <description><![CDATA[<p>Hello EXP-0001.<br>
-<br>
-Today, we’re releasing a deep dive on how Ethereum account delegation with EIP-7702 works, a spec for third parties looking to integrate, and a forkable codebase that you can extend to build next-generation wallets.<br>
-<br>
-And, of course, a demo!</p>
-<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1851300536643174402%2Fimg%2FUFwjBwiRiELRZ5rI.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 29 Oct 2024 16:30:24 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ithacaxyz/status/1851300561855086816#m</guid>
-        <link>https://nitter.freedit.eu/ithacaxyz/status/1851300561855086816#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: </title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p></p>
-<p><a href="https://nitter.freedit.eu/ithacaxyz/status/1851300561855086816#m">nitter.freedit.eu/ithacaxyz/status/1851300561855086816#m</a></p>]]></description>
-        <pubDate>Sat, 11 Jan 2025 17:54:06 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1878138330292097262#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1878138330292097262#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: </title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p></p>
-<p><a href="https://nitter.freedit.eu/gakonst/status/1867248189780512777#m">nitter.freedit.eu/gakonst/status/1867248189780512777#m</a></p>]]></description>
-        <pubDate>Sat, 11 Jan 2025 17:53:44 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1878138236163526694#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1878138236163526694#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: Some resources below.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Some resources below.</p>
-<p><a href="https://nitter.freedit.eu/ithacaxyz/status/1861452765555499157#m">nitter.freedit.eu/ithacaxyz/status/1861452765555499157#m</a></p>]]></description>
-        <pubDate>Sat, 11 Jan 2025 17:53:21 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1878138141313507452#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1878138141313507452#m</link>
-      </item>
-      <item>
-        <title>EIP7702 will 100x EVM chain UX.
-
-We have built the most extensive demos and open source code examples for it so far.
-
-AMA? Happy to help apps, wallets and L2s learn how to integrate.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>EIP7702 will 100x EVM chain UX.<br>
-<br>
-We have built the most extensive demos and open source code examples for it so far.<br>
-<br>
-AMA? Happy to help apps, wallets and L2s learn how to integrate.</p>]]></description>
-        <pubDate>Sat, 11 Jan 2025 17:53:01 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1878138056752189669#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1878138056752189669#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: We&apos;re open-sourcing Sparse Autoencoders (SAEs) for Llama 3.3 70B and Llama 3.1 8B! These are, to the best of our knowledge, the first open-source SAEs for models at this scale and capability level.</title>
-        <dc:creator>@GoodfireAI</dc:creator>
-        <description><![CDATA[<p>We're open-sourcing Sparse Autoencoders (SAEs) for Llama 3.3 70B and Llama 3.1 8B! These are, to the best of our knowledge, the first open-source SAEs for models at this scale and capability level.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGg8ubRuaAAAp_lR.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 10 Jan 2025 18:01:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/GoodfireAI/status/1877777694936694962#m</guid>
-        <link>https://nitter.freedit.eu/GoodfireAI/status/1877777694936694962#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: 1/ The early net was characterized by competing frameworks w/ hardcoded apps. Then came TCP/IP &amp; the modern web.
-
-Early AI had neural nets with predetermined tasks. Then we got generalized LLMs.
-
-Early ZK was app-specific circuits and rollups. Then came SP1 &amp; Provable Software.</title>
-        <dc:creator>@VirtualElena</dc:creator>
-        <description><![CDATA[<p>1/ The early net was characterized by competing frameworks w/ hardcoded apps. Then came TCP/IP &amp; the modern web.<br>
-<br>
-Early AI had neural nets with predetermined tasks. Then we got generalized LLMs.<br>
-<br>
-Early ZK was app-specific circuits and rollups. Then came SP1 &amp; Provable Software.</p>
-<p><a href="https://nitter.freedit.eu/SuccinctLabs/status/1877416309434023962#m">nitter.freedit.eu/SuccinctLabs/status/1877416309434023962#m</a></p>]]></description>
-        <pubDate>Thu, 09 Jan 2025 18:08:46 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/VirtualElena/status/1877417245011321033#m</guid>
-        <link>https://nitter.freedit.eu/VirtualElena/status/1877417245011321033#m</link>
       </item>
 
   </channel>

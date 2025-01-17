@@ -16,6 +16,78 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @letsgetonchain: Here is the YT link for those who prefer
+https://youtu.be/4G2KwbxjKi8?si=NysozjXAlmpL6EDB</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Here is the YT link for those who prefer<br>
+<a href="https://piped.video/4G2KwbxjKi8?si=NysozjXAlmpL6EDB">piped.video/4G2KwbxjKi8?si=Nyso…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1879903512210853888%2FPDqtw5KO%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 16 Jan 2025 14:48:55 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1879903666196668885#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1879903666196668885#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: As much as I am excited about EIP 7702 I also have a concern which I already mentioned in the past.
+
+When I onboard my mom under EIP 7702, she will still need an EOA to start of with and hence be familiar with private keys. Cause no matter the smart wallet implementation she upgrades that EOA to, the EOA&apos;s private key will always have the ultimate power.. Maybe there is some nice embedded wallet with @privy_io  that combines with eip 7702?
+
+Master powers remain though..
+
+Alternatively, is the following flow feasible?
+
+Create EOA -&gt; Upgrade EOA to smart wallet with alternative auth logic -&gt; Delete existence of private key?
+
+Appreciate any input on this 🙏
+https://x.com/letsgetonchain/status/1878545580265553927</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>As much as I am excited about EIP 7702 I also have a concern which I already mentioned in the past.<br>
+<br>
+When I onboard my mom under EIP 7702, she will still need an EOA to start of with and hence be familiar with private keys. Cause no matter the smart wallet implementation she upgrades that EOA to, the EOA's private key will always have the ultimate power.. Maybe there is some nice embedded wallet with <a href="https://nitter.freedit.eu/privy_io" title="Privy">@privy_io</a>  that combines with eip 7702?<br>
+<br>
+Master powers remain though..<br>
+<br>
+Alternatively, is the following flow feasible?<br>
+<br>
+Create EOA -&gt; Upgrade EOA to smart wallet with alternative auth logic -&gt; Delete existence of private key?<br>
+<br>
+Appreciate any input on this 🙏<br>
+<a href="https://x.com/letsgetonchain/status/1878545580265553927">x.com/letsgetonchain/status/…</a></p>]]></description>
+        <pubDate>Thu, 16 Jan 2025 13:06:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1879877967725158680#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1879877967725158680#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: If you already know the basics, here isa reduced version with only the deep dive into evm code changes related to EIP 7702:</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>If you already know the basics, here isa reduced version with only the deep dive into evm code changes related to EIP 7702:</p>
+<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1879866243387101184%2Fimg%2FpbYuh3O_4WeLRDsb.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 16 Jan 2025 13:06:47 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1879877963220738452#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1879877963220738452#m</link>
+      </item>
+      <item>
+        <title>🚨ETHEREUM UX IS ABOUT TO 100X YOU ARE NOT READY 🚨
+
+EIP-7702 is about to be shipped!
+
+I explain how it works and go through every line of code in the evm (revm) that changes because of it 🤓
+
+No better way to really understand it!</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>🚨ETHEREUM UX IS ABOUT TO 100X YOU ARE NOT READY 🚨<br>
+<br>
+EIP-7702 is about to be shipped!<br>
+<br>
+I explain how it works and go through every line of code in the evm (revm) that changes because of it 🤓<br>
+<br>
+No better way to really understand it!</p>
+<p><a href="https://nitter.freedit.eu/letsgetonchain/status/1879267733696844277#m">nitter.freedit.eu/letsgetonchain/status/1879267733696844277#m</a></p>
+<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1879866101003063296%2Fimg%2Fny3yF5Y_bzCWVOau.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 16 Jan 2025 13:06:46 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1879877957017362537#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1879877957017362537#m</link>
+      </item>
+      <item>
         <title>Any good ai tools to edit &quot;uhmmms&quot; out of a video?</title>
         <dc:creator>@letsgetonchain</dc:creator>
         <description><![CDATA[<p>Any good ai tools to edit "uhmmms" out of a video?</p>]]></description>
@@ -117,7 +189,7 @@ https://letsgetonchain.medium.com/demystifying-the-evm-frame-stack-looking-at-a-
         <dc:creator>@letsgetonchain</dc:creator>
         <description><![CDATA[<p>Blog post: <br>
 <a href="https://letsgetonchain.medium.com/demystifying-the-evm-frame-stack-looking-at-a-rust-implementation-and-using-skyscraper-analogy-1e7b4c7ce5e5">letsgetonchain.medium.com/de…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1877322184428855296%2FmIJTidgl%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1879859726801846272%2FOi9JL-Ex%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Thu, 09 Jan 2025 13:08:47 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1877341749678379308#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1877341749678379308#m</link>
@@ -202,72 +274,6 @@ Let's look at revm (rust evm implementation) to see how the call stack is implem
         <pubDate>Tue, 07 Jan 2025 10:30:17 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1876577088595210412#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1876577088595210412#m</link>
-      </item>
-      <item>
-        <title>EVM question of the day: Which stack in the EVM is limited to a size of 1024 items or depth?</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>EVM question of the day: Which stack in the EVM is limited to a size of 1024 items or depth?</p>]]></description>
-        <pubDate>Mon, 06 Jan 2025 13:34:27 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1876261046857654665#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1876261046857654665#m</link>
-      </item>
-      <item>
-        <title>Came across EIP-2930 access lists in revm.
-
-These lists allow tx to specify addresses/storage slots  they will use.
-
-Making use of them reduces gas costs:
-    
-Cold addr: 2600
-Access list addr: 2400
-
-Cold storage: 2100
-Access list storage: 1900
-
-Are most dapps using these?</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Came across EIP-2930 access lists in revm.<br>
-<br>
-These lists allow tx to specify addresses/storage slots  they will use.<br>
-<br>
-Making use of them reduces gas costs:<br>
-    <br>
-Cold addr: 2600<br>
-Access list addr: 2400<br>
-<br>
-Cold storage: 2100<br>
-Access list storage: 1900<br>
-<br>
-Are most dapps using these?</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgXTHkFWoAA4_3G.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 03 Jan 2025 11:07:51 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1875136991836471300#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1875136991836471300#m</link>
-      </item>
-      <item>
-        <title>Any good blog posts on how forced withdrawals, fraud proofs etc for rollups work under the hood?</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Any good blog posts on how forced withdrawals, fraud proofs etc for rollups work under the hood?</p>]]></description>
-        <pubDate>Fri, 03 Jan 2025 10:28:08 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1875126996134764942#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1875126996134764942#m</link>
-      </item>
-      <item>
-        <title>Been a solidity dev for the last three years and thus aware of the 24 kb limit for runtime contract size.
-
-Didn&apos;t know that there was a limit on the init code as well of two times that, 48kb.
-
-You only get a full picture of the evm by going through its implementation line by line</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Been a solidity dev for the last three years and thus aware of the 24 kb limit for runtime contract size.<br>
-<br>
-Didn't know that there was a limit on the init code as well of two times that, 48kb.<br>
-<br>
-You only get a full picture of the evm by going through its implementation line by line</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgSGfi7WkAAEBvh.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 02 Jan 2025 10:57:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1874771887370453314#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1874771887370453314#m</link>
       </item>
 
   </channel>

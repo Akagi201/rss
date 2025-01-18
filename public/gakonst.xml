@@ -16,6 +16,65 @@
       <height>128</height>
     </image>
       <item>
+        <title>Are you running an ETH staking service?
+
+Do you want to make Ethereum more robust by routing stake through a minority client? 
+
+Reach out if you&apos;re interested in running Reth in your infrastructure.
+
+Reth is stable, performant, and ready for staking!</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Are you running an ETH staking service?<br>
+<br>
+Do you want to make Ethereum more robust by routing stake through a minority client? <br>
+<br>
+Reach out if you're interested in running Reth in your infrastructure.<br>
+<br>
+Reth is stable, performant, and ready for staking!</p>]]></description>
+        <pubDate>Sat, 18 Jan 2025 00:00:41 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1880404912011677750#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1880404912011677750#m</link>
+      </item>
+      <item>
+        <title>any telegram bot companies thinking about offering cheaper fees or buying into any chains asset from any chain with any asset, using account/chain abstraction? would love to talk!</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>any telegram bot companies thinking about offering cheaper fees or buying into any chains asset from any chain with any asset, using account/chain abstraction? would love to talk!</p>]]></description>
+        <pubDate>Fri, 17 Jan 2025 23:11:50 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1880392615230861570#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1880392615230861570#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Pectra-devnet-5 is finally live! This includes all the EIPs slated to go into Pectra in their almost-final forms.
+
+You can find all network details here: 
+https://pectra-devnet-5.ethpandaops.io/</title>
+        <dc:creator>@parithosh_j</dc:creator>
+        <description><![CDATA[<p>Pectra-devnet-5 is finally live! This includes all the EIPs slated to go into Pectra in their almost-final forms.<br>
+<br>
+You can find all network details here: <br>
+<a href="https://pectra-devnet-5.ethpandaops.io/">pectra-devnet-5.ethpandaops.…</a></p>]]></description>
+        <pubDate>Fri, 17 Jan 2025 16:37:03 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/parithosh_j/status/1880293267381842194#m</guid>
+        <link>https://nitter.freedit.eu/parithosh_j/status/1880293267381842194#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Looking for a Rust engineer to work on Farcaster Snapchain. 
+
+It&apos;s a new social consensus layer built with malachite, a tendermint consensus protocol. Goal is &gt;9,000 TPS for social transactions. 
+
+US timezones only, details below.</title>
+        <dc:creator>@varunsrin</dc:creator>
+        <description><![CDATA[<p>Looking for a Rust engineer to work on Farcaster Snapchain. <br>
+<br>
+It's a new social consensus layer built with malachite, a tendermint consensus protocol. Goal is &gt;9,000 TPS for social transactions. <br>
+<br>
+US timezones only, details below.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGhgjQY5acAMdtvd.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 17 Jan 2025 16:33:02 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/varunsrin/status/1880292255829033371#m</guid>
+        <link>https://nitter.freedit.eu/varunsrin/status/1880292255829033371#m</link>
+      </item>
+      <item>
         <title>R to @gakonst: I understand a malicious app could just upgrade your account to anything. You can work with the apps to register the delegation contracts they want. Alternatively let the app suggest an address the first time the user wants to upgrade, assuming the app is honest the first time. Seems fine as an assumption.</title>
         <dc:creator>@gakonst</dc:creator>
         <description><![CDATA[<p>I understand a malicious app could just upgrade your account to anything. You can work with the apps to register the delegation contracts they want. Alternatively let the app suggest an address the first time the user wants to upgrade, assuming the app is honest the first time. Seems fine as an assumption.</p>]]></description>
@@ -233,78 +292,6 @@ Reth is getting more and more stable for high loads 🫡.</p>]]></description>
         <pubDate>Mon, 13 Jan 2025 12:45:57 GMT</pubDate>
         <guid>https://nitter.freedit.eu/hai_rise/status/1878785558220345556#m</guid>
         <link>https://nitter.freedit.eu/hai_rise/status/1878785558220345556#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Crypto conferences should be hackathons instead of speaker conventions, there are too many talks for the volume of work bearing fruit. Prizes should NOT be monetary
-
-I&apos;m impressed looking back at university hackathon footage, seeing what passionate, curious people built with 0 xp</title>
-        <dc:creator>@Rjected</dc:creator>
-        <description><![CDATA[<p>Crypto conferences should be hackathons instead of speaker conventions, there are too many talks for the volume of work bearing fruit. Prizes should NOT be monetary<br>
-<br>
-I'm impressed looking back at university hackathon footage, seeing what passionate, curious people built with 0 xp</p>]]></description>
-        <pubDate>Sun, 12 Jan 2025 22:36:34 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/Rjected/status/1878571800478593104#m</guid>
-        <link>https://nitter.freedit.eu/Rjected/status/1878571800478593104#m</link>
-      </item>
-      <item>
-        <title>Cross posting my 7702 answers from Warpcast to here because Tony from the Farcaster team asks good questions!
-
-- not necessarily, you can forget the key and just replay the auth sig across chains, delegate to proxy and use the contract to handle upgrades. alternatively can store the privkey in cloud etc encrypted w enclave, nbd imho.
-- unclear it matters, the ui will give you a preview over x-origin iframe, and your contract will have enough safety checks to ensure you don&apos;t get rugged. check secure payment confirmation web api if you really care about doing it non blind. 
-- granted but not deal breaker, your contract can have multiple signers, need to be thoughtful about it but navigable, plus passkeys being pushed top down.
-- session keys app/account interface is important to get right, see our work in porto for more: https://www.ithaca.xyz/updates/porto, and our WIP session key api which is still evolving: https://github.com/ithacaxyz/porto/tree/next?tab=readme-ov-file#keys
-- zkemail is fantastic imo and totally underutilized. next up figuring out how to get google&apos;s certs reliably on chain as a public good, so we can do jwt verification for oauth.
-- timelock or otherwise optional. can easily make your account say &quot;if an operation tries to transfer more than X value of such asset, request more auth keys (mfa) and also queue it up for 1mo in the future to ensure user can abort op if hacked from master key&quot;
-
-we have put multiple examples on how to use 7702 and have deployed it on Odyssey, our devnet with Pectra + EOF, see below: 
-
-https://github.com/ithacaxyz/odyssey-examples
-
-There&apos;s also many examples / demos across Twitter if you search &quot;7702&quot;, see eg this one using &quot;anvil --odyssey&quot; which enables the same features Odyssey has but on Anvil (soon Anvil will be running same code as Reth via Reth SDK!)
-
-https://x.com/thegaram33/status/1877410275814445170
-
-There&apos;s more going on but this should be a good start for people! 
-
-I cannot wait to show the world what full force crypto is, the stack is finally here and we&apos;re gonna lead the charge with our years of experience building the best open source tools.
-
-https://warpcast.com/deodad/0x5fca3a10</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Cross posting my 7702 answers from Warpcast to here because Tony from the Farcaster team asks good questions!<br>
-<br>
-- not necessarily, you can forget the key and just replay the auth sig across chains, delegate to proxy and use the contract to handle upgrades. alternatively can store the privkey in cloud etc encrypted w enclave, nbd imho.<br>
-- unclear it matters, the ui will give you a preview over x-origin iframe, and your contract will have enough safety checks to ensure you don't get rugged. check secure payment confirmation web api if you really care about doing it non blind. <br>
-- granted but not deal breaker, your contract can have multiple signers, need to be thoughtful about it but navigable, plus passkeys being pushed top down.<br>
-- session keys app/account interface is important to get right, see our work in porto for more: <a href="https://www.ithaca.xyz/updates/porto">ithaca.xyz/updates/porto</a>, and our WIP session key api which is still evolving: <a href="https://github.com/ithacaxyz/porto/tree/next?tab=readme-ov-file#keys">github.com/ithacaxyz/porto/t…</a><br>
-- zkemail is fantastic imo and totally underutilized. next up figuring out how to get google's certs reliably on chain as a public good, so we can do jwt verification for oauth.<br>
-- timelock or otherwise optional. can easily make your account say "if an operation tries to transfer more than X value of such asset, request more auth keys (mfa) and also queue it up for 1mo in the future to ensure user can abort op if hacked from master key"<br>
-<br>
-we have put multiple examples on how to use 7702 and have deployed it on Odyssey, our devnet with Pectra + EOF, see below: <br>
-<br>
-<a href="https://github.com/ithacaxyz/odyssey-examples">github.com/ithacaxyz/odyssey…</a><br>
-<br>
-There's also many examples / demos across Twitter if you search "7702", see eg this one using "anvil --odyssey" which enables the same features Odyssey has but on Anvil (soon Anvil will be running same code as Reth via Reth SDK!)<br>
-<br>
-<a href="https://x.com/thegaram33/status/1877410275814445170">x.com/thegaram33/status/1877…</a><br>
-<br>
-There's more going on but this should be a good start for people! <br>
-<br>
-I cannot wait to show the world what full force crypto is, the stack is finally here and we're gonna lead the charge with our years of experience building the best open source tools.<br>
-<br>
-<a href="https://warpcast.com/deodad/0x5fca3a10">warpcast.com/deodad/0x5fca3a…</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGhHc3KyaQAAPwT1.png" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGhHaUE2a8AA4lX0.png" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 12 Jan 2025 19:32:34 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1878525495563968624#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1878525495563968624#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Yup, 7702 is necessary for withdraw/pull flows which cannot be implemented into solving flows without risk (user would have to trust solver infra). It also enables solving intents for contracts that don&apos;t have a &apos;address onBehalfOf&apos;-like parameter in their functions.</title>
-        <dc:creator>@0xZodomo</dc:creator>
-        <description><![CDATA[<p>Yup, 7702 is necessary for withdraw/pull flows which cannot be implemented into solving flows without risk (user would have to trust solver infra). It also enables solving intents for contracts that don't have a 'address onBehalfOf'-like parameter in their functions.</p>]]></description>
-        <pubDate>Sat, 11 Jan 2025 19:14:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xZodomo/status/1878158637056639018#m</guid>
-        <link>https://nitter.freedit.eu/0xZodomo/status/1878158637056639018#m</link>
       </item>
 
   </channel>

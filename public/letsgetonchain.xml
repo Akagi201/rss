@@ -16,6 +16,49 @@
       <height>128</height>
     </image>
       <item>
+        <title>Here is the YT link to the full video divided into two parts!  
+
+Part 1: EIP 7702 high level overview 
+
+Part2: Deep dive into every line of code in the evm that changed  
+
+https://youtube.com/watch?v=4G2KwbxjKi8&amp;list=PLYYidDLT5Dd-7s3rbuAy3vJxAjz17bSEE</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Here is the YT link to the full video divided into two parts!  <br>
+<br>
+Part 1: EIP 7702 high level overview <br>
+<br>
+Part2: Deep dive into every line of code in the evm that changed  <br>
+<br>
+<a href="https://piped.video/watch?v=4G2KwbxjKi8&list=PLYYidDLT5Dd-7s3rbuAy3vJxAjz17bSEE">piped.video/watch?v=4G2Kwbxj…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1880202378101813248%2FUQKaHhDG%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 17 Jan 2025 10:41:11 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1880203708937711937#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1880203708937711937#m</link>
+      </item>
+      <item>
+        <title>RT by @letsgetonchain: 🚨ETHEREUM UX IS ABOUT TO 100X YOU ARE NOT READY 🚨
+
+EIP-7702 is about to be shipped!
+
+I explain how it works and go through every line of code in the evm (revm) that changes because of it 🤓
+
+No better way to really understand it!</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>🚨ETHEREUM UX IS ABOUT TO 100X YOU ARE NOT READY 🚨<br>
+<br>
+EIP-7702 is about to be shipped!<br>
+<br>
+I explain how it works and go through every line of code in the evm (revm) that changes because of it 🤓<br>
+<br>
+No better way to really understand it!</p>
+<p><a href="https://nitter.freedit.eu/letsgetonchain/status/1879267733696844277#m">nitter.freedit.eu/letsgetonchain/status/1879267733696844277#m</a></p>
+<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1879866101003063296%2Fimg%2Fny3yF5Y_bzCWVOau.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 16 Jan 2025 13:06:46 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1879877957017362537#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1879877957017362537#m</link>
+      </item>
+      <item>
         <title>R to @letsgetonchain: Here is the YT link for those who prefer
 https://youtu.be/4G2KwbxjKi8?si=NysozjXAlmpL6EDB</title>
         <dc:creator>@letsgetonchain</dc:creator>
@@ -64,28 +107,6 @@ Appreciate any input on this 🙏<br>
         <pubDate>Thu, 16 Jan 2025 13:06:47 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1879877963220738452#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1879877963220738452#m</link>
-      </item>
-      <item>
-        <title>🚨ETHEREUM UX IS ABOUT TO 100X YOU ARE NOT READY 🚨
-
-EIP-7702 is about to be shipped!
-
-I explain how it works and go through every line of code in the evm (revm) that changes because of it 🤓
-
-No better way to really understand it!</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>🚨ETHEREUM UX IS ABOUT TO 100X YOU ARE NOT READY 🚨<br>
-<br>
-EIP-7702 is about to be shipped!<br>
-<br>
-I explain how it works and go through every line of code in the evm (revm) that changes because of it 🤓<br>
-<br>
-No better way to really understand it!</p>
-<p><a href="https://nitter.freedit.eu/letsgetonchain/status/1879267733696844277#m">nitter.freedit.eu/letsgetonchain/status/1879267733696844277#m</a></p>
-<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1879866101003063296%2Fimg%2Fny3yF5Y_bzCWVOau.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 16 Jan 2025 13:06:46 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1879877957017362537#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1879877957017362537#m</link>
       </item>
       <item>
         <title>Any good ai tools to edit &quot;uhmmms&quot; out of a video?</title>
@@ -252,28 +273,6 @@ Each frame can spawn new frames through EVM instructions like CALL, STATICCALL, 
         <pubDate>Tue, 07 Jan 2025 10:30:19 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1876577094697914639#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1876577094697914639#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: When a transaction is sent to execute a smart contract the evm creates an initial frame. Think of it as the ground floor of a sky scraper.</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>When a transaction is sent to execute a smart contract the evm creates an initial frame. Think of it as the ground floor of a sky scraper.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgrrvH2WMAAVIma.png" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 07 Jan 2025 10:30:18 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1876577091585454427#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1876577091585454427#m</link>
-      </item>
-      <item>
-        <title>There are two &quot;stacks&quot; in the evm. Execution stack (max 1024 words) and call stack (max 1024 frames/calls deep).
-
-Let&apos;s look at revm (rust evm implementation) to see how the call stack is implemented to better understand it 🧵</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>There are two "stacks" in the evm. Execution stack (max 1024 words) and call stack (max 1024 frames/calls deep).<br>
-<br>
-Let's look at revm (rust evm implementation) to see how the call stack is implemented to better understand it 🧵</p>
-<p><a href="https://nitter.freedit.eu/letsgetonchain/status/1876261046857654665#m">nitter.freedit.eu/letsgetonchain/status/1876261046857654665#m</a></p>]]></description>
-        <pubDate>Tue, 07 Jan 2025 10:30:17 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1876577088595210412#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1876577088595210412#m</link>
       </item>
 
   </channel>

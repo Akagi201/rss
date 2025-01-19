@@ -16,15 +16,6 @@
       <height>128</height>
     </image>
       <item>
-        <title>RT by @0xTaker: prize pool at 12eth just two minutes after launch</title>
-        <dc:creator>@token_works</dc:creator>
-        <description><![CDATA[<p>prize pool at 12eth just two minutes after launch</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGhhk4jpXMAAVNDW.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 17 Jan 2025 21:17:32 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/token_works/status/1880363852426273214#m</guid>
-        <link>https://nitter.freedit.eu/token_works/status/1880363852426273214#m</link>
-      </item>
-      <item>
         <title>RT by @0xTaker: Nate a knower n real one 🫡
 we enjoy tha @AdjacentNews</title>
         <dc:creator>@andnasnd</dc:creator>
@@ -252,7 +243,7 @@ Futaba <a href="https://nitter.freedit.eu/FutabaOmni" title="Futaba Lab">@Futaba
 Mycel <a href="https://nitter.freedit.eu/mycelmycel" title="Mycel">@mycelmycel</a> <br>
 <br>
 3チーム共催で、Intent関連の技術の情報共有・議論を目的とします。</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1877929828982435840%2FdxFBesN7%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1880466732382580740%2FjajPzKp8%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Sat, 14 Dec 2024 03:15:55 GMT</pubDate>
         <guid>https://nitter.freedit.eu/y0su1/status/1867770468192989229#m</guid>
         <link>https://nitter.freedit.eu/y0su1/status/1867770468192989229#m</link>
@@ -391,6 +382,19 @@ https://primer.prooftrading.com/</title>
         <pubDate>Wed, 08 Jan 2025 13:49:04 GMT</pubDate>
         <guid>https://nitter.freedit.eu/0xTaker/status/1876989499881709577#m</guid>
         <link>https://nitter.freedit.eu/0xTaker/status/1876989499881709577#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: Bridging isn’t future-proof—it&apos;s messy, slow, and user-unfriendly. While pure synchronous atomic composability may be the ideal end state, there’s still plenty of low-hanging fruit to tackle today.
+
+My latest piece dives into how cross-chain intents, solver networks, and ERC-7683 can mitigate MEV leakage while paving the way for frictionless transactions.</title>
+        <dc:creator>@arjunbmohan</dc:creator>
+        <description><![CDATA[<p>Bridging isn’t future-proof—it's messy, slow, and user-unfriendly. While pure synchronous atomic composability may be the ideal end state, there’s still plenty of low-hanging fruit to tackle today.<br>
+<br>
+My latest piece dives into how cross-chain intents, solver networks, and ERC-7683 can mitigate MEV leakage while paving the way for frictionless transactions.</p>
+<p><a href="https://nitter.freedit.eu/CumberlandLabs/status/1876736138506822113#m">nitter.freedit.eu/CumberlandLabs/status/1876736138506822113#m</a></p>]]></description>
+        <pubDate>Tue, 07 Jan 2025 21:22:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/arjunbmohan/status/1876741236746342860#m</guid>
+        <link>https://nitter.freedit.eu/arjunbmohan/status/1876741236746342860#m</link>
       </item>
 
   </channel>

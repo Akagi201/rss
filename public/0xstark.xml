@@ -16,6 +16,56 @@
       <height>128</height>
     </image>
       <item>
+        <title>“Lemon, it’s [Saturday]”</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>“Lemon, it’s [Saturday]”</p>]]></description>
+        <pubDate>Sat, 18 Jan 2025 15:51:28 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1880644181682794682#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1880644181682794682#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: We are indeed currently in the process of large changes to EF leadership structure, which has been ongoing for close to a year. Some of this has already been executed on and made public, and some is still in progress.
+
+What we&apos;re trying to achieve is primarily the following goals:
+
+* Improve level of technical expertise within EF leadership
+* Improve two-way communications and ties between EF leadership and the ecosystem actors, old and new, that it is our role to support: users (individual and institutional), app devs, wallets, L2s
+* Bring in fresh talent, improve execution ability and speed
+* Become more actively supportive of app builders, and make sure important values and inalienable rights (esp privacy, open source, censorship resistance) are a reality for users including at the app layer
+* Continue to increase our use of decentralized and privacy tech and the Ethereum chain, including for payments and treasury management
+
+Explicit *non-goals* are:
+
+* Execute some kind of ideological / vibez pivot from feminized wef soyboy mentality to bronze age mindset
+* Start aggressively lobbying regulators and powerful political figures (esp in USA, but really anywhere, especially large powerful countries), and risking compromising Ethereum&apos;s position as a global neutral platform
+* Become an arena for vested interests
+* Become a highly centralized org, or even more of a &quot;main character&quot; within Ethereum
+
+These things aren&apos;t what EF does and this isn&apos;t going to change. People seeking a different vision are welcome to start their own orgs.</title>
+        <dc:creator>@VitalikButerin</dc:creator>
+        <description><![CDATA[<p>We are indeed currently in the process of large changes to EF leadership structure, which has been ongoing for close to a year. Some of this has already been executed on and made public, and some is still in progress.<br>
+<br>
+What we're trying to achieve is primarily the following goals:<br>
+<br>
+* Improve level of technical expertise within EF leadership<br>
+* Improve two-way communications and ties between EF leadership and the ecosystem actors, old and new, that it is our role to support: users (individual and institutional), app devs, wallets, L2s<br>
+* Bring in fresh talent, improve execution ability and speed<br>
+* Become more actively supportive of app builders, and make sure important values and inalienable rights (esp privacy, open source, censorship resistance) are a reality for users including at the app layer<br>
+* Continue to increase our use of decentralized and privacy tech and the Ethereum chain, including for payments and treasury management<br>
+<br>
+Explicit *non-goals* are:<br>
+<br>
+* Execute some kind of ideological / vibez pivot from feminized wef soyboy mentality to bronze age mindset<br>
+* Start aggressively lobbying regulators and powerful political figures (esp in USA, but really anywhere, especially large powerful countries), and risking compromising Ethereum's position as a global neutral platform<br>
+* Become an arena for vested interests<br>
+* Become a highly centralized org, or even more of a "main character" within Ethereum<br>
+<br>
+These things aren't what EF does and this isn't going to change. People seeking a different vision are welcome to start their own orgs.</p>]]></description>
+        <pubDate>Sat, 18 Jan 2025 15:16:29 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/VitalikButerin/status/1880635379771904423#m</guid>
+        <link>https://nitter.freedit.eu/VitalikButerin/status/1880635379771904423#m</link>
+      </item>
+      <item>
         <title>RT by @0xstark: Agree here. 6/9 is a good step for pectra (not long ago it wasn&apos;t even in the cards), and the focus should then fully be on peerdas asap and with as much throughput as we can convince ourselves is safe, best if increasing by the full 8x &quot;sharding factor&quot;. No low value sidequests.</title>
         <dc:creator>@fradamt</dc:creator>
         <description><![CDATA[<p>Agree here. 6/9 is a good step for pectra (not long ago it wasn't even in the cards), and the focus should then fully be on peerdas asap and with as much throughput as we can convince ourselves is safe, best if increasing by the full 8x "sharding factor". No low value sidequests.</p>
@@ -303,28 +353,6 @@ How do we show everyday people that Ethereum is the platform that they have been
         <pubDate>Mon, 13 Jan 2025 13:09:23 GMT</pubDate>
         <guid>https://nitter.freedit.eu/0xstark/status/1878791452391858603#m</guid>
         <link>https://nitter.freedit.eu/0xstark/status/1878791452391858603#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: EOF is separating the code from data, and bringing more structure to EVM contracts. The upcoming update affects the EVM tooling and makes things easier for many.
-
-Let’s understand what this means for source code verification and how @sourcifyeth aims to leverage and improve EOF.</title>
-        <dc:creator>@argotorg</dc:creator>
-        <description><![CDATA[<p>EOF is separating the code from data, and bringing more structure to EVM contracts. The upcoming update affects the EVM tooling and makes things easier for many.<br>
-<br>
-Let’s understand what this means for source code verification and how <a href="https://nitter.freedit.eu/SourcifyEth" title="sourcify.eth">@sourcifyeth</a> aims to leverage and improve EOF.</p>
-<p><a href="https://nitter.freedit.eu/SourcifyEth/status/1876309482067959895#m">nitter.freedit.eu/SourcifyEth/status/1876309482067959895#m</a></p>]]></description>
-        <pubDate>Mon, 13 Jan 2025 09:32:14 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/argotorg/status/1878736807766233447#m</guid>
-        <link>https://nitter.freedit.eu/argotorg/status/1878736807766233447#m</link>
-      </item>
-      <item>
-        <title>10M verified humans on Ethereum, on @world_chain_</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>10M verified humans on Ethereum, on <a href="https://nitter.freedit.eu/world_chain_" title="World Chain">@world_chain_</a></p>
-<p><a href="https://nitter.freedit.eu/WorldIDCounter/status/1878139911347540021#m">nitter.freedit.eu/WorldIDCounter/status/1878139911347540021#m</a></p>]]></description>
-        <pubDate>Sat, 11 Jan 2025 18:11:35 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1878142730016096325#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1878142730016096325#m</link>
       </item>
 
   </channel>

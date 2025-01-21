@@ -79,6 +79,9 @@
 * <https://rssweball.top/#/> - rss feed generator
 * <https://github.com/easychen/ai-rss> - ai rss feed generator
 * <https://github.com/ccbikai/BroadcastChannel> - turn tg channel to a micro blog with rss
+* <https://github.com/exaroth/liveboat> - generate static pages for RSS.
+* <https://github.com/exaroth/liveboat-github-runner> - template for liveboat
+* <https://github.com/abuseofnotation/feed-aggregator> - aggregate multi rss feeds into a markdown.
 
 ## RSS Source
 
@@ -126,7 +129,8 @@
 * miniflux - Go + Postgresql, self-hosted, easy to deploy.
 * omnivore - self-hosted and free cloud, cross platform.
 * freedium.cfg - unlock medium.
-* <https://www.rsstabs.com> - AI powered RSS Reader 
+* <https://www.rsstabs.com> - AI powered RSS Reader
+* <https://github.com/a-chacon/chaski-app> - rss reader client built with tauri
 
 ## RSS Source
 

@@ -16,6 +16,15 @@
       <height>128</height>
     </image>
       <item>
+        <title>intermission</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>intermission</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGhruuOYXYAAqPlo.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 19 Jan 2025 20:36:29 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1881078296311668896#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1881078296311668896#m</link>
+      </item>
+      <item>
         <title>RT by @gakonst: today&apos;s ethereum is also not my vision, but it&apos;s closer. we must return to privacy tools, geographic decentralization, observability, and continue building in the open.</title>
         <dc:creator>@Data_Always</dc:creator>
         <description><![CDATA[<p>today's ethereum is also not my vision, but it's closer. we must return to privacy tools, geographic decentralization, observability, and continue building in the open.</p>]]></description>
@@ -165,7 +174,7 @@ https://github.com/foundry-rs/foundry/issues/2486</title>
 We’ve recently stopped enabling the optimizer by default and now require you to enable it explicitly<br>
 <br>
 <a href="https://github.com/foundry-rs/foundry/issues/2486">github.com/foundry-rs/foundr…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1878346224199176192%2FxmUa_nBn%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1880883477651861504%2FiFR_5Lfq%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Sun, 12 Jan 2025 07:42:08 GMT</pubDate>
         <guid>https://nitter.freedit.eu/zerosnacks/status/1878346710079971675#m</guid>
         <link>https://nitter.freedit.eu/zerosnacks/status/1878346710079971675#m</link>
@@ -229,7 +238,8 @@ By: <br>
 <br>
 🔗 <a href="https://github.com/ethereum/EIPs/pull/9241">github.com/ethereum/EIPs/pul…</a><br>
 <br>
-This EIP proposes delaying the ExecutionPayload's state root reference by one block, so that for each block `n`, the `state_root` in block `n`'s `ExecutionPayload` references the post-state of block `n-1`. This change aims to remove the expensive state root computation from the block-propagation critical path, reducing end-to-end latency for block production and potentially increasing throughput. It simplifies the block production pipeline, accelerates real-time ZK proving, and is a consensus-breaking change requiring a coordinated hard fork.</p>]]></description>
+This EIP proposes delaying the ExecutionPayload's state root reference by one block, so that for each block `n`, the `state_root` in block `n`'s `ExecutionPayload` references the post-state of block `n-1`. This change aims to remove the expensive state root computation from the block-propagation critical path, reducing end-to-end latency for block production and potentially increasing throughput. It simplifies the block production pipeline, accelerates real-time ZK proving, and is a consensus-breaking change requiring a coordinated hard fork.</p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1879330372225204224%2Fd892LX-X%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Wed, 15 Jan 2025 00:51:54 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ethresearchbot/status/1879330635745292579#m</guid>
         <link>https://nitter.freedit.eu/ethresearchbot/status/1879330635745292579#m</link>
@@ -270,19 +280,6 @@ watch for the spectacular work coming from this group in 2025 — it’s going t
         <pubDate>Mon, 13 Jan 2025 13:07:35 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ethereum/status/1878791000732393665#m</guid>
         <link>https://nitter.freedit.eu/ethereum/status/1878791000732393665#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: just found out that foundry stack trace now contains storage changes 👀🤩
-
-Very cool! Keep on shipping 🚀</title>
-        <dc:creator>@merkleplant_eth</dc:creator>
-        <description><![CDATA[<p>just found out that foundry stack trace now contains storage changes 👀🤩<br>
-<br>
-Very cool! Keep on shipping 🚀</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGhLM2G7X0AAipMw.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 13 Jan 2025 13:00:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/merkleplant_eth/status/1878789293856235883#m</guid>
-        <link>https://nitter.freedit.eu/merkleplant_eth/status/1878789293856235883#m</link>
       </item>
 
   </channel>

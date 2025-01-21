@@ -16,6 +16,79 @@
       <height>128</height>
     </image>
       <item>
+        <title>it&apos;s exciting that everyone hates this roadmap</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>it's exciting that everyone hates this roadmap</p>
+<p><a href="https://nitter.freedit.eu/notnotstorm/status/1881041568263790828#m">nitter.freedit.eu/notnotstorm/status/1881041568263790828#m</a></p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 22:30:22 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1881469344720597015#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1881469344720597015#m</link>
+      </item>
+      <item>
+        <title>RT by @notnotstorm: Some points on this:
+
+1. The current process of upgrading Ethereum IS BROKEN.  Builders need long-term commitments to capacity, otherwise they cannot build on Ethereum. They need to know what the plan is in 5 years.
+So I hope that we can finally agree to timelines in the core dev process.
+
+2. We nonsensically claim that L1 cannot be scaled and L2s are the only way.
+This is a complete ivory tower perspective -- Vitalik already posted this 3 years ago, and with DAS and zkEVMs the ingredients are now ready: https://vitalik.eth.limo/general/2021/12/06/endgame.html
+There are limits to this, yes, but scaling it 100-1000x in a few years is completely possible.
+This achieves many things that based/native/etc. rollups don&apos;t.
+I think actually doing this and stopping to find excuses for not doing it is essential for Ethereum winning.
+
+3. Not everything can be on Ethereum L1, whether the actual limit is 1k or 100k tps or maybe even 1M tps. For this it is still great to add lots of data availability and create a great Ethereum security zones for rollups, who are Ethereum allies and can use Ether and all other Ethereum assets trustlessly.
+But we need to do it at a scale that actually matters. We need to get to our current target of one Megabyte per second in 1-2 years rather than 5, and then KEEP GOING. I am currently doing research on maximally decentralizing the networking DAS/Data Availability Sampling, but until that&apos;s done, adding Data Availability Provider nodes with higher requirements is a good solution that has the same security assumptions as optimistic rollups (one honest node).
+Other Data Availability protocols are currently building for GB/s! Ethereum does not have to match this, but being at 1/1000ths is not good enough.
+Some projects are openly stating already that they will never use Ethereum DA (and openly advertising with Vitalik&apos;s support! The irony). Being ok with that and still claiming that they are somehow &quot;Ethereum aligned&quot; is thoroughly un-ambitious.</title>
+        <dc:creator>@dankrad</dc:creator>
+        <description><![CDATA[<p>Some points on this:<br>
+<br>
+1. The current process of upgrading Ethereum IS BROKEN.  Builders need long-term commitments to capacity, otherwise they cannot build on Ethereum. They need to know what the plan is in 5 years.<br>
+So I hope that we can finally agree to timelines in the core dev process.<br>
+<br>
+2. We nonsensically claim that L1 cannot be scaled and L2s are the only way.<br>
+This is a complete ivory tower perspective -- Vitalik already posted this 3 years ago, and with DAS and zkEVMs the ingredients are now ready: <a href="https://vitalik.eth.limo/general/2021/12/06/endgame.html">vitalik.eth.limo/general/202…</a><br>
+There are limits to this, yes, but scaling it 100-1000x in a few years is completely possible.<br>
+This achieves many things that based/native/etc. rollups don't.<br>
+I think actually doing this and stopping to find excuses for not doing it is essential for Ethereum winning.<br>
+<br>
+3. Not everything can be on Ethereum L1, whether the actual limit is 1k or 100k tps or maybe even 1M tps. For this it is still great to add lots of data availability and create a great Ethereum security zones for rollups, who are Ethereum allies and can use Ether and all other Ethereum assets trustlessly.<br>
+But we need to do it at a scale that actually matters. We need to get to our current target of one Megabyte per second in 1-2 years rather than 5, and then KEEP GOING. I am currently doing research on maximally decentralizing the networking DAS/Data Availability Sampling, but until that's done, adding Data Availability Provider nodes with higher requirements is a good solution that has the same security assumptions as optimistic rollups (one honest node).<br>
+Other Data Availability protocols are currently building for GB/s! Ethereum does not have to match this, but being at 1/1000ths is not good enough.<br>
+Some projects are openly stating already that they will never use Ethereum DA (and openly advertising with Vitalik's support! The irony). Being ok with that and still claiming that they are somehow "Ethereum aligned" is thoroughly un-ambitious.</p>
+<p><a href="https://nitter.freedit.eu/dankrad/status/1881387224350052528#m">nitter.freedit.eu/dankrad/status/1881387224350052528#m</a></p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 18:15:09 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/dankrad/status/1881405119373234238#m</guid>
+        <link>https://nitter.freedit.eu/dankrad/status/1881405119373234238#m</link>
+      </item>
+      <item>
+        <title>RT by @notnotstorm: So finally we are talking about how the current plan is just way too unambitious. 
+
+If Ethereum wants to win, we need to be ambitious.</title>
+        <dc:creator>@dankrad</dc:creator>
+        <description><![CDATA[<p>So finally we are talking about how the current plan is just way too unambitious. <br>
+<br>
+If Ethereum wants to win, we need to be ambitious.</p>
+<p><a href="https://nitter.freedit.eu/jessepollak/status/1881092825888276727#m">nitter.freedit.eu/jessepollak/status/1881092825888276727#m</a></p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 17:04:03 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/dankrad/status/1881387224350052528#m</guid>
+        <link>https://nitter.freedit.eu/dankrad/status/1881387224350052528#m</link>
+      </item>
+      <item>
+        <title>this is my understanding/prediction for the ethereum scaling roadmap
+
+continual improvements to hardware, software, and protocols will support gas+blob increases without compromising network health</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>this is my understanding/prediction for the ethereum scaling roadmap<br>
+<br>
+continual improvements to hardware, software, and protocols will support gas+blob increases without compromising network health</p>
+<p><a href="https://nitter.freedit.eu/fradamt/status/1880389727041515981#m">nitter.freedit.eu/fradamt/status/1880389727041515981#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGhrLkUSbAAAT-Ua.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 19 Jan 2025 18:10:32 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1881041568263790828#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1881041568263790828#m</link>
+      </item>
+      <item>
         <title>all of the good names on pypi are taken by projects that look like this</title>
         <dc:creator>@notnotstorm</dc:creator>
         <description><![CDATA[<p>all of the good names on pypi are taken by projects that look like this</p>
@@ -217,80 +290,6 @@ pump the gas ⛽⛽</p>
         <pubDate>Thu, 19 Dec 2024 00:07:00 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1869534863889674504#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1869534863889674504#m</link>
-      </item>
-      <item>
-        <title>in case you missed it, many members of the EF (such as @dankrad, @adietrichs, @nero_eth) and many of the core dev teams, have publicly voiced support for scaling the L1 over the past month
-
-this is a shift from the L2-centric roadmap to a more comprehensive scaling strategy</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>in case you missed it, many members of the EF (such as <a href="https://nitter.freedit.eu/dankrad" title="Dankrad Feist">@dankrad</a>, <a href="https://nitter.freedit.eu/adietrichs" title="ansgar.eth 🦇🔊 .oO">@adietrichs</a>, <a href="https://nitter.freedit.eu/nero_eth" title="Toni Wahrstätter ⟠">@nero_eth</a>) and many of the core dev teams, have publicly voiced support for scaling the L1 over the past month<br>
-<br>
-this is a shift from the L2-centric roadmap to a more comprehensive scaling strategy</p>
-<p><a href="https://nitter.freedit.eu/adietrichs/status/1869067934754341143#m">nitter.freedit.eu/adietrichs/status/1869067934754341143#m</a></p>]]></description>
-        <pubDate>Tue, 17 Dec 2024 18:41:12 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1869090484792218059#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1869090484792218059#m</link>
-      </item>
-      <item>
-        <title>how many solana data analysts does it take to change a lightbulb?
-
-no one knows and it would be too difficult to check. so everyone else will just remain in the dark</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>how many solana data analysts does it take to change a lightbulb?<br>
-<br>
-no one knows and it would be too difficult to check. so everyone else will just remain in the dark</p>
-<p><a href="https://nitter.freedit.eu/MaxResnick1/status/1868768870540230929#m">nitter.freedit.eu/MaxResnick1/status/1868768870540230929#m</a></p>]]></description>
-        <pubDate>Mon, 16 Dec 2024 22:38:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1868787886059143583#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1868787886059143583#m</link>
-      </item>
-      <item>
-        <title>while we&apos;re listing people, you should follow all of these ppl for quality crypto data content
-- @nero_eth 
-- @hildobby_ 
-- @andrewhong5297 
-- @Data_Always 
-- @sui414 
-- @0xKofi 
-- @jconorgrogan 
-- @MSilb7 
-- @smyyguy 
-- @brianisbland 
-- @tomwanhh 
-- @sealaunch_ 
-- @artemis</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>while we're listing people, you should follow all of these ppl for quality crypto data content<br>
-- <a href="https://nitter.freedit.eu/nero_eth" title="Toni Wahrstätter ⟠">@nero_eth</a> <br>
-- <a href="https://nitter.freedit.eu/hildobby_" title="hildobby">@hildobby_</a> <br>
-- <a href="https://nitter.freedit.eu/andrewhong5297" title="ilemi">@andrewhong5297</a> <br>
-- <a href="https://nitter.freedit.eu/Data_Always" title="dataalways.eth ⚡️🤖">@Data_Always</a> <br>
-- <a href="https://nitter.freedit.eu/sui414" title="danning.eth⚡️🤖">@sui414</a> <br>
-- <a href="https://nitter.freedit.eu/0xKofi" title="Kofi">@0xKofi</a> <br>
-- <a href="https://nitter.freedit.eu/jconorgrogan" title="Conor">@jconorgrogan</a> <br>
-- <a href="https://nitter.freedit.eu/MSilb7" title="Michael Silberling">@MSilb7</a> <br>
-- <a href="https://nitter.freedit.eu/smyyguy" title="Dan Smith">@smyyguy</a> <br>
-- <a href="https://nitter.freedit.eu/brianisbland" title="Brian Bland">@brianisbland</a> <br>
-- <a href="https://nitter.freedit.eu/tomwanhh" title="Tom Wan">@tomwanhh</a> <br>
-- <a href="https://nitter.freedit.eu/sealaunch_" title="sealaunch.xyz">@sealaunch_</a> <br>
-- <a href="https://nitter.freedit.eu/artemis" title="Artemis">@artemis</a></p>
-<p><a href="https://nitter.freedit.eu/0xstark/status/1868751281071828999#m">nitter.freedit.eu/0xstark/status/1868751281071828999#m</a></p>]]></description>
-        <pubDate>Mon, 16 Dec 2024 21:17:13 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1868767360829866152#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1868767360829866152#m</link>
-      </item>
-      <item>
-        <title>a 2 year old raspberry pi barely matches the hardware capabilities of a desktop pc from 15+ years ago
-
-hobbling ethereum to work on rpi&apos;s is the wrong point in tradeoff space</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>a 2 year old raspberry pi barely matches the hardware capabilities of a desktop pc from 15+ years ago<br>
-<br>
-hobbling ethereum to work on rpi's is the wrong point in tradeoff space</p>
-<p><a href="https://nitter.freedit.eu/lrettig/status/1868019346477563956#m">nitter.freedit.eu/lrettig/status/1868019346477563956#m</a></p>]]></description>
-        <pubDate>Sat, 14 Dec 2024 20:21:59 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1868028683606524071#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1868028683606524071#m</link>
       </item>
 
   </channel>

@@ -16,279 +16,323 @@
       <height>128</height>
     </image>
       <item>
-        <title>RT by @fede_intern: Denver that @mati_onorato wanted to travel to Europe with his national ID because it was his first trip and didn’t know he needed passports.
-
-I think this girl was doing something about k pop starts and nfts. I ask my self how did it ended.</title>
-        <dc:creator>@fran_aligned</dc:creator>
-        <description><![CDATA[<p>Denver that <a href="https://nitter.freedit.eu/mati_onorato" title="Matías Onorato">@mati_onorato</a> wanted to travel to Europe with his national ID because it was his first trip and didn’t know he needed passports.<br>
-<br>
-I think this girl was doing something about k pop starts and nfts. I ask my self how did it ended.</p>
-<p><a href="https://nitter.freedit.eu/fede_intern/status/1880705235947065403#m">nitter.freedit.eu/fede_intern/status/1880705235947065403#m</a></p>]]></description>
-        <pubDate>Sun, 19 Jan 2025 02:39:55 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fran_aligned/status/1880807369200058416#m</guid>
-        <link>https://nitter.freedit.eu/fran_aligned/status/1880807369200058416#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: This is a good take. Ethereum doesn’t need a milady culture, or go get rid of femboy, soybean whatever, it just needs to understand its users and want to win more than anything else. And be absolutely relentless about it.</title>
-        <dc:creator>@ajwarner90</dc:creator>
-        <description><![CDATA[<p>This is a good take. Ethereum doesn’t need a milady culture, or go get rid of femboy, soybean whatever, it just needs to understand its users and want to win more than anything else. And be absolutely relentless about it.</p>
-<p><a href="https://nitter.freedit.eu/fede_intern/status/1880765216872452366#m">nitter.freedit.eu/fede_intern/status/1880765216872452366#m</a></p>]]></description>
-        <pubDate>Sun, 19 Jan 2025 00:53:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ajwarner90/status/1880780480334958865#m</guid>
-        <link>https://nitter.freedit.eu/ajwarner90/status/1880780480334958865#m</link>
-      </item>
-      <item>
-        <title>This is the most important book we need to read in Ethereum land: Working Backwards.</title>
+        <title>R to @fede_intern: Something else I forgot to mention is: if we&apos;re gonna go the route of having rollups, we need to make sure that users can easily move assets between them. This is more a social coordination problem than a technical one. If our design involves having more moving parts, we need to better coordinate between the different actors.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>This is the most important book we need to read in Ethereum land: Working Backwards.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGhneHXYW0AAPYt1.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 19 Jan 2025 00:45:22 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1880778542193254855#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1880778542193254855#m</link>
+        <description><![CDATA[<p>Something else I forgot to mention is: if we're gonna go the route of having rollups, we need to make sure that users can easily move assets between them. This is more a social coordination problem than a technical one. If our design involves having more moving parts, we need to better coordinate between the different actors.</p>]]></description>
+        <pubDate>Tue, 21 Jan 2025 00:17:38 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1881496340636537030#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1881496340636537030#m</link>
       </item>
       <item>
-        <title>I’m realizing that the adversaries that @udiWertheimer and @ercwl have in Bitcoin land are the same ones we have in Ethereum land: the podcastors. They just circle jerk and are ultra conservative. They are the opposite of bold builders. I despise them.</title>
+        <title>RT by @fede_intern: Native rollups: #NoMultisigs
+—————————
+This is a slam dunk idea by @drakefjustin to extend Zk proof verification from L1 to rollups using native verification. 
+
+This extends L1 security to any rollup without having to depend on random multisigs. 
+
+The core business model of a L1 is sell security and earn fees. This native rollup model expands the security offering solving a real pain point in rollups today. Furthermore this requires ethereum DA to be used.  
+
+This means ethereum earns more fees and ETH grows in value.
+
+This model is forward-compatible with existing L2s, creating a pathway to migrate to higher security. 
+
+This model still allows rollups to have super fast sequencing and soft confirmation in addition to getting eventual strong security.</title>
+        <dc:creator>@sreeramkannan</dc:creator>
+        <description><![CDATA[<p>Native rollups: <a href="https://nitter.freedit.eu/search?q=%23NoMultisigs">#NoMultisigs</a><br>
+—————————<br>
+This is a slam dunk idea by <a href="https://nitter.freedit.eu/drakefjustin" title="Justin Ðrake 🦇🔊">@drakefjustin</a> to extend Zk proof verification from L1 to rollups using native verification. <br>
+<br>
+This extends L1 security to any rollup without having to depend on random multisigs. <br>
+<br>
+The core business model of a L1 is sell security and earn fees. This native rollup model expands the security offering solving a real pain point in rollups today. Furthermore this requires ethereum DA to be used.  <br>
+<br>
+This means ethereum earns more fees and ETH grows in value.<br>
+<br>
+This model is forward-compatible with existing L2s, creating a pathway to migrate to higher security. <br>
+<br>
+This model still allows rollups to have super fast sequencing and soft confirmation in addition to getting eventual strong security.</p>
+<p><a href="https://nitter.freedit.eu/fede_intern/status/1881423013633249679#m">nitter.freedit.eu/fede_intern/status/1881423013633249679#m</a></p>]]></description>
+        <pubDate>Tue, 21 Jan 2025 00:13:08 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/sreeramkannan/status/1881495206970949934#m</guid>
+        <link>https://nitter.freedit.eu/sreeramkannan/status/1881495206970949934#m</link>
+      </item>
+      <item>
+        <title>If I had more power in Ethereum I would be calling urgently every big fucking L2 (@base @arbitrum  @Optimism @0xPolygon @Starknet @zksync @Scroll_ZKP @LineaBuild @taikoxyz @fuel_network, etc), every big DeFi application (@Uniswap, @CoWSwap, @aave, @MakerDAO, @LidoFinance, @ether_fi, @MorphoLabs, @ethena_labs, @CurveFinance, probably @circle and @Tether_to too), every big wallet (@safe, @Rabby_io, @rainbowdotme) and big infrastracture projects and people like (@Consensys, @eigenlayer, @flashbots_x, @LayerZero_Core, @NethermindEth, @class_lambda) and core L1 execution and consensus clients to fly to New York and to have a meeting.
+
+Only with the CEOs or CTO of these companies and the @ethereum to talk for a week on how the hell we get out of this. With less than 30 people than can call the shots you can easily solve this if you have some war time leaders in place. If decisions are made, changes can be done in 6 months with results before end of the year.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>I’m realizing that the adversaries that <a href="https://nitter.freedit.eu/udiWertheimer" title="Udi | BIP-420 🐱">@udiWertheimer</a> and <a href="https://nitter.freedit.eu/ercwl" title="Eric Wall | BIP-420😺">@ercwl</a> have in Bitcoin land are the same ones we have in Ethereum land: the podcastors. They just circle jerk and are ultra conservative. They are the opposite of bold builders. I despise them.</p>]]></description>
-        <pubDate>Sun, 19 Jan 2025 00:42:43 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1880777877786144897#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1880777877786144897#m</link>
+        <description><![CDATA[<p>If I had more power in Ethereum I would be calling urgently every big fucking L2 (<a href="https://nitter.freedit.eu/base" title="Base">@base</a> <a href="https://nitter.freedit.eu/arbitrum" title="Arbitrum (💙,🧡)">@arbitrum</a>  <a href="https://nitter.freedit.eu/Optimism" title="Optimism">@Optimism</a> <a href="https://nitter.freedit.eu/0xPolygon" title="Polygon (※,※)">@0xPolygon</a> <a href="https://nitter.freedit.eu/Starknet" title="Starknet 🐺🐱">@Starknet</a> <a href="https://nitter.freedit.eu/zksync" title="ZKsync (∎, ∆)">@zksync</a> <a href="https://nitter.freedit.eu/Scroll_ZKP" title="Scroll">@Scroll_ZKP</a> <a href="https://nitter.freedit.eu/LineaBuild" title="Linea">@LineaBuild</a> <a href="https://nitter.freedit.eu/taikoxyz" title="Taiko 🥁">@taikoxyz</a> <a href="https://nitter.freedit.eu/fuel_network" title="Fuel">@fuel_network</a>, etc), every big DeFi application (<a href="https://nitter.freedit.eu/Uniswap" title="Uniswap Labs 🦄">@Uniswap</a>, <a href="https://nitter.freedit.eu/CoWSwap" title="CoW DAO | Don't get milked ™️">@CoWSwap</a>, <a href="https://nitter.freedit.eu/aave" title="Aave">@aave</a>, <a href="https://nitter.freedit.eu/MakerDAO" title="Maker is now Sky">@MakerDAO</a>, <a href="https://nitter.freedit.eu/LidoFinance" title="Lido">@LidoFinance</a>, <a href="https://nitter.freedit.eu/ether_fi" title="ether.fi">@ether_fi</a>, <a href="https://nitter.freedit.eu/MorphoLabs" title="Morpho Labs 🦋">@MorphoLabs</a>, <a href="https://nitter.freedit.eu/ethena_labs" title="Ethena Labs">@ethena_labs</a>, <a href="https://nitter.freedit.eu/CurveFinance" title="Curve Finance">@CurveFinance</a>, probably <a href="https://nitter.freedit.eu/circle" title="Circle">@circle</a> and <a href="https://nitter.freedit.eu/Tether_to" title="Tether">@Tether_to</a> too), every big wallet (<a href="https://nitter.freedit.eu/safe" title="Safe">@safe</a>, <a href="https://nitter.freedit.eu/Rabby_io" title="Rabby Wallet">@Rabby_io</a>, <a href="https://nitter.freedit.eu/rainbowdotme" title="Rainbow">@rainbowdotme</a>) and big infrastracture projects and people like (<a href="https://nitter.freedit.eu/Consensys" title="Consensys">@Consensys</a>, <a href="https://nitter.freedit.eu/eigenlayer" title="EigenLayer">@eigenlayer</a>, <a href="https://nitter.freedit.eu/flashbots_x" title="flashbots_x">@flashbots_x</a>, <a href="https://nitter.freedit.eu/LayerZero_Core" title="LayerZero">@LayerZero_Core</a>, <a href="https://nitter.freedit.eu/NethermindEth" title="Nethermind">@NethermindEth</a>, <a href="https://nitter.freedit.eu/class_lambda" title="LambdaClass">@class_lambda</a>) and core L1 execution and consensus clients to fly to New York and to have a meeting.<br>
+<br>
+Only with the CEOs or CTO of these companies and the <a href="https://nitter.freedit.eu/ethereum" title="Ethereum.org">@ethereum</a> to talk for a week on how the hell we get out of this. With less than 30 people than can call the shots you can easily solve this if you have some war time leaders in place. If decisions are made, changes can be done in 6 months with results before end of the year.</p>]]></description>
+        <pubDate>Tue, 21 Jan 2025 00:11:22 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1881494761053331731#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1881494761053331731#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: There&apos;s $6.186 Trillion dollars in outstanding t bill debt
-Roughly $98B is tokenized into stablecoins
+        <title>I&apos;m happy @celestia and @solana exists since they have shorten the feedback loop that will let us make the best version of @ethereum. Now we&apos;re always talking Solana but in the next year it&apos;s gonna become Celestia too.
 
-= ~1.58% of all US debt is settled and traded on Ethereum.
-
-Not bad for a system that didnt exist 10 years ago. Eventually, most global debt will settle on ethereum</title>
-        <dc:creator>@CupOJoseph</dc:creator>
-        <description><![CDATA[<p>There's $6.186 Trillion dollars in outstanding t bill debt<br>
-Roughly $98B is tokenized into stablecoins<br>
-<br>
-= ~1.58% of all US debt is settled and traded on Ethereum.<br>
-<br>
-Not bad for a system that didnt exist 10 years ago. Eventually, most global debt will settle on ethereum</p>
-<p><a href="https://nitter.freedit.eu/CupOJoseph/status/1879696830562512930#m">nitter.freedit.eu/CupOJoseph/status/1879696830562512930#m</a></p>]]></description>
-        <pubDate>Thu, 16 Jan 2025 13:50:12 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/CupOJoseph/status/1879888888996773951#m</guid>
-        <link>https://nitter.freedit.eu/CupOJoseph/status/1879888888996773951#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: Don&apos;t fret, brother. 
-
-Crypto is, and has always been, 99% nonsense grifty garbage/scams/jokes, and 1% fundamental global financial system revolution.
-
-But this 99/1 is based just on quantity of projects.
-
-Considered by market cap, it&apos;s more like 75% quality, 25% nonsense. Bitcoin is good. Ethereum is good. Stablecoins are good. Several dozen defi projects are good. Wildly cool technology permeates through all of it, and sound economics underpins its long term growth, though the short term feels often like an appallingly irrational market. 
-
-How to cope with this dichotomy? 
-
-Embrace the degen frontier and have fun, and recognize that amidst it all, a decentralized financial system is real, is important, and is working. None of it is forced on anyone, after all. 
-
-We are building and we are attracting the world toward us... and much of the world simply wants to gamble and have fun. This is okay, and actually provides capital for the important work happening behind the casino. 
-
-It is, actually, working. 
-
-We are realizing the wildest dreams of those who are into it for all the right reasons, despite the accompanying fantasies of those who aren&apos;t.
-
-Just keep building, and build well.</title>
-        <dc:creator>@ErikVoorhees</dc:creator>
-        <description><![CDATA[<p>Don't fret, brother. <br>
-<br>
-Crypto is, and has always been, 99% nonsense grifty garbage/scams/jokes, and 1% fundamental global financial system revolution.<br>
-<br>
-But this 99/1 is based just on quantity of projects.<br>
-<br>
-Considered by market cap, it's more like 75% quality, 25% nonsense. Bitcoin is good. Ethereum is good. Stablecoins are good. Several dozen defi projects are good. Wildly cool technology permeates through all of it, and sound economics underpins its long term growth, though the short term feels often like an appallingly irrational market. <br>
-<br>
-How to cope with this dichotomy? <br>
-<br>
-Embrace the degen frontier and have fun, and recognize that amidst it all, a decentralized financial system is real, is important, and is working. None of it is forced on anyone, after all. <br>
-<br>
-We are building and we are attracting the world toward us... and much of the world simply wants to gamble and have fun. This is okay, and actually provides capital for the important work happening behind the casino. <br>
-<br>
-It is, actually, working. <br>
-<br>
-We are realizing the wildest dreams of those who are into it for all the right reasons, despite the accompanying fantasies of those who aren't.<br>
-<br>
-Just keep building, and build well.</p>
-<p><a href="https://nitter.freedit.eu/JJcycles/status/1880593347573858527#m">nitter.freedit.eu/JJcycles/status/1880593347573858527#m</a></p>]]></description>
-        <pubDate>Sun, 19 Jan 2025 00:03:31 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ErikVoorhees/status/1880768009108635657#m</guid>
-        <link>https://nitter.freedit.eu/ErikVoorhees/status/1880768009108635657#m</link>
-      </item>
-      <item>
-        <title>Miden is an amazing piece of tech. Bobbin is one of the founders we have worked in our history. Highly recommend you follow him. He is not doing a copy cat L2. He is pushing what is possible in Ethereum. Privacy, scaling, client side proving.
-
-I honestly believe there is no more advanced design in the L2 world.</title>
+Competition is healthy.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Miden is an amazing piece of tech. Bobbin is one of the founders we have worked in our history. Highly recommend you follow him. He is not doing a copy cat L2. He is pushing what is possible in Ethereum. Privacy, scaling, client side proving.<br>
+        <description><![CDATA[<p>I'm happy <a href="https://nitter.freedit.eu/celestia" title="Celestia 🦣">@celestia</a> and <a href="https://nitter.freedit.eu/solana" title="Solana">@solana</a> exists since they have shorten the feedback loop that will let us make the best version of <a href="https://nitter.freedit.eu/ethereum" title="Ethereum.org">@ethereum</a>. Now we're always talking Solana but in the next year it's gonna become Celestia too.<br>
 <br>
-I honestly believe there is no more advanced design in the L2 world.</p>
-<p><a href="https://nitter.freedit.eu/bobbinth/status/1880762464679379379#m">nitter.freedit.eu/bobbinth/status/1880762464679379379#m</a></p>]]></description>
-        <pubDate>Sun, 19 Jan 2025 00:32:23 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1880775276067487814#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1880775276067487814#m</link>
+Competition is healthy.</p>]]></description>
+        <pubDate>Tue, 21 Jan 2025 00:02:02 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1881492411748344243#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1881492411748344243#m</link>
       </item>
       <item>
-        <title>This is a great example of what I mean when I say that Ethereum has a cultural problem.
+        <title>RT by @fede_intern: Surprisingly, my plan would medium term decrease requirements for running nodes.
 
-We’re back because Lubin and Vitalik opened twitter and sent a tweet? Are we really celebrating this?</title>
-        <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>This is a great example of what I mean when I say that Ethereum has a cultural problem.<br>
+The tradeoffs are around:
+ - adding dependencies for more resourceful parties (DAS provider nodes, zk provers), but with an honest minority assumption
+ - giving up on home block building (which should be mitigated by FOCIL etc.)</title>
+        <dc:creator>@dankrad</dc:creator>
+        <description><![CDATA[<p>Surprisingly, my plan would medium term decrease requirements for running nodes.<br>
 <br>
-We’re back because Lubin and Vitalik opened twitter and sent a tweet? Are we really celebrating this?</p>
-<p><a href="https://nitter.freedit.eu/econoar/status/1880763508729827446#m">nitter.freedit.eu/econoar/status/1880763508729827446#m</a></p>]]></description>
-        <pubDate>Sun, 19 Jan 2025 00:20:01 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1880772164863090781#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1880772164863090781#m</link>
+The tradeoffs are around:<br>
+ - adding dependencies for more resourceful parties (DAS provider nodes, zk provers), but with an honest minority assumption<br>
+ - giving up on home block building (which should be mitigated by FOCIL etc.)</p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 18:27:17 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/dankrad/status/1881408169944993982#m</guid>
+        <link>https://nitter.freedit.eu/dankrad/status/1881408169944993982#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: done
+        <title>First time I read such a clear and strong message from leadership. I agree with everything, Dankrad. However, the most important thing is that we’re finally reacting to competition and criticism. Ethereum needs a strong change in how it’s being developed. We need a faster feedback loop and more ambition. We need to fight back against Luddites.
 
-https://etherscan.io/nft/0x5af0d9827e0c53e4799bb226655a1de152a425a5/9286
+My take on the subject:
+1. Gas limit should be doubled every two years at least. Computers get double as fast every two years. By increasing the gas limit as much as average computation power, verifiability of the blockchain shouldn’t have an impact.
+2. We need to increase the gas limit now by a considerable amount to compensate for the amount of time it wasn’t increased.
+3. As a person who has been working on L2s and ZK for years and now in the L1, I strongly believe that L1 scaling should be prioritized over L2s. If Ethereum doesn’t win, its extensions have no chance.
 
-remove curse pls</title>
-        <dc:creator>@VitalikButerin</dc:creator>
-        <description><![CDATA[<p>done<br>
-<br>
-<a href="https://etherscan.io/nft/0x5af0d9827e0c53e4799bb226655a1de152a425a5/9286">etherscan.io/nft/0x5af0d9827…</a><br>
-<br>
-remove curse pls</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1879229596811296768%2FcFjsF2n_%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 18 Jan 2025 23:30:15 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/VitalikButerin/status/1880759639979266252#m</guid>
-        <link>https://nitter.freedit.eu/VitalikButerin/status/1880759639979266252#m</link>
-      </item>
-      <item>
-        <title>Vitalik went full milady:</title>
-        <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Vitalik went full milady:</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGhnMnmWWsAAxEKi.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 18 Jan 2025 23:29:34 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1880759465529733547#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1880759465529733547#m</link>
-      </item>
-      <item>
-        <title>I&apos;m rallying all the fat bald big Ethereum bronze age engineers.
+Blockchains are verifiable computers for making specific types of commitments. Ethereum is the most decentralized and truth machine in existence.
 
-We need to change course.</title>
-        <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>I'm rallying all the fat bald big Ethereum bronze age engineers.<br>
-<br>
-We need to change course.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGhnH0nAWwAA4hyQ.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 18 Jan 2025 23:11:59 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1880755044276228307#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1880755044276228307#m</link>
-      </item>
-      <item>
-        <title>I&apos;m realizing that most of the people I&apos;m debating in Ethereum land clearly don&apos;t try things in @solana, @Aptos or @SuiNetwork.
+Supporting running an execution and consensus client on a Raspberry Pi doesn’t make the machine more verifiable. ZK + DAS + light clients do.
 
-I go to conferences, try products, code smart contracts. If you&apos;re just trying things of the competitors it means we&apos;re very late. We need to change course.</title>
-        <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>I'm realizing that most of the people I'm debating in Ethereum land clearly don't try things in <a href="https://nitter.freedit.eu/solana" title="Solana">@solana</a>, <a href="https://nitter.freedit.eu/Aptos" title="Aptos">@Aptos</a> or <a href="https://nitter.freedit.eu/SuiNetwork" title="Sui">@SuiNetwork</a>.<br>
-<br>
-I go to conferences, try products, code smart contracts. If you're just trying things of the competitors it means we're very late. We need to change course.</p>]]></description>
-        <pubDate>Sat, 18 Jan 2025 23:06:01 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1880753540848582956#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1880753540848582956#m</link>
-      </item>
-      <item>
-        <title>We need to rally together all the Ethereum bronze age to discuss how to change things.</title>
-        <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>We need to rally together all the Ethereum bronze age to discuss how to change things.</p>]]></description>
-        <pubDate>Sat, 18 Jan 2025 22:55:00 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1880750769823265244#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1880750769823265244#m</link>
-      </item>
-      <item>
-        <title>I’ve just did a swap in solana in a few seconds. It works perfectly well.
+We need to prove Ethereum can be verified even on smaller devices than Raspberry Pis. This doesn’t mean we need to run the verifiable computer there.
 
-Phantom wallet UX is so much better to Metamask.</title>
+Ethereum’s success depends on ETH price. We need to improve the computation power of Ethereum to be able to support new applications. If we don’t remove the Luddite meme, ETH price will continue going down against its competitors, and rollups will decide to settle somewhere else. 
+
+Blockchains are permissionless markets in addition to verifiable computers. If the price action of the main economic asset in this market doesn&apos;t show good signs, the market in itself will not be a good place to do business independently of decentralization and technical ability. We have a lot of smart people in Argentina. Nobody wanted to do business with us until recently.
+
+Why would I do business in a place where I can&apos;t project over the 5 years? The only people doing money and business in Ethereum are the people who already made it. That&apos;s why other new lands are more interesting for newcomers.
+
+We need a change in tech but more importantly in culture.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>I’ve just did a swap in solana in a few seconds. It works perfectly well.<br>
+        <description><![CDATA[<p>First time I read such a clear and strong message from leadership. I agree with everything, Dankrad. However, the most important thing is that we’re finally reacting to competition and criticism. Ethereum needs a strong change in how it’s being developed. We need a faster feedback loop and more ambition. We need to fight back against Luddites.<br>
 <br>
-Phantom wallet UX is so much better to Metamask.</p>
-<p><a href="https://nitter.freedit.eu/koeppelmann/status/1880742095092363311#m">nitter.freedit.eu/koeppelmann/status/1880742095092363311#m</a></p>
-<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1880748372631465985%2Fimg%2FECIntSowUwi9W-Uj.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 18 Jan 2025 22:45:44 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1880748436913537443#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1880748436913537443#m</link>
+My take on the subject:<br>
+1. Gas limit should be doubled every two years at least. Computers get double as fast every two years. By increasing the gas limit as much as average computation power, verifiability of the blockchain shouldn’t have an impact.<br>
+2. We need to increase the gas limit now by a considerable amount to compensate for the amount of time it wasn’t increased.<br>
+3. As a person who has been working on L2s and ZK for years and now in the L1, I strongly believe that L1 scaling should be prioritized over L2s. If Ethereum doesn’t win, its extensions have no chance.<br>
+<br>
+Blockchains are verifiable computers for making specific types of commitments. Ethereum is the most decentralized and truth machine in existence.<br>
+<br>
+Supporting running an execution and consensus client on a Raspberry Pi doesn’t make the machine more verifiable. ZK + DAS + light clients do.<br>
+<br>
+We need to prove Ethereum can be verified even on smaller devices than Raspberry Pis. This doesn’t mean we need to run the verifiable computer there.<br>
+<br>
+Ethereum’s success depends on ETH price. We need to improve the computation power of Ethereum to be able to support new applications. If we don’t remove the Luddite meme, ETH price will continue going down against its competitors, and rollups will decide to settle somewhere else. <br>
+<br>
+Blockchains are permissionless markets in addition to verifiable computers. If the price action of the main economic asset in this market doesn't show good signs, the market in itself will not be a good place to do business independently of decentralization and technical ability. We have a lot of smart people in Argentina. Nobody wanted to do business with us until recently.<br>
+<br>
+Why would I do business in a place where I can't project over the 5 years? The only people doing money and business in Ethereum are the people who already made it. That's why other new lands are more interesting for newcomers.<br>
+<br>
+We need a change in tech but more importantly in culture.</p>
+<p><a href="https://nitter.freedit.eu/dankrad/status/1881405119373234238#m">nitter.freedit.eu/dankrad/status/1881405119373234238#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGhxldHXWgAAx981.png" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 20 Jan 2025 23:59:04 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1881491666944835701#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1881491666944835701#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: Some takeaways from my fundraising journey in the past weeks:
-Some VCs focus on one thing—the token event and short-term liquidity.
-Others understand that we’re building a trust layer for the internet, where bringing people on-chain isn’t just a metric—it’s an asset in itself.
-Self-sovereign identity and decentralized registries aren’t about speculation. They solve real inefficiencies in governance, commerce, and digital ownership.
-The projects that prioritize real-world adoption over short-term cycles will define the next era of Web3.
-I know which side we are on.</title>
+        <title>RT by @fede_intern: Some points on this:
+
+1. The current process of upgrading Ethereum IS BROKEN.  Builders need long-term commitments to capacity, otherwise they cannot build on Ethereum. They need to know what the plan is in 5 years.
+So I hope that we can finally agree to timelines in the core dev process.
+
+2. We nonsensically claim that L1 cannot be scaled and L2s are the only way.
+This is a complete ivory tower perspective -- Vitalik already posted this 3 years ago, and with DAS and zkEVMs the ingredients are now ready: https://vitalik.eth.limo/general/2021/12/06/endgame.html
+There are limits to this, yes, but scaling it 100-1000x in a few years is completely possible.
+This achieves many things that based/native/etc. rollups don&apos;t.
+I think actually doing this and stopping to find excuses for not doing it is essential for Ethereum winning.
+
+3. Not everything can be on Ethereum L1, whether the actual limit is 1k or 100k tps or maybe even 1M tps. For this it is still great to add lots of data availability and create a great Ethereum security zones for rollups, who are Ethereum allies and can use Ether and all other Ethereum assets trustlessly.
+But we need to do it at a scale that actually matters. We need to get to our current target of one Megabyte per second in 1-2 years rather than 5, and then KEEP GOING. I am currently doing research on maximally decentralizing the networking DAS/Data Availability Sampling, but until that&apos;s done, adding Data Availability Provider nodes with higher requirements is a good solution that has the same security assumptions as optimistic rollups (one honest node).
+Other Data Availability protocols are currently building for GB/s! Ethereum does not have to match this, but being at 1/1000ths is not good enough.
+Some projects are openly stating already that they will never use Ethereum DA (and openly advertising with Vitalik&apos;s support! The irony). Being ok with that and still claiming that they are somehow &quot;Ethereum aligned&quot; is thoroughly un-ambitious.</title>
+        <dc:creator>@dankrad</dc:creator>
+        <description><![CDATA[<p>Some points on this:<br>
+<br>
+1. The current process of upgrading Ethereum IS BROKEN.  Builders need long-term commitments to capacity, otherwise they cannot build on Ethereum. They need to know what the plan is in 5 years.<br>
+So I hope that we can finally agree to timelines in the core dev process.<br>
+<br>
+2. We nonsensically claim that L1 cannot be scaled and L2s are the only way.<br>
+This is a complete ivory tower perspective -- Vitalik already posted this 3 years ago, and with DAS and zkEVMs the ingredients are now ready: <a href="https://vitalik.eth.limo/general/2021/12/06/endgame.html">vitalik.eth.limo/general/202…</a><br>
+There are limits to this, yes, but scaling it 100-1000x in a few years is completely possible.<br>
+This achieves many things that based/native/etc. rollups don't.<br>
+I think actually doing this and stopping to find excuses for not doing it is essential for Ethereum winning.<br>
+<br>
+3. Not everything can be on Ethereum L1, whether the actual limit is 1k or 100k tps or maybe even 1M tps. For this it is still great to add lots of data availability and create a great Ethereum security zones for rollups, who are Ethereum allies and can use Ether and all other Ethereum assets trustlessly.<br>
+But we need to do it at a scale that actually matters. We need to get to our current target of one Megabyte per second in 1-2 years rather than 5, and then KEEP GOING. I am currently doing research on maximally decentralizing the networking DAS/Data Availability Sampling, but until that's done, adding Data Availability Provider nodes with higher requirements is a good solution that has the same security assumptions as optimistic rollups (one honest node).<br>
+Other Data Availability protocols are currently building for GB/s! Ethereum does not have to match this, but being at 1/1000ths is not good enough.<br>
+Some projects are openly stating already that they will never use Ethereum DA (and openly advertising with Vitalik's support! The irony). Being ok with that and still claiming that they are somehow "Ethereum aligned" is thoroughly un-ambitious.</p>
+<p><a href="https://nitter.freedit.eu/dankrad/status/1881387224350052528#m">nitter.freedit.eu/dankrad/status/1881387224350052528#m</a></p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 18:15:09 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/dankrad/status/1881405119373234238#m</guid>
+        <link>https://nitter.freedit.eu/dankrad/status/1881405119373234238#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: Bullish Eth research going in this direction</title>
+        <dc:creator>@zmanian</dc:creator>
+        <description><![CDATA[<p>Bullish Eth research going in this direction</p>
+<p><a href="https://nitter.freedit.eu/fede_intern/status/1881423013633249679#m">nitter.freedit.eu/fede_intern/status/1881423013633249679#m</a></p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 19:48:45 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/zmanian/status/1881428672302940215#m</guid>
+        <link>https://nitter.freedit.eu/zmanian/status/1881428672302940215#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: Corollary: research will be done by highly dedicated teams which (in virtually all cases) are going to be external to the project commercializing it. 
+
+@3miLabs is here to help anyone looking to build competitively</title>
+        <dc:creator>@TomerAshur</dc:creator>
+        <description><![CDATA[<p>Corollary: research will be done by highly dedicated teams which (in virtually all cases) are going to be external to the project commercializing it. <br>
+<br>
+<a href="https://nitter.freedit.eu/3miLabs" title="3MI Labs">@3miLabs</a> is here to help anyone looking to build competitively</p>
+<p><a href="https://nitter.freedit.eu/fede_intern/status/1881001959475314786#m">nitter.freedit.eu/fede_intern/status/1881001959475314786#m</a></p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 19:40:25 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/TomerAshur/status/1881426577386508640#m</guid>
+        <link>https://nitter.freedit.eu/TomerAshur/status/1881426577386508640#m</link>
+      </item>
+      <item>
+        <title>R to @fede_intern: this is great.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>this is great.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGhwoh3pXMAAteMj.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 20 Jan 2025 19:27:28 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1881423316340367834#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1881423316340367834#m</link>
+      </item>
+      <item>
+        <title>R to @fede_intern: url: https://ethresear.ch/t/native-rollups-superpowers-from-l1-execution/21517</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>url: <a href="https://ethresear.ch/t/native-rollups-superpowers-from-l1-execution/21517">ethresear.ch/t/native-rollup…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1879910454186610688%2FxtDnkKOo%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 20 Jan 2025 19:26:17 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1881423019123568842#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1881423019123568842#m</link>
+      </item>
+      <item>
+        <title>Native rollups ethresearch post just dropped by @drakefjustin.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>Native rollups ethresearch post just dropped by <a href="https://nitter.freedit.eu/drakefjustin" title="Justin Ðrake 🦇🔊">@drakefjustin</a>.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGhwoQOebYAAqX3M.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 20 Jan 2025 19:26:16 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1881423013633249679#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1881423013633249679#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: In a nutshell, what got us here won’t take us there.</title>
         <dc:creator>@fernandezdiego</dc:creator>
-        <description><![CDATA[<p>Some takeaways from my fundraising journey in the past weeks:<br>
-Some VCs focus on one thing—the token event and short-term liquidity.<br>
-Others understand that we’re building a trust layer for the internet, where bringing people on-chain isn’t just a metric—it’s an asset in itself.<br>
-Self-sovereign identity and decentralized registries aren’t about speculation. They solve real inefficiencies in governance, commerce, and digital ownership.<br>
-The projects that prioritize real-world adoption over short-term cycles will define the next era of Web3.<br>
-I know which side we are on.</p>]]></description>
-        <pubDate>Sat, 18 Jan 2025 20:19:42 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fernandezdiego/status/1880711687403163780#m</guid>
-        <link>https://nitter.freedit.eu/fernandezdiego/status/1880711687403163780#m</link>
+        <description><![CDATA[<p>In a nutshell, what got us here won’t take us there.</p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 19:07:37 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fernandezdiego/status/1881418319888339179#m</guid>
+        <link>https://nitter.freedit.eu/fernandezdiego/status/1881418319888339179#m</link>
       </item>
       <item>
-        <title>R to @fede_intern: with the team</title>
-        <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>with the team</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGhmcFNqXgAAVOD6.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 18 Jan 2025 19:56:52 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1880705940258963933#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1880705940258963933#m</link>
+        <title>RT by @fede_intern: Go formal methods, go! :) (not opposed to fuzzing too)</title>
+        <dc:creator>@FormalLand</dc:creator>
+        <description><![CDATA[<p>Go formal methods, go! :) (not opposed to fuzzing too)</p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 15:55:52 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/FormalLand/status/1881370065364570374#m</guid>
+        <link>https://nitter.freedit.eu/FormalLand/status/1881370065364570374#m</link>
       </item>
       <item>
-        <title>R to @fede_intern: I always liked seeing things firsthand. I went to every Solana breakpoint to understand the vibes and the people building there.
-
-Gonna do the same now with @SuiNetwork and @Aptos now.</title>
+        <title>R to @fede_intern: github: https://github.com/lambdaclass/lambda_ethereum_consensus</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>I always liked seeing things firsthand. I went to every Solana breakpoint to understand the vibes and the people building there.<br>
-<br>
-Gonna do the same now with <a href="https://nitter.freedit.eu/SuiNetwork" title="Sui">@SuiNetwork</a> and <a href="https://nitter.freedit.eu/Aptos" title="Aptos">@Aptos</a> now.</p>]]></description>
-        <pubDate>Sat, 18 Jan 2025 19:56:00 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1880705721421238757#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1880705721421238757#m</link>
+        <description><![CDATA[<p>github: <a href="https://github.com/lambdaclass/lambda_ethereum_consensus">github.com/lambdaclass/lambd…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1879383310327324672%2Fjr3PokmC%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 20 Jan 2025 16:35:46 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1881380105890742593#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1881380105890742593#m</link>
       </item>
       <item>
-        <title>Me and ⁦@fran_aligned⁩ in Lisboa November 2021 Solana Hacker House near the venue of the first Solana Breakpoint conference.
+        <title>Our Elixir consensus client has been online for the last week in Sepolia without any problem. We&apos;re gonna test Holesky next but we need to solve a few performance bugs.
 
-I was laughing at the woman screaming. She was saying she would pay any builder to help her launch her strange NFT project.</title>
+The codebase is 20k lines of code. I want to reduce it to 15k.
+
+If you can give it a star in github.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Me and ⁦<a href="https://nitter.freedit.eu/fran_aligned" title="Francisco Strambini 🟩">@fran_aligned</a>⁩ in Lisboa November 2021 Solana Hacker House near the venue of the first Solana Breakpoint conference.<br>
+        <description><![CDATA[<p>Our Elixir consensus client has been online for the last week in Sepolia without any problem. We're gonna test Holesky next but we need to solve a few performance bugs.<br>
 <br>
-I was laughing at the woman screaming. She was saying she would pay any builder to help her launch her strange NFT project.</p>
-<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1880705206154924032%2Fpu%2Fimg%2FJFLjxUrTelEm_Ubk.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 18 Jan 2025 19:54:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1880705235947065403#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1880705235947065403#m</link>
+The codebase is 20k lines of code. I want to reduce it to 15k.<br>
+<br>
+If you can give it a star in github.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGhwBMhMWsAAjc2Y.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 20 Jan 2025 16:35:45 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1881380102585590144#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1881380102585590144#m</link>
       </item>
       <item>
-        <title>I&apos;ve just sent this message to main channel of Lambda.
+        <title>RT by @fede_intern: The problem is not how much ETH the EF sells per year. Every interaction I had with people in the EF was very good. Most of the people working there are honest and hard working people accepting a pay cut in comparison to the options they would have working in the industry.
 
-&quot;Lambda becomes faster, more efficient, more demanding, or dies
+The EF could sell everything, and it wouldn’t have a huge price impact if it did the sell in a timed manner. I’m sure the EF could be run in a more efficient way, but this is not the main problem. You’re talking about the EF as if it were the government of a country when it’s not. The problem Ethereum has is a bigger one, and the EF is only partially responsible for it. The problem exists at the social layer, and it’s a cultural problem.
 
-We are going to become even more aggressive in our ability to delivery
+The problems aren’t the EF’s but problems across the whole ecosystem. These problems have been around for years, but now they are becoming crystal clear due to the fact that, for the first time, there are two clear competitors: Solana and Celestia. If Bitcoin adds OP_CAT, it will also be a strong competitor.
 
-If you want peace of mind, I recommend leaving the company, we are going to accelerate&quot;</title>
+I believe the problems can be summarized as:
+1. No clear leadership leading the way. Too many things are being done in parallel, and there isn’t leadership saying no to most of them. People believe I’m doing 20 things, but in reality, I’m working sequentially on only one and I make sure all the things I’m doing are connected. This means saying no to 99% of the things that get proposed to me.
+
+2. Most of the people running the show don’t even tweet. If you don’t communicate with the public, how do you expect to lead in this century? Communication and leadership are the same thing nowadays. Long blog posts are not going to replace debates in the public arena with competitors. I love blog posts and research posts but we need to explain and defend our roadmap publicly where the users are. The competitors are cheaper and faster than us. How do you explain to the common user why we&apos;re better? I believe our design is better but we need to explain why.
+
+3. Lack of urgency in the ecosystem. Most companies and founders in Ethereum believed that Ethereum won, so now we just need to fight between all the Ethereum teams to see who can become the leader and decide things. Too many conferences, too many trips, too much time dealing with investors instead of being able to execute things. Debating and politics over building.
+
+4. No new stream of blood. The stream of new blood has been decaying the last two years. People are aging, and we’re not being able to recruit new talent that stays for the long run.
+
+5. No new big products like Maker, AAVE. This is related to 3 and 4. We don’t attract talent that is end-user focused. Our main wallet has had a UX from the beginning of the 2000s.
+
+6. Trading, memecoins, DeFi seen as a sin. We forgot who is paying the bills. Personally, I’m not a big fan of trading, but I know it’s one of the main use cases in crypto. The only two real products in crypto for now are trading and stablecoin payments. I’m more in the second camp that loves stablecoins and ETH since I’m from a developing country and I didn’t even have money to trade until a few years ago. I see crypto as a way to escape financial repression in countries like Argentina. That said, fighting your users is never a good idea, even if you don’t like your users.
+
+7. Talking about price is seen as something uninteresting. As an engineer and fan of research, I get why we’re like this. The thing is that the security of our network depends on price. The roadmap we have also depends on price: if we’re not one of the biggest networks in crypto, rollups aren’t going to settle in Ethereum.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>I've just sent this message to main channel of Lambda.<br>
+        <description><![CDATA[<p>The problem is not how much ETH the EF sells per year. Every interaction I had with people in the EF was very good. Most of the people working there are honest and hard working people accepting a pay cut in comparison to the options they would have working in the industry.<br>
 <br>
-"Lambda becomes faster, more efficient, more demanding, or dies<br>
+The EF could sell everything, and it wouldn’t have a huge price impact if it did the sell in a timed manner. I’m sure the EF could be run in a more efficient way, but this is not the main problem. You’re talking about the EF as if it were the government of a country when it’s not. The problem Ethereum has is a bigger one, and the EF is only partially responsible for it. The problem exists at the social layer, and it’s a cultural problem.<br>
 <br>
-We are going to become even more aggressive in our ability to delivery<br>
+The problems aren’t the EF’s but problems across the whole ecosystem. These problems have been around for years, but now they are becoming crystal clear due to the fact that, for the first time, there are two clear competitors: Solana and Celestia. If Bitcoin adds OP_CAT, it will also be a strong competitor.<br>
 <br>
-If you want peace of mind, I recommend leaving the company, we are going to accelerate"</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGhmWXJiW4AAvpK8.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 18 Jan 2025 19:32:59 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1880699928940613831#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1880699928940613831#m</link>
+I believe the problems can be summarized as:<br>
+1. No clear leadership leading the way. Too many things are being done in parallel, and there isn’t leadership saying no to most of them. People believe I’m doing 20 things, but in reality, I’m working sequentially on only one and I make sure all the things I’m doing are connected. This means saying no to 99% of the things that get proposed to me.<br>
+<br>
+2. Most of the people running the show don’t even tweet. If you don’t communicate with the public, how do you expect to lead in this century? Communication and leadership are the same thing nowadays. Long blog posts are not going to replace debates in the public arena with competitors. I love blog posts and research posts but we need to explain and defend our roadmap publicly where the users are. The competitors are cheaper and faster than us. How do you explain to the common user why we're better? I believe our design is better but we need to explain why.<br>
+<br>
+3. Lack of urgency in the ecosystem. Most companies and founders in Ethereum believed that Ethereum won, so now we just need to fight between all the Ethereum teams to see who can become the leader and decide things. Too many conferences, too many trips, too much time dealing with investors instead of being able to execute things. Debating and politics over building.<br>
+<br>
+4. No new stream of blood. The stream of new blood has been decaying the last two years. People are aging, and we’re not being able to recruit new talent that stays for the long run.<br>
+<br>
+5. No new big products like Maker, AAVE. This is related to 3 and 4. We don’t attract talent that is end-user focused. Our main wallet has had a UX from the beginning of the 2000s.<br>
+<br>
+6. Trading, memecoins, DeFi seen as a sin. We forgot who is paying the bills. Personally, I’m not a big fan of trading, but I know it’s one of the main use cases in crypto. The only two real products in crypto for now are trading and stablecoin payments. I’m more in the second camp that loves stablecoins and ETH since I’m from a developing country and I didn’t even have money to trade until a few years ago. I see crypto as a way to escape financial repression in countries like Argentina. That said, fighting your users is never a good idea, even if you don’t like your users.<br>
+<br>
+7. Talking about price is seen as something uninteresting. As an engineer and fan of research, I get why we’re like this. The thing is that the security of our network depends on price. The roadmap we have also depends on price: if we’re not one of the biggest networks in crypto, rollups aren’t going to settle in Ethereum.</p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 15:45:27 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1881367444352008666#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1881367444352008666#m</link>
+      </item>
+      <item>
+        <title>So @realDonaldTrump you launch a memecoin in @solana to then buy ETH in @ethereum. Smart.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>So <a href="https://nitter.freedit.eu/realDonaldTrump" title="Donald J. Trump">@realDonaldTrump</a> you launch a memecoin in <a href="https://nitter.freedit.eu/solana" title="Solana">@solana</a> to then buy ETH in <a href="https://nitter.freedit.eu/ethereum" title="Ethereum.org">@ethereum</a>. Smart.</p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 15:51:50 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1881369049952866686#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1881369049952866686#m</link>
+      </item>
+      <item>
+        <title>R to @fede_intern: @Tetranode and @StaniKulechov I agree with many of the things you guys wrote but I don&apos;t believe these are the main problems.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p><a href="https://nitter.freedit.eu/Tetranode" title="TΞtranodΞ 🦇🔊">@Tetranode</a> and <a href="https://nitter.freedit.eu/StaniKulechov" title="Stani">@StaniKulechov</a> I agree with many of the things you guys wrote but I don't believe these are the main problems.</p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 15:47:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1881368038643265820#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1881368038643265820#m</link>
       </item>
 
   </channel>

@@ -16,6 +16,14 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @0xTaker: yeah dude, l2s are definitely the solution to one chain doing 20x the throughput of everything else combined</title>
+        <dc:creator>@ceterispar1bus</dc:creator>
+        <description><![CDATA[<p>yeah dude, l2s are definitely the solution to one chain doing 20x the throughput of everything else combined</p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 13:32:21 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ceterispar1bus/status/1881333950259610077#m</guid>
+        <link>https://nitter.freedit.eu/ceterispar1bus/status/1881333950259610077#m</link>
+      </item>
+      <item>
         <title>RT by @0xTaker: Nate a knower n real one 🫡
 we enjoy tha @AdjacentNews</title>
         <dc:creator>@andnasnd</dc:creator>
@@ -382,19 +390,6 @@ https://primer.prooftrading.com/</title>
         <pubDate>Wed, 08 Jan 2025 13:49:04 GMT</pubDate>
         <guid>https://nitter.freedit.eu/0xTaker/status/1876989499881709577#m</guid>
         <link>https://nitter.freedit.eu/0xTaker/status/1876989499881709577#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: Bridging isn’t future-proof—it&apos;s messy, slow, and user-unfriendly. While pure synchronous atomic composability may be the ideal end state, there’s still plenty of low-hanging fruit to tackle today.
-
-My latest piece dives into how cross-chain intents, solver networks, and ERC-7683 can mitigate MEV leakage while paving the way for frictionless transactions.</title>
-        <dc:creator>@arjunbmohan</dc:creator>
-        <description><![CDATA[<p>Bridging isn’t future-proof—it's messy, slow, and user-unfriendly. While pure synchronous atomic composability may be the ideal end state, there’s still plenty of low-hanging fruit to tackle today.<br>
-<br>
-My latest piece dives into how cross-chain intents, solver networks, and ERC-7683 can mitigate MEV leakage while paving the way for frictionless transactions.</p>
-<p><a href="https://nitter.freedit.eu/CumberlandLabs/status/1876736138506822113#m">nitter.freedit.eu/CumberlandLabs/status/1876736138506822113#m</a></p>]]></description>
-        <pubDate>Tue, 07 Jan 2025 21:22:33 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/arjunbmohan/status/1876741236746342860#m</guid>
-        <link>https://nitter.freedit.eu/arjunbmohan/status/1876741236746342860#m</link>
       </item>
 
   </channel>

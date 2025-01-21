@@ -16,6 +16,249 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @0xstark: I want Ethereum to win, because I believe that it is humanities only genuine shot at preserving true censorship-resistance, financial freedom, and autonomy/privacy, in an increasingly centralizing world.</title>
+        <dc:creator>@daddysether</dc:creator>
+        <description><![CDATA[<p>I want Ethereum to win, because I believe that it is humanities only genuine shot at preserving true censorship-resistance, financial freedom, and autonomy/privacy, in an increasingly centralizing world.</p>
+<p><a href="https://nitter.freedit.eu/0xstark/status/1881439778778009646#m">nitter.freedit.eu/0xstark/status/1881439778778009646#m</a></p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 22:05:24 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/daddysether/status/1881463061980365034#m</guid>
+        <link>https://nitter.freedit.eu/daddysether/status/1881463061980365034#m</link>
+      </item>
+      <item>
+        <title>I want Ethereum to win because the world computer must be built around the strongest core, otherwise the economy &amp; civilization we build on it will crumble or be captured.</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>I want Ethereum to win because the world computer must be built around the strongest core, otherwise the economy &amp; civilization we build on it will crumble or be captured.</p>
+<p><a href="https://nitter.freedit.eu/jessepollak/status/1881399725305549131#m">nitter.freedit.eu/jessepollak/status/1881399725305549131#m</a></p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 20:32:53 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1881439778778009646#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1881439778778009646#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: Native rollups ethresearch post just dropped by @drakefjustin.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>Native rollups ethresearch post just dropped by <a href="https://nitter.freedit.eu/drakefjustin" title="Justin Ðrake 🦇🔊">@drakefjustin</a>.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGhwoQOebYAAqX3M.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 20 Jan 2025 19:26:16 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1881423013633249679#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1881423013633249679#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: Ethereum Foundation Treasury Update
+
+The Ethereum Foundation (@ethereumfndn) has set up a new @safe 3-of-5 multisig wallet.
+
+The wallet address is 0x9fC3dc011b461664c835F2527fffb1169b3C213e
+
+An op has been initiated to send 50,000 ETH there, but be patient; due to signing delays, this will take a few days to process (https://etherscan.io/tx/0x6872c97c571e26c6c1dc18999fd116a67ce23cefdecf1cfcf6fb58899ba7f4d7)
+
+The EF will use this new wallet to participate in the DeFi ecosystem. We&apos;ve made a testing tx on @aave. Stay tuned!
+
+Also, @safe has proven safe and has a great user experience, and we will transfer more of our funds here over time!
+
+#helloworldcomputer</title>
+        <dc:creator>@icebearhww</dc:creator>
+        <description><![CDATA[<p>Ethereum Foundation Treasury Update<br>
+<br>
+The Ethereum Foundation (<a href="https://nitter.freedit.eu/ethereumfndn" title="Ethereum Foundation">@ethereumfndn</a>) has set up a new <a href="https://nitter.freedit.eu/safe" title="Safe">@safe</a> 3-of-5 multisig wallet.<br>
+<br>
+The wallet address is 0x9fC3dc011b461664c835F2527fffb1169b3C213e<br>
+<br>
+An op has been initiated to send 50,000 ETH there, but be patient; due to signing delays, this will take a few days to process (<a href="https://etherscan.io/tx/0x6872c97c571e26c6c1dc18999fd116a67ce23cefdecf1cfcf6fb58899ba7f4d7">etherscan.io/tx/0x6872c97c57…</a>)<br>
+<br>
+The EF will use this new wallet to participate in the DeFi ecosystem. We've made a testing tx on <a href="https://nitter.freedit.eu/aave" title="Aave">@aave</a>. Stay tuned!<br>
+<br>
+Also, <a href="https://nitter.freedit.eu/safe" title="Safe">@safe</a> has proven safe and has a great user experience, and we will transfer more of our funds here over time!<br>
+<br>
+<a href="https://nitter.freedit.eu/search?q=%23helloworldcomputer">#helloworldcomputer</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGhweNGZWcAAa7Zn.png" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 20 Jan 2025 18:49:23 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/icebearhww/status/1881413731780821405#m</guid>
+        <link>https://nitter.freedit.eu/icebearhww/status/1881413731780821405#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: Some points on this:
+
+1. The current process of upgrading Ethereum IS BROKEN.  Builders need long-term commitments to capacity, otherwise they cannot build on Ethereum. They need to know what the plan is in 5 years.
+So I hope that we can finally agree to timelines in the core dev process.
+
+2. We nonsensically claim that L1 cannot be scaled and L2s are the only way.
+This is a complete ivory tower perspective -- Vitalik already posted this 3 years ago, and with DAS and zkEVMs the ingredients are now ready: https://vitalik.eth.limo/general/2021/12/06/endgame.html
+There are limits to this, yes, but scaling it 100-1000x in a few years is completely possible.
+This achieves many things that based/native/etc. rollups don&apos;t.
+I think actually doing this and stopping to find excuses for not doing it is essential for Ethereum winning.
+
+3. Not everything can be on Ethereum L1, whether the actual limit is 1k or 100k tps or maybe even 1M tps. For this it is still great to add lots of data availability and create a great Ethereum security zones for rollups, who are Ethereum allies and can use Ether and all other Ethereum assets trustlessly.
+But we need to do it at a scale that actually matters. We need to get to our current target of one Megabyte per second in 1-2 years rather than 5, and then KEEP GOING. I am currently doing research on maximally decentralizing the networking DAS/Data Availability Sampling, but until that&apos;s done, adding Data Availability Provider nodes with higher requirements is a good solution that has the same security assumptions as optimistic rollups (one honest node).
+Other Data Availability protocols are currently building for GB/s! Ethereum does not have to match this, but being at 1/1000ths is not good enough.
+Some projects are openly stating already that they will never use Ethereum DA (and openly advertising with Vitalik&apos;s support! The irony). Being ok with that and still claiming that they are somehow &quot;Ethereum aligned&quot; is thoroughly un-ambitious.</title>
+        <dc:creator>@dankrad</dc:creator>
+        <description><![CDATA[<p>Some points on this:<br>
+<br>
+1. The current process of upgrading Ethereum IS BROKEN.  Builders need long-term commitments to capacity, otherwise they cannot build on Ethereum. They need to know what the plan is in 5 years.<br>
+So I hope that we can finally agree to timelines in the core dev process.<br>
+<br>
+2. We nonsensically claim that L1 cannot be scaled and L2s are the only way.<br>
+This is a complete ivory tower perspective -- Vitalik already posted this 3 years ago, and with DAS and zkEVMs the ingredients are now ready: <a href="https://vitalik.eth.limo/general/2021/12/06/endgame.html">vitalik.eth.limo/general/202…</a><br>
+There are limits to this, yes, but scaling it 100-1000x in a few years is completely possible.<br>
+This achieves many things that based/native/etc. rollups don't.<br>
+I think actually doing this and stopping to find excuses for not doing it is essential for Ethereum winning.<br>
+<br>
+3. Not everything can be on Ethereum L1, whether the actual limit is 1k or 100k tps or maybe even 1M tps. For this it is still great to add lots of data availability and create a great Ethereum security zones for rollups, who are Ethereum allies and can use Ether and all other Ethereum assets trustlessly.<br>
+But we need to do it at a scale that actually matters. We need to get to our current target of one Megabyte per second in 1-2 years rather than 5, and then KEEP GOING. I am currently doing research on maximally decentralizing the networking DAS/Data Availability Sampling, but until that's done, adding Data Availability Provider nodes with higher requirements is a good solution that has the same security assumptions as optimistic rollups (one honest node).<br>
+Other Data Availability protocols are currently building for GB/s! Ethereum does not have to match this, but being at 1/1000ths is not good enough.<br>
+Some projects are openly stating already that they will never use Ethereum DA (and openly advertising with Vitalik's support! The irony). Being ok with that and still claiming that they are somehow "Ethereum aligned" is thoroughly un-ambitious.</p>
+<p><a href="https://nitter.freedit.eu/dankrad/status/1881387224350052528#m">nitter.freedit.eu/dankrad/status/1881387224350052528#m</a></p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 18:15:09 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/dankrad/status/1881405119373234238#m</guid>
+        <link>https://nitter.freedit.eu/dankrad/status/1881405119373234238#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: I want Ethereum to win because I believe others deserve to define their future and we can all work together in a connected, unified whole.</title>
+        <dc:creator>@jessepollak</dc:creator>
+        <description><![CDATA[<p>I want Ethereum to win because I believe others deserve to define their future and we can all work together in a connected, unified whole.</p>
+<p><a href="https://nitter.freedit.eu/jessepollak/status/1881399294256877778#m">nitter.freedit.eu/jessepollak/status/1881399294256877778#m</a></p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 17:53:43 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/jessepollak/status/1881399725305549131#m</guid>
+        <link>https://nitter.freedit.eu/jessepollak/status/1881399725305549131#m</link>
+      </item>
+      <item>
+        <title>surprised it is so evenly split</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>surprised it is so evenly split</p>
+<p><a href="https://nitter.freedit.eu/0xstark/status/1881009297406173262#m">nitter.freedit.eu/0xstark/status/1881009297406173262#m</a></p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 16:04:45 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1881372301486408016#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1881372301486408016#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: Ethereum app builders, we want to hear from you!
+
+The first space was a great start. Let’s keep the convo going between core devs &amp; app builders
+
+Share your journey, challenges, &amp; how Ethereum can better support you
+
+Apply to join the next space 👇
+
+https://forms.gle/LGDKj4YRZTmHaXBy9</title>
+        <dc:creator>@jchaskin22</dc:creator>
+        <description><![CDATA[<p>Ethereum app builders, we want to hear from you!<br>
+<br>
+The first space was a great start. Let’s keep the convo going between core devs &amp; app builders<br>
+<br>
+Share your journey, challenges, &amp; how Ethereum can better support you<br>
+<br>
+Apply to join the next space 👇<br>
+<br>
+<a href="https://forms.gle/LGDKj4YRZTmHaXBy9">forms.gle/LGDKj4YRZTmHaXBy9</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1879997053067018240%2FAzE6_XDu%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 20 Jan 2025 13:47:39 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/jchaskin22/status/1881337801054331039#m</guid>
+        <link>https://nitter.freedit.eu/jchaskin22/status/1881337801054331039#m</link>
+      </item>
+      <item>
+        <title>R to @0xstark: 8. @Farcaster_xyz is a decentralized social media protocol.
+
+Launched in 2020 by @dwr and @varunsrin, Farcaster enables a new kind of social media where anyone can build a client (like @warpcast_), and users can interact with onchain components called Frames.</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>8. <a href="https://nitter.freedit.eu/farcaster_xyz" title="Farcaster">@Farcaster_xyz</a> is a decentralized social media protocol.<br>
+<br>
+Launched in 2020 by <a href="https://nitter.freedit.eu/dwr" title="Dan Romero">@dwr</a> and <a href="https://nitter.freedit.eu/varunsrin" title="Varun Srinivasan">@varunsrin</a>, Farcaster enables a new kind of social media where anyone can build a client (like <a href="https://nitter.freedit.eu/warpcast_" title="Warpcast">@warpcast_</a>), and users can interact with onchain components called Frames.</p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 14:48:05 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1881353008430346628#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1881353008430346628#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: The concerns historically were (1) regulatory, (2) if EF stakes ourselves, this de-facto forces us to take a position on any future contentious hard fork.
+
+(1) is less than before, (2) remains. There&apos;s definitely ways to minimize (2), and we&apos;re recently been exploring them.</title>
+        <dc:creator>@VitalikButerin</dc:creator>
+        <description><![CDATA[<p>The concerns historically were (1) regulatory, (2) if EF stakes ourselves, this de-facto forces us to take a position on any future contentious hard fork.<br>
+<br>
+(1) is less than before, (2) remains. There's definitely ways to minimize (2), and we're recently been exploring them.</p>]]></description>
+        <pubDate>Mon, 20 Jan 2025 11:13:11 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/VitalikButerin/status/1881298926650929415#m</guid>
+        <link>https://nitter.freedit.eu/VitalikButerin/status/1881298926650929415#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: Level up as a dev with our first ever hackathon focused on building with AI agents on Ethereum, happening January 31 - February 12!
+
+It&apos;s virtual, so you can join in from anywhere in the world. We have the right builder community, mentors, and prize categories to ensure you&apos;re building at the forefront of this space.
+
+Apply here: https://ethglob.al/TWT1AH7QF</title>
+        <dc:creator>@ETHGlobal</dc:creator>
+        <description><![CDATA[<p>Level up as a dev with our first ever hackathon focused on building with AI agents on Ethereum, happening January 31 - February 12!<br>
+<br>
+It's virtual, so you can join in from anywhere in the world. We have the right builder community, mentors, and prize categories to ensure you're building at the forefront of this space.<br>
+<br>
+Apply here: <a href="https://ethglob.al/TWT1AH7QF">ethglob.al/TWT1AH7QF</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGhbVrIxbUAAWfPZ.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 16 Jan 2025 16:13:03 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ETHGlobal/status/1879924836853842141#m</guid>
+        <link>https://nitter.freedit.eu/ETHGlobal/status/1879924836853842141#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: [Premature Optimization] Rules Everything Around Me</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>[Premature Optimization] Rules Everything Around Me</p>]]></description>
+        <pubDate>Wed, 15 Sep 2021 23:16:55 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1438280700499615745#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1438280700499615745#m</link>
+      </item>
+      <item>
+        <title>R to @0xstark: in the last 8 days, @worldcoin has onboarded another ~400,000 users to Ethereum</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>in the last 8 days, <a href="https://nitter.freedit.eu/worldcoin" title="World">@worldcoin</a> has onboarded another ~400,000 users to Ethereum</p>
+<p><a href="https://nitter.freedit.eu/WorldIDCounter/status/1881039125371064783#m">nitter.freedit.eu/WorldIDCounter/status/1881039125371064783#m</a></p>]]></description>
+        <pubDate>Sun, 19 Jan 2025 18:22:23 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1881044548421566974#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1881044548421566974#m</link>
+      </item>
+      <item>
+        <title>mint on L1, bridge to L2</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>mint on L1, bridge to L2</p>
+<p><a href="https://nitter.freedit.eu/liamihorne/status/1877736358841606299#m">nitter.freedit.eu/liamihorne/status/1877736358841606299#m</a></p>]]></description>
+        <pubDate>Sun, 19 Jan 2025 17:55:07 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1881037686984863880#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1881037686984863880#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: There is no reason to be anything but over the moon bullish for ETH, Ethereum Layer 1 and the Metropolitan Ethereum ecosystem, from what I am seeing.  Bitcoin and Solana are and will continue to be great at what they do, and I look forward to forging deep integration with both ecosystems as Web3 evolves.  
+
+Nothing will be able to rival the breadth and depth of the foundational Ethereum ecosystem wrt progressively rigorous decentralization, credible neutrality (so even if nation states are at war they will still be able to enter into smart contract-based deals with one another -- including treaties -- and back their word with large stake), censorship resistance, developer base, massive transaction throughput, low latency, and universal composability.  Much of this is here and more will be improving fast over the next couple of years.  
+
+Major institutions now feel comfortable building on Ethereum, because of its size, maturity, talent base and roadmap.  Just as every company needed to migrate to the web in the 90s and 00s, the gold rush to Web3 is about to massively accelerate.  Web3 -- the re-decentralized web -- is the natural evolution of the open protocol and open spec-based internet and web.   Most traditional businesses will start to migrate to Web3 over the next few years.  And wildly creative memecoin, AI memecoin, NFT, social graph and gaming degen activity will be there -- as well as on other major platforms.  Most importantly, Metropolitan Ethereum will be the most trusted platform for DeFi.
+
+There are multiple giant projects that I am aware of that will help anyone who is uncertain about Ethereum&apos;s powerful future to grow delirious with Bull Fever.  2025 is the year the world will move significantly on-chain. The major inflection point that we have all been waiting for is now in the rear view mirror and the paradigm shift to a progressively decentralizing world is now in full gear and will rapidly accelerate.</title>
+        <dc:creator>@ethereumJoseph</dc:creator>
+        <description><![CDATA[<p>There is no reason to be anything but over the moon bullish for ETH, Ethereum Layer 1 and the Metropolitan Ethereum ecosystem, from what I am seeing.  Bitcoin and Solana are and will continue to be great at what they do, and I look forward to forging deep integration with both ecosystems as Web3 evolves.  <br>
+<br>
+Nothing will be able to rival the breadth and depth of the foundational Ethereum ecosystem wrt progressively rigorous decentralization, credible neutrality (so even if nation states are at war they will still be able to enter into smart contract-based deals with one another -- including treaties -- and back their word with large stake), censorship resistance, developer base, massive transaction throughput, low latency, and universal composability.  Much of this is here and more will be improving fast over the next couple of years.  <br>
+<br>
+Major institutions now feel comfortable building on Ethereum, because of its size, maturity, talent base and roadmap.  Just as every company needed to migrate to the web in the 90s and 00s, the gold rush to Web3 is about to massively accelerate.  Web3 -- the re-decentralized web -- is the natural evolution of the open protocol and open spec-based internet and web.   Most traditional businesses will start to migrate to Web3 over the next few years.  And wildly creative memecoin, AI memecoin, NFT, social graph and gaming degen activity will be there -- as well as on other major platforms.  Most importantly, Metropolitan Ethereum will be the most trusted platform for DeFi.<br>
+<br>
+There are multiple giant projects that I am aware of that will help anyone who is uncertain about Ethereum's powerful future to grow delirious with Bull Fever.  2025 is the year the world will move significantly on-chain. The major inflection point that we have all been waiting for is now in the rear view mirror and the paradigm shift to a progressively decentralizing world is now in full gear and will rapidly accelerate.</p>]]></description>
+        <pubDate>Sat, 18 Jan 2025 17:56:17 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ethereumJoseph/status/1880675592837951722#m</guid>
+        <link>https://nitter.freedit.eu/ethereumJoseph/status/1880675592837951722#m</link>
+      </item>
+      <item>
+        <title>R to @0xstark: and: why?</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>and: why?</p>]]></description>
+        <pubDate>Sun, 19 Jan 2025 16:15:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1881012699980816830#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1881012699980816830#m</link>
+      </item>
+      <item>
+        <title>for longer form content on twitter, you prefer:</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>for longer form content on twitter, you prefer:</p>]]></description>
+        <pubDate>Sun, 19 Jan 2025 16:02:18 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1881009297406173262#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1881009297406173262#m</link>
+      </item>
+      <item>
         <title>“Lemon, it’s [Saturday]”</title>
         <dc:creator>@0xstark</dc:creator>
         <description><![CDATA[<p>“Lemon, it’s [Saturday]”</p>]]></description>
@@ -73,286 +316,6 @@ These things aren't what EF does and this isn't going to change. People seeking 
         <pubDate>Fri, 17 Jan 2025 23:34:58 GMT</pubDate>
         <guid>https://nitter.freedit.eu/fradamt/status/1880398436710903951#m</guid>
         <link>https://nitter.freedit.eu/fradamt/status/1880398436710903951#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: 🎉 Thrilled to finally announce the recipients of the 2024 Academic Grants Round!
-
-This overdue update highlights 40+ groundbreaking projects led by renowned researchers at academic institutions worldwide, tackling Ethereum’s biggest challenges. 👇</title>
-        <dc:creator>@Drigolvc</dc:creator>
-        <description><![CDATA[<p>🎉 Thrilled to finally announce the recipients of the 2024 Academic Grants Round!<br>
-<br>
-This overdue update highlights 40+ groundbreaking projects led by renowned researchers at academic institutions worldwide, tackling Ethereum’s biggest challenges. 👇</p>]]></description>
-        <pubDate>Fri, 17 Jan 2025 20:51:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/Drigolvc/status/1880357370821517696#m</guid>
-        <link>https://nitter.freedit.eu/Drigolvc/status/1880357370821517696#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: agreed on the importance of blob-scaling
-
-what would be a pragmatic target/max here? pectra is 6/9, what (realistically) do you want to see?</title>
-        <dc:creator>@CarlBeek</dc:creator>
-        <description><![CDATA[<p>agreed on the importance of blob-scaling<br>
-<br>
-what would be a pragmatic target/max here? pectra is 6/9, what (realistically) do you want to see?</p>
-<p><a href="https://nitter.freedit.eu/jinglejamOP/status/1880333427653931425#m">nitter.freedit.eu/jinglejamOP/status/1880333427653931425#m</a></p>]]></description>
-        <pubDate>Fri, 17 Jan 2025 19:25:34 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/CarlBeek/status/1880335673900822584#m</guid>
-        <link>https://nitter.freedit.eu/CarlBeek/status/1880335673900822584#m</link>
-      </item>
-      <item>
-        <title>R to @0xstark: 7. @soundxyz_ is a music streaming platform where artists release tracks as NFTs
-
-Ethereum cuts out the middleman, which means on @soundxyz_ artists keep the profits from their work and build stronger connections with their fans, through ownership and exclusive perks.</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>7. <a href="https://nitter.freedit.eu/soundxyz_" title="sound.xyz (🎧,🎧)">@soundxyz_</a> is a music streaming platform where artists release tracks as NFTs<br>
-<br>
-Ethereum cuts out the middleman, which means on <a href="https://nitter.freedit.eu/soundxyz_" title="sound.xyz (🎧,🎧)">@soundxyz_</a> artists keep the profits from their work and build stronger connections with their fans, through ownership and exclusive perks.</p>]]></description>
-        <pubDate>Fri, 17 Jan 2025 15:43:56 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1880279899266785706#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1880279899266785706#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: Recap of our first &quot;L2 Interop Working Group&quot; call 🔥
-
-70+ people came together from across Ethereum – L2s, wallets, bridges, interop providers, &amp; more (list below). Great to see all the momentum on call #1 
-
-📝 Call notes: https://notes.ethereum.org/@rudolf/L2Interop-call-01
-
-📞 Join future calls:
-https://forms.gle/x76tPxHQQQfjfynx9</title>
-        <dc:creator>@rudolf6_</dc:creator>
-        <description><![CDATA[<p>Recap of our first "L2 Interop Working Group" call 🔥<br>
-<br>
-70+ people came together from across Ethereum – L2s, wallets, bridges, interop providers, & more (list below). Great to see all the momentum on call #1 <br>
-<br>
-📝 Call notes: <a href="https://notes.ethereum.org/@rudolf/L2Interop-call-01">notes.ethereum.org/@rudolf/L…</a><br>
-<br>
-📞 Join future calls:<br>
-<a href="https://forms.gle/x76tPxHQQQfjfynx9">forms.gle/x76tPxHQQQfjfynx9</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGhdC9oracAAZqrV.png" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 17 Jan 2025 00:17:26 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rudolf6_/status/1880046736816898357#m</guid>
-        <link>https://nitter.freedit.eu/rudolf6_/status/1880046736816898357#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: Regardless of the future of Ethereum—whether with or without me in any capacity—I want to state publicly and very clearly that I have nothing but respect and praise for @AyaMiyagotchi&apos;s leadership and friendship. There are many reasons Ethereum has flourished over the years, and Aya has played a significant role in that. She has a deeply strategic mind and a pure heart. Not many people have had the chance to work closely with her, but I have. My successes in Ethereum have always been complemented by her support and guidance.
-
-Even if you want to see changes with the EF, and even if  your criticisms are valid, please look toward and help build a positive future. Please, put the pitchforks away.</title>
-        <dc:creator>@dannyryan</dc:creator>
-        <description><![CDATA[<p>Regardless of the future of Ethereum—whether with or without me in any capacity—I want to state publicly and very clearly that I have nothing but respect and praise for <a href="https://nitter.freedit.eu/AyaMiyagotchi" title="Aya Miyaguchi">@AyaMiyagotchi</a>'s leadership and friendship. There are many reasons Ethereum has flourished over the years, and Aya has played a significant role in that. She has a deeply strategic mind and a pure heart. Not many people have had the chance to work closely with her, but I have. My successes in Ethereum have always been complemented by her support and guidance.<br>
-<br>
-Even if you want to see changes with the EF, and even if  your criticisms are valid, please look toward and help build a positive future. Please, put the pitchforks away.</p>]]></description>
-        <pubDate>Thu, 16 Jan 2025 01:40:36 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/dannyryan/status/1879705279761178690#m</guid>
-        <link>https://nitter.freedit.eu/dannyryan/status/1879705279761178690#m</link>
-      </item>
-      <item>
-        <title>R to @0xstark: 6. @0xSplits is onchain infra that makes it easy for teams to manage and divide revenue and payments.
-
-The splits contracts are open source, audited, free with no protocol fees, and unstoppable - meaning they&apos;ll continue to function as long as Ethereum does.</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>6. <a href="https://nitter.freedit.eu/0xSplits" title="Splits">@0xSplits</a> is onchain infra that makes it easy for teams to manage and divide revenue and payments.<br>
-<br>
-The splits contracts are open source, audited, free with no protocol fees, and unstoppable - meaning they'll continue to function as long as Ethereum does.</p>]]></description>
-        <pubDate>Thu, 16 Jan 2025 14:59:06 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1879906228568240594#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1879906228568240594#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: Now that the @soneium censorship drama is making rounds in CT, let me show you a more complex example of interplay between Ethereum and the sequencer of one of its Rollup. I will show you how Ethereum provides censorship resistance to a &quot;permissioned&quot; rollup 🧵</title>
-        <dc:creator>@bkiepuszewski</dc:creator>
-        <description><![CDATA[<p>Now that the <a href="https://nitter.freedit.eu/soneium" title="Soneium 💿">@soneium</a> censorship drama is making rounds in CT, let me show you a more complex example of interplay between Ethereum and the sequencer of one of its Rollup. I will show you how Ethereum provides censorship resistance to a "permissioned" rollup 🧵</p>]]></description>
-        <pubDate>Wed, 15 Jan 2025 14:41:23 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/bkiepuszewski/status/1879539382027432420#m</guid>
-        <link>https://nitter.freedit.eu/bkiepuszewski/status/1879539382027432420#m</link>
-      </item>
-      <item>
-        <title>R to @0xstark: 5. Industry AI is a prizewinning hack from @ETHGlobal  Bangkok.
-
-It&apos;s a platform where 4 autonomous AI agents work together to handle complex onchain operations like trading and contract development, managed through a natural language interface. Built by @EthYellie and @Quix_xyz</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>5. Industry AI is a prizewinning hack from <a href="https://nitter.freedit.eu/ETHGlobal" title="ETHGlobal">@ETHGlobal</a>  Bangkok.<br>
-<br>
-It's a platform where 4 autonomous AI agents work together to handle complex onchain operations like trading and contract development, managed through a natural language interface. Built by @EthYellie and <a href="https://nitter.freedit.eu/Quix_xyz" title="Quix">@Quix_xyz</a></p>]]></description>
-        <pubDate>Wed, 15 Jan 2025 14:10:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1879531563479646327#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1879531563479646327#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: Excited to announce that @ralexstokes and I are moving to the position of EF Research co-leads!
-
-With this new role, I hope to accelerate pragmatic research for Ethereum and find more ways for us to involve the ecosystem in our many exciting projects.
-
-What is EF Research?
-
-Starting with a single original &quot;Research team&quot; at the Ethereum Foundation @ethereumfndn, a group of 5 teams has come to be known as &quot;EF Research&quot;. Today, these 5 teams are:
-
-- Applied Research Group (ARG): Emphasis on getting research ideas into production, data engineering (the famous dotpics! https://dotpics.info) and specifications, with a new bend towards applied cryptography
-
-- Consensus R&amp;D: The root from which more teams appeared, focusing among (many) other things on consensus, specifications of PoS Ethereum, and protocol-driven research
-
-- Cryptography: A team involved in delivering cutting-edge, secure cryptography for use by the protocol. See also https://crypto.ethereum.org
-
-- Protocol Security: Wide range of expertise to keep Ethereum safe, from code reviews to advanced tooling, simulations and bug bounty programs. See also https://github.com/ethereum/protocol-security
-
-- Robust Incentives Group (RIG): A team concerned with the mechanisms and economics powering the Ethereum protocol. See also https://rig.ethereum.org
-
-What changes now?
-
-- Our aim with Alex is to ensure that EFR is always at its best, internally and externally. Alex and I are starting a new team named &quot;ResearchOps&quot;, focused on supporting the incredible work done by members of EFR, and more broadly on the delivery of research for Ethereum and its community.
-
-- I am moving away from my role as team lead of RIG. I am so proud of what our team has accomplished, and RIG is not done yet. To continue this work, @casparschwa is taking over as team lead, I’m excited to see where he takes the group and its members!
-
-What&apos;s next?
-
-For me the direction is clear: Build a world computer for all to use. This means a censorship-resistant L1 at the efficiency frontier, and scale for L2s to onboard as many economies as we can imagine. Some big ticket items are of course SSF, DAS, EL R&amp;D, FOCIL, ZK, PQ… you know the list :)
-
-Research is part of this process, and researching in public for Ethereum and its community is close to my heart. We’ll be experimenting with different ideas, and we&apos;ll also keep our ear to the ground. My DMs are always open to chat, and feel free to AMA in the replies here.</title>
-        <dc:creator>@barnabemonnot</dc:creator>
-        <description><![CDATA[<p>Excited to announce that <a href="https://nitter.freedit.eu/ralexstokes" title="stokes">@ralexstokes</a> and I are moving to the position of EF Research co-leads!<br>
-<br>
-With this new role, I hope to accelerate pragmatic research for Ethereum and find more ways for us to involve the ecosystem in our many exciting projects.<br>
-<br>
-What is EF Research?<br>
-<br>
-Starting with a single original "Research team" at the Ethereum Foundation <a href="https://nitter.freedit.eu/ethereumfndn" title="Ethereum Foundation">@ethereumfndn</a>, a group of 5 teams has come to be known as "EF Research". Today, these 5 teams are:<br>
-<br>
-- Applied Research Group (ARG): Emphasis on getting research ideas into production, data engineering (the famous dotpics! <a href="https://dotpics.info">dotpics.info</a>) and specifications, with a new bend towards applied cryptography<br>
-<br>
-- Consensus R&D: The root from which more teams appeared, focusing among (many) other things on consensus, specifications of PoS Ethereum, and protocol-driven research<br>
-<br>
-- Cryptography: A team involved in delivering cutting-edge, secure cryptography for use by the protocol. See also <a href="https://crypto.ethereum.org">crypto.ethereum.org</a><br>
-<br>
-- Protocol Security: Wide range of expertise to keep Ethereum safe, from code reviews to advanced tooling, simulations and bug bounty programs. See also <a href="https://github.com/ethereum/protocol-security">github.com/ethereum/protocol…</a><br>
-<br>
-- Robust Incentives Group (RIG): A team concerned with the mechanisms and economics powering the Ethereum protocol. See also <a href="https://rig.ethereum.org">rig.ethereum.org</a><br>
-<br>
-What changes now?<br>
-<br>
-- Our aim with Alex is to ensure that EFR is always at its best, internally and externally. Alex and I are starting a new team named "ResearchOps", focused on supporting the incredible work done by members of EFR, and more broadly on the delivery of research for Ethereum and its community.<br>
-<br>
-- I am moving away from my role as team lead of RIG. I am so proud of what our team has accomplished, and RIG is not done yet. To continue this work, <a href="https://nitter.freedit.eu/casparschwa" title="caspar">@casparschwa</a> is taking over as team lead, I’m excited to see where he takes the group and its members!<br>
-<br>
-What's next?<br>
-<br>
-For me the direction is clear: Build a world computer for all to use. This means a censorship-resistant L1 at the efficiency frontier, and scale for L2s to onboard as many economies as we can imagine. Some big ticket items are of course SSF, DAS, EL R&D, FOCIL, ZK, PQ… you know the list :)<br>
-<br>
-Research is part of this process, and researching in public for Ethereum and its community is close to my heart. We’ll be experimenting with different ideas, and we'll also keep our ear to the ground. My DMs are always open to chat, and feel free to AMA in the replies here.</p>]]></description>
-        <pubDate>Tue, 14 Jan 2025 17:06:55 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/barnabemonnot/status/1879213620430791126#m</guid>
-        <link>https://nitter.freedit.eu/barnabemonnot/status/1879213620430791126#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: I’ll be stepping up as a co-lead with @barnabemonnot  for research at the @ethereumfndn. Researchers at the EF are some of the most inspiring and passionate colleagues I’ve found in life and I could not be more excited to support our work both inside and outside the EF.</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>I’ll be stepping up as a co-lead with <a href="https://nitter.freedit.eu/barnabemonnot" title="barnabe.eth">@barnabemonnot</a>  for research at the <a href="https://nitter.freedit.eu/ethereumfndn" title="Ethereum Foundation">@ethereumfndn</a>. Researchers at the EF are some of the most inspiring and passionate colleagues I’ve found in life and I could not be more excited to support our work both inside and outside the EF.</p>]]></description>
-        <pubDate>Tue, 14 Jan 2025 17:12:14 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1879214957268742266#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1879214957268742266#m</link>
-      </item>
-      <item>
-        <title>R to @0xstark: 4. On @zora you post for fun and earn for real.
-
-Founders @dg_goens and @js_horne met while working on Coinbase, and started working on a crypto x fashion project (remember @SAINTFAMEdao ?), before launching @zora: a social NFT app where &gt;160K creators earn from their posts.</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>4. On <a href="https://nitter.freedit.eu/zora" title="zora">@zora</a> you post for fun and earn for real.<br>
-<br>
-Founders <a href="https://nitter.freedit.eu/dg_goens" title="D**">@dg_goens</a> and <a href="https://nitter.freedit.eu/js_horne" title="jacob">@js_horne</a> met while working on Coinbase, and started working on a crypto x fashion project (remember <a href="https://nitter.freedit.eu/SAINTFAMEdao" title="𝖘𝖆𝖎𝖓𝖙 𝖋𝖆𝖒𝖊">@SAINTFAMEdao</a> ?), before launching <a href="https://nitter.freedit.eu/zora" title="zora">@zora</a>: a social NFT app where &gt;160K creators earn from their posts.</p>]]></description>
-        <pubDate>Tue, 14 Jan 2025 15:49:55 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1879194242083643589#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1879194242083643589#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: PSA: I joined the Ethereum Foundation Leadership Team last week.
-
-I joined the EF Research team in mid-2017, starting by contributing to the early sharding proof-of-concept. Over the years, my focus has been on L1 R&amp;D, and that will remain my core area defense. I&apos;m also passionate about Ethereum community building and enjoy bridging core research with the broader community.
-
-The new @ethereumfndn handle is the beginning of the EF establishing more transparent communication channels. I&apos;m excited to collaborate more closely with Aya Miyaguchi (@AyaMiyagotchi), Josh Stark (@0xstark), and Bastian Aue, and to dedicate myself to contributing to EF Leadership. My specific remit within EF Leadership hasn&apos;t been defined yet, but as my role becomes clearer, I&apos;ll share more details about my responsibilities.
-
-As I transition from my previous Consensus R&amp;D team lead role, the internal task handover is well underway. The new EF Research team leads, Barnabé Monnot (@barnabemonnot) and Alex Stokes (@ralexstokes), are helping with the process. For my public-facing responsibilities, Justin Traglia (@JustinTraglia) will step in as the lead maintainer of the Consensus Specifications. I&apos;m not going far! To my longtime L1 collaborators, please feel free to reach out. 🫶
-
-A heartfelt thank you to everyone in the Ethereum ecosystem who has collaborated with me on this journey. Special thanks to Vitalik and Aya for their trust and support. And to EF Research: I love you 4844 times.
-
-I&apos;m excited to see how EF and Ethereum will continue to grow and evolve—and I am fully committed to nurturing and cultivating Ethereum&apos;s future.
-
-#helloworldcomputer
-
-Hsiao-Wei</title>
-        <dc:creator>@icebearhww</dc:creator>
-        <description><![CDATA[<p>PSA: I joined the Ethereum Foundation Leadership Team last week.<br>
-<br>
-I joined the EF Research team in mid-2017, starting by contributing to the early sharding proof-of-concept. Over the years, my focus has been on L1 R&D, and that will remain my core area defense. I'm also passionate about Ethereum community building and enjoy bridging core research with the broader community.<br>
-<br>
-The new <a href="https://nitter.freedit.eu/ethereumfndn" title="Ethereum Foundation">@ethereumfndn</a> handle is the beginning of the EF establishing more transparent communication channels. I'm excited to collaborate more closely with Aya Miyaguchi (<a href="https://nitter.freedit.eu/AyaMiyagotchi" title="Aya Miyaguchi">@AyaMiyagotchi</a>), Josh Stark (<a href="https://nitter.freedit.eu/0xstark" title="Josh Stark">@0xstark</a>), and Bastian Aue, and to dedicate myself to contributing to EF Leadership. My specific remit within EF Leadership hasn't been defined yet, but as my role becomes clearer, I'll share more details about my responsibilities.<br>
-<br>
-As I transition from my previous Consensus R&D team lead role, the internal task handover is well underway. The new EF Research team leads, Barnabé Monnot (<a href="https://nitter.freedit.eu/barnabemonnot" title="barnabe.eth">@barnabemonnot</a>) and Alex Stokes (<a href="https://nitter.freedit.eu/ralexstokes" title="stokes">@ralexstokes</a>), are helping with the process. For my public-facing responsibilities, Justin Traglia (<a href="https://nitter.freedit.eu/JustinTraglia" title="jtraglia.eth">@JustinTraglia</a>) will step in as the lead maintainer of the Consensus Specifications. I'm not going far! To my longtime L1 collaborators, please feel free to reach out. 🫶<br>
-<br>
-A heartfelt thank you to everyone in the Ethereum ecosystem who has collaborated with me on this journey. Special thanks to Vitalik and Aya for their trust and support. And to EF Research: I love you 4844 times.<br>
-<br>
-I'm excited to see how EF and Ethereum will continue to grow and evolve—and I am fully committed to nurturing and cultivating Ethereum's future.<br>
-<br>
-<a href="https://nitter.freedit.eu/search?q=%23helloworldcomputer">#helloworldcomputer</a><br>
-<br>
-Hsiao-Wei</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGhOZc9aaAAACukw.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 14 Jan 2025 04:07:05 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/icebearhww/status/1879017365779931302#m</guid>
-        <link>https://nitter.freedit.eu/icebearhww/status/1879017365779931302#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: first one kicking off later this week – apply below to show what you built (on ethereum/any L2). all r welcome! 🫡
-
-https://forms.gle/VYFceE1maHoGCozt5</title>
-        <dc:creator>@rudolf6_</dc:creator>
-        <description><![CDATA[<p>first one kicking off later this week – apply below to show what you built (on ethereum/any L2). all r welcome! 🫡<br>
-<br>
-<a href="https://forms.gle/VYFceE1maHoGCozt5">forms.gle/VYFceE1maHoGCozt5</a></p>
-<p><a href="https://nitter.freedit.eu/jchaskin22/status/1877464264211935273#m">nitter.freedit.eu/jchaskin22/status/1877464264211935273#m</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1879997053067018240%2FAzE6_XDu%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 13 Jan 2025 20:00:40 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rudolf6_/status/1878894956989014141#m</guid>
-        <link>https://nitter.freedit.eu/rudolf6_/status/1878894956989014141#m</link>
-      </item>
-      <item>
-        <title>R to @0xstark: 3. @Polymarket creates open markets for betting on future events, improving everyone&apos;s understanding of the future by letting us see what people with skin in the game predict.
-
-Last year, Polymarket became the #1 app in the App Store and saw $9B in volume.</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>3. <a href="https://nitter.freedit.eu/Polymarket" title="Polymarket">@Polymarket</a> creates open markets for betting on future events, improving everyone's understanding of the future by letting us see what people with skin in the game predict.<br>
-<br>
-Last year, Polymarket became the #1 app in the App Store and saw $9B in volume.</p>]]></description>
-        <pubDate>Mon, 13 Jan 2025 14:09:01 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1878806462425878545#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1878806462425878545#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: 0. hello world computer, and welcome to the new Ethereum Foundation X account</title>
-        <dc:creator>@ethereumfndn</dc:creator>
-        <description><![CDATA[<p>0. hello world computer, and welcome to the new Ethereum Foundation X account</p>]]></description>
-        <pubDate>Mon, 13 Jan 2025 14:03:05 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ethereumfndn/status/1878804969618653493#m</guid>
-        <link>https://nitter.freedit.eu/ethereumfndn/status/1878804969618653493#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: I&apos;m seeing a growing interest in topics cantered around censorship-resistance, even in my IRL circles.
-
-How do we show everyday people that Ethereum is the platform that they have been looking for?</title>
-        <dc:creator>@daddysether</dc:creator>
-        <description><![CDATA[<p>I'm seeing a growing interest in topics cantered around censorship-resistance, even in my IRL circles.<br>
-<br>
-How do we show everyday people that Ethereum is the platform that they have been looking for?</p>]]></description>
-        <pubDate>Mon, 13 Jan 2025 14:00:02 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/daddysether/status/1878804199317880892#m</guid>
-        <link>https://nitter.freedit.eu/daddysether/status/1878804199317880892#m</link>
-      </item>
-      <item>
-        <title>hello world computer</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>hello world computer</p>
-<p><a href="https://nitter.freedit.eu/ethereum/status/1878791000732393665#m">nitter.freedit.eu/ethereum/status/1878791000732393665#m</a></p>]]></description>
-        <pubDate>Mon, 13 Jan 2025 13:09:23 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1878791452391858603#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1878791452391858603#m</link>
       </item>
 
   </channel>

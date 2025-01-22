@@ -16,6 +16,35 @@
       <height>128</height>
     </image>
       <item>
+        <title>enshrine</title>
+        <dc:creator>@emilianobonassi</dc:creator>
+        <description><![CDATA[<p>enshrine</p>]]></description>
+        <pubDate>Wed, 22 Jan 2025 01:21:27 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/emilianobonassi/status/1881874787791929725#m</guid>
+        <link>https://nitter.freedit.eu/emilianobonassi/status/1881874787791929725#m</link>
+      </item>
+      <item>
+        <title>RT by @emilianobonassi: Conduit Hub is our rollup directory, with:
+
+API keys for RPCs on Conduit chains
+Config files to run a node
+Smart contract addresses &amp; more
+
+It&apos;s everything you need to build on chains like @modenetwork, @GravityChain, @build_on_bob, @PhalaNetwork, @use_corn, &amp; @ithacaxyz Odyssey</title>
+        <dc:creator>@conduitxyz</dc:creator>
+        <description><![CDATA[<p>Conduit Hub is our rollup directory, with:<br>
+<br>
+API keys for RPCs on Conduit chains<br>
+Config files to run a node<br>
+Smart contract addresses &amp; more<br>
+<br>
+It's everything you need to build on chains like <a href="https://nitter.freedit.eu/modenetwork" title="Mode 🟡">@modenetwork</a>, <a href="https://nitter.freedit.eu/GravityChain" title="Gravity.g">@GravityChain</a>, <a href="https://nitter.freedit.eu/build_on_bob" title="BOB">@build_on_bob</a>, <a href="https://nitter.freedit.eu/PhalaNetwork" title="Phala Network">@PhalaNetwork</a>, <a href="https://nitter.freedit.eu/use_corn" title="corn">@use_corn</a>, &amp; <a href="https://nitter.freedit.eu/ithacaxyz" title="Ithaca">@ithacaxyz</a> Odyssey</p>
+<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1881778489281404928%2Fpu%2Fimg%2FmQb3Mq_gom4mxXET.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 21 Jan 2025 19:04:02 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/conduitxyz/status/1881779806205034894#m</guid>
+        <link>https://nitter.freedit.eu/conduitxyz/status/1881779806205034894#m</link>
+      </item>
+      <item>
         <title>This is what they mean when they say “locked tf in.” Rollups performance.</title>
         <dc:creator>@emilianobonassi</dc:creator>
         <description><![CDATA[<p>This is what they mean when they say “locked tf in.” Rollups performance.</p>
@@ -258,34 +287,6 @@ not only for rollups 😁</p>]]></description>
         <pubDate>Sat, 11 Jan 2025 18:39:12 GMT</pubDate>
         <guid>https://nitter.freedit.eu/emilianobonassi/status/1878149680904671323#m</guid>
         <link>https://nitter.freedit.eu/emilianobonassi/status/1878149680904671323#m</link>
-      </item>
-      <item>
-        <title>RT by @emilianobonassi: People don&apos;t understand how much DA high performance L2s will consume
-
-@EclipseFND posting 10GB+ per day is just the warm up
-
-Eclipse will scale significantly from here and meanwhile @movementlabsxyz, @rise_chain, @abundance_xyz, and @conduitxyz G2 chains are on the way</title>
-        <dc:creator>@nickwh8te</dc:creator>
-        <description><![CDATA[<p>People don't understand how much DA high performance L2s will consume<br>
-<br>
-<a href="https://nitter.freedit.eu/EclipseFND" title="Eclipse (🐮,🌑)">@EclipseFND</a> posting 10GB+ per day is just the warm up<br>
-<br>
-Eclipse will scale significantly from here and meanwhile <a href="https://nitter.freedit.eu/movementlabsxyz" title="Movement">@movementlabsxyz</a>, <a href="https://nitter.freedit.eu/rise_chain" title="RISE Chain">@rise_chain</a>, <a href="https://nitter.freedit.eu/abundance_xyz" title="Abundance">@abundance_xyz</a>, and <a href="https://nitter.freedit.eu/conduitxyz" title="Conduit">@conduitxyz</a> G2 chains are on the way</p>]]></description>
-        <pubDate>Fri, 10 Jan 2025 14:00:01 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/nickwh8te/status/1877717033779077554#m</guid>
-        <link>https://nitter.freedit.eu/nickwh8te/status/1877717033779077554#m</link>
-      </item>
-      <item>
-        <title>RT by @emilianobonassi: Monday.
-
-https://x.com/i/spaces/1mrxmMkYeakxy</title>
-        <dc:creator>@Superpositionso</dc:creator>
-        <description><![CDATA[<p>Monday.<br>
-<br>
-<a href="https://x.com/i/spaces/1mrxmMkYeakxy">x.com/i/spaces/1mrxmMkYeakxy</a></p>]]></description>
-        <pubDate>Fri, 10 Jan 2025 12:40:51 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/Superpositionso/status/1877697110172205161#m</guid>
-        <link>https://nitter.freedit.eu/Superpositionso/status/1877697110172205161#m</link>
       </item>
 
   </channel>

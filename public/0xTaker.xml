@@ -16,6 +16,305 @@
       <height>128</height>
     </image>
       <item>
+        <title>Already on a big start to a big year for solving - reach out</title>
+        <dc:creator>@0xTaker</dc:creator>
+        <description><![CDATA[<p>Already on a big start to a big year for solving - reach out</p>
+<p><a href="https://nitter.freedit.eu/joshuagunnn/status/1881758652497068218#m">nitter.freedit.eu/joshuagunnn/status/1881758652497068218#m</a></p>]]></description>
+        <pubDate>Tue, 21 Jan 2025 22:43:29 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xTaker/status/1881835033545338905#m</guid>
+        <link>https://nitter.freedit.eu/0xTaker/status/1881835033545338905#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: 🚨 Action required: After &gt;3yrs of heads-down development, Foundry is en route to our first stable release! Upgrade your installation of Foundryup! 🚨
+
+2025 is looking to be an amazing year with faster and more secure EVM smart contracts!
+
+Foundry is a critical part of the EVM development stack, empowering developers through their end to end development lifecycle, from quick builds to deep tests and rich debugging workflows.
+
+More importantly, for the EVM to win, Foundry must remain a reliable building block for developers. For that, we must graduate to having stable releases, so we encourage all developers to upgrade their `foundryup` installations.
+
+Upgrading is really simple, just run: `curl -L https://foundry.paradigm.xyz | bash`.
+
+❗Why upgrade?
+
+Upgrading ensures your `foundryup` defaults to updating to the latest stable release instead of the latest nightly build. That build is hosted on Github under the `stable` tag: https://github.com/foundry-rs/foundry/releases/tag/stable.
+
+In the coming weeks, we&apos;ll be shipping our last few breaking changes to Foundry (e.g., turning off the optimizer by default, which was recently shipped). If you do not upgrade, you will continue to receive nightly builds by default, which may contain these breaking changes.
+
+✨ Prefer nightly builds?
+
+You are still able to receive the latest nightly builds by running `foundryup --install nightly`
+
+Be cautious — nightly builds may include breaking changes that are difficult to debug without context.
+
+🔄 Switching between versions?
+
+Easily manage your installations with: `foundryup --use &lt;version&gt;`
+
+e.g. `foundryup --use nightly`, `foundryup --use stable`
+
+⚙️ And the CI?
+
+The foundry-toolchain GitHub Action will use the latest stable release unless you specify the version to be different: https://github.com/foundry-rs/foundry-toolchain/, via the `version` tag.
+
+Huge kudos to legends @gndizzy @zerosnacks @YashAtreya @DaniPopes who have taken over the Foundry torch in the last year.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>🚨 Action required: After &gt;3yrs of heads-down development, Foundry is en route to our first stable release! Upgrade your installation of Foundryup! 🚨<br>
+<br>
+2025 is looking to be an amazing year with faster and more secure EVM smart contracts!<br>
+<br>
+Foundry is a critical part of the EVM development stack, empowering developers through their end to end development lifecycle, from quick builds to deep tests and rich debugging workflows.<br>
+<br>
+More importantly, for the EVM to win, Foundry must remain a reliable building block for developers. For that, we must graduate to having stable releases, so we encourage all developers to upgrade their `foundryup` installations.<br>
+<br>
+Upgrading is really simple, just run: `curl -L <a href="https://foundry.paradigm.xyz">foundry.paradigm.xyz</a> | bash`.<br>
+<br>
+❗Why upgrade?<br>
+<br>
+Upgrading ensures your `foundryup` defaults to updating to the latest stable release instead of the latest nightly build. That build is hosted on Github under the `stable` tag: <a href="https://github.com/foundry-rs/foundry/releases/tag/stable">github.com/foundry-rs/foundr…</a>.<br>
+<br>
+In the coming weeks, we'll be shipping our last few breaking changes to Foundry (e.g., turning off the optimizer by default, which was recently shipped). If you do not upgrade, you will continue to receive nightly builds by default, which may contain these breaking changes.<br>
+<br>
+✨ Prefer nightly builds?<br>
+<br>
+You are still able to receive the latest nightly builds by running `foundryup --install nightly`<br>
+<br>
+Be cautious — nightly builds may include breaking changes that are difficult to debug without context.<br>
+<br>
+🔄 Switching between versions?<br>
+<br>
+Easily manage your installations with: `foundryup --use &lt;version&gt;`<br>
+<br>
+e.g. `foundryup --use nightly`, `foundryup --use stable`<br>
+<br>
+⚙️ And the CI?<br>
+<br>
+The foundry-toolchain GitHub Action will use the latest stable release unless you specify the version to be different: <a href="https://github.com/foundry-rs/foundry-toolchain/">github.com/foundry-rs/foundr…</a>, via the `version` tag.<br>
+<br>
+Huge kudos to legends <a href="https://nitter.freedit.eu/gndizzy" title="George Niculae">@gndizzy</a> <a href="https://nitter.freedit.eu/zerosnacks" title="zerosnacks.eth">@zerosnacks</a> <a href="https://nitter.freedit.eu/YashAtreya" title="Yash Atreya">@YashAtreya</a> <a href="https://nitter.freedit.eu/DaniPopes" title="DaniPopes">@DaniPopes</a> who have taken over the Foundry torch in the last year.</p>]]></description>
+        <pubDate>Tue, 21 Jan 2025 20:33:14 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1881802255202193584#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1881802255202193584#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: There is a lot of negative stuff around tech hiring right now, so I want to put this out there, we are actively hiring engineers and are bringing on 3-5 within the next few weeks. If you’re into:
+
+-functional languages
+-have any experience with low latency systems
+-devops
+
+Dm me</title>
+        <dc:creator>@joshuagunnn</dc:creator>
+        <description><![CDATA[<p>There is a lot of negative stuff around tech hiring right now, so I want to put this out there, we are actively hiring engineers and are bringing on 3-5 within the next few weeks. If you’re into:<br>
+<br>
+-functional languages<br>
+-have any experience with low latency systems<br>
+-devops<br>
+<br>
+Dm me</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGh1ZhV9WgAAFZiG.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 21 Jan 2025 17:39:58 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/joshuagunnn/status/1881758652497068218#m</guid>
+        <link>https://nitter.freedit.eu/joshuagunnn/status/1881758652497068218#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: Welcome to Deeply Intents
+
+Deeply Intents is a new podcast hosted by @apriori0x . There are two primary motivations; unpack Anoma with relevant guests, and have interesting conversations with values aligned builders. The podcast is long-form content, with an emphasis on the human element.
+
+Roadmap
+
+I&apos;ve recorded eight episodes so far with a fantastic group of builders featuring:
+
+- @mteamisloading (@Spire_Labs )
+- @cwgoes (@anoma )
+- @hrojantorse (@intheanera )
+- Jeremy (@anoma )
+- @0xbodu (@Polymer_Labs )
+- @colludingnode (@celestia )
+- @_haikane_ (@PropellerSwap )
+- @ThogardPvP (@0xFastLane )
+  
+Starting this week, we will begin releasing two to three episodes for the next few weeks. After the bootstrapping phase, you should expect one to two episodes per week. But we&apos;ll see. 
+
+Structure
+
+This podcast will focus on long-form content focusing on the human element. Podcasts will be one and a half hours or more. One key feature of this format is that guests and the host are not rushed. They have time to explore specifics, go off into tangents, or just wildly speculate about the nature of crypto. Most importantly, you&apos;ll be able to get to know the guests not as founders or products but as people.
+
+In an industry with much emphasis on the latest trends we rarely spend time to learn about who we are together. Reflections last but a moment. Here we are creating artifacts that I hope you will reference and look back on in the future as a source of knowledge and inspiration.
+
+As a result, there will be no AI edits where voices are smoothed over and everyone speaks at 1.25x as a baseline. Instead, you will hear the pauses, likes, umms, because this is part of what makes us human, imperfection. (I will get better here). 
+
+There is no intro music yet. Taking inspiration from Joe Rogan, we will just roll into the conversation from the pre-recording banter. 
+
+Bridging the discourse
+
+On Deeply Intents we&apos;ll feature a diversity of guests both members of the Heliax team building Anoma and Namada as well as values aligned builders working on other stuff.
+
+We&apos;ll have both deeply personal and deeply technical conversations. And hopefully, in time, guests who may not know about each other will start talking and maybe even collaborate.
+
+Why another podcast?
+
+This is all @cwgoes fault, blame him. No, really, blame him.
+
+Story time. I&apos;ve been listening to podcasts for a long time, since 2007, when the Bill Simmons Report was on ESPN&apos;s page 2. I noticed early on that he was able to have material conversations with star NBA players who typically were more reserved. Simmons got people to open up. As a listener, I felt like I got to know the guests and relate to them as people.
+
+In 2020 during COVID I lost my job. The pain I felt is hard to explain. As a way to cope, I took long walks listening to podcasts by @aantonop  (Unscrypted), @VitalikButerin (many), and others. These episodes opened my eyes to new ideas, new ways of thinking, and a new way of life. Later, listening to @hasufl  on Uncommon Core inspired me to take my &quot;crypto research&quot; hobby more seriously and go all in.
+
+My favorite podcast over the last few years is the @lexfridman podcast. In a way, you can think of Deeply Intents as Lex Fridman meets crypto. I am not Lex. However, the guests and I will have meaningful conversations that are deeply fucking intents. 
+
+Podcasts can change people&apos;s lives. 
+
+People don&apos;t have time to read
+
+In the age of social media AI slop, LLMs, and access to anything you want anytime day or night, attention is hard to come by. Reading is hard. It takes concentration and muscle memory. You have to do it every day until you love to read. Assuming you love to read, you are probably busy reading things related to your job and personal hobbies. Everything in between is less accessible and time-consuming.
+
+It&apos;s not hard to play a podcast. You can play a podcast in the background while coding, tasking, washing the dishes, lifting weights, driving to the grocery store, or just relaxing on the couch. You can listen on any speed you like. You can also write a script to search the podcast for anything interesting and summarize the findings with help of an LLM.
+
+Qualifications
+
+What are my qualifications for hosting a podcast. That&apos;s a good question. I&apos;ll highlight some things I did in 2024 as it pertains to the specific skill set.
+
+Last year, I hosted or sat on eleven panels at different events. I hosted four twitter spaces recently on topics like ASS, intents, interop, chain abstraction, and the modular ecosystem. I also gave two keynote presentations, at Eth Prague and mev dot market. Likewise, I read essays and poetry aloud at the cypher cafes this summer. I am not afraid to learn in public. 
+
+Aside from this, I&apos;ve worked closely with the Anoma research, engineering, and ecosystem teams over the last 20 months on various initiatives. If you&apos;re interested in digging further, you can check the pinned link on my X profile which features all of my published writing and projects. 
+
+Growth Mindset
+
+I will make mistakes. However, I&apos;m willing to look like a fool for a while until I become a master. You&apos;ll notice improvement with the progression of episodes.
+
+Likewise, we are not starting with video. I want to put the focus on quality of conversations not facial expressions, backgrounds, or setups of the guests or myself. I also want to save video for in person settings where the quality will be higher. But if you really want video, please be loud about it.
+
+You can just do things
+
+Many of the podcasts in our industry are incredible. I&apos;ve learned a ton and enjoyed hours of ZK Podcast, Bell Curve, Bankless, Green Pill, Uncommon Core 1 &amp; 2, The Rollup, The Gwart Show, Epicenter, Lightspeed, Up Only, Unchained, and many more.  Each of these shows has their own lane.
+
+Deeply Intents is doing something different. By doing something different, we are adding value to the community. 
+
+Podcasting is something I&apos;ve wanted to do for a long time. The timing for this feels right, and I could not be more excited to share this art with you.
+
+Goals
+
+My goal is to execute six to eight episodes per month. If we do more, that&apos;s fantastic. My stretch goal for the year is 100 episodes.
+
+I&apos;m looking to talk to a diversity of builders. My network is mostly engineers, operators and researchers, but I&apos;d also like to talk to folks who work in BD, Marketing, Dev Ops, and other roles.
+
+Thank you
+
+Thank you to the guests who have been gracious enough to lend their time and record episodes. I am grateful. 
+
+Thank you to the @heliaxdev team. The support you have shown in this process has been exceptional. In particular, thank you to @cwgoes @zjcio @MauriceWbr @Thurisaz0x @awasunyin. The art is phenomenal, major kudos to @Chri5H0lt . 
+
+Feedback
+
+You are welcome to direct complaints to me directly on X, fanboys and haters alike. Please be nice to the guests, blame me if anything. 😉
+
+If you think you would be an interesting guest, please reach out. 
+My DMs are open.
+
+Cheers.</title>
+        <dc:creator>@apriori0x</dc:creator>
+        <description><![CDATA[<p>Welcome to Deeply Intents<br>
+<br>
+Deeply Intents is a new podcast hosted by <a href="https://nitter.freedit.eu/apriori0x" title="apriori">@apriori0x</a> . There are two primary motivations; unpack Anoma with relevant guests, and have interesting conversations with values aligned builders. The podcast is long-form content, with an emphasis on the human element.<br>
+<br>
+Roadmap<br>
+<br>
+I've recorded eight episodes so far with a fantastic group of builders featuring:<br>
+<br>
+- <a href="https://nitter.freedit.eu/mteamisloading" title="mteam.eth 🗼(🌎,💻)">@mteamisloading</a> (<a href="https://nitter.freedit.eu/Spire_Labs" title="Spire🗼">@Spire_Labs</a> )<br>
+- <a href="https://nitter.freedit.eu/cwgoes" title="Christopher Goes">@cwgoes</a> (<a href="https://nitter.freedit.eu/anoma" title="Anoma">@anoma</a> )<br>
+- <a href="https://nitter.freedit.eu/hrojantorse" title="Vishwa Naik (f.k.a. Hrojan Torse)">@hrojantorse</a> (<a href="https://nitter.freedit.eu/intheanera" title="Anera Labs">@intheanera</a> )<br>
+- Jeremy (<a href="https://nitter.freedit.eu/anoma" title="Anoma">@anoma</a> )<br>
+- <a href="https://nitter.freedit.eu/0xbodu" title="Bo Du 🛜">@0xbodu</a> (<a href="https://nitter.freedit.eu/Polymer_Labs" title="Polymer Labs 🛜">@Polymer_Labs</a> )<br>
+- <a href="https://nitter.freedit.eu/colludingnode" title="c-node">@colludingnode</a> (<a href="https://nitter.freedit.eu/celestia" title="Celestia 🦣">@celestia</a> )<br>
+- <a href="https://nitter.freedit.eu/_haikane_" title="Markus Schmitt">@_haikane_</a> (<a href="https://nitter.freedit.eu/PropellerSwap" title="PropellerHeads">@PropellerSwap</a> )<br>
+- <a href="https://nitter.freedit.eu/ThogardPvP" title="Thogard | ASSnad Arc">@ThogardPvP</a> (<a href="https://nitter.freedit.eu/0xFastLane" title="FastLane Labs">@0xFastLane</a> )<br>
+  <br>
+Starting this week, we will begin releasing two to three episodes for the next few weeks. After the bootstrapping phase, you should expect one to two episodes per week. But we'll see. <br>
+<br>
+Structure<br>
+<br>
+This podcast will focus on long-form content focusing on the human element. Podcasts will be one and a half hours or more. One key feature of this format is that guests and the host are not rushed. They have time to explore specifics, go off into tangents, or just wildly speculate about the nature of crypto. Most importantly, you'll be able to get to know the guests not as founders or products but as people.<br>
+<br>
+In an industry with much emphasis on the latest trends we rarely spend time to learn about who we are together. Reflections last but a moment. Here we are creating artifacts that I hope you will reference and look back on in the future as a source of knowledge and inspiration.<br>
+<br>
+As a result, there will be no AI edits where voices are smoothed over and everyone speaks at 1.25x as a baseline. Instead, you will hear the pauses, likes, umms, because this is part of what makes us human, imperfection. (I will get better here). <br>
+<br>
+There is no intro music yet. Taking inspiration from Joe Rogan, we will just roll into the conversation from the pre-recording banter. <br>
+<br>
+Bridging the discourse<br>
+<br>
+On Deeply Intents we'll feature a diversity of guests both members of the Heliax team building Anoma and Namada as well as values aligned builders working on other stuff.<br>
+<br>
+We'll have both deeply personal and deeply technical conversations. And hopefully, in time, guests who may not know about each other will start talking and maybe even collaborate.<br>
+<br>
+Why another podcast?<br>
+<br>
+This is all <a href="https://nitter.freedit.eu/cwgoes" title="Christopher Goes">@cwgoes</a> fault, blame him. No, really, blame him.<br>
+<br>
+Story time. I've been listening to podcasts for a long time, since 2007, when the Bill Simmons Report was on ESPN's page 2. I noticed early on that he was able to have material conversations with star NBA players who typically were more reserved. Simmons got people to open up. As a listener, I felt like I got to know the guests and relate to them as people.<br>
+<br>
+In 2020 during COVID I lost my job. The pain I felt is hard to explain. As a way to cope, I took long walks listening to podcasts by <a href="https://nitter.freedit.eu/aantonop" title="Andreas (aantonop Team)">@aantonop</a>  (Unscrypted), <a href="https://nitter.freedit.eu/VitalikButerin" title="vitalik.eth">@VitalikButerin</a> (many), and others. These episodes opened my eyes to new ideas, new ways of thinking, and a new way of life. Later, listening to <a href="https://nitter.freedit.eu/hasufl" title="Hasu⚡️🤖">@hasufl</a>  on Uncommon Core inspired me to take my "crypto research" hobby more seriously and go all in.<br>
+<br>
+My favorite podcast over the last few years is the <a href="https://nitter.freedit.eu/lexfridman" title="Lex Fridman">@lexfridman</a> podcast. In a way, you can think of Deeply Intents as Lex Fridman meets crypto. I am not Lex. However, the guests and I will have meaningful conversations that are deeply fucking intents. <br>
+<br>
+Podcasts can change people's lives. <br>
+<br>
+People don't have time to read<br>
+<br>
+In the age of social media AI slop, LLMs, and access to anything you want anytime day or night, attention is hard to come by. Reading is hard. It takes concentration and muscle memory. You have to do it every day until you love to read. Assuming you love to read, you are probably busy reading things related to your job and personal hobbies. Everything in between is less accessible and time-consuming.<br>
+<br>
+It's not hard to play a podcast. You can play a podcast in the background while coding, tasking, washing the dishes, lifting weights, driving to the grocery store, or just relaxing on the couch. You can listen on any speed you like. You can also write a script to search the podcast for anything interesting and summarize the findings with help of an LLM.<br>
+<br>
+Qualifications<br>
+<br>
+What are my qualifications for hosting a podcast. That's a good question. I'll highlight some things I did in 2024 as it pertains to the specific skill set.<br>
+<br>
+Last year, I hosted or sat on eleven panels at different events. I hosted four twitter spaces recently on topics like ASS, intents, interop, chain abstraction, and the modular ecosystem. I also gave two keynote presentations, at Eth Prague and mev dot market. Likewise, I read essays and poetry aloud at the cypher cafes this summer. I am not afraid to learn in public. <br>
+<br>
+Aside from this, I've worked closely with the Anoma research, engineering, and ecosystem teams over the last 20 months on various initiatives. If you're interested in digging further, you can check the pinned link on my X profile which features all of my published writing and projects. <br>
+<br>
+Growth Mindset<br>
+<br>
+I will make mistakes. However, I'm willing to look like a fool for a while until I become a master. You'll notice improvement with the progression of episodes.<br>
+<br>
+Likewise, we are not starting with video. I want to put the focus on quality of conversations not facial expressions, backgrounds, or setups of the guests or myself. I also want to save video for in person settings where the quality will be higher. But if you really want video, please be loud about it.<br>
+<br>
+You can just do things<br>
+<br>
+Many of the podcasts in our industry are incredible. I've learned a ton and enjoyed hours of ZK Podcast, Bell Curve, Bankless, Green Pill, Uncommon Core 1 & 2, The Rollup, The Gwart Show, Epicenter, Lightspeed, Up Only, Unchained, and many more.  Each of these shows has their own lane.<br>
+<br>
+Deeply Intents is doing something different. By doing something different, we are adding value to the community. <br>
+<br>
+Podcasting is something I've wanted to do for a long time. The timing for this feels right, and I could not be more excited to share this art with you.<br>
+<br>
+Goals<br>
+<br>
+My goal is to execute six to eight episodes per month. If we do more, that's fantastic. My stretch goal for the year is 100 episodes.<br>
+<br>
+I'm looking to talk to a diversity of builders. My network is mostly engineers, operators and researchers, but I'd also like to talk to folks who work in BD, Marketing, Dev Ops, and other roles.<br>
+<br>
+Thank you<br>
+<br>
+Thank you to the guests who have been gracious enough to lend their time and record episodes. I am grateful. <br>
+<br>
+Thank you to the <a href="https://nitter.freedit.eu/heliaxdev" title="Heliax">@heliaxdev</a> team. The support you have shown in this process has been exceptional. In particular, thank you to <a href="https://nitter.freedit.eu/cwgoes" title="Christopher Goes">@cwgoes</a> <a href="https://nitter.freedit.eu/zjcio" title="Zach Cavanaugh">@zjcio</a> <a href="https://nitter.freedit.eu/MauriceWbr" title="Maurice">@MauriceWbr</a> <a href="https://nitter.freedit.eu/Thurisaz0x" title="Tobias Heindel 💙💛 — or just ᚦ">@Thurisaz0x</a> <a href="https://nitter.freedit.eu/awasunyin" title="awa">@awasunyin</a>. The art is phenomenal, major kudos to <a href="https://nitter.freedit.eu/Chri5H0lt" title="Chris Holt 🟡⬛">@Chri5H0lt</a> . <br>
+<br>
+Feedback<br>
+<br>
+You are welcome to direct complaints to me directly on X, fanboys and haters alike. Please be nice to the guests, blame me if anything. 😉<br>
+<br>
+If you think you would be an interesting guest, please reach out. <br>
+My DMs are open.<br>
+<br>
+Cheers.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGhz4yI7XUAAqXTj.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 21 Jan 2025 10:45:28 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/apriori0x/status/1881654337581072843#m</guid>
+        <link>https://nitter.freedit.eu/apriori0x/status/1881654337581072843#m</link>
+      </item>
+      <item>
         <title>RT by @0xTaker: yeah dude, l2s are definitely the solution to one chain doing 20x the throughput of everything else combined</title>
         <dc:creator>@ceterispar1bus</dc:creator>
         <description><![CDATA[<p>yeah dude, l2s are definitely the solution to one chain doing 20x the throughput of everything else combined</p>]]></description>
@@ -347,49 +646,6 @@ It includes concrete examples and quantifiable, contextual data to illustrate th
         <pubDate>Thu, 09 Jan 2025 19:10:37 GMT</pubDate>
         <guid>https://nitter.freedit.eu/0xTaker/status/1877432811017138396#m</guid>
         <link>https://nitter.freedit.eu/0xTaker/status/1877432811017138396#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: Introducing Apptokens: infinitely programmable token smart contracts for next-generation digital economies
-
-The apptokens release is the culmination of Limit Break’s work designing novel token smart contracts to unlock an array of critical features for web3 game developers.</title>
-        <dc:creator>@limitbreak</dc:creator>
-        <description><![CDATA[<p>Introducing Apptokens: infinitely programmable token smart contracts for next-generation digital economies<br>
-<br>
-The apptokens release is the culmination of Limit Break’s work designing novel token smart contracts to unlock an array of critical features for web3 game developers.</p>]]></description>
-        <pubDate>Tue, 07 Jan 2025 20:08:54 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/limitbreak/status/1876722703517749699#m</guid>
-        <link>https://nitter.freedit.eu/limitbreak/status/1876722703517749699#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: sincerely don&apos;t know who uses bridges these days outside of market makers rebalancing inventory -- just use intent-based stuff, it&apos;s instant, gives you asset you&apos;re looking for, works for most chains; yeah if you&apos;re trading the long tail chain you can&apos;t expect all the best</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>sincerely don't know who uses bridges these days outside of market makers rebalancing inventory -- just use intent-based stuff, it's instant, gives you asset you're looking for, works for most chains; yeah if you're trading the long tail chain you can't expect all the best</p>]]></description>
-        <pubDate>Thu, 09 Jan 2025 09:32:25 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1877287302617002084#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1877287302617002084#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: the quoted post is slop. for an actually useful market structure primer, use this: 
-
-https://primer.prooftrading.com/</title>
-        <dc:creator>@elletwocache</dc:creator>
-        <description><![CDATA[<p>the quoted post is slop. for an actually useful market structure primer, use this: <br>
-<br>
-<a href="https://primer.prooftrading.com/">primer.prooftrading.com/</a></p>
-<p><a href="https://nitter.freedit.eu/christinaqi/status/1876813940145201374#m">nitter.freedit.eu/christinaqi/status/1876813940145201374#m</a></p>]]></description>
-        <pubDate>Wed, 08 Jan 2025 17:01:41 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/elletwocache/status/1877037976208752714#m</guid>
-        <link>https://nitter.freedit.eu/elletwocache/status/1877037976208752714#m</link>
-      </item>
-      <item>
-        <title>&quot;____, where is that techno music coming from? Are you in an MDMA lounge?&quot;
-&quot;No, it&apos;s just a normal Wednesday morning&quot;</title>
-        <dc:creator>@0xTaker</dc:creator>
-        <description><![CDATA[<p>"____, where is that techno music coming from? Are you in an MDMA lounge?"<br>
-"No, it's just a normal Wednesday morning"</p>]]></description>
-        <pubDate>Wed, 08 Jan 2025 13:49:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xTaker/status/1876989499881709577#m</guid>
-        <link>https://nitter.freedit.eu/0xTaker/status/1876989499881709577#m</link>
       </item>
 
   </channel>

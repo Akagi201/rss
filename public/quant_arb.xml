@@ -16,6 +16,30 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @quant_arb: There’s only one correct answer</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>There’s only one correct answer</p>]]></description>
+        <pubDate>Wed, 22 Jan 2025 12:46:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1882047262085591433#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1882047262085591433#m</link>
+      </item>
+      <item>
+        <title>1) Messy notebook + refactor if presenting 
+
+OR
+
+2) nice notebook with comments from the start</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>1) Messy notebook + refactor if presenting <br>
+<br>
+OR<br>
+<br>
+2) nice notebook with comments from the start</p>]]></description>
+        <pubDate>Wed, 22 Jan 2025 12:46:23 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1882047157047578726#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1882047157047578726#m</link>
+      </item>
+      <item>
         <title>Now I know where he got the idea</title>
         <dc:creator>@quant_arb</dc:creator>
         <description><![CDATA[<p>Now I know where he got the idea</p>
@@ -186,23 +210,6 @@ Everything smells off</p>
         <pubDate>Sun, 29 Dec 2024 16:00:02 GMT</pubDate>
         <guid>https://nitter.freedit.eu/quant_arb/status/1873398580658217401#m</guid>
         <link>https://nitter.freedit.eu/quant_arb/status/1873398580658217401#m</link>
-      </item>
-      <item>
-        <title>Tardis is great but the best data is your own data. Only that data has the latency information that is important for HFT analysis. Otherwise you kinda just have to assume latency and hope it&apos;s a reasonable guess (often wrong conditional on wanting to trade - ie spikes when trade)</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>Tardis is great but the best data is your own data. Only that data has the latency information that is important for HFT analysis. Otherwise you kinda just have to assume latency and hope it's a reasonable guess (often wrong conditional on wanting to trade - ie spikes when trade)</p>
-<p><a href="https://nitter.freedit.eu/quant_arb/status/1873397732863541259#m">nitter.freedit.eu/quant_arb/status/1873397732863541259#m</a></p>]]></description>
-        <pubDate>Sun, 29 Dec 2024 15:59:24 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1873398423082414360#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1873398423082414360#m</link>
-      </item>
-      <item>
-        <title>R to @quant_arb: like a lot of it isn&apos;t in the docs. especially for options. Have to just memorize the names or find them in my emails.</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>like a lot of it isn't in the docs. especially for options. Have to just memorize the names or find them in my emails.</p>]]></description>
-        <pubDate>Sun, 29 Dec 2024 15:57:17 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1873397890674290843#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1873397890674290843#m</link>
       </item>
 
   </channel>

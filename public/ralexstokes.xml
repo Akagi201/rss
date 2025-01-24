@@ -16,6 +16,47 @@
       <height>128</height>
     </image>
       <item>
+        <title>Ethereum is an economic zone, connecting all other economic zones.</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>Ethereum is an economic zone, connecting all other economic zones.</p>
+<p><a href="https://nitter.freedit.eu/balajis/status/1882320154358604083#m">nitter.freedit.eu/balajis/status/1882320154358604083#m</a></p>]]></description>
+        <pubDate>Thu, 23 Jan 2025 15:25:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1882449667964965297#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1882449667964965297#m</link>
+      </item>
+      <item>
+        <title>nice post from @protolambda to streamline blob-throughput increases in the core protocol -- check it out!
+
+https://ethereum-magicians.org/t/blob-parameter-only-bpo-forks/22623</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>nice post from <a href="https://nitter.freedit.eu/protolambda" title="proto.eth">@protolambda</a> to streamline blob-throughput increases in the core protocol -- check it out!<br>
+<br>
+<a href="https://ethereum-magicians.org/t/blob-parameter-only-bpo-forks/22623">ethereum-magicians.org/t/blo…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1880706918991192065%2F5nBmUqBW%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 23 Jan 2025 14:52:31 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1882441286843842964#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1882441286843842964#m</link>
+      </item>
+      <item>
+        <title>genuinely curious to hear what we should do to improve ACD (dm&apos;s open!)
+
+i&apos;ve seen primarily two weak points from the recent discourse
+
+i) latency of decision making and deployment pipeline
+ii) lack of longer term time horizon (e.g. to communicate commitments to users)</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>genuinely curious to hear what we should do to improve ACD (dm's open!)<br>
+<br>
+i've seen primarily two weak points from the recent discourse<br>
+<br>
+i) latency of decision making and deployment pipeline<br>
+ii) lack of longer term time horizon (e.g. to communicate commitments to users)</p>
+<p><a href="https://nitter.freedit.eu/iamDCinvestor/status/1882103284913332364#m">nitter.freedit.eu/iamDCinvestor/status/1882103284913332364#m</a></p>]]></description>
+        <pubDate>Wed, 22 Jan 2025 17:45:21 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1882122393243762967#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1882122393243762967#m</link>
+      </item>
+      <item>
         <title>R to @ralexstokes: as part of this change, I’ll no longer be the team lead at ARG; @kevaundray is the new team lead, bringing his deep expertise to help ethereum grow.
 
 watch for the spectacular work coming from this group in 2025 — it’s going to be a big year as we scale the world computer.</title>
@@ -206,51 +247,6 @@ recording is up! enjoy<br>
         <pubDate>Mon, 16 Dec 2024 20:23:10 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ralexstokes/status/1868753759222071756#m</guid>
         <link>https://nitter.freedit.eu/ralexstokes/status/1868753759222071756#m</link>
-      </item>
-      <item>
-        <title>RT by @ralexstokes: We need to find better ways to have public conversations about Ethereum research and roadmap.
-
-That requires more researcher &amp; core dev engagement. But also better ways to surface high signal voices.
-
-E.g. @fradamt is Ethereum&apos;s highest impact researcher, and has 2k followers.</title>
-        <dc:creator>@adietrichs</dc:creator>
-        <description><![CDATA[<p>We need to find better ways to have public conversations about Ethereum research and roadmap.<br>
-<br>
-That requires more researcher &amp; core dev engagement. But also better ways to surface high signal voices.<br>
-<br>
-E.g. <a href="https://nitter.freedit.eu/fradamt" title="Francesco">@fradamt</a> is Ethereum's highest impact researcher, and has 2k followers.</p>]]></description>
-        <pubDate>Thu, 12 Dec 2024 15:51:27 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/adietrichs/status/1867235827480207760#m</guid>
-        <link>https://nitter.freedit.eu/adietrichs/status/1867235827480207760#m</link>
-      </item>
-      <item>
-        <title>one aspect of north star discourse is that ethereum is an ambitious project, and if we execute, simply can “do it all”
-
-it’s easy to be reactive to short-term desiderata so we have to double down on what’s possible in the long term as a vision to align around
-
-think bigger.</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>one aspect of north star discourse is that ethereum is an ambitious project, and if we execute, simply can “do it all”<br>
-<br>
-it’s easy to be reactive to short-term desiderata so we have to double down on what’s possible in the long term as a vision to align around<br>
-<br>
-think bigger.</p>]]></description>
-        <pubDate>Thu, 12 Dec 2024 00:40:11 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1867006498750206094#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1867006498750206094#m</link>
-      </item>
-      <item>
-        <title>I think we should raise the gas limit as high as we can while maintaining a secure and decentralized network
-
-that being said, any change to Ethereum should happen in dialogue with core developers/researchers who best understand the impacts of any given change</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>I think we should raise the gas limit as high as we can while maintaining a secure and decentralized network<br>
-<br>
-that being said, any change to Ethereum should happen in dialogue with core developers/researchers who best understand the impacts of any given change</p>
-<p><a href="https://nitter.freedit.eu/nero_eth/status/1866148471620653179#m">nitter.freedit.eu/nero_eth/status/1866148471620653179#m</a></p>]]></description>
-        <pubDate>Mon, 09 Dec 2024 16:16:06 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1866154866516631695#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1866154866516631695#m</link>
       </item>
 
   </channel>

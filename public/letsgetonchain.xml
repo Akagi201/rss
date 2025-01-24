@@ -11,10 +11,112 @@
     <image>
       <title>letsgetonchain / @letsgetonchain</title>
       <link>https://nitter.freedit.eu/letsgetonchain</link>
-      <url>https://nitter.freedit.eu/pic/pbs.twimg.com%2Fprofile_images%2F1876922603337609217%2F3qudxrE__400x400.jpg</url>
+      <url>https://nitter.freedit.eu/pic/pbs.twimg.com%2Fprofile_images%2F1882384404841955328%2FSTwGAYWi_400x400.jpg</url>
       <width>128</width>
       <height>128</height>
     </image>
+      <item>
+        <title>R to @letsgetonchain: youtube 🔗
+https://www.youtube.com/watch?v=FTNvl6F1w6I</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>youtube 🔗<br>
+<a href="https://piped.video/watch?v=FTNvl6F1w6I">piped.video/watch?v=FTNvl6F1…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1882409566630973440%2FQyo8ETIN%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 23 Jan 2025 12:46:57 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1882409686202478829#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1882409686202478829#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: Result:
+
+EIP-7623 effectively reduces block size variance and makes the network more stable
+
+For a more detailed explanation and implementation details check out the full video on my Youtube (link in bio)</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Result:<br>
+<br>
+EIP-7623 effectively reduces block size variance and makes the network more stable<br>
+<br>
+For a more detailed explanation and implementation details check out the full video on my Youtube (link in bio)</p>]]></description>
+        <pubDate>Thu, 23 Jan 2025 11:05:52 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1882384248046518700#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1882384248046518700#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: Solution:
+
+Introduce dynamic calldata pricing:
+
+10 gas for zero bytes, 40 for non-zero bytes-&gt; for data-heavy transactions 
+
+Keep old calldata cost structure for regular/compute-transactions.
+
+Basically making it more costly and less attractive to use calldata for DA purposes.</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Solution:<br>
+<br>
+Introduce dynamic calldata pricing:<br>
+<br>
+10 gas for zero bytes, 40 for non-zero bytes-&gt; for data-heavy transactions <br>
+<br>
+Keep old calldata cost structure for regular/compute-transactions.<br>
+<br>
+Basically making it more costly and less attractive to use calldata for DA purposes.</p>]]></description>
+        <pubDate>Thu, 23 Jan 2025 11:05:51 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1882384246075261043#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1882384246075261043#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: TLDR on EIP-7623
+
+Problem:
+As pointed out by @blocknative L2s can save money by opportunistically switching between calldata and blob space for DA. 
+
+However this causes spikes in block sizes when calldata becomes cheaper than blob space. 
+
+The high variance in block size strains the network, slows block propagation and stresses nodes.
+
+https://x.com/blocknative/status/1806043723538821609</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>TLDR on EIP-7623<br>
+<br>
+Problem:<br>
+As pointed out by <a href="https://nitter.freedit.eu/blocknative" title="Blocknative | ⛽">@blocknative</a> L2s can save money by opportunistically switching between calldata and blob space for DA. <br>
+<br>
+However this causes spikes in block sizes when calldata becomes cheaper than blob space. <br>
+<br>
+The high variance in block size strains the network, slows block propagation and stresses nodes.<br>
+<br>
+<a href="https://x.com/blocknative/status/1806043723538821609">x.com/blocknative/status/180…</a></p>]]></description>
+        <pubDate>Thu, 23 Jan 2025 11:05:51 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1882384244141707755#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1882384244141707755#m</link>
+      </item>
+      <item>
+        <title>Ethereum Pectra is less than two months away to hit mainnet 🚀
+
+Last week I covered EIP-7702, this week I cover EIP- 7623 by @VitalikButerin &amp; @nero_eth.
+
+Same vibe,
+1⃣ High level overview
+2⃣ Deep dive into every line of code in the evm that changes
+
+Milady</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Ethereum Pectra is less than two months away to hit mainnet 🚀<br>
+<br>
+Last week I covered EIP-7702, this week I cover EIP- 7623 by <a href="https://nitter.freedit.eu/VitalikButerin" title="vitalik.eth">@VitalikButerin</a> &amp; <a href="https://nitter.freedit.eu/nero_eth" title="Toni Wahrstätter ⟠">@nero_eth</a>.<br>
+<br>
+Same vibe,<br>
+1⃣ High level overview<br>
+2⃣ Deep dive into every line of code in the evm that changes<br>
+<br>
+Milady</p>
+<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1882379729912664064%2Fimg%2FxwIm3VLdjejUPQvg.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 23 Jan 2025 11:05:50 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1882384241037885866#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1882384241037885866#m</link>
+      </item>
       <item>
         <title>RT by @letsgetonchain: All these discussion around the EF just shows me how fucking amazing Ethereum is</title>
         <dc:creator>@letsgetonchain</dc:creator>
@@ -22,27 +124,6 @@
         <pubDate>Tue, 21 Jan 2025 17:17:30 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1881752998369698088#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1881752998369698088#m</link>
-      </item>
-      <item>
-        <title>Yap early, yap only, yap often.
-
-@_kaitoai is connecting AI, attention and capital with Yaps.
-
-Just claimed my social card and I&apos;m accumulating Yap points in real-time.
-
-Claim yours 👉 https://yaps.kaito.ai/referral/1838923016744394752</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Yap early, yap only, yap often.<br>
-<br>
-<a href="https://nitter.freedit.eu/_kaitoai" title="Kaito AI 🌊">@_kaitoai</a> is connecting AI, attention and capital with Yaps.<br>
-<br>
-Just claimed my social card and I'm accumulating Yap points in real-time.<br>
-<br>
-Claim yours 👉 <a href="https://yaps.kaito.ai/referral/1838923016744394752">yaps.kaito.ai/referral/18389…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1880945190912815104%2FGWc89fT2%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 22 Jan 2025 08:20:57 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1881980358063010022#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1881980358063010022#m</link>
       </item>
       <item>
         <title>R to @letsgetonchain: Add animation to yt videos? My channel is in bio btw</title>
@@ -110,7 +191,7 @@ https://www.youtube.com/watch?v=4G2KwbxjKi8&amp;t=3s</title>
         <description><![CDATA[<p>Sunday is a gud tay to catch up on this weeks video <br>
 <br>
 <a href="https://piped.video/watch?v=4G2KwbxjKi8&t=3s">piped.video/watch?v=4G2Kwbxj…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1879903512210853888%2FPDqtw5KO%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1879903512210853888%2FK4EEFTth%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
         <pubDate>Sun, 19 Jan 2025 09:48:11 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1880915147109335153#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1880915147109335153#m</link>
@@ -164,7 +245,7 @@ https://youtu.be/4G2KwbxjKi8?si=NysozjXAlmpL6EDB</title>
         <dc:creator>@letsgetonchain</dc:creator>
         <description><![CDATA[<p>Here is the YT link for those who prefer<br>
 <a href="https://piped.video/4G2KwbxjKi8?si=NysozjXAlmpL6EDB">piped.video/4G2KwbxjKi8?si=Nyso…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1879903512210853888%2FPDqtw5KO%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1882440987357663232%2FCG1Zlhll%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
         <pubDate>Thu, 16 Jan 2025 14:48:55 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1879903666196668885#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1879903666196668885#m</link>
@@ -215,62 +296,6 @@ Appreciate any input on this 🙏<br>
         <pubDate>Wed, 15 Jan 2025 12:55:44 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1879512794581864879#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1879512794581864879#m</link>
-      </item>
-      <item>
-        <title>I&apos;m so excited about EIP 7702 that I am going to spam your timeline with a video about it tomorrow
-
-I will show you every new line of code in the evm that comes with it 🫡</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>I'm so excited about EIP 7702 that I am going to spam your timeline with a video about it tomorrow<br>
-<br>
-I will show you every new line of code in the evm that comes with it 🫡</p>]]></description>
-        <pubDate>Tue, 14 Jan 2025 20:41:57 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1879267733696844277#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1879267733696844277#m</link>
-      </item>
-      <item>
-        <title>What are the best discords / telegram groups to ask questions about Ethereum core development stuff?</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>What are the best discords / telegram groups to ask questions about Ethereum core development stuff?</p>]]></description>
-        <pubDate>Mon, 13 Jan 2025 09:03:44 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1878729635250483248#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1878729635250483248#m</link>
-      </item>
-      <item>
-        <title>RT by @letsgetonchain: After EIP-7702 and EIP-7212 are live I will recommend my mum to go on chain
-
-Executing any action on chain through touch id is secure and simple. 
-
-Can&apos;t wait to see it bring unprecedented adoption 🚀</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>After EIP-7702 and EIP-7212 are live I will recommend my mum to go on chain<br>
-<br>
-Executing any action on chain through touch id is secure and simple. <br>
-<br>
-Can't wait to see it bring unprecedented adoption 🚀</p>]]></description>
-        <pubDate>Sun, 12 Jan 2025 20:33:16 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1878540773408342524#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1878540773408342524#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: Question for such a user onboarding flow.
-
-The first step is still to create an EOA wallet and the first action then is to sign the eip 7702 authorization to a delegated smart contract that verifies Secp256r1 signature. 
-
-Thereafter the user can do anything he wants with his touch id, no eoa private key needed. 
-
-Do hot wallets even need to store the eoa&apos;s private key thereafter or can they just remove it after the user has exported it ?</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Question for such a user onboarding flow.<br>
-<br>
-The first step is still to create an EOA wallet and the first action then is to sign the eip 7702 authorization to a delegated smart contract that verifies Secp256r1 signature. <br>
-<br>
-Thereafter the user can do anything he wants with his touch id, no eoa private key needed. <br>
-<br>
-Do hot wallets even need to store the eoa's private key thereafter or can they just remove it after the user has exported it ?</p>]]></description>
-        <pubDate>Sun, 12 Jan 2025 20:52:22 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1878545580265553927#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1878545580265553927#m</link>
       </item>
 
   </channel>

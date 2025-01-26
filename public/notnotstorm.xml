@@ -16,6 +16,39 @@
       <height>128</height>
     </image>
       <item>
+        <title>&quot;The art of war is of vital importance to the State&quot;
+
+-- Sun Tzu</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>"The art of war is of vital importance to the State"<br>
+<br>
+-- Sun Tzu</p>
+<p><a href="https://nitter.freedit.eu/gakonst/status/1883192835874390276#m">nitter.freedit.eu/gakonst/status/1883192835874390276#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGiJ5VI8bgAA9S0u.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sat, 25 Jan 2025 17:13:59 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1883201662921351332#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1883201662921351332#m</link>
+      </item>
+      <item>
+        <title>&quot;The Emperor Protects&quot;</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>"The Emperor Protects"</p>
+<p><a href="https://nitter.freedit.eu/VitalikButerin/status/1882649065139384600#m">nitter.freedit.eu/VitalikButerin/status/1882649065139384600#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGiE6VOZW0AAcz8K.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 24 Jan 2025 17:58:04 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1882850369023410633#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1882850369023410633#m</link>
+      </item>
+      <item>
+        <title>this type of AI will make it easy to exfiltrate your data from social media websites. this will eventually destroy their moats so that you can have something like, a single app / UI that connects to all social media websites and chat platforms</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>this type of AI will make it easy to exfiltrate your data from social media websites. this will eventually destroy their moats so that you can have something like, a single app / UI that connects to all social media websites and chat platforms</p>
+<p><a href="https://nitter.freedit.eu/gdb/status/1882494743739015389#m">nitter.freedit.eu/gdb/status/1882494743739015389#m</a></p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 16:58:54 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1882835480850608187#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1882835480850608187#m</link>
+      </item>
+      <item>
         <title>RT by @notnotstorm: I aggregated some info on the EF R&amp;D teams today - descriptions, research, repos, general links. I drafted it for the EF internship applicants, but it got to a place where it seemed like it would be a good resource for the community as a whole.
 
 https://mirror.xyz/nixo.eth/TS-GwCEAKD_UTOE2_SCA_eFWyHstVAtGGn2Hu8mMezQ</title>
@@ -248,45 +281,6 @@ multiple devs asked me this in the past month and I don't have great answers. OS
         <pubDate>Thu, 02 Jan 2025 18:50:32 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1874891041066950781#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1874891041066950781#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: merged Int128 PR: https://github.com/pola-rs/polars/pull/20232
-
-U256 context: https://github.com/pola-rs/polars/issues/15443</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>merged Int128 PR: <a href="https://github.com/pola-rs/polars/pull/20232">github.com/pola-rs/polars/pu…</a><br>
-<br>
-U256 context: <a href="https://github.com/pola-rs/polars/issues/15443">github.com/pola-rs/polars/is…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1880537580594200576%2FE1oloMAy%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 27 Dec 2024 00:35:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1872441093234803080#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1872441093234803080#m</link>
-      </item>
-      <item>
-        <title>polars added an Int128 datatype 👀
-
-maybe this PR could be a model for adding a U256 type?</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>polars added an Int128 datatype 👀<br>
-<br>
-maybe this PR could be a model for adding a U256 type?</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGfw9fP2a4AA_krJ.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 27 Dec 2024 00:35:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1872441092026896598#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1872441092026896598#m</link>
-      </item>
-      <item>
-        <title>the paradigm data tools chat is the largest and most active place to discuss crypto data science + data engineering
-
-we cultivated this chat by building sovereign data tools. sovereign data goes beyond open source. it means you can have full control over the entire data pipeline</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>the paradigm data tools chat is the largest and most active place to discuss crypto data science + data engineering<br>
-<br>
-we cultivated this chat by building sovereign data tools. sovereign data goes beyond open source. it means you can have full control over the entire data pipeline</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGfQonaiasAU18fR.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 20 Dec 2024 18:29:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1870174595296510350#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1870174595296510350#m</link>
       </item>
 
   </channel>

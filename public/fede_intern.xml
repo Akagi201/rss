@@ -16,347 +16,397 @@
       <height>128</height>
     </image>
       <item>
-        <title>Long term the market will become more efficient and will be concentrated under AWS and Google.</title>
+        <title>RT by @fede_intern: &quot;What is Aligned?&quot;
+
+Our Co-Founder and Head of Engineering, @MauroAligned, breaks it down in detail for @dabit3 from @eigenlayer during their conversation on the Infinite Layers stream.
+
+Watch below. 👇🏻</title>
+        <dc:creator>@alignedlayer</dc:creator>
+        <description><![CDATA[<p>"What is Aligned?"<br>
+<br>
+Our Co-Founder and Head of Engineering, <a href="https://nitter.freedit.eu/MauroAligned" title="Mauro Toscano 🟩">@MauroAligned</a>, breaks it down in detail for <a href="https://nitter.freedit.eu/dabit3" title="nader dabit (bronze age arc)">@dabit3</a> from <a href="https://nitter.freedit.eu/eigenlayer" title="EigenLayer">@eigenlayer</a> during their conversation on the Infinite Layers stream.<br>
+<br>
+Watch below. 👇🏻</p>
+<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1883159378590912512%2Fimg%2FZjzyBVBbbd6wxZZZ.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sat, 25 Jan 2025 14:26:18 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/alignedlayer/status/1883159464527941973#m</guid>
+        <link>https://nitter.freedit.eu/alignedlayer/status/1883159464527941973#m</link>
+      </item>
+      <item>
+        <title>True and sad. I was expecting the UK to do something interesting and it never happened.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Long term the market will become more efficient and will be concentrated under AWS and Google.</p>
-<p><a href="https://nitter.freedit.eu/pumatheuma/status/1882535770424283217#m">nitter.freedit.eu/pumatheuma/status/1882535770424283217#m</a></p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 22:46:37 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1882560598850089211#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1882560598850089211#m</link>
+        <description><![CDATA[<p>True and sad. I was expecting the UK to do something interesting and it never happened.</p>
+<p><a href="https://nitter.freedit.eu/Zac_Aztec/status/1883039537666114046#m">nitter.freedit.eu/Zac_Aztec/status/1883039537666114046#m</a></p>]]></description>
+        <pubDate>Sat, 25 Jan 2025 13:50:20 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1883150411932242432#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1883150411932242432#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: This is an interesting argument! 😀 I still struggle to get bullish because I think that it ignores the cost of prover decentralization and suffers from the misconception that an efficient market requires a blockchain. 
-
-First, I don&apos;t think anyone is arguing that prover networks shouldn&apos;t exist because everyone will use AWS and GCP, just that censorship-resistance isn&apos;t a real problem for proving.
-
-The argument for prover networks seems to be:
-
-- Some ZK workloads will be run on GPUs (agree)
-- GPU capacity is more evenly distributed among many compute providers than CPU capacity (agree)
-- New entrants can offer competitive pricing (agree, this is largely due to AI companies overbuying GPUs)
-- Marketplaces have emerged to match demand/supply for GPUs in AI (agree)
-- We need ZK-specific decentralized marketplaces (disagree).
-
-I think that one mistake is conflating (for example) SF Compute Co (SFCC) and a decentralized prover network. SFCC is building an exchange for GPU compute. The benefit is that sellers don&apos;t need to take on inventory risk because traders will buy in order to resell. MMs and SFCC take some spread and buyers get a competitive price.*
-
-A decentralized prover network is not analogous to SFCC. SFCC is centralized and doesn&apos;t care if the entirety of the supply of compute comes from one vendor. A decentralized prover network does care, by definition, and must incentivize multiple concurrent compute providers, even if some offer higher prices to users. This adds inefficiency and cost. 
-
-A market can still be efficient even if sellers aren&apos;t bidding on a blockchain. GPU-focused neo-clouds don&apos;t magically have absolute pricing power because they aren&apos;t on a blockchain. If the market were inefficient, you&apos;d expect to see wildly different pricing across neo-clouds, which afaict doesn&apos;t appear to be the case.
-
-*It&apos;s unclear whether this will be viable long-term, or if it&apos;s a specific consequence of (temporary) GPU oversupply and intentional allocation to neo-clouds. We may see consolidation in the future, making an exchange unnecessary.</title>
-        <dc:creator>@_bfarmer</dc:creator>
-        <description><![CDATA[<p>This is an interesting argument! 😀 I still struggle to get bullish because I think that it ignores the cost of prover decentralization and suffers from the misconception that an efficient market requires a blockchain. <br>
-<br>
-First, I don't think anyone is arguing that prover networks shouldn't exist because everyone will use AWS and GCP, just that censorship-resistance isn't a real problem for proving.<br>
-<br>
-The argument for prover networks seems to be:<br>
-<br>
-- Some ZK workloads will be run on GPUs (agree)<br>
-- GPU capacity is more evenly distributed among many compute providers than CPU capacity (agree)<br>
-- New entrants can offer competitive pricing (agree, this is largely due to AI companies overbuying GPUs)<br>
-- Marketplaces have emerged to match demand/supply for GPUs in AI (agree)<br>
-- We need ZK-specific decentralized marketplaces (disagree).<br>
-<br>
-I think that one mistake is conflating (for example) SF Compute Co (SFCC) and a decentralized prover network. SFCC is building an exchange for GPU compute. The benefit is that sellers don't need to take on inventory risk because traders will buy in order to resell. MMs and SFCC take some spread and buyers get a competitive price.*<br>
-<br>
-A decentralized prover network is not analogous to SFCC. SFCC is centralized and doesn't care if the entirety of the supply of compute comes from one vendor. A decentralized prover network does care, by definition, and must incentivize multiple concurrent compute providers, even if some offer higher prices to users. This adds inefficiency and cost. <br>
-<br>
-A market can still be efficient even if sellers aren't bidding on a blockchain. GPU-focused neo-clouds don't magically have absolute pricing power because they aren't on a blockchain. If the market were inefficient, you'd expect to see wildly different pricing across neo-clouds, which afaict doesn't appear to be the case.<br>
-<br>
-*It's unclear whether this will be viable long-term, or if it's a specific consequence of (temporary) GPU oversupply and intentional allocation to neo-clouds. We may see consolidation in the future, making an exchange unnecessary.</p>
-<p><a href="https://nitter.freedit.eu/pumatheuma/status/1882535768725594162#m">nitter.freedit.eu/pumatheuma/status/1882535768725594162#m</a></p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 22:36:46 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/_bfarmer/status/1882558117361197401#m</guid>
-        <link>https://nitter.freedit.eu/_bfarmer/status/1882558117361197401#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: winning mindset. this is what&apos;s needed. time to burn the boats</title>
-        <dc:creator>@_scifer</dc:creator>
-        <description><![CDATA[<p>winning mindset. this is what's needed. time to burn the boats</p>
-<p><a href="https://nitter.freedit.eu/fede_intern/status/1882274953481052506#m">nitter.freedit.eu/fede_intern/status/1882274953481052506#m</a></p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 22:08:51 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/_scifer/status/1882551094498431098#m</guid>
-        <link>https://nitter.freedit.eu/_scifer/status/1882551094498431098#m</link>
-      </item>
-      <item>
-        <title>We tweet about our consensus client working for the last 5 days in Holesky. V retweets the tweet where we celebrated this and our intern deletes the tweet due to a typo. We’re very bad at marketing lol.</title>
+        <title>Fully agree with everything.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>We tweet about our consensus client working for the last 5 days in Holesky. V retweets the tweet where we celebrated this and our intern deletes the tweet due to a typo. We’re very bad at marketing lol.</p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 22:05:28 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1882550242027192422#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1882550242027192422#m</link>
+        <description><![CDATA[<p>Fully agree with everything.</p>
+<p><a href="https://nitter.freedit.eu/radi_cojbasic/status/1882880926608162850#m">nitter.freedit.eu/radi_cojbasic/status/1882880926608162850#m</a></p>]]></description>
+        <pubDate>Sat, 25 Jan 2025 00:31:39 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1882949418753962208#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1882949418753962208#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: Yes. The long term solution is to create political structures that are more resistant to this.
+        <title>RT by @fede_intern: Fantastic post which completely changed my thinking on native rollups.
 
-I see two attractors:
+There&apos;s an inherent tension in Ethereum between the following goals:
 
-1. Political leaders live in imperial palace, not allowed to have external lives -&gt; no benefit from getting a bribe
-2. More distributed power, so less gain in corrupting any specific person
+(1) Embrace diversity of people and opinions and enjoy the innovation that comes with it.
 
-It should be obvious which one I prefer and am interested in working on.</title>
-        <dc:creator>@VitalikButerin</dc:creator>
-        <description><![CDATA[<p>Yes. The long term solution is to create political structures that are more resistant to this.<br>
+(2) Make Ethereum (and all of its L2s) feel like a single, unified ecosystem.
+
+Ethereum is the only ecosystem today with dozens of independent (and independently funded!) core development teams building the protocol. This is a huge strength and the talent of the people contributing to Ethereum is unmatched anywhere.
+
+But does this also create some tension? Absolutely.
+
+While there&apos;s a lot that unites them, each L2 team has its own vision, its own goals, and its own tech stack. It would be a lot easier to build a single unified ecosystem with one spec (and even one developer team).
+
+But if we did that, we&apos;d lose the diversity and innovation that makes Ethereum stand out. The EVM and Solidity emerged from Ethereum devs, but so did @CairoLang, so did @FhenixIO&apos;s FHE-powered EVM,  so did  @fuel_network&apos;s FuelVM, and so did Arbitrum Stylus which enables WASM/Rust/C/C++ programs on Ethereum. 
+
+In Vitalik&apos;s words:
+Instead, Vitalik advocates for taking the step to unify the Ethereum experience while maintaining its unique character and diversity. Some of this is in the form of concrete technical features like chain-specific addresses. But the bulk of this is deep coordination between teams,  finding common ground between them and working together to build interop tech that unites us.
+
+Enter native rollups.
+
+Before today, I was pretty bearish on the notion of native rollups to be honest, as the way I had heard them pitched was a push for all chains to become homogenous and unify around a specific implementation of the EVM.
+
+I thought this was a bad idea because while it might make interop easier in the short term, it would stifle Ethereum&apos;s innovation in the long term. 
+
+But Vitalik presented it a bit differently than I had understood:
+
+The way I understand Vitalik&apos;s view of native rollups is kinda like &quot;refactoring&quot; code. There are a lot of rollups that utilize the EVM and we should coordinate around a standard for that. Rather than have each rollup build this out independently, we should factor out this common feature and even add more native support for these functionalities.
+
+But importantly we should do it in a way that allows rollups to extend the VM, and build a culture that continues to value innovation. 
+
+Native rollups doesn&apos;t mean that that everyone has to be homogenous; it just means that we should find the &quot;common core&quot; and build those components together so we can waste less time on reinventing the wheel. Some rollups may stop there and just use the shared code, while others will innovate on top of it, building custom execution environments.
+
+There&apos;s still a lot of research that needs to go into &quot;can we do this&quot;. Can we actually build a &quot;common core&quot; rollup that enables innovation? What does this common core look like and how can we build it in a way that all existing EVM rollups can get behind it and benefit from it.
+
+Yes, it&apos;s early days. Yes there&apos;s a ton of research to be done. But as a vision, I think this is fantastic and I&apos;m excited about the future of an Ethereum that&apos;s both interconnected and diverse.</title>
+        <dc:creator>@sgoldfed</dc:creator>
+        <description><![CDATA[<p>Fantastic post which completely changed my thinking on native rollups.<br>
 <br>
-I see two attractors:<br>
+There's an inherent tension in Ethereum between the following goals:<br>
 <br>
-1. Political leaders live in imperial palace, not allowed to have external lives -&gt; no benefit from getting a bribe<br>
-2. More distributed power, so less gain in corrupting any specific person<br>
+(1) Embrace diversity of people and opinions and enjoy the innovation that comes with it.<br>
 <br>
-It should be obvious which one I prefer and am interested in working on.</p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 21:06:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/VitalikButerin/status/1882535434351427899#m</guid>
-        <link>https://nitter.freedit.eu/VitalikButerin/status/1882535434351427899#m</link>
+(2) Make Ethereum (and all of its L2s) feel like a single, unified ecosystem.<br>
+<br>
+Ethereum is the only ecosystem today with dozens of independent (and independently funded!) core development teams building the protocol. This is a huge strength and the talent of the people contributing to Ethereum is unmatched anywhere.<br>
+<br>
+But does this also create some tension? Absolutely.<br>
+<br>
+While there's a lot that unites them, each L2 team has its own vision, its own goals, and its own tech stack. It would be a lot easier to build a single unified ecosystem with one spec (and even one developer team).<br>
+<br>
+But if we did that, we'd lose the diversity and innovation that makes Ethereum stand out. The EVM and Solidity emerged from Ethereum devs, but so did <a href="https://nitter.freedit.eu/CairoLang" title="CairoLang">@CairoLang</a>, so did <a href="https://nitter.freedit.eu/FhenixIO" title="Fhenix">@FhenixIO</a>'s FHE-powered EVM,  so did  <a href="https://nitter.freedit.eu/fuel_network" title="Fuel">@fuel_network</a>'s FuelVM, and so did Arbitrum Stylus which enables WASM/Rust/C/C++ programs on Ethereum. <br>
+<br>
+In Vitalik's words:<br>
+Instead, Vitalik advocates for taking the step to unify the Ethereum experience while maintaining its unique character and diversity. Some of this is in the form of concrete technical features like chain-specific addresses. But the bulk of this is deep coordination between teams,  finding common ground between them and working together to build interop tech that unites us.<br>
+<br>
+Enter native rollups.<br>
+<br>
+Before today, I was pretty bearish on the notion of native rollups to be honest, as the way I had heard them pitched was a push for all chains to become homogenous and unify around a specific implementation of the EVM.<br>
+<br>
+I thought this was a bad idea because while it might make interop easier in the short term, it would stifle Ethereum's innovation in the long term. <br>
+<br>
+But Vitalik presented it a bit differently than I had understood:<br>
+<br>
+The way I understand Vitalik's view of native rollups is kinda like "refactoring" code. There are a lot of rollups that utilize the EVM and we should coordinate around a standard for that. Rather than have each rollup build this out independently, we should factor out this common feature and even add more native support for these functionalities.<br>
+<br>
+But importantly we should do it in a way that allows rollups to extend the VM, and build a culture that continues to value innovation. <br>
+<br>
+Native rollups doesn't mean that that everyone has to be homogenous; it just means that we should find the "common core" and build those components together so we can waste less time on reinventing the wheel. Some rollups may stop there and just use the shared code, while others will innovate on top of it, building custom execution environments.<br>
+<br>
+There's still a lot of research that needs to go into "can we do this". Can we actually build a "common core" rollup that enables innovation? What does this common core look like and how can we build it in a way that all existing EVM rollups can get behind it and benefit from it.<br>
+<br>
+Yes, it's early days. Yes there's a ton of research to be done. But as a vision, I think this is fantastic and I'm excited about the future of an Ethereum that's both interconnected and diverse.</p>
+<p><a href="https://nitter.freedit.eu/VitalikButerin/status/1882649065139384600#m">nitter.freedit.eu/VitalikButerin/status/1882649065139384600#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGiDzVAQXgAAhtw8.png" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGiD5TFQW4AAhOzu.png" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 24 Jan 2025 13:40:28 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/sgoldfed/status/1882785543135568102#m</guid>
+        <link>https://nitter.freedit.eu/sgoldfed/status/1882785543135568102#m</link>
       </item>
       <item>
-        <title>The last two years a person that was very good to me and my team and I like a lot in the @ethereum ecosystem is  @sandeepnailwal from @0xPolygon. 
-
-He has supported and helped me every time I needed to talk about any subject. Great brother.</title>
+        <title>Thanks for the quote!</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>The last two years a person that was very good to me and my team and I like a lot in the <a href="https://nitter.freedit.eu/ethereum" title="Ethereum.org">@ethereum</a> ecosystem is  <a href="https://nitter.freedit.eu/sandeepnailwal" title="Sandeep | Polygon (※,※)">@sandeepnailwal</a> from <a href="https://nitter.freedit.eu/0xPolygon" title="Polygon (※,※)">@0xPolygon</a>. <br>
-<br>
-He has supported and helped me every time I needed to talk about any subject. Great brother.</p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 21:33:39 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1882542237139292583#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1882542237139292583#m</link>
+        <description><![CDATA[<p>Thanks for the quote!</p>
+<p><a href="https://nitter.freedit.eu/ezklxyz/status/1882850950697845000#m">nitter.freedit.eu/ezklxyz/status/1882850950697845000#m</a></p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 23:04:34 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1882927503096119758#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1882927503096119758#m</link>
       </item>
       <item>
-        <title>Never thought about this. Interesting take.</title>
+        <title>Making great progress</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Never thought about this. Interesting take.</p>
-<p><a href="https://nitter.freedit.eu/VitalikButerin/status/1882527216782774511#m">nitter.freedit.eu/VitalikButerin/status/1882527216782774511#m</a></p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 21:21:40 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1882539219069075828#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1882539219069075828#m</link>
+        <description><![CDATA[<p>Making great progress</p>
+<p><a href="https://nitter.freedit.eu/fede_intern/status/1875607586009182335#m">nitter.freedit.eu/fede_intern/status/1875607586009182335#m</a></p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 20:17:57 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1882885574077686110#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1882885574077686110#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: Reflecting on the last few days there’s a lot of constructive dialogue that’s been occurring which is great. 
+        <title>RT by @fede_intern: epic sequencing call #17!
 
-I think @fede_intern is really onto something 
+Many founders, including 10 rollup founders, shared their support for based and/or native rollups. Below are some their quotes. 1h45min YouTube recording coming ASAP :)
 
-We have a very good opportunity to get leaders from various aspects of Ethereum (ACD, PBS, DeFi, etc…) to come together to bring a level headed approach to what it means to steward Ethereum at the EF level or other means. 
+Part 1—based and native rollups
 
-It could be immensely beneficial to have a healthy mixture of well established businesses who contribute to the core success help in an advisory position (not compensated) to what the future board of the EF may look like. 
+Ben Jones from @Optimism: &quot;Let&apos;s get this right. Optimism is willing to support based sequencing and native execution. It&apos;s wartime.&quot;
 
-This obviously raises COI - but transparency is the biggest asset to help with that. Having people with expertise on weathering the storms of bear markets, growing their companies and being boots on the ground in the trenches of development can offer a unique point of view to the EF. 
+Nick Johnson from @ensdomains: &quot;You can count Namechain as based-pilled and native-pilled [...] and consider us fully onboard.&quot;
 
-There’s a huge difference to having an open line, and being an active participant at the advisory level. I would worry seats on the board raise too many eyebrows, but having respected and level headed builders in the mix could be a net positive. 
+Jesse Pollak from @base: &quot;We need to scale and connect the Ethereum ecosystem and based sequencing and native execution feel like the tools to do it.&quot;
 
-We see what’s happening, our livelihoods are built on-top of Ethereum (and other ecosystems in some cases), and we run organizations at scale. The learnings can be immensely helpful. 
+Tomasz Stanczak from @NethermindEth: &quot;Based and native rollups feel super aligned, they are what we&apos;re super excited about.&quot; &quot;We will be experimenting with Surge, based rollups, and FABRIC.&quot;
 
-We want Ethereum to win. We want crypto to win.
+Hayden Adams from @unichain: [couldn&apos;t make it; see recording for my Unichain take]
 
-I see it similar to when ACD started to make conceded efforts at listening to the app builders, bringing them into the discussion on how to improve the protocol. We have a similar opportunity to do the same here</title>
-        <dc:creator>@gregthegreek</dc:creator>
-        <description><![CDATA[<p>Reflecting on the last few days there’s a lot of constructive dialogue that’s been occurring which is great. <br>
+Steven Goldfeder from @arbitrum: &quot;Diversity makes Ethereum unique [...] We need to find a common core - which is a native rollup, but not stifle innovation on top of it. [...] We&apos;re excited to contribute to this direction [...] All of us want Ethereum to win.&quot;
+
+Fede Carrone from @class_lambda: &quot;Based? For me, it clicked within seconds&quot;
+
+Ye Zhang from @Scroll_ZKP: &quot;Based sequencing is an important way to stay in the same economic zone with Ethereum. [...] Native rollups are a super interesting idea!&quot;
+
+Part 2—FABRIC: Fabric to Accelerate Based Rollup Infrastructure and Connectivity
+
+Drew Van der Werff from @Commit_Boost: &quot;FABRIC is a shelling point to coordinate and stitch together some of the fragmentation that has emerged&quot;
+
+mteam from @Spire_Labs: &quot;Spire is devoting developer resources to native rollups.&quot; &quot;We believe that a unified set of standards based rollups will lead to greater efficiency in development timelines, bring down costs for users, and establish a compatibility zone which is why we’re excited to announce our support of Fabric&quot;
+
+Daniel Wang from @taikoxyz: &quot;we&apos;ve been waiting for the FABRIC standards so we can work together and provide a full solution&quot; &quot;Taiko is willing to contribute to the Fabric project to make sure we can divide and conquer the problems&quot;
+
+Amir Forouzani from @puffer_finance: &quot;Based rollups were a no-brainer for us, [...] so were native rollups.&quot; &quot;FABRIC just makes so much sense, [...] these standardization efforts are so important&quot;
+
+Demi Brener from @OpenZeppelin: &quot;We see based rollups as a promising path towards scaling Ethereum and billions of user.&quot; &quot;We are supportive of the FABRIC efforts and are willing to contribute.&quot;
+
+Sam Batternally from @rise_chain: &quot;I am here to voice my support for FABRIC&quot; &quot;the signaling from Ethereum that this is the direction scaling is going which will be huge to pull off and attract more builders&quot;
+
+Vitalik Buterin: &quot;our community thrives on open source, open research [...] It&apos;s amazing to see all of this interest and willingness to work together on sequencing and interoperability</title>
+        <dc:creator>@drakefjustin</dc:creator>
+        <description><![CDATA[<p>epic sequencing call #17!<br>
 <br>
-I think <a href="https://nitter.freedit.eu/fede_intern" title="Fede’s intern 🥊">@fede_intern</a> is really onto something <br>
+Many founders, including 10 rollup founders, shared their support for based and/or native rollups. Below are some their quotes. 1h45min YouTube recording coming ASAP :)<br>
 <br>
-We have a very good opportunity to get leaders from various aspects of Ethereum (ACD, PBS, DeFi, etc…) to come together to bring a level headed approach to what it means to steward Ethereum at the EF level or other means. <br>
+Part 1—based and native rollups<br>
 <br>
-It could be immensely beneficial to have a healthy mixture of well established businesses who contribute to the core success help in an advisory position (not compensated) to what the future board of the EF may look like. <br>
+Ben Jones from <a href="https://nitter.freedit.eu/Optimism" title="Optimism.eth">@Optimism</a>: "Let's get this right. Optimism is willing to support based sequencing and native execution. It's wartime."<br>
 <br>
-This obviously raises COI - but transparency is the biggest asset to help with that. Having people with expertise on weathering the storms of bear markets, growing their companies and being boots on the ground in the trenches of development can offer a unique point of view to the EF. <br>
+Nick Johnson from <a href="https://nitter.freedit.eu/ensdomains" title="ens.eth">@ensdomains</a>: "You can count Namechain as based-pilled and native-pilled [...] and consider us fully onboard."<br>
 <br>
-There’s a huge difference to having an open line, and being an active participant at the advisory level. I would worry seats on the board raise too many eyebrows, but having respected and level headed builders in the mix could be a net positive. <br>
+Jesse Pollak from <a href="https://nitter.freedit.eu/base" title="Base">@base</a>: "We need to scale and connect the Ethereum ecosystem and based sequencing and native execution feel like the tools to do it."<br>
 <br>
-We see what’s happening, our livelihoods are built on-top of Ethereum (and other ecosystems in some cases), and we run organizations at scale. The learnings can be immensely helpful. <br>
+Tomasz Stanczak from <a href="https://nitter.freedit.eu/NethermindEth" title="Nethermind">@NethermindEth</a>: "Based and native rollups feel super aligned, they are what we're super excited about." "We will be experimenting with Surge, based rollups, and FABRIC."<br>
 <br>
-We want Ethereum to win. We want crypto to win.<br>
+Hayden Adams from <a href="https://nitter.freedit.eu/unichain" title="Unichain">@unichain</a>: [couldn't make it; see recording for my Unichain take]<br>
 <br>
-I see it similar to when ACD started to make conceded efforts at listening to the app builders, bringing them into the discussion on how to improve the protocol. We have a similar opportunity to do the same here</p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 18:49:34 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gregthegreek/status/1882500944283443636#m</guid>
-        <link>https://nitter.freedit.eu/gregthegreek/status/1882500944283443636#m</link>
+Steven Goldfeder from <a href="https://nitter.freedit.eu/arbitrum" title="Arbitrum (💙,🧡)">@arbitrum</a>: "Diversity makes Ethereum unique [...] We need to find a common core - which is a native rollup, but not stifle innovation on top of it. [...] We're excited to contribute to this direction [...] All of us want Ethereum to win."<br>
+<br>
+Fede Carrone from <a href="https://nitter.freedit.eu/class_lambda" title="LambdaClass">@class_lambda</a>: "Based? For me, it clicked within seconds"<br>
+<br>
+Ye Zhang from <a href="https://nitter.freedit.eu/Scroll_ZKP" title="Scroll">@Scroll_ZKP</a>: "Based sequencing is an important way to stay in the same economic zone with Ethereum. [...] Native rollups are a super interesting idea!"<br>
+<br>
+Part 2—FABRIC: Fabric to Accelerate Based Rollup Infrastructure and Connectivity<br>
+<br>
+Drew Van der Werff from <a href="https://nitter.freedit.eu/Commit_Boost" title="Commit-Boost 📻 🕶️ 🦇🔊">@Commit_Boost</a>: "FABRIC is a shelling point to coordinate and stitch together some of the fragmentation that has emerged"<br>
+<br>
+mteam from <a href="https://nitter.freedit.eu/Spire_Labs" title="Spire🗼">@Spire_Labs</a>: "Spire is devoting developer resources to native rollups." "We believe that a unified set of standards based rollups will lead to greater efficiency in development timelines, bring down costs for users, and establish a compatibility zone which is why we’re excited to announce our support of Fabric"<br>
+<br>
+Daniel Wang from <a href="https://nitter.freedit.eu/taikoxyz" title="Taiko.eth 🥁">@taikoxyz</a>: "we've been waiting for the FABRIC standards so we can work together and provide a full solution" "Taiko is willing to contribute to the Fabric project to make sure we can divide and conquer the problems"<br>
+<br>
+Amir Forouzani from <a href="https://nitter.freedit.eu/puffer_finance" title="Puffer Finance 🐡">@puffer_finance</a>: "Based rollups were a no-brainer for us, [...] so were native rollups." "FABRIC just makes so much sense, [...] these standardization efforts are so important"<br>
+<br>
+Demi Brener from <a href="https://nitter.freedit.eu/OpenZeppelin" title="OpenZeppelin">@OpenZeppelin</a>: "We see based rollups as a promising path towards scaling Ethereum and billions of user." "We are supportive of the FABRIC efforts and are willing to contribute."<br>
+<br>
+Sam Batternally from <a href="https://nitter.freedit.eu/rise_chain" title="RISE Chain">@rise_chain</a>: "I am here to voice my support for FABRIC" "the signaling from Ethereum that this is the direction scaling is going which will be huge to pull off and attract more builders"<br>
+<br>
+Vitalik Buterin: "our community thrives on open source, open research [...] It's amazing to see all of this interest and willingness to work together on sequencing and interoperability</p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 18:43:26 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/drakefjustin/status/1882861787491778998#m</guid>
+        <link>https://nitter.freedit.eu/drakefjustin/status/1882861787491778998#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: if you have a chronic gambling addiction — there&apos;s a much better way to channel it
-
-join a startup that gives you a ton of equity
-
-create value for users, ship cool shit, and get rich if you succeed
-
-and if you don&apos;t succeed, you still made money via salary, but also upskilled yourself in every way imaginable while working on something important</title>
-        <dc:creator>@0xMert_</dc:creator>
-        <description><![CDATA[<p>if you have a chronic gambling addiction — there's a much better way to channel it<br>
-<br>
-join a startup that gives you a ton of equity<br>
-<br>
-create value for users, ship cool shit, and get rich if you succeed<br>
-<br>
-and if you don't succeed, you still made money via salary, but also upskilled yourself in every way imaginable while working on something important</p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 16:21:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xMert_/status/1882463754333413487#m</guid>
-        <link>https://nitter.freedit.eu/0xMert_/status/1882463754333413487#m</link>
+        <title>RT by @fede_intern: Viva Ethereum!
+Viva la computadora mundial!</title>
+        <dc:creator>@EtherArgentina</dc:creator>
+        <description><![CDATA[<p>Viva Ethereum!<br>
+Viva la computadora mundial!</p>
+<p><a href="https://nitter.freedit.eu/fede_intern/status/1882822262111510692#m">nitter.freedit.eu/fede_intern/status/1882822262111510692#m</a></p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 17:37:45 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/EtherArgentina/status/1882845256544399402#m</guid>
+        <link>https://nitter.freedit.eu/EtherArgentina/status/1882845256544399402#m</link>
       </item>
       <item>
-        <title>Second leg of my flight and obviously Iberia lost the bag 🤣</title>
+        <title>RT by @fede_intern: these guys are the real deal, best believe.</title>
+        <dc:creator>@TulpaLab_</dc:creator>
+        <description><![CDATA[<p>these guys are the real deal, best believe.</p>
+<p><a href="https://nitter.freedit.eu/fede_intern/status/1882811582821871970#m">nitter.freedit.eu/fede_intern/status/1882811582821871970#m</a></p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 16:23:55 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/TulpaLab_/status/1882826674250944848#m</guid>
+        <link>https://nitter.freedit.eu/TulpaLab_/status/1882826674250944848#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: Ethereum forever in every language! 🚀 Long live the decentralized future, the world computer, and all of us building on it. Viva Ethereum! 🌍💻</title>
+        <dc:creator>@DeboisMaurice</dc:creator>
+        <description><![CDATA[<p>Ethereum forever in every language! 🚀 Long live the decentralized future, the world computer, and all of us building on it. Viva Ethereum! 🌍💻</p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 16:07:19 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/DeboisMaurice/status/1882822497663594857#m</guid>
+        <link>https://nitter.freedit.eu/DeboisMaurice/status/1882822497663594857#m</link>
+      </item>
+      <item>
+        <title>以太坊萬歲
+以太幣萬歲
+世界計算機萬歲
+
+Long live Ethereum
+Long live Ethereum
+Long live the world computer
+
+Viva Ethereum
+Viva Ethereum
+Viva la computadora mundial</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Second leg of my flight and obviously Iberia lost the bag 🤣</p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 16:54:15 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1882471920324784160#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1882471920324784160#m</link>
+        <description><![CDATA[<p>以太坊萬歲<br>
+以太幣萬歲<br>
+世界計算機萬歲<br>
+<br>
+Long live Ethereum<br>
+Long live Ethereum<br>
+Long live the world computer<br>
+<br>
+Viva Ethereum<br>
+Viva Ethereum<br>
+Viva la computadora mundial</p>
+<p><a href="https://nitter.freedit.eu/VitalikButerin/status/1882811848350892517#m">nitter.freedit.eu/VitalikButerin/status/1882811848350892517#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGiEg3lKWUAAqT8L.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 24 Jan 2025 16:06:23 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1882822262111510692#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1882822262111510692#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: We’re proud to have @PanteraCapital leading this round. Special thanks to @lstephanian and @nihal_maunder for backing our vision.
+        <title>The good thing for us about the current situation is that we’re experts in chaos and crisis. We get hired very often by projects in web2 and web3 that are in a huge engineering and management crisis. They pay us to turn things around. To deliver, prioritize, hire people, fire people, recommend what to do. We’re a small SWAT engineering and product team. 
 
-Shout out to our earliest supporters who have been part of our journey from the very beginning: @hashed_official, @Superscrypt, @class_lambda, @Cryptocom_Cap</title>
-        <dc:creator>@radius_xyz</dc:creator>
-        <description><![CDATA[<p>We’re proud to have <a href="https://nitter.freedit.eu/PanteraCapital" title="Pantera Capital">@PanteraCapital</a> leading this round. Special thanks to <a href="https://nitter.freedit.eu/lstephanian" title="Lauren Stephanian">@lstephanian</a> and <a href="https://nitter.freedit.eu/nihal_maunder" title="Nihal Maunder">@nihal_maunder</a> for backing our vision.<br>
-<br>
-Shout out to our earliest supporters who have been part of our journey from the very beginning: <a href="https://nitter.freedit.eu/hashed_official" title="#Hashed">@hashed_official</a>, <a href="https://nitter.freedit.eu/Superscrypt" title="Superscrypt">@Superscrypt</a>, <a href="https://nitter.freedit.eu/class_lambda" title="LambdaClass">@class_lambda</a>, <a href="https://nitter.freedit.eu/Cryptocom_Cap" title="Crypto.com Capital">@Cryptocom_Cap</a></p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 16:12:12 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/radius_xyz/status/1882461341207974165#m</guid>
-        <link>https://nitter.freedit.eu/radius_xyz/status/1882461341207974165#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: There is perhaps an analogy with weed here.
-
-Ten years ago, to many weed represented freedom, and rebellion against sclerotic old order that denied self-sovereignty over our bodies. Then, weed became legalized, and &quot;official&quot;.
-
-On that day, I remember my personal interest in weed dropping by &gt; 2x overnight.
-
-And since then, public discourse is moving toward a balanced view of weed: it is much less harmful than alcohol and smoking, and has valuable medical uses, but it is also far from harmless, especially in its modern corporate hyper-optimized versions.
-
-Crypto finance is similar. In the old order, @GaryGensler created a regime where tokens that give investors clear indication of what their rights are and where their revenue comes from is a &quot;security&quot;, but obfuscated &quot;governance tokens&quot; are potentially in the clear. This was a perverse distortion of incentives, and it is a key reason why @GaryGensler must never be christened as a hero, even among crypto skeptics. Everything that happened in crypto was in part a response, part compliance part rebellion, to these pressures.
-
-Over the last year, we have been entering a new order. Now, the most powerful people in the world are cheering on the idea of anyone creating tokens for anything, at any scale.
-
-And so now is the time to talk about the difference between sugar-high short-term fun that is unwise to recommend to newbies, and long-term fulfillment and wealth-building. It is not about &quot;fun is bad&quot;, it is about the equivalent of modern hyperaddictive cellphone games, versus chess or World of Warcraft.
-
-Now is the time to talk about the fact that large-scale political coins cross a further line: they are not just sources of fun, whose harm is at most contained to mistakes made by voluntary participants, they are vehicles for unlimited political bribery, including from foreign nation states.
-
-This is in a sense the essence of d/acc: the goal is not to indiscriminately accelerate everything, including superintelligent AI and fentanyl, the goal is to selectively accelerate defense so that it can keep up with offense. Sometimes, that defense is a matter of cultivating our own sense of virtue. Sometimes, that defense is a matter of creating better alternatives.
-
-In defi, we are already starting to see a return toward honest token-based fundraising that gives users clear understanding of what they are buying, bringing us the best of pre-2020-era ICOs while addressing their downsides. The @infinex_app patron sale, and the @Truemarketsorg NFT sale, are two examples of this, and I personally know of other examples that are soon to come.
-
-There is a bright future of capital allocation mechanisms that can be built. Potentially, we can come up with ways to ensure alignment with community wishes as well as safeguarding important values like privacy, security, open standards and open source, that could be part of the incentive structure itself. Acceleration is coming either way; it is our task to choose the brightest possible vector.</title>
-        <dc:creator>@VitalikButerin</dc:creator>
-        <description><![CDATA[<p>There is perhaps an analogy with weed here.<br>
-<br>
-Ten years ago, to many weed represented freedom, and rebellion against sclerotic old order that denied self-sovereignty over our bodies. Then, weed became legalized, and "official".<br>
-<br>
-On that day, I remember my personal interest in weed dropping by &gt; 2x overnight.<br>
-<br>
-And since then, public discourse is moving toward a balanced view of weed: it is much less harmful than alcohol and smoking, and has valuable medical uses, but it is also far from harmless, especially in its modern corporate hyper-optimized versions.<br>
-<br>
-Crypto finance is similar. In the old order, <a href="https://nitter.freedit.eu/GaryGensler" title="Gary Gensler">@GaryGensler</a> created a regime where tokens that give investors clear indication of what their rights are and where their revenue comes from is a "security", but obfuscated "governance tokens" are potentially in the clear. This was a perverse distortion of incentives, and it is a key reason why <a href="https://nitter.freedit.eu/GaryGensler" title="Gary Gensler">@GaryGensler</a> must never be christened as a hero, even among crypto skeptics. Everything that happened in crypto was in part a response, part compliance part rebellion, to these pressures.<br>
-<br>
-Over the last year, we have been entering a new order. Now, the most powerful people in the world are cheering on the idea of anyone creating tokens for anything, at any scale.<br>
-<br>
-And so now is the time to talk about the difference between sugar-high short-term fun that is unwise to recommend to newbies, and long-term fulfillment and wealth-building. It is not about "fun is bad", it is about the equivalent of modern hyperaddictive cellphone games, versus chess or World of Warcraft.<br>
-<br>
-Now is the time to talk about the fact that large-scale political coins cross a further line: they are not just sources of fun, whose harm is at most contained to mistakes made by voluntary participants, they are vehicles for unlimited political bribery, including from foreign nation states.<br>
-<br>
-This is in a sense the essence of d/acc: the goal is not to indiscriminately accelerate everything, including superintelligent AI and fentanyl, the goal is to selectively accelerate defense so that it can keep up with offense. Sometimes, that defense is a matter of cultivating our own sense of virtue. Sometimes, that defense is a matter of creating better alternatives.<br>
-<br>
-In defi, we are already starting to see a return toward honest token-based fundraising that gives users clear understanding of what they are buying, bringing us the best of pre-2020-era ICOs while addressing their downsides. The <a href="https://nitter.freedit.eu/infinex_app" title="Infinex">@infinex_app</a> patron sale, and the <a href="https://nitter.freedit.eu/Truemarketsorg" title="Truemarkets">@Truemarketsorg</a> NFT sale, are two examples of this, and I personally know of other examples that are soon to come.<br>
-<br>
-There is a bright future of capital allocation mechanisms that can be built. Potentially, we can come up with ways to ensure alignment with community wishes as well as safeguarding important values like privacy, security, open standards and open source, that could be part of the incentive structure itself. Acceleration is coming either way; it is our task to choose the brightest possible vector.</p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 16:03:18 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/VitalikButerin/status/1882459101390602338#m</guid>
-        <link>https://nitter.freedit.eu/VitalikButerin/status/1882459101390602338#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: Ethereum´s ethos cannot be skipped with shortcuts—they are pitfalls. True power is derived from an open, permissionless, and credibly neutral model. As soon as we exchange our ethos for expediency, we become precisely what Ethereum was created to replace.</title>
-        <dc:creator>@fernandezdiego</dc:creator>
-        <description><![CDATA[<p>Ethereum´s ethos cannot be skipped with shortcuts—they are pitfalls. True power is derived from an open, permissionless, and credibly neutral model. As soon as we exchange our ethos for expediency, we become precisely what Ethereum was created to replace.</p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 16:00:02 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fernandezdiego/status/1882458279944835461#m</guid>
-        <link>https://nitter.freedit.eu/fernandezdiego/status/1882458279944835461#m</link>
-      </item>
-      <item>
-        <title>Jolt seems interesting but it’s becoming more and more complicated.
-
-Am I wrong?</title>
+Ethereum has a small crisis right now. All our engineers and companies have been trained at dealing with crisis 24/7. Hopefully our Argentina skills are useful for Ethereum in the years to come.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Jolt seems interesting but it’s becoming more and more complicated.<br>
+        <description><![CDATA[<p>The good thing for us about the current situation is that we’re experts in chaos and crisis. We get hired very often by projects in web2 and web3 that are in a huge engineering and management crisis. They pay us to turn things around. To deliver, prioritize, hire people, fire people, recommend what to do. We’re a small SWAT engineering and product team. <br>
 <br>
-Am I wrong?</p>
-<p><a href="https://nitter.freedit.eu/SuccinctJT/status/1882435762190504143#m">nitter.freedit.eu/SuccinctJT/status/1882435762190504143#m</a></p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 15:13:11 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1882446486811935138#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1882446486811935138#m</link>
+Ethereum has a small crisis right now. All our engineers and companies have been trained at dealing with crisis 24/7. Hopefully our Argentina skills are useful for Ethereum in the years to come.</p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 15:23:56 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1882811582821871970#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1882811582821871970#m</link>
       </item>
       <item>
-        <title>Jump was a crucial tech, market maker and investor for many blockchains.
-
-Its culture limited itself.
-
-I believe we will see some new Jump’s in the year to come.</title>
-        <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Jump was a crucial tech, market maker and investor for many blockchains.<br>
-<br>
-Its culture limited itself.<br>
-<br>
-I believe we will see some new Jump’s in the year to come.</p>
-<p><a href="https://nitter.freedit.eu/TheBlock__/status/1882362307482653060#m">nitter.freedit.eu/TheBlock__/status/1882362307482653060#m</a></p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 14:57:40 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1882442583735247209#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1882442583735247209#m</link>
+        <title>RT by @fede_intern: Decentralization doesn&apos;t matter until it starts to matter one day</title>
+        <dc:creator>@toghrulmaharram</dc:creator>
+        <description><![CDATA[<p>Decentralization doesn't matter until it starts to matter one day</p>
+<p><a href="https://nitter.freedit.eu/ayyyeandy/status/1882705439571534004#m">nitter.freedit.eu/ayyyeandy/status/1882705439571534004#m</a></p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 14:16:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/toghrulmaharram/status/1882794691470794957#m</guid>
+        <link>https://nitter.freedit.eu/toghrulmaharram/status/1882794691470794957#m</link>
       </item>
       <item>
-        <title>I need to buy some shoes. People watch me strangely in Europe with my flip flops and socks in winter 🤣.</title>
+        <title>I disagree with @ayyyeandy.
+
+Bitcoin is the biggest asset, it enabled for the first time transfer of money between humans without trust and without intermediaries.
+
+Ethereum is the second asset by market cap. It’s biggest feature is that it enabled trustless computation.
+
+This shows that users and people care about decentralization.
+
+I do agree that new products and blockchains don’t need this level of decentralization since they can’t compete with Bitcoin and Ethereum. So obviously new products have to choose to focus on performance, cost and marketing. 
+
+That said if it’s not for decentralization crypto doesn’t make any sense. We already have enough online casinos and web2 companies. I have nothing against centralized solutions. I built too many of them and still build multiple web2 products. That said our ethos and core reason to exist as an industry is decentralization.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>I need to buy some shoes. People watch me strangely in Europe with my flip flops and socks in winter 🤣.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGh_G8FvXkAEWKmv.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 23 Jan 2025 14:55:14 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1882441972419530989#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1882441972419530989#m</link>
+        <description><![CDATA[<p>I disagree with <a href="https://nitter.freedit.eu/ayyyeandy" title="Andy">@ayyyeandy</a>.<br>
+<br>
+Bitcoin is the biggest asset, it enabled for the first time transfer of money between humans without trust and without intermediaries.<br>
+<br>
+Ethereum is the second asset by market cap. It’s biggest feature is that it enabled trustless computation.<br>
+<br>
+This shows that users and people care about decentralization.<br>
+<br>
+I do agree that new products and blockchains don’t need this level of decentralization since they can’t compete with Bitcoin and Ethereum. So obviously new products have to choose to focus on performance, cost and marketing. <br>
+<br>
+That said if it’s not for decentralization crypto doesn’t make any sense. We already have enough online casinos and web2 companies. I have nothing against centralized solutions. I built too many of them and still build multiple web2 products. That said our ethos and core reason to exist as an industry is decentralization.</p>
+<p><a href="https://nitter.freedit.eu/ayyyeandy/status/1882705439571534004#m">nitter.freedit.eu/ayyyeandy/status/1882705439571534004#m</a></p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 15:21:24 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1882810942075105766#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1882810942075105766#m</link>
       </item>
       <item>
-        <title>gm Ethereum. just landed in Europe. Gonna meet ethereum friends in many places. Then Middle East then potentially Asia.</title>
-        <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>gm Ethereum. just landed in Europe. Gonna meet ethereum friends in many places. Then Middle East then potentially Asia.</p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 13:52:07 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1882426086480642074#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1882426086480642074#m</link>
+        <title>RT by @fede_intern: @class_lambda keeps showing up, taking on PRs, adding features requested by validators, and just supporting this effort. No questions asked, just digging in and shipping. Thank you for all this effort on supporting open source public goods for Ethereum.</title>
+        <dc:creator>@DrewVdW</dc:creator>
+        <description><![CDATA[<p><a href="https://nitter.freedit.eu/class_lambda" title="LambdaClass">@class_lambda</a> keeps showing up, taking on PRs, adding features requested by validators, and just supporting this effort. No questions asked, just digging in and shipping. Thank you for all this effort on supporting open source public goods for Ethereum.</p>
+<p><a href="https://nitter.freedit.eu/fede_intern/status/1882797639957090579#m">nitter.freedit.eu/fede_intern/status/1882797639957090579#m</a></p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 14:36:36 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/DrewVdW/status/1882799668658377052#m</guid>
+        <link>https://nitter.freedit.eu/DrewVdW/status/1882799668658377052#m</link>
       </item>
       <item>
-        <title>We’re moving forward with Ethrex. We’re very close to the first big milestone.
+        <title>R to @fede_intern: PR 231, Hot-Reloading for Configuration: https://github.com/Commit-Boost/commit-boost-client/pull/231
 
-We worked on fixing several issues uncovered when trying to sync with Holesky testnet, specifically on the P2P layer, but also when loading the initial state with snap sync. We&apos;re at the stage now where we&apos;ve downloaded all accounts, and are now syncing the storage.
+PR 244, Batch Size for Validator Registration: https://github.com/Commit-Boost/commit-boost-client/pull/244
 
-Changelog:
--  Refactored P2P to use Codec to stream RLPx Messages.
--  Implemented engine_getPayloadBodiesByRangeV1 and engine_getPayloadBodiesByHashV1 methods.
--  Fixed discovery server crashing when decoding packets with malformed signature.
--  Added loading the node key for P2P on startup or generating a new one if it doesn&apos;t exist.
--  Added periodically showing a log of peer stats.
--  Fixed max retry logic when fetching account range.
--  Refactored only enabling full sync after a successful snap sync.
--  Fixed range validation when requesting storage ranges.
+PR 228, Improved Logging for Better Insights: https://github.com/Commit-Boost/commit-boost-client/pull/228
 
-# LEVM
-We focused on adding support for the Pectra upgrade, implementing almost every precompile of EIP-2537 (BLS curve operations, check the changelog below) and nearly finishing the implementation of EIP-7702 (EVM Object Format, currently fixing minor bugs). We&apos;re also wrapping up the ethrex L1 &lt;&gt; LEVM integration, with a PR switching the feature flag levm as a default feature. For the full integration, we need to conditionally pre-execute the transactions coming from the RPC with levm.
-
-Changelog:
--  Implemented the precompiles BLS12_G1ADD, BLS12_G1MSM, BLS12_G2ADD, BLS12_G2MSM, BLS12_PAIRING_CHECK, BLS12_MAP_FP_TO_G1 of the EIP-2537.
--  Extended the EVM EF test runner to parse and run the EIP-7702 tests.</title>
+PR 223, Enhanced SSV Network Support: https://github.com/Commit-Boost/commit-boost-client/pull/223</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>We’re moving forward with Ethrex. We’re very close to the first big milestone.<br>
+        <description><![CDATA[<p>PR 231, Hot-Reloading for Configuration: <a href="https://github.com/Commit-Boost/commit-boost-client/pull/231">github.com/Commit-Boost/comm…</a><br>
 <br>
-We worked on fixing several issues uncovered when trying to sync with Holesky testnet, specifically on the P2P layer, but also when loading the initial state with snap sync. We're at the stage now where we've downloaded all accounts, and are now syncing the storage.<br>
+PR 244, Batch Size for Validator Registration: <a href="https://github.com/Commit-Boost/commit-boost-client/pull/244">github.com/Commit-Boost/comm…</a><br>
 <br>
-Changelog:<br>
--  Refactored P2P to use Codec to stream RLPx Messages.<br>
--  Implemented engine_getPayloadBodiesByRangeV1 and engine_getPayloadBodiesByHashV1 methods.<br>
--  Fixed discovery server crashing when decoding packets with malformed signature.<br>
--  Added loading the node key for P2P on startup or generating a new one if it doesn't exist.<br>
--  Added periodically showing a log of peer stats.<br>
--  Fixed max retry logic when fetching account range.<br>
--  Refactored only enabling full sync after a successful snap sync.<br>
--  Fixed range validation when requesting storage ranges.<br>
+PR 228, Improved Logging for Better Insights: <a href="https://github.com/Commit-Boost/commit-boost-client/pull/228">github.com/Commit-Boost/comm…</a><br>
 <br>
-# LEVM<br>
-We focused on adding support for the Pectra upgrade, implementing almost every precompile of EIP-2537 (BLS curve operations, check the changelog below) and nearly finishing the implementation of EIP-7702 (EVM Object Format, currently fixing minor bugs). We're also wrapping up the ethrex L1 &lt;&gt; LEVM integration, with a PR switching the feature flag levm as a default feature. For the full integration, we need to conditionally pre-execute the transactions coming from the RPC with levm.<br>
-<br>
-Changelog:<br>
--  Implemented the precompiles BLS12_G1ADD, BLS12_G1MSM, BLS12_G2ADD, BLS12_G2MSM, BLS12_PAIRING_CHECK, BLS12_MAP_FP_TO_G1 of the EIP-2537.<br>
--  Extended the EVM EF test runner to parse and run the EIP-7702 tests.</p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 13:35:58 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1882422020710760587#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1882422020710760587#m</link>
+PR 223, Enhanced SSV Network Support: <a href="https://github.com/Commit-Boost/commit-boost-client/pull/223">github.com/Commit-Boost/comm…</a></p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 14:28:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1882797642612420953#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1882797642612420953#m</link>
+      </item>
+      <item>
+        <title>Commit-Boost @Commit_Boost updates by @class_lambda:
+- Hot-Reloading for Configuration: We&apos;ve implemented Hot-Reloading, allowing operators to update their settings seamlessly without restarting the system. This enhancement provides greater flexibility and ensures a smoother transition for node operators adopting Commit-Boost. PR 231
+- Batch Size for Validator Registration: To address relay limitations, operators can now configure batch sizes for validator registration. This ensures Commit-Boost sends validators in manageable batches, tailored to each relay’s capacity, preventing failures caused by large single requests. PR 244
+- Improved Logging for Better Insights: Based on feedback from node operators, we’ve enhanced the logs to now display the number of successfully registered validators. This update provides clearer visibility into operations, making it easier to monitor and troubleshoot effectively. PR 228
+- Enhanced SSV Network Support: We’ve improved support for the SSV network, enabling users to easily select relays based on their operator ID. This update simplifies configuration and enhances efficiency for SSV users, making their experience more streamlined and intuitive. PR 223</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>Commit-Boost <a href="https://nitter.freedit.eu/Commit_Boost" title="Commit-Boost 📻 🕶️ 🦇🔊">@Commit_Boost</a> updates by <a href="https://nitter.freedit.eu/class_lambda" title="LambdaClass">@class_lambda</a>:<br>
+- Hot-Reloading for Configuration: We've implemented Hot-Reloading, allowing operators to update their settings seamlessly without restarting the system. This enhancement provides greater flexibility and ensures a smoother transition for node operators adopting Commit-Boost. PR 231<br>
+- Batch Size for Validator Registration: To address relay limitations, operators can now configure batch sizes for validator registration. This ensures Commit-Boost sends validators in manageable batches, tailored to each relay’s capacity, preventing failures caused by large single requests. PR 244<br>
+- Improved Logging for Better Insights: Based on feedback from node operators, we’ve enhanced the logs to now display the number of successfully registered validators. This update provides clearer visibility into operations, making it easier to monitor and troubleshoot effectively. PR 228<br>
+- Enhanced SSV Network Support: We’ve improved support for the SSV network, enabling users to easily select relays based on their operator ID. This update simplifies configuration and enhances efficiency for SSV users, making their experience more streamlined and intuitive. PR 223</p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 14:28:32 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1882797639957090579#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1882797639957090579#m</link>
+      </item>
+      <item>
+        <title>Great drawing</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>Great drawing</p>
+<p><a href="https://nitter.freedit.eu/nixorokish/status/1882786069684592790#m">nitter.freedit.eu/nixorokish/status/1882786069684592790#m</a></p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 14:12:36 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1882793629431071048#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1882793629431071048#m</link>
+      </item>
+      <item>
+        <title>Believing that L2s are parasitic is delulu. It’s literally what makes Ethereum big and unique. The ones that move to based native will have the decentralization and interop of Ethereum and they will pay fees accordingly.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>Believing that L2s are parasitic is delulu. It’s literally what makes Ethereum big and unique. The ones that move to based native will have the decentralization and interop of Ethereum and they will pay fees accordingly.</p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 13:23:59 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1882781392838533136#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1882781392838533136#m</link>
+      </item>
+      <item>
+        <title>One of the best things that Solana has that I believe Ethereum should explore is the Local Fee Markets (LFM). While buying $TRUMP or $MELANIA didn’t work at one point at least to me, normal SOL transfers worked well.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>One of the best things that Solana has that I believe Ethereum should explore is the Local Fee Markets (LFM). While buying <a href="https://nitter.freedit.eu/search?q=%23TRUMP">$TRUMP</a> or $MELANIA didn’t work at one point at least to me, normal SOL transfers worked well.</p>
+<p><a href="https://nitter.freedit.eu/TrustlessState/status/1882776579912384711#m">nitter.freedit.eu/TrustlessState/status/1882776579912384711#m</a></p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 13:17:45 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1882779826639286690#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1882779826639286690#m</link>
       </item>
 
   </channel>

@@ -16,10 +16,91 @@
       <height>128</height>
     </image>
       <item>
+        <title>linera-io / linera-protocol: Main repository for the Linera protocol ★6844 https://github.com/linera-io/linera-protocol</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>linera-io / linera-protocol: Main repository for the Linera protocol ★6844 <a href="https://github.com/linera-io/linera-protocol">github.com/linera-io/linera-…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1882498030764457984%2Fk8yFwxzr%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 24 Jan 2025 19:10:06 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1882868497627361545#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1882868497627361545#m</link>
+      </item>
+      <item>
+        <title>RustAudio / cpal: Cross-platform audio I/O library in pure Rust ★2841 https://github.com/RustAudio/cpal</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>RustAudio / cpal: Cross-platform audio I/O library in pure Rust ★2841 <a href="https://github.com/RustAudio/cpal">github.com/RustAudio/cpal</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1881237495733743617%2Fj5-seFua%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 24 Jan 2025 18:54:27 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1882864557481455941#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1882864557481455941#m</link>
+      </item>
+      <item>
+        <title>starship: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! ★46692 https://github.com/starship/starship</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>starship: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! ★46692 <a href="https://github.com/starship/starship">github.com/starship/starship</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1883216084414742528%2FtijKxOod%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 24 Jan 2025 17:54:22 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1882849436734558350#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1882849436734558350#m</link>
+      </item>
+      <item>
+        <title>rustls: A modern TLS library in Rust ★6422 https://github.com/rustls/rustls</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>rustls: A modern TLS library in Rust ★6422 <a href="https://github.com/rustls/rustls">github.com/rustls/rustls</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1882068964907352064%2F0a3RAkw7%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 24 Jan 2025 16:54:16 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1882834316088193063#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1882834316088193063#m</link>
+      </item>
+      <item>
+        <title>qdrant: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ ★21473 https://github.com/qdrant/qdrant</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>qdrant: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud <a href="https://cloud.qdrant.io/">cloud.qdrant.io/</a> ★21473 <a href="https://github.com/qdrant/qdrant">github.com/qdrant/qdrant</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1883081401890680832%2FLJnWjc8n%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 24 Jan 2025 15:54:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1882819197404839969#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1882819197404839969#m</link>
+      </item>
+      <item>
+        <title>seanmonstar / reqwest: An easy and powerful Rust HTTP Client ★10198 https://github.com/seanmonstar/reqwest</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>seanmonstar / reqwest: An easy and powerful Rust HTTP Client ★10198 <a href="https://github.com/seanmonstar/reqwest">github.com/seanmonstar/reqwe…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1881856639881670656%2F3zWq9X4W%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 24 Jan 2025 14:54:07 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1882804078289547550#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1882804078289547550#m</link>
+      </item>
+      <item>
+        <title>prefix-dev / pixi: Package management made easy ★3748 https://github.com/prefix-dev/pixi</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>prefix-dev / pixi: Package management made easy ★3748 <a href="https://github.com/prefix-dev/pixi">github.com/prefix-dev/pixi</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1882349989709389824%2Fo8PhQsfK%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 24 Jan 2025 13:54:02 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1882788955445465121#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1882788955445465121#m</link>
+      </item>
+      <item>
+        <title>openobserve: 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). ★14139 https://github.com/openobserve/openobserve</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>openobserve: 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). ★14139 <a href="https://github.com/openobserve/openobserve">github.com/openobserve/openo…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1882210607912591361%2FwneCTdYc%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 24 Jan 2025 12:54:00 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1882773850225799627#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1882773850225799627#m</link>
+      </item>
+      <item>
+        <title>cloudflare / pingora: A library for building fast, reliable and evolvable network services. ★23147 https://github.com/cloudflare/pingora</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>cloudflare / pingora: A library for building fast, reliable and evolvable network services. ★23147 <a href="https://github.com/cloudflare/pingora">github.com/cloudflare/pingor…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1882039920752996352%2FoxXifR96%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 24 Jan 2025 11:53:55 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1882758727843123561#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1882758727843123561#m</link>
+      </item>
+      <item>
         <title>bytecodealliance / wasmtime: A lightweight WebAssembly runtime that is fast, secure, and standards-compliant ★15725 https://github.com/bytecodealliance/wasmtime</title>
         <dc:creator>@RustTrending</dc:creator>
         <description><![CDATA[<p>bytecodealliance / wasmtime: A lightweight WebAssembly runtime that is fast, secure, and standards-compliant ★15725 <a href="https://github.com/bytecodealliance/wasmtime">github.com/bytecodealliance/…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1880294048638070792%2F0kN8iNZv%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1882830834392031232%2FXlEjoQhb%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Thu, 23 Jan 2025 16:53:33 GMT</pubDate>
         <guid>https://nitter.freedit.eu/RustTrending/status/1882471744193323471#m</guid>
         <link>https://nitter.freedit.eu/RustTrending/status/1882471744193323471#m</link>
@@ -28,7 +109,7 @@
         <title>jito-foundation / jito-solana: Jito Foundation MEV Solana Client ★416 https://github.com/jito-foundation/jito-solana</title>
         <dc:creator>@RustTrending</dc:creator>
         <description><![CDATA[<p>jito-foundation / jito-solana: Jito Foundation MEV Solana Client ★416 <a href="https://github.com/jito-foundation/jito-solana">github.com/jito-foundation/j…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1880234213502259200%2FNKC9kVXo%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1882770965542948864%2Fx4nPvvHm%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Thu, 23 Jan 2025 15:53:29 GMT</pubDate>
         <guid>https://nitter.freedit.eu/RustTrending/status/1882456627561042302#m</guid>
         <link>https://nitter.freedit.eu/RustTrending/status/1882456627561042302#m</link>
@@ -46,7 +127,7 @@
         <title>pola-rs / polars: Dataframes powered by a multithreaded, vectorized query engine, written in Rust ★31476 https://github.com/pola-rs/polars</title>
         <dc:creator>@RustTrending</dc:creator>
         <description><![CDATA[<p>pola-rs / polars: Dataframes powered by a multithreaded, vectorized query engine, written in Rust ★31476 <a href="https://github.com/pola-rs/polars">github.com/pola-rs/polars</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1880748784075821056%2FcXUhYR7c%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1883285575702347776%2FyLw8oiz-%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Thu, 23 Jan 2025 13:53:23 GMT</pubDate>
         <guid>https://nitter.freedit.eu/RustTrending/status/1882426406304698434#m</guid>
         <link>https://nitter.freedit.eu/RustTrending/status/1882426406304698434#m</link>
@@ -64,7 +145,7 @@
         <title>GitoxideLabs / gitoxide: An idiomatic, lean, fast &amp; safe pure Rust implementation of Git ★9376 https://github.com/GitoxideLabs/gitoxide</title>
         <dc:creator>@RustTrending</dc:creator>
         <description><![CDATA[<p>GitoxideLabs / gitoxide: An idiomatic, lean, fast &amp; safe pure Rust implementation of Git ★9376 <a href="https://github.com/GitoxideLabs/gitoxide">github.com/GitoxideLabs/gito…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1880675237735583745%2FVpumM7jl%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1883213922683281408%2Fp2A1sa7l%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Thu, 23 Jan 2025 11:53:13 GMT</pubDate>
         <guid>https://nitter.freedit.eu/RustTrending/status/1882396162919206990#m</guid>
         <link>https://nitter.freedit.eu/RustTrending/status/1882396162919206990#m</link>
@@ -82,7 +163,7 @@
         <title>FuelLabs / fuel-core: Rust full node implementation of the Fuel v2 protocol. ★57874 https://github.com/FuelLabs/fuel-core</title>
         <dc:creator>@RustTrending</dc:creator>
         <description><![CDATA[<p>FuelLabs / fuel-core: Rust full node implementation of the Fuel v2 protocol. ★57874 <a href="https://github.com/FuelLabs/fuel-core">github.com/FuelLabs/fuel-cor…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1880622965018013696%2FLr_n8xHI%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1883160725436428288%2FuLyPKl6q%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Wed, 22 Jan 2025 22:39:39 GMT</pubDate>
         <guid>https://nitter.freedit.eu/RustTrending/status/1882196458625257945#m</guid>
         <link>https://nitter.freedit.eu/RustTrending/status/1882196458625257945#m</link>
@@ -113,87 +194,6 @@
         <pubDate>Wed, 22 Jan 2025 19:39:29 GMT</pubDate>
         <guid>https://nitter.freedit.eu/RustTrending/status/1882151117204881534#m</guid>
         <link>https://nitter.freedit.eu/RustTrending/status/1882151117204881534#m</link>
-      </item>
-      <item>
-        <title>rustdesk / rustdesk-server: RustDesk Server Program ★7131 https://github.com/rustdesk/rustdesk-server</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>rustdesk / rustdesk-server: RustDesk Server Program ★7131 <a href="https://github.com/rustdesk/rustdesk-server">github.com/rustdesk/rustdesk…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1882289036045279232%2FNVya396M%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 22 Jan 2025 18:39:25 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1882135998634906097#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1882135998634906097#m</link>
-      </item>
-      <item>
-        <title>risingwavelabs / risingwave: Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified stre ... ★7265 https://github.com/risingwavelabs/risingwave</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>risingwavelabs / risingwave: Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified stre ... ★7265 <a href="https://github.com/risingwavelabs/risingwave">github.com/risingwavelabs/ri…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1881136541369794561%2F6KXpULHO%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 22 Jan 2025 17:39:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1882120877493678465#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1882120877493678465#m</link>
-      </item>
-      <item>
-        <title>vercel / turborepo: Build system optimized for JavaScript and TypeScript, written in Rust ★26827 https://github.com/vercel/turborepo</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>vercel / turborepo: Build system optimized for JavaScript and TypeScript, written in Rust ★26827 <a href="https://github.com/vercel/turborepo">github.com/vercel/turborepo</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1881931339072503808%2FDo6zCGwQ%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 22 Jan 2025 16:39:14 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1882105756826395012#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1882105756826395012#m</link>
-      </item>
-      <item>
-        <title>svenstaro / genact: 🌀 A nonsense activity generator ★9939 https://github.com/svenstaro/genact</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>svenstaro / genact: 🌀 A nonsense activity generator ★9939 <a href="https://github.com/svenstaro/genact">github.com/svenstaro/genact</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1881603015238402048%2FT2oKdcEp%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 22 Jan 2025 15:39:09 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1882090636087808128#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1882090636087808128#m</link>
-      </item>
-      <item>
-        <title>zed-industries / zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. ★53285 https://github.com/zed-industries/zed</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>zed-industries / zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. ★53285 <a href="https://github.com/zed-industries/zed">github.com/zed-industries/ze…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1882301119818334208%2F2qf9h9KV%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 22 Jan 2025 14:39:05 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1882075518281175514#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1882075518281175514#m</link>
-      </item>
-      <item>
-        <title>loco-rs / loco: 🚂 🦀 The one-person framework for Rust for side-projects and startups ★6984 https://github.com/loco-rs/loco</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>loco-rs / loco: 🚂 🦀 The one-person framework for Rust for side-projects and startups ★6984 <a href="https://github.com/loco-rs/loco">github.com/loco-rs/loco</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1882309167022837760%2FpW78g9GL%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 22 Jan 2025 13:39:00 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1882060397395783789#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1882060397395783789#m</link>
-      </item>
-      <item>
-        <title>Schniz / fnm: 🚀 Fast and simple Node.js version manager, built in Rust ★19073 https://github.com/Schniz/fnm</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>Schniz / fnm: 🚀 Fast and simple Node.js version manager, built in Rust ★19073 <a href="https://github.com/Schniz/fnm">github.com/Schniz/fnm</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1881247313441755137%2FQ9qhZe72%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 22 Jan 2025 12:38:56 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1882045280373350739#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1882045280373350739#m</link>
-      </item>
-      <item>
-        <title>piotrostr / listen: Solana Swiss Army Knife ★279 https://github.com/piotrostr/listen</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>piotrostr / listen: Solana Swiss Army Knife ★279 <a href="https://github.com/piotrostr/listen">github.com/piotrostr/listen</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1881700665149497344%2Fy0JJdayq%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 22 Jan 2025 11:38:51 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1882030162910539996#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1882030162910539996#m</link>
-      </item>
-      <item>
-        <title>salvo-rs / salvo: A powerful web framework built with a simplified design. ★3545 https://github.com/salvo-rs/salvo</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>salvo-rs / salvo: A powerful web framework built with a simplified design. ★3545 <a href="https://github.com/salvo-rs/salvo">github.com/salvo-rs/salvo</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1881690898628857856%2F9ON2gNfS%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 21 Jan 2025 22:32:13 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1881832198799757807#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1881832198799757807#m</link>
       </item>
 
   </channel>

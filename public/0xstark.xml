@@ -16,6 +16,323 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @0xstark: Introducing our new video series: Core Notes from Core Devs!
+
+Catch the Ethereum core developers at @offchainlabs discuss the latest happenings in Ethereum development.
+
+This week we talk about the Pectra upgrade including upcoming preparations for devs and changes in store for users.
+
+Time stamps:
+
+0:09 What&apos;s one thing from the past two weeks of developments that you wish every Ethereum user understood better?
+1:00 What does the Prysm team think about block builder specifications and does this differ from other teams?
+2:07 What does the team think is the best approach to upgrading testnets?
+3:52 Looking at the timeline discussions from the call, which changes in the coming months excite you the most?
+6:23 We want your feedback!</title>
+        <dc:creator>@prylabs</dc:creator>
+        <description><![CDATA[<p>Introducing our new video series: Core Notes from Core Devs!<br>
+<br>
+Catch the Ethereum core developers at <a href="https://nitter.freedit.eu/offchainlabs" title="Offchain Labs">@offchainlabs</a> discuss the latest happenings in Ethereum development.<br>
+<br>
+This week we talk about the Pectra upgrade including upcoming preparations for devs and changes in store for users.<br>
+<br>
+Time stamps:<br>
+<br>
+0:09 What's one thing from the past two weeks of developments that you wish every Ethereum user understood better?<br>
+1:00 What does the Prysm team think about block builder specifications and does this differ from other teams?<br>
+2:07 What does the team think is the best approach to upgrading testnets?<br>
+3:52 Looking at the timeline discussions from the call, which changes in the coming months excite you the most?<br>
+6:23 We want your feedback!</p>
+<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1882857469145194496%2Fpu%2Fimg%2F2x9-FOngMrsz7P5e.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 24 Jan 2025 18:31:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/prylabs/status/1882858842813591998#m</guid>
+        <link>https://nitter.freedit.eu/prylabs/status/1882858842813591998#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: There has never been a better time to join Ethereum R&amp;D.
+
+Whatever your skills you could def contribute: 
+- coordination
+- security
+- standards
+- system dev
+- snarks
+- chain economics
+- protocol spec n dev
+- education
+
+This 👇 is just the latest of many r&amp;d fronts that Justin has been activating lately 🚀</title>
+        <dc:creator>@0xalizk</dc:creator>
+        <description><![CDATA[<p>There has never been a better time to join Ethereum R&D.<br>
+<br>
+Whatever your skills you could def contribute: <br>
+- coordination<br>
+- security<br>
+- standards<br>
+- system dev<br>
+- snarks<br>
+- chain economics<br>
+- protocol spec n dev<br>
+- education<br>
+<br>
+This 👇 is just the latest of many r&d fronts that Justin has been activating lately 🚀</p>
+<p><a href="https://nitter.freedit.eu/drakefjustin/status/1882861787491778998#m">nitter.freedit.eu/drakefjustin/status/1882861787491778998#m</a></p>]]></description>
+        <pubDate>Sat, 25 Jan 2025 06:41:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xalizk/status/1883042419933163699#m</guid>
+        <link>https://nitter.freedit.eu/0xalizk/status/1883042419933163699#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: epic sequencing call #17!
+
+Many founders, including 10 rollup founders, shared their support for based and/or native rollups. Below are some their quotes. 1h45min YouTube recording coming ASAP :)
+
+Part 1—based and native rollups
+
+Ben Jones from @Optimism: &quot;Let&apos;s get this right. Optimism is willing to support based sequencing and native execution. It&apos;s wartime.&quot;
+
+Nick Johnson from @ensdomains: &quot;You can count Namechain as based-pilled and native-pilled [...] and consider us fully onboard.&quot;
+
+Jesse Pollak from @base: &quot;We need to scale and connect the Ethereum ecosystem and based sequencing and native execution feel like the tools to do it.&quot;
+
+Tomasz Stanczak from @NethermindEth: &quot;Based and native rollups feel super aligned, they are what we&apos;re super excited about.&quot; &quot;We will be experimenting with Surge, based rollups, and FABRIC.&quot;
+
+Hayden Adams from @unichain: [couldn&apos;t make it; see recording for my Unichain take]
+
+Steven Goldfeder from @arbitrum: &quot;Diversity makes Ethereum unique [...] We need to find a common core - which is a native rollup, but not stifle innovation on top of it. [...] We&apos;re excited to contribute to this direction [...] All of us want Ethereum to win.&quot;
+
+Fede Carrone from @class_lambda: &quot;Based? For me, it clicked within seconds&quot;
+
+Ye Zhang from @Scroll_ZKP: &quot;Based sequencing is an important way to stay in the same economic zone with Ethereum. [...] Native rollups are a super interesting idea!&quot;
+
+Part 2—FABRIC: Fabric to Accelerate Based Rollup Infrastructure and Connectivity
+
+Drew Van der Werff from @Commit_Boost: &quot;FABRIC is a shelling point to coordinate and stitch together some of the fragmentation that has emerged&quot;
+
+mteam from @Spire_Labs: &quot;Spire is devoting developer resources to native rollups.&quot; &quot;We believe that a unified set of standards based rollups will lead to greater efficiency in development timelines, bring down costs for users, and establish a compatibility zone which is why we’re excited to announce our support of Fabric&quot;
+
+Daniel Wang from @taikoxyz: &quot;we&apos;ve been waiting for the FABRIC standards so we can work together and provide a full solution&quot; &quot;Taiko is willing to contribute to the Fabric project to make sure we can divide and conquer the problems&quot;
+
+Amir Forouzani from @puffer_finance: &quot;Based rollups were a no-brainer for us, [...] so were native rollups.&quot; &quot;FABRIC just makes so much sense, [...] these standardization efforts are so important&quot;
+
+Demi Brener from @OpenZeppelin: &quot;We see based rollups as a promising path towards scaling Ethereum and billions of user.&quot; &quot;We are supportive of the FABRIC efforts and are willing to contribute.&quot;
+
+Sam Batternally from @rise_chain: &quot;I am here to voice my support for FABRIC&quot; &quot;the signaling from Ethereum that this is the direction scaling is going which will be huge to pull off and attract more builders&quot;
+
+Vitalik Buterin: &quot;our community thrives on open source, open research [...] It&apos;s amazing to see all of this interest and willingness to work together on sequencing and interoperability</title>
+        <dc:creator>@drakefjustin</dc:creator>
+        <description><![CDATA[<p>epic sequencing call #17!<br>
+<br>
+Many founders, including 10 rollup founders, shared their support for based and/or native rollups. Below are some their quotes. 1h45min YouTube recording coming ASAP :)<br>
+<br>
+Part 1—based and native rollups<br>
+<br>
+Ben Jones from <a href="https://nitter.freedit.eu/Optimism" title="Optimism.eth">@Optimism</a>: "Let's get this right. Optimism is willing to support based sequencing and native execution. It's wartime."<br>
+<br>
+Nick Johnson from <a href="https://nitter.freedit.eu/ensdomains" title="ens.eth">@ensdomains</a>: "You can count Namechain as based-pilled and native-pilled [...] and consider us fully onboard."<br>
+<br>
+Jesse Pollak from <a href="https://nitter.freedit.eu/base" title="Base">@base</a>: "We need to scale and connect the Ethereum ecosystem and based sequencing and native execution feel like the tools to do it."<br>
+<br>
+Tomasz Stanczak from <a href="https://nitter.freedit.eu/NethermindEth" title="Nethermind">@NethermindEth</a>: "Based and native rollups feel super aligned, they are what we're super excited about." "We will be experimenting with Surge, based rollups, and FABRIC."<br>
+<br>
+Hayden Adams from <a href="https://nitter.freedit.eu/unichain" title="Unichain">@unichain</a>: [couldn't make it; see recording for my Unichain take]<br>
+<br>
+Steven Goldfeder from <a href="https://nitter.freedit.eu/arbitrum" title="Arbitrum (💙,🧡)">@arbitrum</a>: "Diversity makes Ethereum unique [...] We need to find a common core - which is a native rollup, but not stifle innovation on top of it. [...] We're excited to contribute to this direction [...] All of us want Ethereum to win."<br>
+<br>
+Fede Carrone from <a href="https://nitter.freedit.eu/class_lambda" title="LambdaClass">@class_lambda</a>: "Based? For me, it clicked within seconds"<br>
+<br>
+Ye Zhang from <a href="https://nitter.freedit.eu/Scroll_ZKP" title="Scroll">@Scroll_ZKP</a>: "Based sequencing is an important way to stay in the same economic zone with Ethereum. [...] Native rollups are a super interesting idea!"<br>
+<br>
+Part 2—FABRIC: Fabric to Accelerate Based Rollup Infrastructure and Connectivity<br>
+<br>
+Drew Van der Werff from <a href="https://nitter.freedit.eu/Commit_Boost" title="Commit-Boost 📻 🕶️ 🦇🔊">@Commit_Boost</a>: "FABRIC is a shelling point to coordinate and stitch together some of the fragmentation that has emerged"<br>
+<br>
+mteam from <a href="https://nitter.freedit.eu/Spire_Labs" title="Spire🗼">@Spire_Labs</a>: "Spire is devoting developer resources to native rollups." "We believe that a unified set of standards based rollups will lead to greater efficiency in development timelines, bring down costs for users, and establish a compatibility zone which is why we’re excited to announce our support of Fabric"<br>
+<br>
+Daniel Wang from <a href="https://nitter.freedit.eu/taikoxyz" title="Taiko.eth 🥁">@taikoxyz</a>: "we've been waiting for the FABRIC standards so we can work together and provide a full solution" "Taiko is willing to contribute to the Fabric project to make sure we can divide and conquer the problems"<br>
+<br>
+Amir Forouzani from <a href="https://nitter.freedit.eu/puffer_finance" title="Puffer Finance 🐡">@puffer_finance</a>: "Based rollups were a no-brainer for us, [...] so were native rollups." "FABRIC just makes so much sense, [...] these standardization efforts are so important"<br>
+<br>
+Demi Brener from <a href="https://nitter.freedit.eu/OpenZeppelin" title="OpenZeppelin">@OpenZeppelin</a>: "We see based rollups as a promising path towards scaling Ethereum and billions of user." "We are supportive of the FABRIC efforts and are willing to contribute."<br>
+<br>
+Sam Batternally from <a href="https://nitter.freedit.eu/rise_chain" title="RISE Chain">@rise_chain</a>: "I am here to voice my support for FABRIC" "the signaling from Ethereum that this is the direction scaling is going which will be huge to pull off and attract more builders"<br>
+<br>
+Vitalik Buterin: "our community thrives on open source, open research [...] It's amazing to see all of this interest and willingness to work together on sequencing and interoperability</p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 18:43:26 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/drakefjustin/status/1882861787491778998#m</guid>
+        <link>https://nitter.freedit.eu/drakefjustin/status/1882861787491778998#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: Thank you for the shout out. Building on ethereum for over 8 years now</title>
+        <dc:creator>@willwarren</dc:creator>
+        <description><![CDATA[<p>Thank you for the shout out. Building on ethereum for over 8 years now</p>
+<p><a href="https://nitter.freedit.eu/0xstark/status/1882438054453096476#m">nitter.freedit.eu/0xstark/status/1882438054453096476#m</a></p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 17:08:30 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/willwarren/status/1882837894609752152#m</guid>
+        <link>https://nitter.freedit.eu/willwarren/status/1882837894609752152#m</link>
+      </item>
+      <item>
+        <title>👀</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>👀</p>
+<p><a href="https://nitter.freedit.eu/mteamisloading/status/1882813895687180625#m">nitter.freedit.eu/mteamisloading/status/1882813895687180625#m</a></p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 16:17:21 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1882825023758725601#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1882825023758725601#m</link>
+      </item>
+      <item>
+        <title>R to @0xstark: 12. @Goldfinch_fi is a decentralized lending protocol bringing real-world credit onchain.
+
+By funding loans backed by offchain assets, Golfdinch connects DeFi investors to high-growth emerging markets. Today Goldfinch provides $100M in active loans to businesses around the world.</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>12. <a href="https://nitter.freedit.eu/goldfinch_fi" title="Goldfinch">@Goldfinch_fi</a> is a decentralized lending protocol bringing real-world credit onchain.<br>
+<br>
+By funding loans backed by offchain assets, Golfdinch connects DeFi investors to high-growth emerging markets. Today Goldfinch provides $100M in active loans to businesses around the world.</p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 16:03:26 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1882821519413518377#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1882821519413518377#m</link>
+      </item>
+      <item>
+        <title>👀</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>👀</p>
+<p><a href="https://nitter.freedit.eu/mteamisloading/status/1882812502008115553#m">nitter.freedit.eu/mteamisloading/status/1882812502008115553#m</a></p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 15:28:05 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1882812624733409473#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1882812624733409473#m</link>
+      </item>
+      <item>
+        <title>users care about the certainty of many guarantees offered by blockchains (&quot;you control these funds&quot;, &quot;this app can&apos;t steal your username&quot;), and decentralization (of different kinds) is part of what makes those guarantees hard</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>users care about the certainty of many guarantees offered by blockchains ("you control these funds", "this app can't steal your username"), and decentralization (of different kinds) is part of what makes those guarantees hard</p>
+<p><a href="https://nitter.freedit.eu/ayyyeandy/status/1882705439571534004#m">nitter.freedit.eu/ayyyeandy/status/1882705439571534004#m</a></p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 15:23:55 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1882811575825993846#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1882811575825993846#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: Fantastic post which completely changed my thinking on native rollups.
+
+There&apos;s an inherent tension in Ethereum between the following goals:
+
+(1) Embrace diversity of people and opinions and enjoy the innovation that comes with it.
+
+(2) Make Ethereum (and all of its L2s) feel like a single, unified ecosystem.
+
+Ethereum is the only ecosystem today with dozens of independent (and independently funded!) core development teams building the protocol. This is a huge strength and the talent of the people contributing to Ethereum is unmatched anywhere.
+
+But does this also create some tension? Absolutely.
+
+While there&apos;s a lot that unites them, each L2 team has its own vision, its own goals, and its own tech stack. It would be a lot easier to build a single unified ecosystem with one spec (and even one developer team).
+
+But if we did that, we&apos;d lose the diversity and innovation that makes Ethereum stand out. The EVM and Solidity emerged from Ethereum devs, but so did @CairoLang, so did @FhenixIO&apos;s FHE-powered EVM,  so did  @fuel_network&apos;s FuelVM, and so did Arbitrum Stylus which enables WASM/Rust/C/C++ programs on Ethereum. 
+
+In Vitalik&apos;s words:
+Instead, Vitalik advocates for taking the step to unify the Ethereum experience while maintaining its unique character and diversity. Some of this is in the form of concrete technical features like chain-specific addresses. But the bulk of this is deep coordination between teams,  finding common ground between them and working together to build interop tech that unites us.
+
+Enter native rollups.
+
+Before today, I was pretty bearish on the notion of native rollups to be honest, as the way I had heard them pitched was a push for all chains to become homogenous and unify around a specific implementation of the EVM.
+
+I thought this was a bad idea because while it might make interop easier in the short term, it would stifle Ethereum&apos;s innovation in the long term. 
+
+But Vitalik presented it a bit differently than I had understood:
+
+The way I understand Vitalik&apos;s view of native rollups is kinda like &quot;refactoring&quot; code. There are a lot of rollups that utilize the EVM and we should coordinate around a standard for that. Rather than have each rollup build this out independently, we should factor out this common feature and even add more native support for these functionalities.
+
+But importantly we should do it in a way that allows rollups to extend the VM, and build a culture that continues to value innovation. 
+
+Native rollups doesn&apos;t mean that that everyone has to be homogenous; it just means that we should find the &quot;common core&quot; and build those components together so we can waste less time on reinventing the wheel. Some rollups may stop there and just use the shared code, while others will innovate on top of it, building custom execution environments.
+
+There&apos;s still a lot of research that needs to go into &quot;can we do this&quot;. Can we actually build a &quot;common core&quot; rollup that enables innovation? What does this common core look like and how can we build it in a way that all existing EVM rollups can get behind it and benefit from it.
+
+Yes, it&apos;s early days. Yes there&apos;s a ton of research to be done. But as a vision, I think this is fantastic and I&apos;m excited about the future of an Ethereum that&apos;s both interconnected and diverse.</title>
+        <dc:creator>@sgoldfed</dc:creator>
+        <description><![CDATA[<p>Fantastic post which completely changed my thinking on native rollups.<br>
+<br>
+There's an inherent tension in Ethereum between the following goals:<br>
+<br>
+(1) Embrace diversity of people and opinions and enjoy the innovation that comes with it.<br>
+<br>
+(2) Make Ethereum (and all of its L2s) feel like a single, unified ecosystem.<br>
+<br>
+Ethereum is the only ecosystem today with dozens of independent (and independently funded!) core development teams building the protocol. This is a huge strength and the talent of the people contributing to Ethereum is unmatched anywhere.<br>
+<br>
+But does this also create some tension? Absolutely.<br>
+<br>
+While there's a lot that unites them, each L2 team has its own vision, its own goals, and its own tech stack. It would be a lot easier to build a single unified ecosystem with one spec (and even one developer team).<br>
+<br>
+But if we did that, we'd lose the diversity and innovation that makes Ethereum stand out. The EVM and Solidity emerged from Ethereum devs, but so did <a href="https://nitter.freedit.eu/CairoLang" title="CairoLang">@CairoLang</a>, so did <a href="https://nitter.freedit.eu/FhenixIO" title="Fhenix">@FhenixIO</a>'s FHE-powered EVM,  so did  <a href="https://nitter.freedit.eu/fuel_network" title="Fuel">@fuel_network</a>'s FuelVM, and so did Arbitrum Stylus which enables WASM/Rust/C/C++ programs on Ethereum. <br>
+<br>
+In Vitalik's words:<br>
+Instead, Vitalik advocates for taking the step to unify the Ethereum experience while maintaining its unique character and diversity. Some of this is in the form of concrete technical features like chain-specific addresses. But the bulk of this is deep coordination between teams,  finding common ground between them and working together to build interop tech that unites us.<br>
+<br>
+Enter native rollups.<br>
+<br>
+Before today, I was pretty bearish on the notion of native rollups to be honest, as the way I had heard them pitched was a push for all chains to become homogenous and unify around a specific implementation of the EVM.<br>
+<br>
+I thought this was a bad idea because while it might make interop easier in the short term, it would stifle Ethereum's innovation in the long term. <br>
+<br>
+But Vitalik presented it a bit differently than I had understood:<br>
+<br>
+The way I understand Vitalik's view of native rollups is kinda like "refactoring" code. There are a lot of rollups that utilize the EVM and we should coordinate around a standard for that. Rather than have each rollup build this out independently, we should factor out this common feature and even add more native support for these functionalities.<br>
+<br>
+But importantly we should do it in a way that allows rollups to extend the VM, and build a culture that continues to value innovation. <br>
+<br>
+Native rollups doesn't mean that that everyone has to be homogenous; it just means that we should find the "common core" and build those components together so we can waste less time on reinventing the wheel. Some rollups may stop there and just use the shared code, while others will innovate on top of it, building custom execution environments.<br>
+<br>
+There's still a lot of research that needs to go into "can we do this". Can we actually build a "common core" rollup that enables innovation? What does this common core look like and how can we build it in a way that all existing EVM rollups can get behind it and benefit from it.<br>
+<br>
+Yes, it's early days. Yes there's a ton of research to be done. But as a vision, I think this is fantastic and I'm excited about the future of an Ethereum that's both interconnected and diverse.</p>
+<p><a href="https://nitter.freedit.eu/VitalikButerin/status/1882649065139384600#m">nitter.freedit.eu/VitalikButerin/status/1882649065139384600#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGiDzVAQXgAAhtw8.png" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGiD5TFQW4AAhOzu.png" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 24 Jan 2025 13:40:28 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/sgoldfed/status/1882785543135568102#m</guid>
+        <link>https://nitter.freedit.eu/sgoldfed/status/1882785543135568102#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: Wrote a post for app devs frustrated w the opacity of the Ethereum upgrade process. It loosely describes the process &amp; soft guidelines to participate
+
+The process itself evolves, so comments on what&apos;s not clear or what else is frustrating are welcome!
+
+https://mirror.xyz/nixo.eth/hT5F3Eo4iqQYNtoZCNqobogAr_Kd2QOmzqEtoizG5GA</title>
+        <dc:creator>@nixorokish</dc:creator>
+        <description><![CDATA[<p>Wrote a post for app devs frustrated w the opacity of the Ethereum upgrade process. It loosely describes the process &amp; soft guidelines to participate<br>
+<br>
+The process itself evolves, so comments on what's not clear or what else is frustrating are welcome!<br>
+<br>
+<a href="https://mirror.xyz/nixo.eth/hT5F3Eo4iqQYNtoZCNqobogAr_Kd2QOmzqEtoizG5GA">mirror.xyz/nixo.eth/hT5F3Eo4…</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGiD_8rjXgAAWMl6.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGiD_8rjXgAEeNhs.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 24 Jan 2025 13:42:34 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/nixorokish/status/1882786069684592790#m</guid>
+        <link>https://nitter.freedit.eu/nixorokish/status/1882786069684592790#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: Etherealize launched just 24 hours ago
+
+The response from the ETH and TradFi ecosystems has been nothing short of incredible
+
+Players from the Ethereum app layer, the infra layers, the L2s, and from all parts of Wall St reached out — and want to help
+
+It’s truly inspiring
+
+(1/2)</title>
+        <dc:creator>@Etherealize_io</dc:creator>
+        <description><![CDATA[<p>Etherealize launched just 24 hours ago<br>
+<br>
+The response from the ETH and TradFi ecosystems has been nothing short of incredible<br>
+<br>
+Players from the Ethereum app layer, the infra layers, the L2s, and from all parts of Wall St reached out — and want to help<br>
+<br>
+It’s truly inspiring<br>
+<br>
+(1/2)</p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 03:32:59 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/Etherealize_io/status/1882632663238094938#m</guid>
+        <link>https://nitter.freedit.eu/Etherealize_io/status/1882632663238094938#m</link>
+      </item>
+      <item>
         <title>RT by @0xstark: 以太坊的机构市场营销与产品团队 @Etherealize_io 正式亮相！这一团队得到了以太坊基金会（EF）以及包括 @VitalikButerin 在内的社区成员的大力支持。
 
 @0xstark 表示，以太坊已经在诸多实践中经受住了考验，现在已完全具备迎接机构采用的条件。此刻正是像 @Etherealize_io 这样的团队扩大金融业务发展的最佳时机。
@@ -101,7 +418,7 @@ https://ethereum-magicians.org/t/blob-parameter-only-bpo-forks/22623</title>
         <description><![CDATA[<p>nice post from <a href="https://nitter.freedit.eu/protolambda" title="proto.eth">@protolambda</a> to streamline blob-throughput increases in the core protocol -- check it out!<br>
 <br>
 <a href="https://ethereum-magicians.org/t/blob-parameter-only-bpo-forks/22623">ethereum-magicians.org/t/blo…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1880706918991192065%2F5nBmUqBW%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1880706918991192065%2FYENSz4s0%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
         <pubDate>Thu, 23 Jan 2025 14:52:31 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ralexstokes/status/1882441286843842964#m</guid>
         <link>https://nitter.freedit.eu/ralexstokes/status/1882441286843842964#m</link>
@@ -160,141 +477,6 @@ https://dashboard.etherealize.io/</title>
         <pubDate>Thu, 23 Jan 2025 13:25:43 GMT</pubDate>
         <guid>https://nitter.freedit.eu/0xstark/status/1882419444007448934#m</guid>
         <link>https://nitter.freedit.eu/0xstark/status/1882419444007448934#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: Excited to share that @orishim is an EF Research Fellow diving deep into DeCom over the next 6 months to explore how we can make it a reality
-
-If you are an expert in commerce or have insights to share, please reach out to Ori or me. We would love to connect</title>
-        <dc:creator>@jchaskin22</dc:creator>
-        <description><![CDATA[<p>Excited to share that <a href="https://nitter.freedit.eu/orishim" title="ori">@orishim</a> is an EF Research Fellow diving deep into DeCom over the next 6 months to explore how we can make it a reality<br>
-<br>
-If you are an expert in commerce or have insights to share, please reach out to Ori or me. We would love to connect</p>
-<p><a href="https://nitter.freedit.eu/orishim/status/1882064487718777094#m">nitter.freedit.eu/orishim/status/1882064487718777094#m</a></p>]]></description>
-        <pubDate>Wed, 22 Jan 2025 14:33:39 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/jchaskin22/status/1882074151051243709#m</guid>
-        <link>https://nitter.freedit.eu/jchaskin22/status/1882074151051243709#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: It&apos;s a good day to be optimistic about Ethereum.
-
-Many problems. That&apos;s inevitable for a 10 year old project. But so much substance, and so much potential.
-
-Spent the morning working on execution scaling plans. We might have a path to 10x everything except state growth (for now).</title>
-        <dc:creator>@adietrichs</dc:creator>
-        <description><![CDATA[<p>It's a good day to be optimistic about Ethereum.<br>
-<br>
-Many problems. That's inevitable for a 10 year old project. But so much substance, and so much potential.<br>
-<br>
-Spent the morning working on execution scaling plans. We might have a path to 10x everything except state growth (for now).</p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 11:00:08 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/adietrichs/status/1882382804400603337#m</guid>
-        <link>https://nitter.freedit.eu/adietrichs/status/1882382804400603337#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: Happy to finally launch Etherealize! @VivekVentures, @jamesfickel and I were ideating on what should be done about ETH&apos;s presence on Wall Street following the ETF launch. We looked around and saw that institutional education about ETH was woefully lacking. Etherealize is here to fix not only that, but to bring all of Wall Street (and ultimately, the world) onto Ethereum rails.
-
-The ticker is ETH.</title>
-        <dc:creator>@gphummer</dc:creator>
-        <description><![CDATA[<p>Happy to finally launch Etherealize! <a href="https://nitter.freedit.eu/VivekVentures" title="Vivek Raman">@VivekVentures</a>, <a href="https://nitter.freedit.eu/jamesfickel" title="James Fickel 🪷">@jamesfickel</a> and I were ideating on what should be done about ETH's presence on Wall Street following the ETF launch. We looked around and saw that institutional education about ETH was woefully lacking. Etherealize is here to fix not only that, but to bring all of Wall Street (and ultimately, the world) onto Ethereum rails.<br>
-<br>
-The ticker is ETH.</p>
-<p><a href="https://nitter.freedit.eu/Etherealize_io/status/1882213980858642599#m">nitter.freedit.eu/Etherealize_io/status/1882213980858642599#m</a></p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 01:45:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gphummer/status/1882243298384863696#m</guid>
-        <link>https://nitter.freedit.eu/gphummer/status/1882243298384863696#m</link>
-      </item>
-      <item>
-        <title>R to @0xstark: 2. The Etherealize team saw a gap in the ecosystem and stepped up to fill it. The EF is always eager to support and work alongside teams who identify problems and take action themselves to push Ethereum forward and grow the ecosystem</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>2. The Etherealize team saw a gap in the ecosystem and stepped up to fill it. The EF is always eager to support and work alongside teams who identify problems and take action themselves to push Ethereum forward and grow the ecosystem</p>]]></description>
-        <pubDate>Wed, 22 Jan 2025 23:58:40 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1882216341727498462#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1882216341727498462#m</link>
-      </item>
-      <item>
-        <title>R to @0xstark: 1. Ethereum is ready for institutional adoption. The L2 roadmap has unlocked capacity to bring the financial system onchain, into the largest and most battle tested ecosystem. 
-
-The time is right for orgs like @etherealize_io to scale up business development for finance.</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>1. Ethereum is ready for institutional adoption. The L2 roadmap has unlocked capacity to bring the financial system onchain, into the largest and most battle tested ecosystem. <br>
-<br>
-The time is right for orgs like <a href="https://nitter.freedit.eu/Etherealize_io" title="Etherealize">@etherealize_io</a> to scale up business development for finance.</p>]]></description>
-        <pubDate>Wed, 22 Jan 2025 23:58:40 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1882216340179784021#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1882216340179784021#m</link>
-      </item>
-      <item>
-        <title>0. Congrats to @vivekventures and @Etherealize_io on coming out of stealth! 
-
-Proud for the EF to be supporting Etherealize, alongside @VitalikButerin  and other community members</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>0. Congrats to <a href="https://nitter.freedit.eu/VivekVentures" title="Vivek Raman">@vivekventures</a> and <a href="https://nitter.freedit.eu/Etherealize_io" title="Etherealize">@Etherealize_io</a> on coming out of stealth! <br>
-<br>
-Proud for the EF to be supporting Etherealize, alongside <a href="https://nitter.freedit.eu/VitalikButerin" title="vitalik.eth">@VitalikButerin</a>  and other community members</p>
-<p><a href="https://nitter.freedit.eu/Etherealize_io/status/1882213980858642599#m">nitter.freedit.eu/Etherealize_io/status/1882213980858642599#m</a></p>]]></description>
-        <pubDate>Wed, 22 Jan 2025 23:58:39 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1882216338430791852#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1882216338430791852#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: One of the first Ethereum meetups I attended was @koeppelmann presenting an overview of the DAO hack  a few days after it happened. At the time it was the single craziest thing in crypto I had ever seen and I was obsessed with following it on Reddit</title>
-        <dc:creator>@ljxie</dc:creator>
-        <description><![CDATA[<p>One of the first Ethereum meetups I attended was <a href="https://nitter.freedit.eu/koeppelmann" title="koeppelmann.eth 🦉💳">@koeppelmann</a> presenting an overview of the DAO hack  a few days after it happened. At the time it was the single craziest thing in crypto I had ever seen and I was obsessed with following it on Reddit</p>
-<p><a href="https://nitter.freedit.eu/0xstark/status/1882051841619595461#m">nitter.freedit.eu/0xstark/status/1882051841619595461#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGh6tuijWgAAhroi.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 22 Jan 2025 18:37:28 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ljxie/status/1882135509763493956#m</guid>
-        <link>https://nitter.freedit.eu/ljxie/status/1882135509763493956#m</link>
-      </item>
-      <item>
-        <title>R to @0xstark: also the first time I met @ricmoo!</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>also the first time I met <a href="https://nitter.freedit.eu/ricmoo" title="RicMoo (ricmoo.eth)">@ricmoo</a>!</p>]]></description>
-        <pubDate>Wed, 22 Jan 2025 17:01:52 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1882111451005092113#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1882111451005092113#m</link>
-      </item>
-      <item>
-        <title>R to @0xstark: 10. @Rotkiapp is an open source portfolio tracker and accounting tool that prioritizes privacy. 
-
-Rotki lets you track assets &amp; manage a portfolio across centralized exchanges, DeFi protocols, and different L2s. All locally stored and secure. I use it!</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>10. <a href="https://nitter.freedit.eu/rotkiapp" title="🐦 rotki - own your data, protect your privacy">@Rotkiapp</a> is an open source portfolio tracker and accounting tool that prioritizes privacy. <br>
-<br>
-Rotki lets you track assets &amp; manage a portfolio across centralized exchanges, DeFi protocols, and different L2s. All locally stored and secure. I use it!</p>]]></description>
-        <pubDate>Wed, 22 Jan 2025 16:50:46 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1882108659028865412#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1882108659028865412#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: No man left behind.
-
-@rstormsf and @alex_pertsev next.
-
-Tornado Cash itself won an important case today:</title>
-        <dc:creator>@VitalikButerin</dc:creator>
-        <description><![CDATA[<p>No man left behind.<br>
-<br>
-<a href="https://nitter.freedit.eu/rstormsf" title="Roman Storm 🇺🇸 🌪️">@rstormsf</a> and <a href="https://nitter.freedit.eu/alex_pertsev" title="Alexey Pertsev">@alex_pertsev</a> next.<br>
-<br>
-Tornado Cash itself won an important case today:</p>
-<p><a href="https://nitter.freedit.eu/post_polar_/status/1881960293615718626#m">nitter.freedit.eu/post_polar_/status/1881960293615718626#m</a></p>]]></description>
-        <pubDate>Wed, 22 Jan 2025 13:51:49 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/VitalikButerin/status/1882063623499211016#m</guid>
-        <link>https://nitter.freedit.eu/VitalikButerin/status/1882063623499211016#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: This is a great example for a very real protocol responsibility that actually doesn&apos;t lie with &quot;the EF&quot; or even with core devs.
-
-The protocol is owned by all of us. Let&apos;s go to 36M!</title>
-        <dc:creator>@adietrichs</dc:creator>
-        <description><![CDATA[<p>This is a great example for a very real protocol responsibility that actually doesn't lie with "the EF" or even with core devs.<br>
-<br>
-The protocol is owned by all of us. Let's go to 36M!</p>
-<p><a href="https://nitter.freedit.eu/sassal0x/status/1881886770562036084#m">nitter.freedit.eu/sassal0x/status/1881886770562036084#m</a></p>]]></description>
-        <pubDate>Wed, 22 Jan 2025 13:31:40 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/adietrichs/status/1882058553068052769#m</guid>
-        <link>https://nitter.freedit.eu/adietrichs/status/1882058553068052769#m</link>
       </item>
 
   </channel>

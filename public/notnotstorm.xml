@@ -16,6 +16,31 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @notnotstorm: the @ethPandaOps team probably has the most experience running lots of clients at once
+
+how hard do you think it would be to build a robust metaclient orchestrator that lets anyone run all the clients they want on a single machine with low maintenance burden for node operators? @BarnabasBusa @mattevansnz @parithosh_j @_pk910_ @samcmAU @Savid @skylenet</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>the <a href="https://nitter.freedit.eu/ethPandaOps" title="ethPandaOps">@ethPandaOps</a> team probably has the most experience running lots of clients at once<br>
+<br>
+how hard do you think it would be to build a robust metaclient orchestrator that lets anyone run all the clients they want on a single machine with low maintenance burden for node operators? <a href="https://nitter.freedit.eu/BarnabasBusa" title="Barnabas Busa">@BarnabasBusa</a> <a href="https://nitter.freedit.eu/mattevansnz" title="Matty">@mattevansnz</a> <a href="https://nitter.freedit.eu/parithosh_j" title="parithosh | 🐼👉👈🐼">@parithosh_j</a> <a href="https://nitter.freedit.eu/_pk910_" title="pk910.eth">@_pk910_</a> <a href="https://nitter.freedit.eu/samcmAU" title="Sam Calder-Mason">@samcmAU</a> <a href="https://nitter.freedit.eu/Savid" title="Andrew Davis">@Savid</a> <a href="https://nitter.freedit.eu/skylenet" title="Rafael Matias 🐼🕯️">@skylenet</a></p>]]></description>
+        <pubDate>Mon, 27 Jan 2025 02:49:38 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1883708918670774507#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1883708918670774507#m</link>
+      </item>
+      <item>
+        <title>on eth/acc: waiting for only M-of-N node clients to launch new hardforks (with M&lt;N) would be a lot more practical if there were a “metaclient” tool like @peter_szilagyi used to talk about
+
+a lot of new patterns get unlocked if there is a system that makes it effortless to run two or more clients on a single machine. this includes “leave no validator behind”, even when one of the node implementations isnt ready for the fork</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>on eth/acc: waiting for only M-of-N node clients to launch new hardforks (with M&lt;N) would be a lot more practical if there were a “metaclient” tool like <a href="https://nitter.freedit.eu/peter_szilagyi" title="Péter Szilágyi">@peter_szilagyi</a> used to talk about<br>
+<br>
+a lot of new patterns get unlocked if there is a system that makes it effortless to run two or more clients on a single machine. this includes “leave no validator behind”, even when one of the node implementations isnt ready for the fork</p>
+<p><a href="https://nitter.freedit.eu/lightclients/status/1883656093832024248#m">nitter.freedit.eu/lightclients/status/1883656093832024248#m</a></p>]]></description>
+        <pubDate>Mon, 27 Jan 2025 02:44:46 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1883707693288108278#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1883707693288108278#m</link>
+      </item>
+      <item>
         <title>&quot;The art of war is of vital importance to the State&quot;
 
 -- Sun Tzu</title>
@@ -256,31 +281,6 @@ massive shoutout to <a href="https://nitter.freedit.eu/Yadomin1" title="北原�
         <pubDate>Mon, 06 Jan 2025 04:33:32 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1876124920843059215#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1876124920843059215#m</link>
-      </item>
-      <item>
-        <title>polars will soon be usable in the web browser via pyodide
-
-this enables lots of new possibilities for data web apps</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>polars will soon be usable in the web browser via pyodide<br>
-<br>
-this enables lots of new possibilities for data web apps</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgZoNAfaoAAXAT0.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 03 Jan 2025 21:59:03 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1875300871946571831#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1875300871946571831#m</link>
-      </item>
-      <item>
-        <title>what are the best ways for an OSS crypto dev to financially support themselves in 2025?
-
-multiple devs asked me this in the past month and I don&apos;t have great answers. OSS is still a major tragedy of the commons</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>what are the best ways for an OSS crypto dev to financially support themselves in 2025?<br>
-<br>
-multiple devs asked me this in the past month and I don't have great answers. OSS is still a major tragedy of the commons</p>]]></description>
-        <pubDate>Thu, 02 Jan 2025 18:50:32 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1874891041066950781#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1874891041066950781#m</link>
       </item>
 
   </channel>

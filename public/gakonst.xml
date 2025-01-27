@@ -16,6 +16,40 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @gakonst: &quot;The All Core Devs process can be improved (as Tim Beiko recently suggested on the Consensus Layer call). We invite the community to weigh in on the Pectra retrospective with concrete suggestions.
+
+Let’s allocate more resources to DevOps and Testing so we can confidently deliver major improvements more often — while still preserving the reliability Ethereum is known for.&quot;
+
+One place I see a lot of inertia is having the right data to move forward on things! e.g. the bandwidth conversation - can we increase bandwidth requirements without significantly impacting Ethereum&apos;s decentralization? We run into this question and it&apos;s wild that we don&apos;t already have the data to say YES or NO
+
+Right now @ethPandaOps has stepped up to gather some of that data but they&apos;re ALSO responsible for a lot of testing that goes into making sure the fork goes well. These two things are a lot of work and they&apos;re only one team!
+
+There should be MANY teams working on creating neutral data sets that inform accelerationism and kill the argument before it turns into a bunch of unproductive internet arguments</title>
+        <dc:creator>@nixorokish</dc:creator>
+        <description><![CDATA[<p>"The All Core Devs process can be improved (as Tim Beiko recently suggested on the Consensus Layer call). We invite the community to weigh in on the Pectra retrospective with concrete suggestions.<br>
+<br>
+Let’s allocate more resources to DevOps and Testing so we can confidently deliver major improvements more often — while still preserving the reliability Ethereum is known for."<br>
+<br>
+One place I see a lot of inertia is having the right data to move forward on things! e.g. the bandwidth conversation - can we increase bandwidth requirements without significantly impacting Ethereum's decentralization? We run into this question and it's wild that we don't already have the data to say YES or NO<br>
+<br>
+Right now <a href="https://nitter.freedit.eu/ethPandaOps" title="ethPandaOps">@ethPandaOps</a> has stepped up to gather some of that data but they're ALSO responsible for a lot of testing that goes into making sure the fork goes well. These two things are a lot of work and they're only one team!<br>
+<br>
+There should be MANY teams working on creating neutral data sets that inform accelerationism and kill the argument before it turns into a bunch of unproductive internet arguments</p>
+<p><a href="https://nitter.freedit.eu/gakonst/status/1883192835874390276#m">nitter.freedit.eu/gakonst/status/1883192835874390276#m</a></p>]]></description>
+        <pubDate>Sat, 25 Jan 2025 20:01:24 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/nixorokish/status/1883243797532012947#m</guid>
+        <link>https://nitter.freedit.eu/nixorokish/status/1883243797532012947#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: What are the best counter arguments to this piece?</title>
+        <dc:creator>@TimBeiko</dc:creator>
+        <description><![CDATA[<p>What are the best counter arguments to this piece?</p>
+<p><a href="https://nitter.freedit.eu/gakonst/status/1883192835874390276#m">nitter.freedit.eu/gakonst/status/1883192835874390276#m</a></p>]]></description>
+        <pubDate>Sun, 26 Jan 2025 17:45:28 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/TimBeiko/status/1883571973483340033#m</guid>
+        <link>https://nitter.freedit.eu/TimBeiko/status/1883571973483340033#m</link>
+      </item>
+      <item>
         <title>RT by @gakonst: just realised @ithacaxyz is pronounced eth/acc a</title>
         <dc:creator>@miroyato</dc:creator>
         <description><![CDATA[<p>just realised <a href="https://nitter.freedit.eu/ithacaxyz" title="Ithaca">@ithacaxyz</a> is pronounced eth/acc a</p>]]></description>
@@ -184,33 +218,6 @@ love ecosystem wide collaboration on projects, but sometimes you just gotta hire
         <pubDate>Fri, 24 Jan 2025 17:32:32 GMT</pubDate>
         <guid>https://nitter.freedit.eu/Rjected/status/1882843943509053805#m</guid>
         <link>https://nitter.freedit.eu/Rjected/status/1882843943509053805#m</link>
-      </item>
-      <item>
-        <title>how many foundry users are there?</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>how many foundry users are there?</p>]]></description>
-        <pubDate>Fri, 24 Jan 2025 18:44:55 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1882862159291617711#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1882862159291617711#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: looking for a killer EVM engineer to join our team
-@ithacaxyz and be a part of the team that has shipped some of the industry&apos;s most used software. cash + equity.
-
-if you make it through, @optimizoor will be a part of your interview.
-
-email: join at ithaca dot xyz, or dm me</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>looking for a killer EVM engineer to join our team<br>
-<a href="https://nitter.freedit.eu/ithacaxyz" title="Ithaca">@ithacaxyz</a> and be a part of the team that has shipped some of the industry's most used software. cash + equity.<br>
-<br>
-if you make it through, <a href="https://nitter.freedit.eu/optimizoor" title="vectorized.eth">@optimizoor</a> will be a part of your interview.<br>
-<br>
-email: join at ithaca dot xyz, or dm me</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGh2E1P_aQAAad1U.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 21 Jan 2025 20:51:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1881806921860370724#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1881806921860370724#m</link>
       </item>
 
   </channel>

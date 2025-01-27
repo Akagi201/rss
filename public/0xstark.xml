@@ -16,6 +16,14 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @0xstark: The unsung heroes of Ethereum are the people behind testing and DevOps (like @ethPandaOps  and @elbuenmayini ). People are drawn to shiny things—new research, the next big idea—but often take the backbone of Ethereum for granted. Prysm encountered consensus edge cases in both Mekong and Devnet5 that could have caused a fork on mainnet if left unnoticed. These tricky edge cases are typically caught only through tireless effort of those dedicated to breaking things. Next time you see someone from Ethereum DevOps or testing team, don’t forget to say thank you—and maybe buy them a beer</title>
+        <dc:creator>@terencechain</dc:creator>
+        <description><![CDATA[<p>The unsung heroes of Ethereum are the people behind testing and DevOps (like <a href="https://nitter.freedit.eu/ethPandaOps" title="ethPandaOps">@ethPandaOps</a>  and <a href="https://nitter.freedit.eu/elbuenmayini" title="MarioVega.eth 🦇🔊">@elbuenmayini</a> ). People are drawn to shiny things—new research, the next big idea—but often take the backbone of Ethereum for granted. Prysm encountered consensus edge cases in both Mekong and Devnet5 that could have caused a fork on mainnet if left unnoticed. These tricky edge cases are typically caught only through tireless effort of those dedicated to breaking things. Next time you see someone from Ethereum DevOps or testing team, don’t forget to say thank you—and maybe buy them a beer</p>]]></description>
+        <pubDate>Sun, 26 Jan 2025 16:56:04 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/terencechain/status/1883559542342164542#m</guid>
+        <link>https://nitter.freedit.eu/terencechain/status/1883559542342164542#m</link>
+      </item>
+      <item>
         <title>RT by @0xstark: Introducing our new video series: Core Notes from Core Devs!
 
 Catch the Ethereum core developers at @offchainlabs discuss the latest happenings in Ethereum development.
@@ -464,19 +472,6 @@ Congrats <a href="https://nitter.freedit.eu/inkonchain" title="ink">@inkonchain<
         <pubDate>Thu, 23 Jan 2025 13:37:55 GMT</pubDate>
         <guid>https://nitter.freedit.eu/0xstark/status/1882422514812678409#m</guid>
         <link>https://nitter.freedit.eu/0xstark/status/1882422514812678409#m</link>
-      </item>
-      <item>
-        <title>love the dashboard that @Etherealize_io has created 
-
-https://dashboard.etherealize.io/</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>love the dashboard that <a href="https://nitter.freedit.eu/Etherealize_io" title="Etherealize">@Etherealize_io</a> has created <br>
-<br>
-<a href="https://dashboard.etherealize.io/">dashboard.etherealize.io/</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGh-ya-EWcAAvuXH.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 23 Jan 2025 13:25:43 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1882419444007448934#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1882419444007448934#m</link>
       </item>
 
   </channel>

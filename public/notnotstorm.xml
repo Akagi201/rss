@@ -16,6 +16,32 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @notnotstorm: Paradigm will be donating $1.25M to help fund Roman Storm’s legal defense
+
+The prosecution’s case threatens to hold software developers criminally liable for the bad acts of third parties, which would have a chilling effect in crypto and beyond
+
+We must stand with @rstormsf</title>
+        <dc:creator>@matthuang</dc:creator>
+        <description><![CDATA[<p>Paradigm will be donating $1.25M to help fund Roman Storm’s legal defense<br>
+<br>
+The prosecution’s case threatens to hold software developers criminally liable for the bad acts of third parties, which would have a chilling effect in crypto and beyond<br>
+<br>
+We must stand with <a href="https://nitter.freedit.eu/rstormsf" title="Roman Storm 🇺🇸 🌪️">@rstormsf</a></p>
+<p><a href="https://nitter.freedit.eu/rstormsf/status/1882100012513186283#m">nitter.freedit.eu/rstormsf/status/1882100012513186283#m</a></p>]]></description>
+        <pubDate>Tue, 28 Jan 2025 21:49:34 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/matthuang/status/1884358182082163162#m</guid>
+        <link>https://nitter.freedit.eu/matthuang/status/1884358182082163162#m</link>
+      </item>
+      <item>
+        <title>great reference for the spec differences between different L2&apos;s</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>great reference for the spec differences between different L2's</p>
+<p><a href="https://nitter.freedit.eu/ballsyalchemist/status/1883946695903568234#m">nitter.freedit.eu/ballsyalchemist/status/1883946695903568234#m</a></p>]]></description>
+        <pubDate>Mon, 27 Jan 2025 18:38:08 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1883947618373623990#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1883947618373623990#m</link>
+      </item>
+      <item>
         <title>R to @notnotstorm: the @ethPandaOps team probably has the most experience running lots of clients at once
 
 how hard do you think it would be to build a robust metaclient orchestrator that lets anyone run all the clients they want on a single machine with low maintenance burden for node operators? @BarnabasBusa @mattevansnz @parithosh_j @_pk910_ @samcmAU @Savid @skylenet</title>
@@ -81,7 +107,7 @@ https://mirror.xyz/nixo.eth/TS-GwCEAKD_UTOE2_SCA_eFWyHstVAtGGn2Hu8mMezQ</title>
         <description><![CDATA[<p>I aggregated some info on the EF R&amp;D teams today - descriptions, research, repos, general links. I drafted it for the EF internship applicants, but it got to a place where it seemed like it would be a good resource for the community as a whole.<br>
 <br>
 <a href="https://mirror.xyz/nixo.eth/TS-GwCEAKD_UTOE2_SCA_eFWyHstVAtGGn2Hu8mMezQ">mirror.xyz/nixo.eth/TS-GwCEA…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1881877455775948800%2FZsZWsJYJ%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1881932998939197440%2F8Pwq0sjW%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Wed, 22 Jan 2025 01:33:23 GMT</pubDate>
         <guid>https://nitter.freedit.eu/nixorokish/status/1881877792515911845#m</guid>
         <link>https://nitter.freedit.eu/nixorokish/status/1881877792515911845#m</link>
@@ -251,36 +277,6 @@ he just dropped the latest version of his annual everything-guide</p>
         <pubDate>Mon, 06 Jan 2025 18:27:07 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1876334699494425062#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1876334699494425062#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: it took a long time to ensure near equivalence between alloy cryo and ethers cryo
-
-it required us to build a custom testing framework to test 37 datasets under a variety of environments and parameters
-
-there may still be some diffs. will have stability before v1.0</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>it took a long time to ensure near equivalence between alloy cryo and ethers cryo<br>
-<br>
-it required us to build a custom testing framework to test 37 datasets under a variety of environments and parameters<br>
-<br>
-there may still be some diffs. will have stability before v1.0</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGglT1XhbQAAxHXr.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 06 Jan 2025 04:33:33 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1876124923053347288#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1876124923053347288#m</link>
-      </item>
-      <item>
-        <title>cryo has finally made the upgrade from ethers to alloy 💪 this is the largest upgrade to cryo since launch
-
-massive shoutout to @Yadomin1 for getting this over the line. this is was a big blocker on the path to cryo 1.0 (major updates coming soon)</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>cryo has finally made the upgrade from ethers to alloy 💪 this is the largest upgrade to cryo since launch<br>
-<br>
-massive shoutout to <a href="https://nitter.freedit.eu/Yadomin1" title="北原雪菜">@Yadomin1</a> for getting this over the line. this is was a big blocker on the path to cryo 1.0 (major updates coming soon)</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGglVCX6aQAAAJS5.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 06 Jan 2025 04:33:32 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1876124920843059215#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1876124920843059215#m</link>
       </item>
 
   </channel>

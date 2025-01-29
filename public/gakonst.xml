@@ -16,208 +16,245 @@
       <height>128</height>
     </image>
       <item>
-        <title>RT by @gakonst: &quot;The All Core Devs process can be improved (as Tim Beiko recently suggested on the Consensus Layer call). We invite the community to weigh in on the Pectra retrospective with concrete suggestions.
+        <title>every L2 should be able to read the L1 state root if it wants to interop properly, highlighting this proposal from @IanSNorden
 
-Let’s allocate more resources to DevOps and Testing so we can confidently deliver major improvements more often — while still preserving the reliability Ethereum is known for.&quot;
-
-One place I see a lot of inertia is having the right data to move forward on things! e.g. the bandwidth conversation - can we increase bandwidth requirements without significantly impacting Ethereum&apos;s decentralization? We run into this question and it&apos;s wild that we don&apos;t already have the data to say YES or NO
-
-Right now @ethPandaOps has stepped up to gather some of that data but they&apos;re ALSO responsible for a lot of testing that goes into making sure the fork goes well. These two things are a lot of work and they&apos;re only one team!
-
-There should be MANY teams working on creating neutral data sets that inform accelerationism and kill the argument before it turns into a bunch of unproductive internet arguments</title>
-        <dc:creator>@nixorokish</dc:creator>
-        <description><![CDATA[<p>"The All Core Devs process can be improved (as Tim Beiko recently suggested on the Consensus Layer call). We invite the community to weigh in on the Pectra retrospective with concrete suggestions.<br>
-<br>
-Let’s allocate more resources to DevOps and Testing so we can confidently deliver major improvements more often — while still preserving the reliability Ethereum is known for."<br>
-<br>
-One place I see a lot of inertia is having the right data to move forward on things! e.g. the bandwidth conversation - can we increase bandwidth requirements without significantly impacting Ethereum's decentralization? We run into this question and it's wild that we don't already have the data to say YES or NO<br>
-<br>
-Right now <a href="https://nitter.freedit.eu/ethPandaOps" title="ethPandaOps">@ethPandaOps</a> has stepped up to gather some of that data but they're ALSO responsible for a lot of testing that goes into making sure the fork goes well. These two things are a lot of work and they're only one team!<br>
-<br>
-There should be MANY teams working on creating neutral data sets that inform accelerationism and kill the argument before it turns into a bunch of unproductive internet arguments</p>
-<p><a href="https://nitter.freedit.eu/gakonst/status/1883192835874390276#m">nitter.freedit.eu/gakonst/status/1883192835874390276#m</a></p>]]></description>
-        <pubDate>Sat, 25 Jan 2025 20:01:24 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/nixorokish/status/1883243797532012947#m</guid>
-        <link>https://nitter.freedit.eu/nixorokish/status/1883243797532012947#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: What are the best counter arguments to this piece?</title>
-        <dc:creator>@TimBeiko</dc:creator>
-        <description><![CDATA[<p>What are the best counter arguments to this piece?</p>
-<p><a href="https://nitter.freedit.eu/gakonst/status/1883192835874390276#m">nitter.freedit.eu/gakonst/status/1883192835874390276#m</a></p>]]></description>
-        <pubDate>Sun, 26 Jan 2025 17:45:28 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/TimBeiko/status/1883571973483340033#m</guid>
-        <link>https://nitter.freedit.eu/TimBeiko/status/1883571973483340033#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: just realised @ithacaxyz is pronounced eth/acc a</title>
-        <dc:creator>@miroyato</dc:creator>
-        <description><![CDATA[<p>just realised <a href="https://nitter.freedit.eu/ithacaxyz" title="Ithaca">@ithacaxyz</a> is pronounced eth/acc a</p>]]></description>
-        <pubDate>Sat, 25 Jan 2025 17:39:49 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/miroyato/status/1883208164457484318#m</guid>
-        <link>https://nitter.freedit.eu/miroyato/status/1883208164457484318#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Maybe this is the right time to say: In my opinion, for-profit motives and positive impact do not have to be in tension with each other at all.
-
-I am very glad Ethereum has Paradigm. When we look back and trace why Ethereum won, they will have played a meaningful part.
-
-eth/acc.</title>
-        <dc:creator>@adietrichs</dc:creator>
-        <description><![CDATA[<p>Maybe this is the right time to say: In my opinion, for-profit motives and positive impact do not have to be in tension with each other at all.<br>
-<br>
-I am very glad Ethereum has Paradigm. When we look back and trace why Ethereum won, they will have played a meaningful part.<br>
-<br>
-eth/acc.</p>
-<p><a href="https://nitter.freedit.eu/gakonst/status/1883192835874390276#m">nitter.freedit.eu/gakonst/status/1883192835874390276#m</a></p>]]></description>
-        <pubDate>Sat, 25 Jan 2025 17:08:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/adietrichs/status/1883200237847924869#m</guid>
-        <link>https://nitter.freedit.eu/adietrichs/status/1883200237847924869#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: ETHEREUM ACCELERATION.
-
-Full post here: https://www.paradigm.xyz/2025/01/ethereum-acceleration-1</title>
+https://github.com/ethereum/RIPs/pull/57</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>ETHEREUM ACCELERATION.<br>
+        <description><![CDATA[<p>every L2 should be able to read the L1 state root if it wants to interop properly, highlighting this proposal from <a href="https://nitter.freedit.eu/IanSNorden" title="Ian Norden">@IanSNorden</a><br>
 <br>
-Full post here: <a href="https://www.paradigm.xyz/2025/01/ethereum-acceleration-1">paradigm.xyz/2025/01/ethereu…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1882667347993055232%2Fj4kfPGQt%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 25 Jan 2025 16:39:16 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1883192926865633460#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1883192926865633460#m</link>
+<a href="https://github.com/ethereum/RIPs/pull/57">github.com/ethereum/RIPs/pul…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1884409023572893699%2FxcknNJFY%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 29 Jan 2025 01:11:46 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1884409064626741596#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1884409064626741596#m</link>
       </item>
       <item>
-        <title>R to @gakonst: Let&apos;s accelerate the World Computer, together.</title>
+        <title>Looking for a killer SVM engineer for a 1-mo PoC contract on intent-based interop to enable accessing Ethereum &amp; L2 protocols via Solana wallets. You would sign a tx on Phantom and you&apos;d get an account on any L2 or Ethereum that executes a batch of transactions. Cash.</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Let's accelerate the World Computer, together.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiJx-gRaMAERE86.png" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 25 Jan 2025 16:39:13 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1883192914781819345#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1883192914781819345#m</link>
+        <description><![CDATA[<p>Looking for a killer SVM engineer for a 1-mo PoC contract on intent-based interop to enable accessing Ethereum &amp; L2 protocols via Solana wallets. You would sign a tx on Phantom and you'd get an account on any L2 or Ethereum that executes a batch of transactions. Cash.</p>]]></description>
+        <pubDate>Wed, 29 Jan 2025 00:58:41 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1884405774367219718#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1884405774367219718#m</link>
       </item>
       <item>
-        <title>R to @gakonst: How is @paradigm contributing to the mission of Ethereum Acceleration?
+        <title>RT by @gakonst: Paradigm will be donating $1.25M to help fund Roman Storm’s legal defense
 
-We have EIPs, data analysis, and code to give.
+The prosecution’s case threatens to hold software developers criminally liable for the bad acts of third parties, which would have a chilling effect in crypto and beyond
 
-We invite the research community to collaborate with us.</title>
+We must stand with @rstormsf</title>
+        <dc:creator>@matthuang</dc:creator>
+        <description><![CDATA[<p>Paradigm will be donating $1.25M to help fund Roman Storm’s legal defense<br>
+<br>
+The prosecution’s case threatens to hold software developers criminally liable for the bad acts of third parties, which would have a chilling effect in crypto and beyond<br>
+<br>
+We must stand with <a href="https://nitter.freedit.eu/rstormsf" title="Roman Storm 🇺🇸 🌪️">@rstormsf</a></p>
+<p><a href="https://nitter.freedit.eu/rstormsf/status/1882100012513186283#m">nitter.freedit.eu/rstormsf/status/1882100012513186283#m</a></p>]]></description>
+        <pubDate>Tue, 28 Jan 2025 21:49:34 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/matthuang/status/1884358182082163162#m</guid>
+        <link>https://nitter.freedit.eu/matthuang/status/1884358182082163162#m</link>
+      </item>
+      <item>
+        <title>i really cannot process how wallet devs accepted that having 3 gas parameters, multiple roundtrips, and a fee estimation flow which involves users configuring dummy signature values is an acceptable developer or user experience</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>How is <a href="https://nitter.freedit.eu/paradigm" title="Paradigm">@paradigm</a> contributing to the mission of Ethereum Acceleration?<br>
-<br>
-We have EIPs, data analysis, and code to give.<br>
-<br>
-We invite the research community to collaborate with us.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiJx9mIbkAA8S3Y.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 25 Jan 2025 16:39:10 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1883192899875311755#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1883192899875311755#m</link>
+        <description><![CDATA[<p>i really cannot process how wallet devs accepted that having 3 gas parameters, multiple roundtrips, and a fee estimation flow which involves users configuring dummy signature values is an acceptable developer or user experience</p>]]></description>
+        <pubDate>Tue, 28 Jan 2025 21:33:56 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1884354247095115816#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1884354247095115816#m</link>
       </item>
       <item>
-        <title>R to @gakonst: There&apos;s low-hanging fruit we could go after. Let&apos;s do more, faster.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>There's low-hanging fruit we could go after. Let's do more, faster.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiJx8sXaIAAzFxA.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 25 Jan 2025 16:39:06 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1883192884427718958#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1883192884427718958#m</link>
+        <title>RT by @gakonst: developers.cloudflare.com/wo…</title>
+        <dc:creator>@_mchenco</dc:creator>
+        <description><![CDATA[<p><a href="https://developers.cloudflare.com/workers-ai/models/deepseek-r1-distill-qwen-32b/">developers.cloudflare.com/wo…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1883790147772108800%2FrTDeeACi%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 28 Jan 2025 19:31:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/_mchenco/status/1884323513764605997#m</guid>
+        <link>https://nitter.freedit.eu/_mchenco/status/1884323513764605997#m</link>
       </item>
       <item>
-        <title>R to @gakonst: We can move faster by deciding to evolve the protocol with ambition, and not ossify.
+        <title>We&apos;re publishing Foundry 1.0 soon.
 
-We can do better than N-of-N (5 CL + 5 EL!) clients coming to consensus before new upgrades.
+What are the things you&apos;d like to see highlighted about what&apos;s changed in the project over the last years?
 
-We can level up ACD.
+If you want, share some codebases for us to benchmark testing/compilation on.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>We're publishing Foundry 1.0 soon.<br>
+<br>
+What are the things you'd like to see highlighted about what's changed in the project over the last years?<br>
+<br>
+If you want, share some codebases for us to benchmark testing/compilation on.</p>]]></description>
+        <pubDate>Tue, 28 Jan 2025 18:24:08 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1884306480918380602#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1884306480918380602#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: For Foundry&apos;s next stable release we plan to remove `testFail*`. It has been marked as deprecated for quite some time and has long been discouraged.
 
-We can allocate more resources to Devops &amp; Testing.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>We can move faster by deciding to evolve the protocol with ambition, and not ossify.<br>
+Do you still have any cases in your active codebases where you need to resort to using it?</title>
+        <dc:creator>@zerosnacks</dc:creator>
+        <description><![CDATA[<p>For Foundry's next stable release we plan to remove `testFail*`. It has been marked as deprecated for quite some time and has long been discouraged.<br>
 <br>
-We can do better than N-of-N (5 CL + 5 EL!) clients coming to consensus before new upgrades.<br>
-<br>
-We can level up ACD.<br>
-<br>
-We can allocate more resources to Devops &amp; Testing.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiJx7vfaoAAtslm.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 25 Jan 2025 16:39:02 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1883192868690661565#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1883192868690661565#m</link>
+Do you still have any cases in your active codebases where you need to resort to using it?</p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 16:13:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/zerosnacks/status/1882824065846813183#m</guid>
+        <link>https://nitter.freedit.eu/zerosnacks/status/1882824065846813183#m</link>
       </item>
       <item>
-        <title>R to @gakonst: We haven&apos;t yet the fundamental limits of what we can do.
+        <title>Any of my Go expert friends interested in working on the most used Ethereum client full time? 20K from Paradigm for successful referrals.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Any of my Go expert friends interested in working on the most used Ethereum client full time? 20K from Paradigm for successful referrals.</p>
+<p><a href="https://nitter.freedit.eu/lightclients/status/1884256102000599175#m">nitter.freedit.eu/lightclients/status/1884256102000599175#m</a></p>]]></description>
+        <pubDate>Tue, 28 Jan 2025 16:37:31 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1884279649280393589#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1884279649280393589#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: We also have new EIP-7702 cheatcodes to sign and attach the delegation to a transaction in tests and scripts!
 
-Ethereum should reach the efficient frontier of what’s possible before arguing about how we would choose between our values once we’ve hit those limits.
+Huge thanks to @evanchipman for contributing these!
 
-Shipping faster will help Ethereum get there.
+https://book.getfoundry.sh/cheatcodes/sign-delegation</title>
+        <dc:creator>@zerosnacks</dc:creator>
+        <description><![CDATA[<p>We also have new EIP-7702 cheatcodes to sign and attach the delegation to a transaction in tests and scripts!<br>
+<br>
+Huge thanks to <a href="https://nitter.freedit.eu/evanchipman" title="ev chip | 𝚝𝟷">@evanchipman</a> for contributing these!<br>
+<br>
+<a href="https://book.getfoundry.sh/cheatcodes/sign-delegation">book.getfoundry.sh/cheatcode…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1882412835818389504%2FXZaE4Zfp%3Fformat%3Dpng%26name%3D280x280_2" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 28 Jan 2025 16:00:23 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/zerosnacks/status/1884270307055395051#m</guid>
+        <link>https://nitter.freedit.eu/zerosnacks/status/1884270307055395051#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Easy to miss if you are ahead of the curve and already experimenting with EIP-7702
 
-Instead of &quot;should we do X or Y?&quot;, the answer might be &quot;both.&quot;</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>We haven't yet the fundamental limits of what we can do.<br>
-<br>
-Ethereum should reach the efficient frontier of what’s possible before arguing about how we would choose between our values once we’ve hit those limits.<br>
-<br>
-Shipping faster will help Ethereum get there.<br>
-<br>
-Instead of "should we do X or Y?", the answer might be "both."</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiJx6yRbAAIeAmi.png" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 25 Jan 2025 16:38:58 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1883192852186050635#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1883192852186050635#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: I wrote a short blog comparing VID and DAS solutions: AVID-Z, FRIDA, ZODA and dispersed ledger. https://espresso.discourse.group/t/zoda-frida-danksharding-avid-and-dispersed-ledger/57</title>
-        <dc:creator>@benediktbuenz</dc:creator>
-        <description><![CDATA[<p>I wrote a short blog comparing VID and DAS solutions: AVID-Z, FRIDA, ZODA and dispersed ledger. <a href="https://espresso.discourse.group/t/zoda-frida-danksharding-avid-and-dispersed-ledger/57">espresso.discourse.group/t/z…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1880101591111348225%2FAarUlkH9%3Fformat%3Dpng%26name%3D420x420_2" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 24 Jan 2025 15:12:25 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/benediktbuenz/status/1882808683987701905#m</guid>
-        <link>https://nitter.freedit.eu/benediktbuenz/status/1882808683987701905#m</link>
-      </item>
-      <item>
-        <title>it&apos;s okay to study and learn from deepseek than to discredit it lol</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>it's okay to study and learn from deepseek than to discredit it lol</p>]]></description>
-        <pubDate>Sat, 25 Jan 2025 02:41:33 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1882982109876453449#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1882982109876453449#m</link>
-      </item>
-      <item>
-        <title>part of the problem with bloated software in crypto is that it is designed by committee trying to be unopinionated and satisfy everyone ahead of time vs a product-driven usecase and top down full stack decision making
+Set your `evm_version` to `prague`
 
-love ecosystem wide collaboration on projects, but sometimes you just gotta hire the right team and do the whole thing e2e</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>part of the problem with bloated software in crypto is that it is designed by committee trying to be unopinionated and satisfy everyone ahead of time vs a product-driven usecase and top down full stack decision making<br>
+For Anvil pass `--hardfork prague`
+
+Alternatively you can pass the `--odyssey` flag when running commands
+
+https://book.getfoundry.sh/reference/config/solidity-compiler#evm_version</title>
+        <dc:creator>@zerosnacks</dc:creator>
+        <description><![CDATA[<p>Easy to miss if you are ahead of the curve and already experimenting with EIP-7702<br>
 <br>
-love ecosystem wide collaboration on projects, but sometimes you just gotta hire the right team and do the whole thing e2e</p>]]></description>
-        <pubDate>Sat, 25 Jan 2025 02:38:36 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1882981367593783686#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1882981367593783686#m</link>
+Set your `evm_version` to `prague`<br>
+<br>
+For Anvil pass `--hardfork prague`<br>
+<br>
+Alternatively you can pass the `--odyssey` flag when running commands<br>
+<br>
+<a href="https://book.getfoundry.sh/reference/config/solidity-compiler#evm_version">book.getfoundry.sh/reference…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1879869585597300736%2FOy6kzVNG%3Fformat%3Dpng%26name%3D280x280_2" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 27 Jan 2025 16:56:38 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/zerosnacks/status/1883922072247886178#m</guid>
+        <link>https://nitter.freedit.eu/zerosnacks/status/1883922072247886178#m</link>
       </item>
       <item>
-        <title>https://github.com/jsign/eth-stateless good</title>
+        <title>RT by @gakonst: The go-ethereum team is hiring a staff software engineer to help ~accelerate~ Ethereum! If you have experience working in geth and are ready to contribute to the core protocol full-time, we’d love to hear from you. https://jobs.lever.co/ethereumfoundation/8d9b1823-ba67-4195-a673-e11a85a48d62</title>
+        <dc:creator>@lightclients</dc:creator>
+        <description><![CDATA[<p>The go-ethereum team is hiring a staff software engineer to help ~accelerate~ Ethereum! If you have experience working in geth and are ready to contribute to the core protocol full-time, we’d love to hear from you. <a href="https://jobs.lever.co/ethereumfoundation/8d9b1823-ba67-4195-a673-e11a85a48d62">jobs.lever.co/ethereumfounda…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1881424966521954304%2FvdWGHP2I%3Fformat%3Dpng%26name%3D280x280_2" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 28 Jan 2025 15:03:57 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/lightclients/status/1884256102000599175#m</guid>
+        <link>https://nitter.freedit.eu/lightclients/status/1884256102000599175#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Great to see Geth accelerating…
+
+Paradigm will offer a $20K bounty for successfully referring someone to this role</title>
+        <dc:creator>@matthuang</dc:creator>
+        <description><![CDATA[<p>Great to see Geth accelerating…<br>
+<br>
+Paradigm will offer a $20K bounty for successfully referring someone to this role</p>
+<p><a href="https://nitter.freedit.eu/lightclients/status/1884256102000599175#m">nitter.freedit.eu/lightclients/status/1884256102000599175#m</a></p>]]></description>
+        <pubDate>Tue, 28 Jan 2025 15:55:59 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/matthuang/status/1884269199792689294#m</guid>
+        <link>https://nitter.freedit.eu/matthuang/status/1884269199792689294#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Solady v0.1 is out.
+
+Big thanks: @base, @SpearbitDAO, @cantinaxyz 
+
+Report in next post.
+
+Milady.</title>
+        <dc:creator>@optimizoor</dc:creator>
+        <description><![CDATA[<p>Solady v0.1 is out.<br>
+<br>
+Big thanks: <a href="https://nitter.freedit.eu/base" title="Base">@base</a>, <a href="https://nitter.freedit.eu/SpearbitDAO" title="Spearbit">@SpearbitDAO</a>, <a href="https://nitter.freedit.eu/cantinaxyz" title="Cantina 🪐">@cantinaxyz</a> <br>
+<br>
+Report in next post.<br>
+<br>
+Milady.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGiUNSztboAAAJcE.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 27 Jan 2025 17:14:47 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/optimizoor/status/1883926641556218174#m</guid>
+        <link>https://nitter.freedit.eu/optimizoor/status/1883926641556218174#m</link>
+      </item>
+      <item>
+        <title>RISCV contracts with EVM semantics? Awesome devex in progress? Extend the EVM with an RISCV interpreter exposed over a new bytecode prefix?
+
+https://github.com/leonardoalt/r55</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p><a href="https://github.com/jsign/eth-stateless">github.com/jsign/eth-statele…</a> good</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1882945008594259968%2F7ntu21PU%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 25 Jan 2025 00:14:08 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1882945009454051782#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1882945009454051782#m</link>
+        <description><![CDATA[<p>RISCV contracts with EVM semantics? Awesome devex in progress? Extend the EVM with an RISCV interpreter exposed over a new bytecode prefix?<br>
+<br>
+<a href="https://github.com/leonardoalt/r55">github.com/leonardoalt/r55</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1883811888007655424%2FAQccvR97%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 28 Jan 2025 00:36:38 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1884037837923967195#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1884037837923967195#m</link>
       </item>
       <item>
-        <title>Has any AI agent framework integrated yet with account abstraction session keys for agents w/ true non-custodial wallets? DM me? You could easily map function calls API to session key scopes and do magic, and I might have some good tools to share with you.</title>
+        <title>RT by @gakonst: 🧵Greek public broadcaster ERT, under the control of PM @kmitsotakis, failed to cover the demonstrations (26.1.2025) regarding the 2023 Tempi train crash in central Greece, which killed 57 people and injured dozens of others.
+
+❗However, the BBC programme “The Newsroom” covered the story and #ReportersUnited’s journalist @ebersi explained why people demand justice and how the government tries to cover up the case.</title>
+        <dc:creator>@reporters_gr</dc:creator>
+        <description><![CDATA[<p>🧵Greek public broadcaster ERT, under the control of PM <a href="https://nitter.freedit.eu/kmitsotakis" title="Kyriakos Mitsotakis">@kmitsotakis</a>, failed to cover the demonstrations (26.1.2025) regarding the 2023 Tempi train crash in central Greece, which killed 57 people and injured dozens of others.<br>
+<br>
+❗However, the BBC programme “The Newsroom” covered the story and <a href="https://nitter.freedit.eu/search?q=%23ReportersUnited">#ReportersUnited</a>’s journalist <a href="https://nitter.freedit.eu/ebersi" title="Ευρυδίκη Μπερσή">@ebersi</a> explained why people demand justice and how the government tries to cover up the case.</p>
+<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1883938266367381504%2Fpu%2Fimg%2FxCdxZ-rbfCA_F-eQ.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 27 Jan 2025 18:08:23 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/reporters_gr/status/1883940130190217637#m</guid>
+        <link>https://nitter.freedit.eu/reporters_gr/status/1883940130190217637#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Huge Athens crowds demand justice for 2023 train crash https://bbc.in/4gcrH2H</title>
+        <dc:creator>@BBCWorld</dc:creator>
+        <description><![CDATA[<p>Huge Athens crowds demand justice for 2023 train crash <a href="https://bbc.in/4gcrH2H">bbc.in/4gcrH2H</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1883573005764169728%2FKOTYOdYS%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 26 Jan 2025 17:49:34 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/BBCWorld/status/1883573004581367894#m</guid>
+        <link>https://nitter.freedit.eu/BBCWorld/status/1883573004581367894#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: `forge build` should include &quot;loading screen tips&quot; for smart contract best-practices</title>
+        <dc:creator>@emo_eth</dc:creator>
+        <description><![CDATA[<p>`forge build` should include "loading screen tips" for smart contract best-practices</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGiUZ3ByWAAAzjuS.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 27 Jan 2025 18:09:45 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/emo_eth/status/1883940473934602639#m</guid>
+        <link>https://nitter.freedit.eu/emo_eth/status/1883940473934602639#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: We&apos;ve got a fantastic HQ in Berlin! Let us know if you&apos;re passing by 🧡🧡🧡</title>
+        <dc:creator>@IrreducibleHW</dc:creator>
+        <description><![CDATA[<p>We've got a fantastic HQ in Berlin! Let us know if you're passing by 🧡🧡🧡</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGiUEa-cWMAEZgb7.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGiUEa-gW0AAFcX2.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGiUEa-hWUAA5pbc.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGiUEa-fXgAAZJpj.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 27 Jan 2025 16:37:03 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/IrreducibleHW/status/1883917143097405763#m</guid>
+        <link>https://nitter.freedit.eu/IrreducibleHW/status/1883917143097405763#m</link>
+      </item>
+      <item>
+        <title>who&apos;s building their company as a cloudflare platform poweruser? wanna chat? looking for people stress testing durable objects / workflows etc.</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Has any AI agent framework integrated yet with account abstraction session keys for agents w/ true non-custodial wallets? DM me? You could easily map function calls API to session key scopes and do magic, and I might have some good tools to share with you.</p>]]></description>
-        <pubDate>Sat, 25 Jan 2025 00:12:11 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1882944517546164327#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1882944517546164327#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: </title>
-        <dc:creator>@Rjected</dc:creator>
-        <description><![CDATA[<p></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiE0lPYXwAAYTlo.png" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 24 Jan 2025 17:32:32 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/Rjected/status/1882843943509053805#m</guid>
-        <link>https://nitter.freedit.eu/Rjected/status/1882843943509053805#m</link>
+        <description><![CDATA[<p>who's building their company as a cloudflare platform poweruser? wanna chat? looking for people stress testing durable objects / workflows etc.</p>]]></description>
+        <pubDate>Mon, 27 Jan 2025 18:39:03 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1883947845268722023#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1883947845268722023#m</link>
       </item>
 
   </channel>

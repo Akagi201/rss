@@ -16,6 +16,23 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @quant_arb: Just heard of a prop shop in HK that has their trading platform in Python. It takes them 1-2 days to run 1 backtest, ouch.</title>
+        <dc:creator>@ninjaquant_</dc:creator>
+        <description><![CDATA[<p>Just heard of a prop shop in HK that has their trading platform in Python. It takes them 1-2 days to run 1 backtest, ouch.</p>]]></description>
+        <pubDate>Wed, 29 Jan 2025 15:53:00 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ninjaquant_/status/1884630834650763333#m</guid>
+        <link>https://nitter.freedit.eu/ninjaquant_/status/1884630834650763333#m</link>
+      </item>
+      <item>
+        <title>They really could put more effort into making these AI authors more believeable</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>They really could put more effort into making these AI authors more believeable</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGidrMnFXkAAhYuj.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 29 Jan 2025 13:22:25 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1884592937817751828#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1884592937817751828#m</link>
+      </item>
+      <item>
         <title>Orc Wing Model vs SSVI fit -- think Orc is the clear winner here</title>
         <dc:creator>@quant_arb</dc:creator>
         <description><![CDATA[<p>Orc Wing Model vs SSVI fit -- think Orc is the clear winner here</p>
@@ -196,22 +213,6 @@ Quite a few Tardis exchanges I didnt know about in case anyone else is unaware</
         <pubDate>Mon, 30 Dec 2024 22:21:37 GMT</pubDate>
         <guid>https://nitter.freedit.eu/quant_arb/status/1873856996841316537#m</guid>
         <link>https://nitter.freedit.eu/quant_arb/status/1873856996841316537#m</link>
-      </item>
-      <item>
-        <title>Study87.ipynb</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>Study87.ipynb</p>]]></description>
-        <pubDate>Mon, 30 Dec 2024 21:58:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1873851256101626103#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1873851256101626103#m</link>
-      </item>
-      <item>
-        <title>as much as ccxt is crap it still beats using raw exchange APIs unless you have your own normalized API coded up internally</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>as much as ccxt is crap it still beats using raw exchange APIs unless you have your own normalized API coded up internally</p>]]></description>
-        <pubDate>Mon, 30 Dec 2024 14:23:23 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1873736645960470618#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1873736645960470618#m</link>
       </item>
 
   </channel>

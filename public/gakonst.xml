@@ -16,6 +16,83 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @gakonst: I&apos;m stoked to have gotten this feature merged. Thanks @klkvrr for the review. Having now contributed to Foundry, Reth, and Alloy, I have a few suggestions for developers who are looking to contribute to @paradigm projects:</title>
+        <dc:creator>@evanchipman</dc:creator>
+        <description><![CDATA[<p>I'm stoked to have gotten this feature merged. Thanks <a href="https://nitter.freedit.eu/klkvrr" title="Arsenii Kulikov">@klkvrr</a> for the review. Having now contributed to Foundry, Reth, and Alloy, I have a few suggestions for developers who are looking to contribute to <a href="https://nitter.freedit.eu/paradigm" title="Paradigm">@paradigm</a> projects:</p>
+<p><a href="https://nitter.freedit.eu/zerosnacks/status/1884270307055395051#m">nitter.freedit.eu/zerosnacks/status/1884270307055395051#m</a></p>]]></description>
+        <pubDate>Tue, 28 Jan 2025 20:46:03 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/evanchipman/status/1884342194963714071#m</guid>
+        <link>https://nitter.freedit.eu/evanchipman/status/1884342194963714071#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: You&apos;d want to emit this https://github.com/paradigmxyz/reth-exex-examples/blob/main/remote/proto/exex.proto#L34.
+
+Here&apos;s an example gRPC ExEx server which emits the above: https://github.com/paradigmxyz/reth-exex-examples/blob/main/remote/bin/exex.rs.
+
+And here&apos;s the gRPC ExEx client who&apos;d subscribe to it then: https://github.com/paradigmxyz/reth-exex-examples/blob/main/remote/bin/consumer.rs#L9.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>You'd want to emit this <a href="https://github.com/paradigmxyz/reth-exex-examples/blob/main/remote/proto/exex.proto#L34">github.com/paradigmxyz/reth-…</a>.<br>
+<br>
+Here's an example gRPC ExEx server which emits the above: <a href="https://github.com/paradigmxyz/reth-exex-examples/blob/main/remote/bin/exex.rs">github.com/paradigmxyz/reth-…</a>.<br>
+<br>
+And here's the gRPC ExEx client who'd subscribe to it then: <a href="https://github.com/paradigmxyz/reth-exex-examples/blob/main/remote/bin/consumer.rs#L9">github.com/paradigmxyz/reth-…</a>.</p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1884664647321841664%2FhdVZg3q_%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 29 Jan 2025 18:08:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1884664858328916017#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1884664858328916017#m</link>
+      </item>
+      <item>
+        <title>There&apos;s a very simple JSON-RPC into ExEx adapter one could write. It&apos;d basically be a proxy service which does eth_subscribe, and for every block it proceeds to trace/re-execute it and expose a gRPC that the Remote ExEx consumer would subscribe to. LMK if interested.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>There's a very simple JSON-RPC into ExEx adapter one could write. It'd basically be a proxy service which does eth_subscribe, and for every block it proceeds to trace/re-execute it and expose a gRPC that the Remote ExEx consumer would subscribe to. LMK if interested.</p>
+<p><a href="https://nitter.freedit.eu/FUCORY/status/1884642737405952441#m">nitter.freedit.eu/FUCORY/status/1884642737405952441#m</a></p>]]></description>
+        <pubDate>Wed, 29 Jan 2025 18:00:21 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1884662882740371661#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1884662882740371661#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Prysm is already finalizing a devnet distributing blocks using random linear network coding. Signature verification changes so it&apos;s not a minor change, but it&apos;s also not so bad. Faster blob propagation may be around the corner.</title>
+        <dc:creator>@potuz_eth</dc:creator>
+        <description><![CDATA[<p>Prysm is already finalizing a devnet distributing blocks using random linear network coding. Signature verification changes so it's not a minor change, but it's also not so bad. Faster blob propagation may be around the corner.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGiefuqNbYAQvdY6.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 29 Jan 2025 17:11:56 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/potuz_eth/status/1884650698299543868#m</guid>
+        <link>https://nitter.freedit.eu/potuz_eth/status/1884650698299543868#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Daimo Pay does this today.
+
+Any coin, any chain including Solana &gt; one transfer &gt; arbitrary multicall on (L2) Ethereum
+
+and noncustodial using intent addresses!</title>
+        <dc:creator>@dcposch</dc:creator>
+        <description><![CDATA[<p>Daimo Pay does this today.<br>
+<br>
+Any coin, any chain including Solana &gt; one transfer &gt; arbitrary multicall on (L2) Ethereum<br>
+<br>
+and noncustodial using intent addresses!</p>
+<p><a href="https://nitter.freedit.eu/gakonst/status/1884405774367219718#m">nitter.freedit.eu/gakonst/status/1884405774367219718#m</a></p>]]></description>
+        <pubDate>Wed, 29 Jan 2025 16:51:00 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/dcposch/status/1884645431944327295#m</guid>
+        <link>https://nitter.freedit.eu/dcposch/status/1884645431944327295#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Not in prod yet, but we’re building on exexes as well @init4tech</title>
+        <dc:creator>@hievalir</dc:creator>
+        <description><![CDATA[<p>Not in prod yet, but we’re building on exexes as well <a href="https://nitter.freedit.eu/init4tech" title="init4 tech">@init4tech</a></p>]]></description>
+        <pubDate>Wed, 29 Jan 2025 12:40:42 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/hievalir/status/1884582442104766789#m</guid>
+        <link>https://nitter.freedit.eu/hievalir/status/1884582442104766789#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Not in prod just yet but @SorellaLabs our node is basically one big exex</title>
+        <dc:creator>@real_philogy</dc:creator>
+        <description><![CDATA[<p>Not in prod just yet but <a href="https://nitter.freedit.eu/SorellaLabs" title="Sorella Labs">@SorellaLabs</a> our node is basically one big exex</p>]]></description>
+        <pubDate>Wed, 29 Jan 2025 10:56:24 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/real_philogy/status/1884556194234179822#m</guid>
+        <link>https://nitter.freedit.eu/real_philogy/status/1884556194234179822#m</link>
+      </item>
+      <item>
         <title>every L2 should be able to read the L1 state root if it wants to interop properly, highlighting this proposal from @IanSNorden
 
 https://github.com/ethereum/RIPs/pull/57</title>
@@ -170,91 +247,6 @@ Paradigm will offer a $20K bounty for successfully referring someone to this rol
         <pubDate>Tue, 28 Jan 2025 15:55:59 GMT</pubDate>
         <guid>https://nitter.freedit.eu/matthuang/status/1884269199792689294#m</guid>
         <link>https://nitter.freedit.eu/matthuang/status/1884269199792689294#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Solady v0.1 is out.
-
-Big thanks: @base, @SpearbitDAO, @cantinaxyz 
-
-Report in next post.
-
-Milady.</title>
-        <dc:creator>@optimizoor</dc:creator>
-        <description><![CDATA[<p>Solady v0.1 is out.<br>
-<br>
-Big thanks: <a href="https://nitter.freedit.eu/base" title="Base">@base</a>, <a href="https://nitter.freedit.eu/SpearbitDAO" title="Spearbit">@SpearbitDAO</a>, <a href="https://nitter.freedit.eu/cantinaxyz" title="Cantina 🪐">@cantinaxyz</a> <br>
-<br>
-Report in next post.<br>
-<br>
-Milady.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiUNSztboAAAJcE.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 27 Jan 2025 17:14:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/optimizoor/status/1883926641556218174#m</guid>
-        <link>https://nitter.freedit.eu/optimizoor/status/1883926641556218174#m</link>
-      </item>
-      <item>
-        <title>RISCV contracts with EVM semantics? Awesome devex in progress? Extend the EVM with an RISCV interpreter exposed over a new bytecode prefix?
-
-https://github.com/leonardoalt/r55</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>RISCV contracts with EVM semantics? Awesome devex in progress? Extend the EVM with an RISCV interpreter exposed over a new bytecode prefix?<br>
-<br>
-<a href="https://github.com/leonardoalt/r55">github.com/leonardoalt/r55</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1883811888007655424%2FAQccvR97%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 28 Jan 2025 00:36:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1884037837923967195#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1884037837923967195#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: 🧵Greek public broadcaster ERT, under the control of PM @kmitsotakis, failed to cover the demonstrations (26.1.2025) regarding the 2023 Tempi train crash in central Greece, which killed 57 people and injured dozens of others.
-
-❗However, the BBC programme “The Newsroom” covered the story and #ReportersUnited’s journalist @ebersi explained why people demand justice and how the government tries to cover up the case.</title>
-        <dc:creator>@reporters_gr</dc:creator>
-        <description><![CDATA[<p>🧵Greek public broadcaster ERT, under the control of PM <a href="https://nitter.freedit.eu/kmitsotakis" title="Kyriakos Mitsotakis">@kmitsotakis</a>, failed to cover the demonstrations (26.1.2025) regarding the 2023 Tempi train crash in central Greece, which killed 57 people and injured dozens of others.<br>
-<br>
-❗However, the BBC programme “The Newsroom” covered the story and <a href="https://nitter.freedit.eu/search?q=%23ReportersUnited">#ReportersUnited</a>’s journalist <a href="https://nitter.freedit.eu/ebersi" title="Ευρυδίκη Μπερσή">@ebersi</a> explained why people demand justice and how the government tries to cover up the case.</p>
-<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1883938266367381504%2Fpu%2Fimg%2FxCdxZ-rbfCA_F-eQ.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 27 Jan 2025 18:08:23 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/reporters_gr/status/1883940130190217637#m</guid>
-        <link>https://nitter.freedit.eu/reporters_gr/status/1883940130190217637#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Huge Athens crowds demand justice for 2023 train crash https://bbc.in/4gcrH2H</title>
-        <dc:creator>@BBCWorld</dc:creator>
-        <description><![CDATA[<p>Huge Athens crowds demand justice for 2023 train crash <a href="https://bbc.in/4gcrH2H">bbc.in/4gcrH2H</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1883573005764169728%2FKOTYOdYS%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 26 Jan 2025 17:49:34 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/BBCWorld/status/1883573004581367894#m</guid>
-        <link>https://nitter.freedit.eu/BBCWorld/status/1883573004581367894#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: `forge build` should include &quot;loading screen tips&quot; for smart contract best-practices</title>
-        <dc:creator>@emo_eth</dc:creator>
-        <description><![CDATA[<p>`forge build` should include "loading screen tips" for smart contract best-practices</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiUZ3ByWAAAzjuS.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 27 Jan 2025 18:09:45 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/emo_eth/status/1883940473934602639#m</guid>
-        <link>https://nitter.freedit.eu/emo_eth/status/1883940473934602639#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: We&apos;ve got a fantastic HQ in Berlin! Let us know if you&apos;re passing by 🧡🧡🧡</title>
-        <dc:creator>@IrreducibleHW</dc:creator>
-        <description><![CDATA[<p>We've got a fantastic HQ in Berlin! Let us know if you're passing by 🧡🧡🧡</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiUEa-cWMAEZgb7.jpg" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGiUEa-gW0AAFcX2.jpg" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGiUEa-hWUAA5pbc.jpg" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGiUEa-fXgAAZJpj.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 27 Jan 2025 16:37:03 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/IrreducibleHW/status/1883917143097405763#m</guid>
-        <link>https://nitter.freedit.eu/IrreducibleHW/status/1883917143097405763#m</link>
-      </item>
-      <item>
-        <title>who&apos;s building their company as a cloudflare platform poweruser? wanna chat? looking for people stress testing durable objects / workflows etc.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>who's building their company as a cloudflare platform poweruser? wanna chat? looking for people stress testing durable objects / workflows etc.</p>]]></description>
-        <pubDate>Mon, 27 Jan 2025 18:39:03 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1883947845268722023#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1883947845268722023#m</link>
       </item>
 
   </channel>

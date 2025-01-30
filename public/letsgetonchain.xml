@@ -16,6 +16,31 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @letsgetonchain: Revm feels like going through Ethereum&apos;s history..
+
+For example it&apos;s support for older transaction types lets you trace the evolution of fork-specific validations⬇️
+
+Way more effective and sticky than reading EIPs.
+
+Obviously implementing them is even better..
+
+2025 goal 🫡</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Revm feels like going through Ethereum's history..<br>
+<br>
+For example it's support for older transaction types lets you trace the evolution of fork-specific validations⬇️<br>
+<br>
+Way more effective and sticky than reading EIPs.<br>
+<br>
+Obviously implementing them is even better..<br>
+<br>
+2025 goal 🫡</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGgNhUstWkAAA0hE.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 01 Jan 2025 13:38:00 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1874450001792848050#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1874450001792848050#m</link>
+      </item>
+      <item>
         <title>RT by @letsgetonchain: There are two &quot;stacks&quot; in the evm. Execution stack (max 1024 words) and call stack (max 1024 frames/calls deep).
 
 Let&apos;s look at revm (rust evm implementation) to see how the call stack is implemented to better understand it 🧵</title>
@@ -320,36 +345,6 @@ https://youtu.be/4G2KwbxjKi8?si=NysozjXAlmpL6EDB</title>
         <pubDate>Thu, 16 Jan 2025 14:48:55 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1879903666196668885#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1879903666196668885#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: As much as I am excited about EIP 7702 I also have a concern which I already mentioned in the past.
-
-When I onboard my mom under EIP 7702, she will still need an EOA to start of with and hence be familiar with private keys. Cause no matter the smart wallet implementation she upgrades that EOA to, the EOA&apos;s private key will always have the ultimate power.. Maybe there is some nice embedded wallet with @privy_io  that combines with eip 7702?
-
-Master powers remain though..
-
-Alternatively, is the following flow feasible?
-
-Create EOA -&gt; Upgrade EOA to smart wallet with alternative auth logic -&gt; Delete existence of private key?
-
-Appreciate any input on this 🙏
-https://x.com/letsgetonchain/status/1878545580265553927</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>As much as I am excited about EIP 7702 I also have a concern which I already mentioned in the past.<br>
-<br>
-When I onboard my mom under EIP 7702, she will still need an EOA to start of with and hence be familiar with private keys. Cause no matter the smart wallet implementation she upgrades that EOA to, the EOA's private key will always have the ultimate power.. Maybe there is some nice embedded wallet with <a href="https://nitter.freedit.eu/privy_io" title="Privy">@privy_io</a>  that combines with eip 7702?<br>
-<br>
-Master powers remain though..<br>
-<br>
-Alternatively, is the following flow feasible?<br>
-<br>
-Create EOA -&gt; Upgrade EOA to smart wallet with alternative auth logic -&gt; Delete existence of private key?<br>
-<br>
-Appreciate any input on this 🙏<br>
-<a href="https://x.com/letsgetonchain/status/1878545580265553927">x.com/letsgetonchain/status/…</a></p>]]></description>
-        <pubDate>Thu, 16 Jan 2025 13:06:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1879877967725158680#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1879877967725158680#m</link>
       </item>
 
   </channel>

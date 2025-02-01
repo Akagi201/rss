@@ -16,237 +16,302 @@
       <height>128</height>
     </image>
       <item>
-        <title>RT by @gakonst: I&apos;m stoked to have gotten this feature merged. Thanks @klkvrr for the review. Having now contributed to Foundry, Reth, and Alloy, I have a few suggestions for developers who are looking to contribute to @paradigm projects:</title>
-        <dc:creator>@evanchipman</dc:creator>
-        <description><![CDATA[<p>I'm stoked to have gotten this feature merged. Thanks <a href="https://nitter.freedit.eu/klkvrr" title="Arsenii Kulikov">@klkvrr</a> for the review. Having now contributed to Foundry, Reth, and Alloy, I have a few suggestions for developers who are looking to contribute to <a href="https://nitter.freedit.eu/paradigm" title="Paradigm">@paradigm</a> projects:</p>
-<p><a href="https://nitter.freedit.eu/zerosnacks/status/1884270307055395051#m">nitter.freedit.eu/zerosnacks/status/1884270307055395051#m</a></p>]]></description>
-        <pubDate>Tue, 28 Jan 2025 20:46:03 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/evanchipman/status/1884342194963714071#m</guid>
-        <link>https://nitter.freedit.eu/evanchipman/status/1884342194963714071#m</link>
+        <title>RT by @gakonst: This is a turning point in DEX innovation.
+
+Uniswap is now a platform.
+
+Excited to see what people build!</title>
+        <dc:creator>@danrobinson</dc:creator>
+        <description><![CDATA[<p>This is a turning point in DEX innovation.<br>
+<br>
+Uniswap is now a platform.<br>
+<br>
+Excited to see what people build!</p>
+<p><a href="https://nitter.freedit.eu/Uniswap/status/1885329579495080248#m">nitter.freedit.eu/Uniswap/status/1885329579495080248#m</a></p>]]></description>
+        <pubDate>Fri, 31 Jan 2025 23:59:52 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/danrobinson/status/1885478135069892994#m</guid>
+        <link>https://nitter.freedit.eu/danrobinson/status/1885478135069892994#m</link>
       </item>
       <item>
-        <title>R to @gakonst: You&apos;d want to emit this https://github.com/paradigmxyz/reth-exex-examples/blob/main/remote/proto/exex.proto#L34.
+        <title>RT by @gakonst: If you&apos;re working on a Uniswap V4 hook that has a consumer angle—send me a DM.</title>
+        <dc:creator>@dwr</dc:creator>
+        <description><![CDATA[<p>If you're working on a Uniswap V4 hook that has a consumer angle—send me a DM.</p>]]></description>
+        <pubDate>Fri, 31 Jan 2025 16:18:30 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/dwr/status/1885362029969748396#m</guid>
+        <link>https://nitter.freedit.eu/dwr/status/1885362029969748396#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Let me tell you all a little story. Sometime around a or so year ago i reached out to an openai staffer who will not be named who had implied they would be very interested in doing some things open source
 
-Here&apos;s an example gRPC ExEx server which emits the above: https://github.com/paradigmxyz/reth-exex-examples/blob/main/remote/bin/exex.rs.
+So, as any good representative of open source, i went to all the people i knew working in open source, and asked them all what things could openai do opensource that they would like to see. I collected maybe 15 bullet points, and gave that list to the staffer.
 
-And here&apos;s the gRPC ExEx client who&apos;d subscribe to it then: https://github.com/paradigmxyz/reth-exex-examples/blob/main/remote/bin/consumer.rs#L9.</title>
+6 months goes by with no response. So i say whats up lets go? And nothing. So i emailed sama himself. And ya know what’s even? He responded! And setup a meeting with a high level research director.
+
+We had an hour long conversation where i went through every item on the list, and he mostly shot every single one down. Mostly for not aligning with their business goals, some with hmm we will consider its. Said if they come up with any ideas they’d reach back out. 
+
+This was like 6 months ago now, and ive never heard back. Since then, i simply gave up trying with them. I gave them all the reasons i could as to why they would benefit from it, but went on what at least at the time was deaf ears.
+
+Here is that list again @sama since you seem to have finally seen what i was thinking, thanks at least for answering the email.
+
+- Open source your models or at least legacy and deprecated models
+- Research papers on what has worked for OAI, GPT-4 information such as architecture etc
+- Opensource datasets for IFT/RLHF/Toolformers/Plugins/FunctionCalling/Web Browsing?  (Addendum, reasoning)
+- Provide preferential access channels for vetted OSAI groups.
+- Vet internal research for release, with prerogative to release as much as possible, even if on a delay commensurate with business goals and safety concerns.
+- Have official townhall type meetings with major open source projects/teams
+- Tools to filter data
+- Contribute directly to public open source AI projects.
+- Plug &amp; Play RLHF training code/Reward Models
+- Alternatives to Text Models (Voice/Music/Image/Video) (preferably OS)
+- Open sourced moderation classifier model/Classification Model&apos;s dataset
+- Base gpt-4 model access for researchers
+- opt in to removing the gpt4 moderation
+- Release roadmap
+- Opening up the ToS to make it unambiguous that training models on openai outputs are all good.</title>
+        <dc:creator>@Teknium1</dc:creator>
+        <description><![CDATA[<p>Let me tell you all a little story. Sometime around a or so year ago i reached out to an openai staffer who will not be named who had implied they would be very interested in doing some things open source<br>
+<br>
+So, as any good representative of open source, i went to all the people i knew working in open source, and asked them all what things could openai do opensource that they would like to see. I collected maybe 15 bullet points, and gave that list to the staffer.<br>
+<br>
+6 months goes by with no response. So i say whats up lets go? And nothing. So i emailed sama himself. And ya know what’s even? He responded! And setup a meeting with a high level research director.<br>
+<br>
+We had an hour long conversation where i went through every item on the list, and he mostly shot every single one down. Mostly for not aligning with their business goals, some with hmm we will consider its. Said if they come up with any ideas they’d reach back out. <br>
+<br>
+This was like 6 months ago now, and ive never heard back. Since then, i simply gave up trying with them. I gave them all the reasons i could as to why they would benefit from it, but went on what at least at the time was deaf ears.<br>
+<br>
+Here is that list again <a href="https://nitter.freedit.eu/sama" title="Sam Altman">@sama</a> since you seem to have finally seen what i was thinking, thanks at least for answering the email.<br>
+<br>
+- Open source your models or at least legacy and deprecated models<br>
+- Research papers on what has worked for OAI, GPT-4 information such as architecture etc<br>
+- Opensource datasets for IFT/RLHF/Toolformers/Plugins/FunctionCalling/Web Browsing?  (Addendum, reasoning)<br>
+- Provide preferential access channels for vetted OSAI groups.<br>
+- Vet internal research for release, with prerogative to release as much as possible, even if on a delay commensurate with business goals and safety concerns.<br>
+- Have official townhall type meetings with major open source projects/teams<br>
+- Tools to filter data<br>
+- Contribute directly to public open source AI projects.<br>
+- Plug & Play RLHF training code/Reward Models<br>
+- Alternatives to Text Models (Voice/Music/Image/Video) (preferably OS)<br>
+- Open sourced moderation classifier model/Classification Model's dataset<br>
+- Base gpt-4 model access for researchers<br>
+- opt in to removing the gpt4 moderation<br>
+- Release roadmap<br>
+- Opening up the ToS to make it unambiguous that training models on openai outputs are all good.</p>
+<p><a href="https://nitter.freedit.eu/tsarnick/status/1885457829974466595#m">nitter.freedit.eu/tsarnick/status/1885457829974466595#m</a></p>]]></description>
+        <pubDate>Sat, 01 Feb 2025 00:28:05 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/Teknium1/status/1885485234533392585#m</guid>
+        <link>https://nitter.freedit.eu/Teknium1/status/1885485234533392585#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Anyone want me to roast their Uniswap v4 hook?
+
+It’s Friday night</title>
+        <dc:creator>@danrobinson</dc:creator>
+        <description><![CDATA[<p>Anyone want me to roast their Uniswap v4 hook?<br>
+<br>
+It’s Friday night</p>]]></description>
+        <pubDate>Sat, 01 Feb 2025 00:03:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/danrobinson/status/1885479128855699892#m</guid>
+        <link>https://nitter.freedit.eu/danrobinson/status/1885479128855699892#m</link>
+      </item>
+      <item>
+        <title>still looking for a killer EVM engineer to join @ithacaxyz and be a part of the team that has shipped some of the industry&apos;s most used software. cash + equity.
+
+if you make it through, @optimizoor will be a part of your interview.  email: join at ithaca dot xyz, or dm me</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>You'd want to emit this <a href="https://github.com/paradigmxyz/reth-exex-examples/blob/main/remote/proto/exex.proto#L34">github.com/paradigmxyz/reth-…</a>.<br>
+        <description><![CDATA[<p>still looking for a killer EVM engineer to join <a href="https://nitter.freedit.eu/ithacaxyz" title="Ithaca">@ithacaxyz</a> and be a part of the team that has shipped some of the industry's most used software. cash + equity.<br>
 <br>
-Here's an example gRPC ExEx server which emits the above: <a href="https://github.com/paradigmxyz/reth-exex-examples/blob/main/remote/bin/exex.rs">github.com/paradigmxyz/reth-…</a>.<br>
-<br>
-And here's the gRPC ExEx client who'd subscribe to it then: <a href="https://github.com/paradigmxyz/reth-exex-examples/blob/main/remote/bin/consumer.rs#L9">github.com/paradigmxyz/reth-…</a>.</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1884664647321841664%2FhdVZg3q_%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 29 Jan 2025 18:08:12 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1884664858328916017#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1884664858328916017#m</link>
+if you make it through, <a href="https://nitter.freedit.eu/optimizoor" title="vectorized.eth">@optimizoor</a> will be a part of your interview.  email: join at ithaca dot xyz, or dm me</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGipYYzpbAAAFEOj.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 31 Jan 2025 19:55:31 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1885416640453763484#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1885416640453763484#m</link>
       </item>
       <item>
-        <title>There&apos;s a very simple JSON-RPC into ExEx adapter one could write. It&apos;d basically be a proxy service which does eth_subscribe, and for every block it proceeds to trace/re-execute it and expose a gRPC that the Remote ExEx consumer would subscribe to. LMK if interested.</title>
+        <title>RT by @gakonst: thrilled to announce that 𝘚𝘶𝘤𝘤𝘪𝘯𝘤𝘵 𝘈𝘳𝘨𝘶𝘮𝘦𝘯𝘵𝘴 𝘰𝘷𝘦𝘳 𝘛𝘰𝘸𝘦𝘳𝘴 𝘰𝘧 𝘉𝘪𝘯𝘢𝘳𝘺 𝘍𝘪𝘦𝘭𝘥𝘴, joint with @jimpo_potamus, has been accepted to EUROCRYPT.
+
+pleasure to do this great work w/ @IrreducibleHW—we are just getting started.
+
+https://eprint.iacr.org/2023/1784</title>
+        <dc:creator>@benediamond</dc:creator>
+        <description><![CDATA[<p>thrilled to announce that 𝘚𝘶𝘤𝘤𝘪𝘯𝘤𝘵 𝘈𝘳𝘨𝘶𝘮𝘦𝘯𝘵𝘴 𝘰𝘷𝘦𝘳 𝘛𝘰𝘸𝘦𝘳𝘴 𝘰𝘧 𝘉𝘪𝘯𝘢𝘳𝘺 𝘍𝘪𝘦𝘭𝘥𝘴, joint with <a href="https://nitter.freedit.eu/jimpo_potamus" title="Jim Posen">@jimpo_potamus</a>, has been accepted to EUROCRYPT.<br>
+<br>
+pleasure to do this great work w/ <a href="https://nitter.freedit.eu/IrreducibleHW" title="Irreducible">@IrreducibleHW</a>—we are just getting started.<br>
+<br>
+<a href="https://eprint.iacr.org/2023/1784">eprint.iacr.org/2023/1784</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1884654293959270400%2Fm3rwGTW9%3Fformat%3Dpng%26name%3D280x280_2" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 31 Jan 2025 18:07:19 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/benediamond/status/1885389414404182346#m</guid>
+        <link>https://nitter.freedit.eu/benediamond/status/1885389414404182346#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: github.com/gakonst/narwhal-a…</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>There's a very simple JSON-RPC into ExEx adapter one could write. It'd basically be a proxy service which does eth_subscribe, and for every block it proceeds to trace/re-execute it and expose a gRPC that the Remote ExEx consumer would subscribe to. LMK if interested.</p>
-<p><a href="https://nitter.freedit.eu/FUCORY/status/1884642737405952441#m">nitter.freedit.eu/FUCORY/status/1884642737405952441#m</a></p>]]></description>
-        <pubDate>Wed, 29 Jan 2025 18:00:21 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1884662882740371661#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1884662882740371661#m</link>
+        <description><![CDATA[<p><a href="https://github.com/gakonst/narwhal-abci-evm">github.com/gakonst/narwhal-a…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1885383249247297538%2F1_Qyq22u%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 31 Jan 2025 17:42:51 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1885383254607556757#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1885383254607556757#m</link>
       </item>
       <item>
-        <title>RT by @gakonst: Prysm is already finalizing a devnet distributing blocks using random linear network coding. Signature verification changes so it&apos;s not a minor change, but it&apos;s also not so bad. Faster blob propagation may be around the corner.</title>
-        <dc:creator>@potuz_eth</dc:creator>
-        <description><![CDATA[<p>Prysm is already finalizing a devnet distributing blocks using random linear network coding. Signature verification changes so it's not a minor change, but it's also not so bad. Faster blob propagation may be around the corner.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiefuqNbYAQvdY6.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 29 Jan 2025 17:11:56 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/potuz_eth/status/1884650698299543868#m</guid>
-        <link>https://nitter.freedit.eu/potuz_eth/status/1884650698299543868#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Daimo Pay does this today.
-
-Any coin, any chain including Solana &gt; one transfer &gt; arbitrary multicall on (L2) Ethereum
-
-and noncustodial using intent addresses!</title>
-        <dc:creator>@dcposch</dc:creator>
-        <description><![CDATA[<p>Daimo Pay does this today.<br>
-<br>
-Any coin, any chain including Solana &gt; one transfer &gt; arbitrary multicall on (L2) Ethereum<br>
-<br>
-and noncustodial using intent addresses!</p>
-<p><a href="https://nitter.freedit.eu/gakonst/status/1884405774367219718#m">nitter.freedit.eu/gakonst/status/1884405774367219718#m</a></p>]]></description>
-        <pubDate>Wed, 29 Jan 2025 16:51:00 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/dcposch/status/1884645431944327295#m</guid>
-        <link>https://nitter.freedit.eu/dcposch/status/1884645431944327295#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Not in prod yet, but we’re building on exexes as well @init4tech</title>
-        <dc:creator>@hievalir</dc:creator>
-        <description><![CDATA[<p>Not in prod yet, but we’re building on exexes as well <a href="https://nitter.freedit.eu/init4tech" title="init4 tech">@init4tech</a></p>]]></description>
-        <pubDate>Wed, 29 Jan 2025 12:40:42 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/hievalir/status/1884582442104766789#m</guid>
-        <link>https://nitter.freedit.eu/hievalir/status/1884582442104766789#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Not in prod just yet but @SorellaLabs our node is basically one big exex</title>
-        <dc:creator>@real_philogy</dc:creator>
-        <description><![CDATA[<p>Not in prod just yet but <a href="https://nitter.freedit.eu/SorellaLabs" title="Sorella Labs">@SorellaLabs</a> our node is basically one big exex</p>]]></description>
-        <pubDate>Wed, 29 Jan 2025 10:56:24 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/real_philogy/status/1884556194234179822#m</guid>
-        <link>https://nitter.freedit.eu/real_philogy/status/1884556194234179822#m</link>
-      </item>
-      <item>
-        <title>every L2 should be able to read the L1 state root if it wants to interop properly, highlighting this proposal from @IanSNorden
-
-https://github.com/ethereum/RIPs/pull/57</title>
+        <title>R to @gakonst: paradigm.xyz/2022/07/experim…</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>every L2 should be able to read the L1 state root if it wants to interop properly, highlighting this proposal from <a href="https://nitter.freedit.eu/IanSNorden" title="Ian Norden">@IanSNorden</a><br>
-<br>
-<a href="https://github.com/ethereum/RIPs/pull/57">github.com/ethereum/RIPs/pul…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1884409023572893699%2FxcknNJFY%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 29 Jan 2025 01:11:46 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1884409064626741596#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1884409064626741596#m</link>
+        <description><![CDATA[<p><a href="https://www.paradigm.xyz/2022/07/experiment-narwhal-bullshark-cosmos-stack">paradigm.xyz/2022/07/experim…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1881707852789682176%2Fw_K5st_V%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 31 Jan 2025 17:42:50 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1885383252900487533#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1885383252900487533#m</link>
       </item>
       <item>
-        <title>Looking for a killer SVM engineer for a 1-mo PoC contract on intent-based interop to enable accessing Ethereum &amp; L2 protocols via Solana wallets. You would sign a tx on Phantom and you&apos;d get an account on any L2 or Ethereum that executes a batch of transactions. Cash.</title>
+        <title>We PoCed this a long time ago by integrating Narwhal/Bullshark with an EVM executor (see below). The gas changes are area of work I&apos;d like to see more research on.</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Looking for a killer SVM engineer for a 1-mo PoC contract on intent-based interop to enable accessing Ethereum &amp; L2 protocols via Solana wallets. You would sign a tx on Phantom and you'd get an account on any L2 or Ethereum that executes a batch of transactions. Cash.</p>]]></description>
-        <pubDate>Wed, 29 Jan 2025 00:58:41 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1884405774367219718#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1884405774367219718#m</link>
+        <description><![CDATA[<p>We PoCed this a long time ago by integrating Narwhal/Bullshark with an EVM executor (see below). The gas changes are area of work I'd like to see more research on.</p>
+<p><a href="https://nitter.freedit.eu/danrobinson/status/1885377116885442927#m">nitter.freedit.eu/danrobinson/status/1885377116885442927#m</a></p>]]></description>
+        <pubDate>Fri, 31 Jan 2025 17:42:50 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1885383251688366338#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1885383251688366338#m</link>
       </item>
       <item>
-        <title>RT by @gakonst: Paradigm will be donating $1.25M to help fund Roman Storm’s legal defense
-
-The prosecution’s case threatens to hold software developers criminally liable for the bad acts of third parties, which would have a chilling effect in crypto and beyond
-
-We must stand with @rstormsf</title>
-        <dc:creator>@matthuang</dc:creator>
-        <description><![CDATA[<p>Paradigm will be donating $1.25M to help fund Roman Storm’s legal defense<br>
-<br>
-The prosecution’s case threatens to hold software developers criminally liable for the bad acts of third parties, which would have a chilling effect in crypto and beyond<br>
-<br>
-We must stand with <a href="https://nitter.freedit.eu/rstormsf" title="Roman Storm 🇺🇸 🌪️">@rstormsf</a></p>
-<p><a href="https://nitter.freedit.eu/rstormsf/status/1882100012513186283#m">nitter.freedit.eu/rstormsf/status/1882100012513186283#m</a></p>]]></description>
-        <pubDate>Tue, 28 Jan 2025 21:49:34 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/matthuang/status/1884358182082163162#m</guid>
-        <link>https://nitter.freedit.eu/matthuang/status/1884358182082163162#m</link>
-      </item>
-      <item>
-        <title>i really cannot process how wallet devs accepted that having 3 gas parameters, multiple roundtrips, and a fee estimation flow which involves users configuring dummy signature values is an acceptable developer or user experience</title>
+        <title>R to @gakonst: gg</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>i really cannot process how wallet devs accepted that having 3 gas parameters, multiple roundtrips, and a fee estimation flow which involves users configuring dummy signature values is an acceptable developer or user experience</p>]]></description>
-        <pubDate>Tue, 28 Jan 2025 21:33:56 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1884354247095115816#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1884354247095115816#m</link>
+        <description><![CDATA[<p>gg</p>
+<p><a href="https://nitter.freedit.eu/gndizzy/status/1885313514543206555#m">nitter.freedit.eu/gndizzy/status/1885313514543206555#m</a></p>]]></description>
+        <pubDate>Fri, 31 Jan 2025 17:39:29 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1885382406196343147#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1885382406196343147#m</link>
       </item>
       <item>
-        <title>RT by @gakonst: developers.cloudflare.com/wo…</title>
-        <dc:creator>@_mchenco</dc:creator>
-        <description><![CDATA[<p><a href="https://developers.cloudflare.com/workers-ai/models/deepseek-r1-distill-qwen-32b/">developers.cloudflare.com/wo…</a></p>
+        <title>Feedback was heard Foundry Book has better docs now for multi chain deployments</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Feedback was heard Foundry Book has better docs now for multi chain deployments</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGio5MUKaoAA35f-.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 31 Jan 2025 17:39:13 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1885382340580679843#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1885382340580679843#m</link>
+      </item>
+      <item>
+        <title>tbh I would accept a PR that does this, whether it&apos;s with hard-coded tooltips, or with anything AI-generated from the Foundry book. LMK if anyone has a proposal.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>tbh I would accept a PR that does this, whether it's with hard-coded tooltips, or with anything AI-generated from the Foundry book. LMK if anyone has a proposal.</p>
+<p><a href="https://nitter.freedit.eu/emo_eth/status/1883940473934602639#m">nitter.freedit.eu/emo_eth/status/1883940473934602639#m</a></p>]]></description>
+        <pubDate>Fri, 31 Jan 2025 17:36:57 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1885381771665301642#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1885381771665301642#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: learn more at
+
+framesv2 dot com</title>
+        <dc:creator>@farcaster_xyz</dc:creator>
+        <description><![CDATA[<p>learn more at<br>
+<br>
+framesv2 dot com</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGikLHp2bYAQ2izx.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 30 Jan 2025 19:39:27 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/farcaster_xyz/status/1885050210424181234#m</guid>
+        <link>https://nitter.freedit.eu/farcaster_xyz/status/1885050210424181234#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Excited to deepen our collaboration with @IrreducibleHW alongside our friends @gakonst and Paradigm
+
+@radi_cojbasic and @jimpo_potamus are assembling a remarkable team that will make verifiability ubiquitous</title>
+        <dc:creator>@alexhevans</dc:creator>
+        <description><![CDATA[<p>Excited to deepen our collaboration with <a href="https://nitter.freedit.eu/IrreducibleHW" title="Irreducible">@IrreducibleHW</a> alongside our friends <a href="https://nitter.freedit.eu/gakonst" title="Georgios Konstantopoulos">@gakonst</a> and Paradigm<br>
+<br>
+<a href="https://nitter.freedit.eu/radi_cojbasic" title="Radisav Cojbasic">@radi_cojbasic</a> and <a href="https://nitter.freedit.eu/jimpo_potamus" title="Jim Posen">@jimpo_potamus</a> are assembling a remarkable team that will make verifiability ubiquitous</p>
+<p><a href="https://nitter.freedit.eu/IrreducibleHW/status/1885007516670578872#m">nitter.freedit.eu/IrreducibleHW/status/1885007516670578872#m</a></p>]]></description>
+        <pubDate>Thu, 30 Jan 2025 17:51:34 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/alexhevans/status/1885023062229496034#m</guid>
+        <link>https://nitter.freedit.eu/alexhevans/status/1885023062229496034#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Static Assets just landed in Workers for Platforms!🚀
+
+🌍 Host your customer&apos;s static sites directly on CF
+⚡ Serve front-end &amp; backend from one Worker
+📈 Scales seamlessly
+🔥 Built-in caching for fast load times
+
+We handle the infra so you don’t have to 🤗https://developers.cloudflare.com/cloudflare-for-platforms/workers-for-platforms/configuration/static-assets/</title>
+        <dc:creator>@dinasaur_404</dc:creator>
+        <description><![CDATA[<p>Static Assets just landed in Workers for Platforms!🚀<br>
+<br>
+🌍 Host your customer's static sites directly on CF<br>
+⚡ Serve front-end &amp; backend from one Worker<br>
+📈 Scales seamlessly<br>
+🔥 Built-in caching for fast load times<br>
+<br>
+We handle the infra so you don’t have to 🤗<a href="https://developers.cloudflare.com/cloudflare-for-platforms/workers-for-platforms/configuration/static-assets/">developers.cloudflare.com/cl…</a></p>
 <img src="https://nitter.freedit.eu/pic/card_img%2F1883790147772108800%2FrTDeeACi%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 28 Jan 2025 19:31:49 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/_mchenco/status/1884323513764605997#m</guid>
-        <link>https://nitter.freedit.eu/_mchenco/status/1884323513764605997#m</link>
+        <pubDate>Thu, 30 Jan 2025 22:33:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/dinasaur_404/status/1885094070453686594#m</guid>
+        <link>https://nitter.freedit.eu/dinasaur_404/status/1885094070453686594#m</link>
       </item>
       <item>
-        <title>We&apos;re publishing Foundry 1.0 soon.
+        <title>RT by @gakonst: callbacks with durable objects are weird 
+(but it&apos;s also convenient to solve human-in-the-loop for ai agents) 
 
-What are the things you&apos;d like to see highlighted about what&apos;s changed in the project over the last years?
+tl;dr - by defining callbacks as data, we can let durable objects &quot;sleep&quot; while it&apos;s waiting for a timer/email/webhook/phone call/whatever. demo borked a little bit, I blame openai, but it all stilkl worked.
 
-If you want, share some codebases for us to benchmark testing/compilation on.</title>
+that&apos;s video 2. gnight!</title>
+        <dc:creator>@threepointone</dc:creator>
+        <description><![CDATA[<p>callbacks with durable objects are weird <br>
+(but it's also convenient to solve human-in-the-loop for ai agents) <br>
+<br>
+tl;dr - by defining callbacks as data, we can let durable objects "sleep" while it's waiting for a timer/email/webhook/phone call/whatever. demo borked a little bit, I blame openai, but it all stilkl worked.<br>
+<br>
+that's video 2. gnight!</p>
+<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1885118731233181697%2Fpu%2Fimg%2FypqjNW3ddG-SUPsD.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 31 Jan 2025 00:14:29 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/threepointone/status/1885119427223707872#m</guid>
+        <link>https://nitter.freedit.eu/threepointone/status/1885119427223707872#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Spark uses Foundry multichain support quite heavily for our cross-chain governance.
+
+The xchain-helpers library has support to simulate relaying messages over most major bridge types (OP Stack, Arbitrum Orbit, CCTP, AMB)
+
+https://github.com/marsfoundation/xchain-helpers</title>
+        <dc:creator>@hexonaut</dc:creator>
+        <description><![CDATA[<p>Spark uses Foundry multichain support quite heavily for our cross-chain governance.<br>
+<br>
+The xchain-helpers library has support to simulate relaying messages over most major bridge types (OP Stack, Arbitrum Orbit, CCTP, AMB)<br>
+<br>
+<a href="https://github.com/marsfoundation/xchain-helpers">github.com/marsfoundation/xc…</a></p>
+<p><a href="https://nitter.freedit.eu/gakonst/status/1885066852176724377#m">nitter.freedit.eu/gakonst/status/1885066852176724377#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGika8lqaAAAc3Ww.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGika8lpbYAUyDP4.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 30 Jan 2025 20:52:29 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/hexonaut/status/1885068591089025101#m</guid>
+        <link>https://nitter.freedit.eu/hexonaut/status/1885068591089025101#m</link>
+      </item>
+      <item>
+        <title>Did you know that Foundry has supported multi chain deployments and fork testing for over a year now via the &quot;vm.createSelectFork&quot; cheatcode?
+
+What can we improve about it? Naming too!</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>We're publishing Foundry 1.0 soon.<br>
+        <description><![CDATA[<p>Did you know that Foundry has supported multi chain deployments and fork testing for over a year now via the "vm.createSelectFork" cheatcode?<br>
 <br>
-What are the things you'd like to see highlighted about what's changed in the project over the last years?<br>
-<br>
-If you want, share some codebases for us to benchmark testing/compilation on.</p>]]></description>
-        <pubDate>Tue, 28 Jan 2025 18:24:08 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1884306480918380602#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1884306480918380602#m</link>
+What can we improve about it? Naming too!</p>
+<p><a href="https://nitter.freedit.eu/0xz80/status/1885059863488979029#m">nitter.freedit.eu/0xz80/status/1885059863488979029#m</a></p>]]></description>
+        <pubDate>Thu, 30 Jan 2025 20:45:35 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1885066852176724377#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1885066852176724377#m</link>
       </item>
       <item>
-        <title>RT by @gakonst: For Foundry&apos;s next stable release we plan to remove `testFail*`. It has been marked as deprecated for quite some time and has long been discouraged.
+        <title>Foundry 1.0 will be soon out, a significant milestone in our mission of empowering EVM developers to build secure and gas-optimized smart contracts.
 
-Do you still have any cases in your active codebases where you need to resort to using it?</title>
-        <dc:creator>@zerosnacks</dc:creator>
-        <description><![CDATA[<p>For Foundry's next stable release we plan to remove `testFail*`. It has been marked as deprecated for quite some time and has long been discouraged.<br>
-<br>
-Do you still have any cases in your active codebases where you need to resort to using it?</p>]]></description>
-        <pubDate>Fri, 24 Jan 2025 16:13:33 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/zerosnacks/status/1882824065846813183#m</guid>
-        <link>https://nitter.freedit.eu/zerosnacks/status/1882824065846813183#m</link>
-      </item>
-      <item>
-        <title>Any of my Go expert friends interested in working on the most used Ethereum client full time? 20K from Paradigm for successful referrals.</title>
+We&apos;re looking at ambitious meaty features for our post-1.0 roadmap (e.g. formal verification).
+
+What should we do?</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Any of my Go expert friends interested in working on the most used Ethereum client full time? 20K from Paradigm for successful referrals.</p>
-<p><a href="https://nitter.freedit.eu/lightclients/status/1884256102000599175#m">nitter.freedit.eu/lightclients/status/1884256102000599175#m</a></p>]]></description>
-        <pubDate>Tue, 28 Jan 2025 16:37:31 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1884279649280393589#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1884279649280393589#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: We also have new EIP-7702 cheatcodes to sign and attach the delegation to a transaction in tests and scripts!
-
-Huge thanks to @evanchipman for contributing these!
-
-https://book.getfoundry.sh/cheatcodes/sign-delegation</title>
-        <dc:creator>@zerosnacks</dc:creator>
-        <description><![CDATA[<p>We also have new EIP-7702 cheatcodes to sign and attach the delegation to a transaction in tests and scripts!<br>
+        <description><![CDATA[<p>Foundry 1.0 will be soon out, a significant milestone in our mission of empowering EVM developers to build secure and gas-optimized smart contracts.<br>
 <br>
-Huge thanks to <a href="https://nitter.freedit.eu/evanchipman" title="ev chip | 𝚝𝟷">@evanchipman</a> for contributing these!<br>
+We're looking at ambitious meaty features for our post-1.0 roadmap (e.g. formal verification).<br>
 <br>
-<a href="https://book.getfoundry.sh/cheatcodes/sign-delegation">book.getfoundry.sh/cheatcode…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1882412835818389504%2FXZaE4Zfp%3Fformat%3Dpng%26name%3D280x280_2" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 28 Jan 2025 16:00:23 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/zerosnacks/status/1884270307055395051#m</guid>
-        <link>https://nitter.freedit.eu/zerosnacks/status/1884270307055395051#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Easy to miss if you are ahead of the curve and already experimenting with EIP-7702
-
-Set your `evm_version` to `prague`
-
-For Anvil pass `--hardfork prague`
-
-Alternatively you can pass the `--odyssey` flag when running commands
-
-https://book.getfoundry.sh/reference/config/solidity-compiler#evm_version</title>
-        <dc:creator>@zerosnacks</dc:creator>
-        <description><![CDATA[<p>Easy to miss if you are ahead of the curve and already experimenting with EIP-7702<br>
-<br>
-Set your `evm_version` to `prague`<br>
-<br>
-For Anvil pass `--hardfork prague`<br>
-<br>
-Alternatively you can pass the `--odyssey` flag when running commands<br>
-<br>
-<a href="https://book.getfoundry.sh/reference/config/solidity-compiler#evm_version">book.getfoundry.sh/reference…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1879869585597300736%2FOy6kzVNG%3Fformat%3Dpng%26name%3D280x280_2" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 27 Jan 2025 16:56:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/zerosnacks/status/1883922072247886178#m</guid>
-        <link>https://nitter.freedit.eu/zerosnacks/status/1883922072247886178#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: The go-ethereum team is hiring a staff software engineer to help ~accelerate~ Ethereum! If you have experience working in geth and are ready to contribute to the core protocol full-time, we’d love to hear from you. https://jobs.lever.co/ethereumfoundation/8d9b1823-ba67-4195-a673-e11a85a48d62</title>
-        <dc:creator>@lightclients</dc:creator>
-        <description><![CDATA[<p>The go-ethereum team is hiring a staff software engineer to help ~accelerate~ Ethereum! If you have experience working in geth and are ready to contribute to the core protocol full-time, we’d love to hear from you. <a href="https://jobs.lever.co/ethereumfoundation/8d9b1823-ba67-4195-a673-e11a85a48d62">jobs.lever.co/ethereumfounda…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1881424966521954304%2FvdWGHP2I%3Fformat%3Dpng%26name%3D280x280_2" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 28 Jan 2025 15:03:57 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/lightclients/status/1884256102000599175#m</guid>
-        <link>https://nitter.freedit.eu/lightclients/status/1884256102000599175#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Great to see Geth accelerating…
-
-Paradigm will offer a $20K bounty for successfully referring someone to this role</title>
-        <dc:creator>@matthuang</dc:creator>
-        <description><![CDATA[<p>Great to see Geth accelerating…<br>
-<br>
-Paradigm will offer a $20K bounty for successfully referring someone to this role</p>
-<p><a href="https://nitter.freedit.eu/lightclients/status/1884256102000599175#m">nitter.freedit.eu/lightclients/status/1884256102000599175#m</a></p>]]></description>
-        <pubDate>Tue, 28 Jan 2025 15:55:59 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/matthuang/status/1884269199792689294#m</guid>
-        <link>https://nitter.freedit.eu/matthuang/status/1884269199792689294#m</link>
+What should we do?</p>]]></description>
+        <pubDate>Thu, 30 Jan 2025 19:42:52 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1885051069845430525#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1885051069845430525#m</link>
       </item>
 
   </channel>

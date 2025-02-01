@@ -16,6 +16,80 @@
       <height>128</height>
     </image>
       <item>
+        <title>This paper is slop</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>This paper is slop</p>
+<p><a href="https://nitter.freedit.eu/quantseeker/status/1885047463108636909#m">nitter.freedit.eu/quantseeker/status/1885047463108636909#m</a></p>]]></description>
+        <pubDate>Sat, 01 Feb 2025 13:25:05 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1885680775296647339#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1885680775296647339#m</link>
+      </item>
+      <item>
+        <title>“Have you got any trades locked in”
+
+Me:</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>“Have you got any trades locked in”<br>
+<br>
+Me:</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGipslkyW8AEOpQv.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 31 Jan 2025 21:23:32 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1885438790681895414#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1885438790681895414#m</link>
+      </item>
+      <item>
+        <title>R to @quant_arb: like everything in C++ even mid freq where it isnt a compute issue to use Python</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>like everything in C++ even mid freq where it isnt a compute issue to use Python</p>]]></description>
+        <pubDate>Fri, 31 Jan 2025 12:19:46 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1885301948326240258#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1885301948326240258#m</link>
+      </item>
+      <item>
+        <title>I know people that do research purely in C++ and I assume they must have some really good software / tooling built to help them but I do still wonder how they manage</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>I know people that do research purely in C++ and I assume they must have some really good software / tooling built to help them but I do still wonder how they manage</p>]]></description>
+        <pubDate>Fri, 31 Jan 2025 12:18:39 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1885301667090096548#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1885301667090096548#m</link>
+      </item>
+      <item>
+        <title>R to @quant_arb: Skip the economics part though</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>Skip the economics part though</p>]]></description>
+        <pubDate>Thu, 30 Jan 2025 10:31:25 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1884912293378392229#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1884912293378392229#m</link>
+      </item>
+      <item>
+        <title>R to @quant_arb: I see people argue about what to learn but there&apos;s plenty of roadmaps out there just through uni programmes or masters programmes.</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>I see people argue about what to learn but there's plenty of roadmaps out there just through uni programmes or masters programmes.</p>]]></description>
+        <pubDate>Thu, 30 Jan 2025 10:31:05 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1884912208791867728#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1884912208791867728#m</link>
+      </item>
+      <item>
+        <title>You can always just find the programme for any quant finance degree and just learn the material on your own time if you want to brush up on quant math in a structured way. 
+
+https://www.lse.ac.uk/study-at-lse/undergraduate/degree-programmes-2024/bsc-financial-mathematics-and-statistics</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>You can always just find the programme for any quant finance degree and just learn the material on your own time if you want to brush up on quant math in a structured way. <br>
+<br>
+<a href="https://www.lse.ac.uk/study-at-lse/undergraduate/degree-programmes-2024/bsc-financial-mathematics-and-statistics">lse.ac.uk/study-at-lse/under…</a></p>]]></description>
+        <pubDate>Thu, 30 Jan 2025 10:30:06 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1884911962791763968#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1884911962791763968#m</link>
+      </item>
+      <item>
+        <title>You learn a lot of cool new tricks just by reading deep into the docs of your favourite pandas / numpy functions</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>You learn a lot of cool new tricks just by reading deep into the docs of your favourite pandas / numpy functions</p>]]></description>
+        <pubDate>Thu, 30 Jan 2025 10:24:53 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1884910648187920653#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1884910648187920653#m</link>
+      </item>
+      <item>
         <title>RT by @quant_arb: Just heard of a prop shop in HK that has their trading platform in Python. It takes them 1-2 days to run 1 backtest, ouch.</title>
         <dc:creator>@ninjaquant_</dc:creator>
         <description><![CDATA[<p>Just heard of a prop shop in HK that has their trading platform in Python. It takes them 1-2 days to run 1 backtest, ouch.</p>]]></description>
@@ -136,83 +210,6 @@ Ping with CV if interested in details (send photo of CV to DM, not link to PDF)<
         <pubDate>Tue, 14 Jan 2025 14:27:15 GMT</pubDate>
         <guid>https://nitter.freedit.eu/quant_arb/status/1879173439006904529#m</guid>
         <link>https://nitter.freedit.eu/quant_arb/status/1879173439006904529#m</link>
-      </item>
-      <item>
-        <title>You guys are watching the wrong stuff on this website</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>You guys are watching the wrong stuff on this website</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGhC15pVXIAAUXyn.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 11 Jan 2025 22:03:42 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1878201141210591581#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1878201141210591581#m</link>
-      </item>
-      <item>
-        <title>R to @quant_arb: Probably not ideal for finding the actual latency as post-engineering you may have a significantly different number + matching engine latency will add a lot (esp true for the DEXs)</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>Probably not ideal for finding the actual latency as post-engineering you may have a significantly different number + matching engine latency will add a lot (esp true for the DEXs)</p>]]></description>
-        <pubDate>Thu, 09 Jan 2025 16:26:58 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1877391624499507666#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1877391624499507666#m</link>
-      </item>
-      <item>
-        <title>Very useful reference sheet for exchange locations. Some are not in AWS (Alibaba Cloud) or this is outdated so not 100% accurate but still v. useful for most:
-
-https://docs.google.com/spreadsheets/d/1W345Qgp1QdcKdyg_hRkzl79OTkGVtxMJJZnJGjtdSp4/edit?gid=0#gid=0</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>Very useful reference sheet for exchange locations. Some are not in AWS (Alibaba Cloud) or this is outdated so not 100% accurate but still v. useful for most:<br>
-<br>
-<a href="https://docs.google.com/spreadsheets/d/1W345Qgp1QdcKdyg_hRkzl79OTkGVtxMJJZnJGjtdSp4/edit?gid=0#gid=0">docs.google.com/spreadsheets…</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGg3VfeFWMAIR0Id.png" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 09 Jan 2025 16:26:57 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1877391621202784491#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1877391621202784491#m</link>
-      </item>
-      <item>
-        <title>Passed my IQ test and scored in the top 85%, lot of quants I know couldn&apos;t score anywhere near this high 🤫</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>Passed my IQ test and scored in the top 85%, lot of quants I know couldn't score anywhere near this high 🤫</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgYp0vyXoAAHVJn.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 03 Jan 2025 17:27:17 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1875232476525969602#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1875232476525969602#m</link>
-      </item>
-      <item>
-        <title>RT by @quant_arb: How I handle data deduplication:
-
-1. ONLY parse the metadata that is required to identify the raw event from the exchange. Depending on its kind, you can check if its an event you have already seen by its ID or timestamp
-
-2. If its new data, then make sure its data that triggers an action in your system, otherwise throw it away.</title>
-        <dc:creator>@ninjaquant_</dc:creator>
-        <description><![CDATA[<p>How I handle data deduplication:<br>
-<br>
-1. ONLY parse the metadata that is required to identify the raw event from the exchange. Depending on its kind, you can check if its an event you have already seen by its ID or timestamp<br>
-<br>
-2. If its new data, then make sure its data that triggers an action in your system, otherwise throw it away.</p>]]></description>
-        <pubDate>Fri, 03 Jan 2025 16:07:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ninjaquant_/status/1875212476230582364#m</guid>
-        <link>https://nitter.freedit.eu/ninjaquant_/status/1875212476230582364#m</link>
-      </item>
-      <item>
-        <title>Cmon man</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>Cmon man</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgNTzuhWwAEKl3h.png" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 01 Jan 2025 12:34:33 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1874434034845225024#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1874434034845225024#m</link>
-      </item>
-      <item>
-        <title>https://github.com/tardis-dev/tardis-node/blob/master/src/consts.ts
-
-Quite a few Tardis exchanges I didnt know about in case anyone else is unaware</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p><a href="https://github.com/tardis-dev/tardis-node/blob/master/src/consts.ts">github.com/tardis-dev/tardis…</a><br>
-<br>
-Quite a few Tardis exchanges I didnt know about in case anyone else is unaware</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgFG6VdWcAArY1f.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 30 Dec 2024 22:21:37 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1873856996841316537#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1873856996841316537#m</link>
       </item>
 
   </channel>

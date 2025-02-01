@@ -16,6 +16,50 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @letsgetonchain: the most unique thing from my understanding is that smart contracts will be able to verify bls sigs from consensus layer to check if a block is final for instance.
+
+What rollups will make use of these new precompiles? which proof systems will leverage it?</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>the most unique thing from my understanding is that smart contracts will be able to verify bls sigs from consensus layer to check if a block is final for instance.<br>
+<br>
+What rollups will make use of these new precompiles? which proof systems will leverage it?</p>]]></description>
+        <pubDate>Fri, 31 Jan 2025 14:22:39 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1885332874938687534#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1885332874938687534#m</link>
+      </item>
+      <item>
+        <title>Prepping a video on eip 2537, would love to speak with someone who knows more about specific use cases who will leverage the cryptographic schemes enabled by the new precompiles for curve bls12-381. 
+
+As in what does it enable from day one what other existing precompiles for existing curves did not support?</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Prepping a video on eip 2537, would love to speak with someone who knows more about specific use cases who will leverage the cryptographic schemes enabled by the new precompiles for curve bls12-381. <br>
+<br>
+As in what does it enable from day one what other existing precompiles for existing curves did not support?</p>]]></description>
+        <pubDate>Fri, 31 Jan 2025 11:31:45 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1885289864888811834#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1885289864888811834#m</link>
+      </item>
+      <item>
+        <title>Just applied as a streamer on @AbstractChain. 
+
+Would you watch a stream where I run through their docs and build a dapp?  
+
+Their onboarding is really cool compared to what I have seen before in L2 land.. Instant overview of what is available, account abstraction built in, live streams to connect with community..  
+
+Don&apos;t fade a builder like @0xCygaar i guess..</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Just applied as a streamer on <a href="https://nitter.freedit.eu/AbstractChain" title="Abstract">@AbstractChain</a>. <br>
+<br>
+Would you watch a stream where I run through their docs and build a dapp?  <br>
+<br>
+Their onboarding is really cool compared to what I have seen before in L2 land.. Instant overview of what is available, account abstraction built in, live streams to connect with community..  <br>
+<br>
+Don't fade a builder like <a href="https://nitter.freedit.eu/0xCygaar" title="cygaar">@0xCygaar</a> i guess..</p>]]></description>
+        <pubDate>Fri, 31 Jan 2025 09:45:36 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1885263151052075136#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1885263151052075136#m</link>
+      </item>
+      <item>
         <title>RT by @letsgetonchain: Revm feels like going through Ethereum&apos;s history..
 
 For example it&apos;s support for older transaction types lets you trace the evolution of fork-specific validations⬇️
@@ -126,7 +170,7 @@ All you need to know on EIP-7623! <br>
 Less than two months away from hitting Ethereum mainnet ⌛️<br>
 <br>
 <a href="https://piped.video/watch?v=FTNvl6F1w6I&t=5s">piped.video/watch?v=FTNvl6F1…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1882409566630973440%2FQyo8ETIN%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1885246852020527106%2F2e-a98Ak%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
         <pubDate>Fri, 24 Jan 2025 08:31:30 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1882707790252404977#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1882707790252404977#m</link>
@@ -137,7 +181,7 @@ https://www.youtube.com/watch?v=FTNvl6F1w6I</title>
         <dc:creator>@letsgetonchain</dc:creator>
         <description><![CDATA[<p>youtube 🔗<br>
 <a href="https://piped.video/watch?v=FTNvl6F1w6I">piped.video/watch?v=FTNvl6F1…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1882409566630973440%2FQyo8ETIN%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1884955475931697154%2FKGxTA1DO%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
         <pubDate>Thu, 23 Jan 2025 12:46:57 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1882409686202478829#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1882409686202478829#m</link>
@@ -287,64 +331,10 @@ https://www.youtube.com/watch?v=4G2KwbxjKi8&amp;t=3s</title>
         <description><![CDATA[<p>Sunday is a gud tay to catch up on this weeks video <br>
 <br>
 <a href="https://piped.video/watch?v=4G2KwbxjKi8&t=3s">piped.video/watch?v=4G2Kwbxj…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1882440987357663232%2FCG1Zlhll%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1882440987357663232%2Fh378hMbA%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
         <pubDate>Sun, 19 Jan 2025 09:48:11 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1880915147109335153#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1880915147109335153#m</link>
-      </item>
-      <item>
-        <title>Here is the YT link to the full video divided into two parts!  
-
-Part 1: EIP 7702 high level overview 
-
-Part2: Deep dive into every line of code in the evm that changed  
-
-https://youtube.com/watch?v=4G2KwbxjKi8&amp;list=PLYYidDLT5Dd-7s3rbuAy3vJxAjz17bSEE</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Here is the YT link to the full video divided into two parts!  <br>
-<br>
-Part 1: EIP 7702 high level overview <br>
-<br>
-Part2: Deep dive into every line of code in the evm that changed  <br>
-<br>
-<a href="https://piped.video/watch?v=4G2KwbxjKi8&list=PLYYidDLT5Dd-7s3rbuAy3vJxAjz17bSEE">piped.video/watch?v=4G2Kwbxj…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1882440987357663232%2FCG1Zlhll%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 17 Jan 2025 10:41:11 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1880203708937711937#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1880203708937711937#m</link>
-      </item>
-      <item>
-        <title>RT by @letsgetonchain: 🚨ETHEREUM UX IS ABOUT TO 100X YOU ARE NOT READY 🚨
-
-EIP-7702 is about to be shipped!
-
-I explain how it works and go through every line of code in the evm (revm) that changes because of it 🤓
-
-No better way to really understand it!</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>🚨ETHEREUM UX IS ABOUT TO 100X YOU ARE NOT READY 🚨<br>
-<br>
-EIP-7702 is about to be shipped!<br>
-<br>
-I explain how it works and go through every line of code in the evm (revm) that changes because of it 🤓<br>
-<br>
-No better way to really understand it!</p>
-<p><a href="https://nitter.freedit.eu/letsgetonchain/status/1879267733696844277#m">nitter.freedit.eu/letsgetonchain/status/1879267733696844277#m</a></p>
-<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1879866101003063296%2Fimg%2Fny3yF5Y_bzCWVOau.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 16 Jan 2025 13:06:46 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1879877957017362537#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1879877957017362537#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: Here is the YT link for those who prefer
-https://youtu.be/4G2KwbxjKi8?si=NysozjXAlmpL6EDB</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Here is the YT link for those who prefer<br>
-<a href="https://piped.video/4G2KwbxjKi8?si=NysozjXAlmpL6EDB">piped.video/4G2KwbxjKi8?si=Nyso…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1882440987357663232%2FCG1Zlhll%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 16 Jan 2025 14:48:55 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1879903666196668885#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1879903666196668885#m</link>
       </item>
 
   </channel>

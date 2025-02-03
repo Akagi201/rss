@@ -16,6 +16,32 @@
       <height>128</height>
     </image>
       <item>
+        <title>exciting work from EFR cryptography (in collaboration with others)!</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>exciting work from EFR cryptography (in collaboration with others)!</p>
+<p><a href="https://nitter.freedit.eu/asn_d6/status/1885333842497548769#m">nitter.freedit.eu/asn_d6/status/1885333842497548769#m</a></p>]]></description>
+        <pubDate>Fri, 31 Jan 2025 22:06:40 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1885449646815711483#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1885449646815711483#m</link>
+      </item>
+      <item>
+        <title>exciting opportunity to work on legendary software</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>exciting opportunity to work on legendary software</p>
+<p><a href="https://nitter.freedit.eu/lightclients/status/1884256102000599175#m">nitter.freedit.eu/lightclients/status/1884256102000599175#m</a></p>]]></description>
+        <pubDate>Tue, 28 Jan 2025 15:13:11 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1884258428329267600#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1884258428329267600#m</link>
+      </item>
+      <item>
+        <title>RT by @ralexstokes: We should not ignore reality. The mempool is a crucial fallback, but very unlikely there&apos;s any path where it is the primary pipe through which txs end up onchain. It&apos;s important to design with this in mind: heavish block building, light inclusion list proposing</title>
+        <dc:creator>@fradamt</dc:creator>
+        <description><![CDATA[<p>We should not ignore reality. The mempool is a crucial fallback, but very unlikely there's any path where it is the primary pipe through which txs end up onchain. It's important to design with this in mind: heavish block building, light inclusion list proposing</p>]]></description>
+        <pubDate>Fri, 24 Jan 2025 14:01:17 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fradamt/status/1882790781536383363#m</guid>
+        <link>https://nitter.freedit.eu/fradamt/status/1882790781536383363#m</link>
+      </item>
+      <item>
         <title>Ethereum is an economic zone, connecting all other economic zones.</title>
         <dc:creator>@ralexstokes</dc:creator>
         <description><![CDATA[<p>Ethereum is an economic zone, connecting all other economic zones.</p>
@@ -32,7 +58,7 @@ https://ethereum-magicians.org/t/blob-parameter-only-bpo-forks/22623</title>
         <description><![CDATA[<p>nice post from <a href="https://nitter.freedit.eu/protolambda" title="proto.eth">@protolambda</a> to streamline blob-throughput increases in the core protocol -- check it out!<br>
 <br>
 <a href="https://ethereum-magicians.org/t/blob-parameter-only-bpo-forks/22623">ethereum-magicians.org/t/blo…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1880706918991192065%2F5nBmUqBW%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1883256660531007488%2FH7PxVFeX%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
         <pubDate>Thu, 23 Jan 2025 14:52:31 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ralexstokes/status/1882441286843842964#m</guid>
         <link>https://nitter.freedit.eu/ralexstokes/status/1882441286843842964#m</link>
@@ -205,48 +231,6 @@ an early warning here is to take lesson from the near-term future of the bitcoin
         <pubDate>Wed, 18 Dec 2024 19:02:44 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ralexstokes/status/1869458293380567504#m</guid>
         <link>https://nitter.freedit.eu/ralexstokes/status/1869458293380567504#m</link>
-      </item>
-      <item>
-        <title>a key corollary here is a decentralized stablecoin with minimal reliance on actors external to the Ethereum economy that gains widespread adoption both in and outside that economy</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>a key corollary here is a decentralized stablecoin with minimal reliance on actors external to the Ethereum economy that gains widespread adoption both in and outside that economy</p>
-<p><a href="https://nitter.freedit.eu/RyanSAdams/status/1869195572332109867#m">nitter.freedit.eu/RyanSAdams/status/1869195572332109867#m</a></p>]]></description>
-        <pubDate>Wed, 18 Dec 2024 02:44:31 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1869212116286378229#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1869212116286378229#m</link>
-      </item>
-      <item>
-        <title>chat do we have a cute shorthand name for yield-bearing stables?
-
-thinking about the future where the common &quot;money&quot; are essentially tokenized treasuries (so that you can get yield on your holdings ~automatically)
-
-should we call them &quot;superstables&quot;?</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>chat do we have a cute shorthand name for yield-bearing stables?<br>
-<br>
-thinking about the future where the common "money" are essentially tokenized treasuries (so that you can get yield on your holdings ~automatically)<br>
-<br>
-should we call them "superstables"?</p>]]></description>
-        <pubDate>Mon, 16 Dec 2024 20:30:29 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1868755599955267689#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1868755599955267689#m</link>
-      </item>
-      <item>
-        <title>mev-boost community call #11
-
-recording is up! enjoy
-
-https://youtu.be/WRraHa4oy20</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>mev-boost community call #11<br>
-<br>
-recording is up! enjoy<br>
-<br>
-<a href="https://piped.video/WRraHa4oy20">piped.video/WRraHa4oy20</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1881464962452770817%2F_HzpAQ6c%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 16 Dec 2024 20:23:10 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1868753759222071756#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1868753759222071756#m</link>
       </item>
 
   </channel>

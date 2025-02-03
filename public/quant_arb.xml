@@ -16,6 +16,51 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @quant_arb: The fact that he thought OHLCV was acceptable and wouldn’t produce garbage says all you need</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>The fact that he thought OHLCV was acceptable and wouldn’t produce garbage says all you need</p>]]></description>
+        <pubDate>Sat, 01 Feb 2025 17:14:14 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1885738443772199095#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1885738443772199095#m</link>
+      </item>
+      <item>
+        <title>For those interested in why:
+
+1) MACD vs BP is not a very useful question in the first place
+
+2) lot of random stuff thrown in there (jumps, correlations, triple barrier) which sounds cool but has no relevance / information value
+
+3) super basic research question when you remove the random shit thrown in there which should take &lt;1h to answer
+
+4) 24h is far too short a sample period &amp; doesn’t cover multiple regimes.
+
+5) the performance difference is slight so given #4 it’s barely significant 
+
+6) OHLCV data. Like come on. This is hft and you couldn’t be bothered to pay a couple hundred for a Tardis API or apply for orderbook data from binance. You choose to use Binance OHLCV data???
+
+I can’t believe he published this</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>For those interested in why:<br>
+<br>
+1) MACD vs BP is not a very useful question in the first place<br>
+<br>
+2) lot of random stuff thrown in there (jumps, correlations, triple barrier) which sounds cool but has no relevance / information value<br>
+<br>
+3) super basic research question when you remove the random shit thrown in there which should take &lt;1h to answer<br>
+<br>
+4) 24h is far too short a sample period & doesn’t cover multiple regimes.<br>
+<br>
+5) the performance difference is slight so given #4 it’s barely significant <br>
+<br>
+6) OHLCV data. Like come on. This is hft and you couldn’t be bothered to pay a couple hundred for a Tardis API or apply for orderbook data from binance. You choose to use Binance OHLCV data???<br>
+<br>
+I can’t believe he published this</p>
+<p><a href="https://nitter.freedit.eu/quant_arb/status/1885680775296647339#m">nitter.freedit.eu/quant_arb/status/1885680775296647339#m</a></p>]]></description>
+        <pubDate>Sat, 01 Feb 2025 17:13:15 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1885738194982850992#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1885738194982850992#m</link>
+      </item>
+      <item>
         <title>This paper is slop</title>
         <dc:creator>@quant_arb</dc:creator>
         <description><![CDATA[<p>This paper is slop</p>
@@ -186,30 +231,6 @@ OR<br>
         <pubDate>Sun, 19 Jan 2025 22:43:37 GMT</pubDate>
         <guid>https://nitter.freedit.eu/quant_arb/status/1881110293209886992#m</guid>
         <link>https://nitter.freedit.eu/quant_arb/status/1881110293209886992#m</link>
-      </item>
-      <item>
-        <title>R to @quant_arb: Appreciate any RTs on this. Feel free to share it to anyone you think would fit the role.</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>Appreciate any RTs on this. Feel free to share it to anyone you think would fit the role.</p>]]></description>
-        <pubDate>Tue, 14 Jan 2025 14:28:16 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1879173695064928359#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1879173695064928359#m</link>
-      </item>
-      <item>
-        <title>Looking for a network / low-latency engineer for hft trading firm role.  
-
-Specifically, someone familiar with latency optimization on the network side, not the tick-to-trade (compute) side. 
-
-Ping with CV if interested in details (send photo of CV to DM, not link to PDF)</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>Looking for a network / low-latency engineer for hft trading firm role.  <br>
-<br>
-Specifically, someone familiar with latency optimization on the network side, not the tick-to-trade (compute) side. <br>
-<br>
-Ping with CV if interested in details (send photo of CV to DM, not link to PDF)</p>]]></description>
-        <pubDate>Tue, 14 Jan 2025 14:27:15 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1879173439006904529#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1879173439006904529#m</link>
       </item>
 
   </channel>

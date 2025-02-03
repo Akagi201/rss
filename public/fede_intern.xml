@@ -11,306 +11,313 @@
     <image>
       <title>Fede’s intern 🥊 / @fede_intern</title>
       <link>https://nitter.freedit.eu/fede_intern</link>
-      <url>https://nitter.freedit.eu/pic/pbs.twimg.com%2Fprofile_images%2F1880254570242158592%2FythT4MNQ_400x400.jpg</url>
+      <url>https://nitter.freedit.eu/pic/pbs.twimg.com%2Fprofile_images%2F1885782893194285056%2FyUSQ1t3f_400x400.jpg</url>
       <width>128</width>
       <height>128</height>
     </image>
       <item>
-        <title>RT by @fede_intern: With 30k lines of code and all dependencies in the same repository our Ethrex execution client has just successfully snap sync @ethereum Mekong testnet after 6 months of work. We’re also using our EVM (levm) that is another 10k lines of code. We have learnt a lot by reading and looking at geth codebase.
-
-We’re refactoring the p2p code. I highly disliked the concurrency model we were using and what we had. The team is currently rewriting it using @commonwarexyz. In only 3 days we got the basics working. In 3 weeks maximum we should have the refactor done.
-
-Then we will focus on performance. Performance is one of our areas of expertise. Its the thing that I’m the least worried about. Minimalism, security and good architecture are the things I want to have from the get go.
-
-We will make sure we’re the fastest, most minimal and future looking rust execution client in @ethereum.</title>
+        <title>Buenos Aires is an amazing tech city.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>With 30k lines of code and all dependencies in the same repository our Ethrex execution client has just successfully snap sync <a href="https://nitter.freedit.eu/ethereum" title="Ethereum.org">@ethereum</a> Mekong testnet after 6 months of work. We’re also using our EVM (levm) that is another 10k lines of code. We have learnt a lot by reading and looking at geth codebase.<br>
-<br>
-We’re refactoring the p2p code. I highly disliked the concurrency model we were using and what we had. The team is currently rewriting it using <a href="https://nitter.freedit.eu/commonwarexyz" title="commonware">@commonwarexyz</a>. In only 3 days we got the basics working. In 3 weeks maximum we should have the refactor done.<br>
-<br>
-Then we will focus on performance. Performance is one of our areas of expertise. Its the thing that I’m the least worried about. Minimalism, security and good architecture are the things I want to have from the get go.<br>
-<br>
-We will make sure we’re the fastest, most minimal and future looking rust execution client in <a href="https://nitter.freedit.eu/ethereum" title="Ethereum.org">@ethereum</a>.</p>]]></description>
-        <pubDate>Sat, 01 Feb 2025 12:51:33 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1885672335463633075#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1885672335463633075#m</link>
+        <description><![CDATA[<p>Buenos Aires is an amazing tech city.</p>
+<p><a href="https://nitter.freedit.eu/JJ2play1/status/1886104108752359828#m">nitter.freedit.eu/JJ2play1/status/1886104108752359828#m</a></p>]]></description>
+        <pubDate>Sun, 02 Feb 2025 22:42:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886183363943322089#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886183363943322089#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: We have started a big refactor of the P2P module. We are rewriting most of the codebase using a different concurrency model, the actors model, following Erlang design principles. For now, on the discv4 side, we have the ping-pong already working and the other messages under development and testing; on the RLPx side, the handshake&apos;s auth and ack already work as both receiver and initiator. We are currently debugging our first implementations of FindNode and Neighbors messages of discv4 and refactoring the RLPx part. In parallel, we keep making progress on snap syncing Holesky. We were able to successfully snap sync Mekong testnet.
+        <title>RT by @fede_intern: I think this is correct and decoupling without trust is hard. The current favourite for a workaround for this centralising force seems to be leaning on preconfirmations with gateways, a la mev-boost relays.</title>
+        <dc:creator>@OrestTa</dc:creator>
+        <description><![CDATA[<p>I think this is correct and decoupling without trust is hard. The current favourite for a workaround for this centralising force seems to be leaning on preconfirmations with gateways, a la mev-boost relays.</p>]]></description>
+        <pubDate>Fri, 31 Jan 2025 17:05:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/OrestTa/status/1885373780526067769#m</guid>
+        <link>https://nitter.freedit.eu/OrestTa/status/1885373780526067769#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: rollup stacks: trying to solve fragmentation
 
-- Added connection state to Kademlia table
-- Refactored discovery service  
-- Updated Hive version in preparation for Prague hardfork
-- Several refactors and fixes for the snap sync
-- Skip state sync if already completed
-- Fixed adding public network configs to docker build
-- Refactored P2P handshake and improved logging
-- Improved storage download queue management during snap sync
-- Started storing known peers in a JSON file
-- Fixed avoiding disconnection of peer when receiving invalid transactions
-- Added Mekong testnet presets
+shared sequencers/interop initiatives: trying to solve the fragmentation created by those who try to solve fragmentation by creating new fragmentation
 
-In the LEVM front we continued with refactors and benchmarking. We&apos;ve added some simple benches and we are now working on adding a mainnet block execution benchmark. On the refactoring side, we&apos;ve made an initial cleanup and made general improvements to our codebase. This lets us start designing how we are going to extend our current EVM implementation so that it can be used by ethrex L2 while in parallel we identify bottlenecks and fix them.
+based sequencing: cleaning up everybody&apos;s mess</title>
+        <dc:creator>@Junger0x</dc:creator>
+        <description><![CDATA[<p>rollup stacks: trying to solve fragmentation<br>
+<br>
+shared sequencers/interop initiatives: trying to solve the fragmentation created by those who try to solve fragmentation by creating new fragmentation<br>
+<br>
+based sequencing: cleaning up everybody's mess</p>]]></description>
+        <pubDate>Fri, 31 Jan 2025 11:40:51 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/Junger0x/status/1885292155494605082#m</guid>
+        <link>https://nitter.freedit.eu/Junger0x/status/1885292155494605082#m</link>
+      </item>
+      <item>
+        <title>I like the zk shared bridge but if native goes live and you have based rollups with preconfirmations working (not difficult to do, native needs coordination) you have decentralized very fast rollups without multisigs and security council and great interops between L1 and other L2s. 
 
-Changelog:
-- Added more benchmarks to our suite
-- Refactored the main module</title>
+If you want ZK you only will need to prove with a RISCV zkVM an L1 client + all the addons you want and with based native rollups and preconfirmations you will have the best of both worlds.
+
+In less than 18 months this will become the default for rollups. Infra is gonna be commoditized and at the end it will be all customer acquisition.
+
+I’m gonna explain the technical details in another tweet.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>We have started a big refactor of the P2P module. We are rewriting most of the codebase using a different concurrency model, the actors model, following Erlang design principles. For now, on the discv4 side, we have the ping-pong already working and the other messages under development and testing; on the RLPx side, the handshake's auth and ack already work as both receiver and initiator. We are currently debugging our first implementations of FindNode and Neighbors messages of discv4 and refactoring the RLPx part. In parallel, we keep making progress on snap syncing Holesky. We were able to successfully snap sync Mekong testnet.<br>
+        <description><![CDATA[<p>I like the zk shared bridge but if native goes live and you have based rollups with preconfirmations working (not difficult to do, native needs coordination) you have decentralized very fast rollups without multisigs and security council and great interops between L1 and other L2s. <br>
 <br>
-- Added connection state to Kademlia table<br>
-- Refactored discovery service  <br>
-- Updated Hive version in preparation for Prague hardfork<br>
-- Several refactors and fixes for the snap sync<br>
-- Skip state sync if already completed<br>
-- Fixed adding public network configs to docker build<br>
-- Refactored P2P handshake and improved logging<br>
-- Improved storage download queue management during snap sync<br>
-- Started storing known peers in a JSON file<br>
-- Fixed avoiding disconnection of peer when receiving invalid transactions<br>
-- Added Mekong testnet presets<br>
+If you want ZK you only will need to prove with a RISCV zkVM an L1 client + all the addons you want and with based native rollups and preconfirmations you will have the best of both worlds.<br>
 <br>
-In the LEVM front we continued with refactors and benchmarking. We've added some simple benches and we are now working on adding a mainnet block execution benchmark. On the refactoring side, we've made an initial cleanup and made general improvements to our codebase. This lets us start designing how we are going to extend our current EVM implementation so that it can be used by ethrex L2 while in parallel we identify bottlenecks and fix them.<br>
+In less than 18 months this will become the default for rollups. Infra is gonna be commoditized and at the end it will be all customer acquisition.<br>
 <br>
-Changelog:<br>
-- Added more benchmarks to our suite<br>
-- Refactored the main module</p>
-<video poster="https://nitter.freedit.eu/pic/tweet_video_thumb%2FGis26LWXkAAvpO0.jpg" autoplay muted loop style="max-width:250px;">
-  <source src="https://nitter.freedit.eu/pic/video.twimg.com%2Ftweet_video%2FGis26LWXkAAvpO0.mp4" type="video/mp4"></video>]]></description>
-        <pubDate>Sat, 01 Feb 2025 12:07:30 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1885661249536504026#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1885661249536504026#m</link>
+I’m gonna explain the technical details in another tweet.</p>
+<p><a href="https://nitter.freedit.eu/gluk64/status/1886081916580872429#m">nitter.freedit.eu/gluk64/status/1886081916580872429#m</a></p>]]></description>
+        <pubDate>Sun, 02 Feb 2025 18:14:22 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886115963965456463#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886115963965456463#m</link>
       </item>
       <item>
-        <title>Part of the milady culture consist of being able to show a finger to the people running the show if we believe they aren’t doing what’s best for the ecosystem.
+        <title>Since tech has no motto I believe this is incorrect. People are switching to deepseek, even microsoft is offering it in its cloud when chatgpt is an important investment for them, even if chatgpt has better distribution. X and Google have better distribution than chatgpt, nevertheless chatgpt has more adoption.
 
-Ethereum needs less kumbaya aligment politics and more milady on the culture side of things and more Musk type of delivery.</title>
+With RISCV zkVMs the comparison will be easier and people will switch one for another one if what you can save is relevant enough. That’s why whales use cowswap rather than uniswap. Cowswap had a better product. With a RISCV zkVm you have no differentiator apart from performance and security.
+
+People will make money otherwise. ZK as AI LLMs have a raise to the bottom. You make money by building wrappers and things on top.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Part of the milady culture consist of being able to show a finger to the people running the show if we believe they aren’t doing what’s best for the ecosystem.<br>
+        <description><![CDATA[<p>Since tech has no motto I believe this is incorrect. People are switching to deepseek, even microsoft is offering it in its cloud when chatgpt is an important investment for them, even if chatgpt has better distribution. X and Google have better distribution than chatgpt, nevertheless chatgpt has more adoption.<br>
 <br>
-Ethereum needs less kumbaya aligment politics and more milady on the culture side of things and more Musk type of delivery.</p>]]></description>
-        <pubDate>Sat, 01 Feb 2025 12:45:10 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1885670728743166172#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1885670728743166172#m</link>
+With RISCV zkVMs the comparison will be easier and people will switch one for another one if what you can save is relevant enough. That’s why whales use cowswap rather than uniswap. Cowswap had a better product. With a RISCV zkVm you have no differentiator apart from performance and security.<br>
+<br>
+People will make money otherwise. ZK as AI LLMs have a raise to the bottom. You make money by building wrappers and things on top.</p>
+<p><a href="https://nitter.freedit.eu/Ismael_H_R/status/1886086363298030003#m">nitter.freedit.eu/Ismael_H_R/status/1886086363298030003#m</a></p>]]></description>
+        <pubDate>Sun, 02 Feb 2025 16:28:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886089396660932852#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886089396660932852#m</link>
       </item>
       <item>
-        <title>1. The @ethereumfndn holds only a small portion of ETH’s total supply. Even if they sold everything they had, it wouldn’t significantly affect the price, since ETH is widely held by many different actors. This broad distribution is a good thing.
-2. The Ethereum Foundation pays researchers and protocol contributors, so it needs to sell some of its tokens to fund this work. I don’t see that as a problem in itself.
-3. Expecting the Ethereum Foundation to become run like a startup is misguided. What you want in research groups is freedom and long term thinking. Startups are the opposite. We need both in Ethereum. That said, I do think there are many groups inside the EF that don’t have very clear goals and people in those groups don’t know what they are doing. I have spoken this with multiple people inside the EF and outside and most agree on which ones aren’t doing much.
-
-Overall, the real issue with Ethereum isn’t that the Foundation might sell a few million dollars of ETH. The problem is that there’s a lack of urgency in most companies building Ethereum. Too many conferences, politics and not enough delivery.
-Culturally we also have a big problem, there is a sense by everyone that only insiders are heard, with ideas only considered if they come from the “aligned” group. I do think this is partially true. We thought we won and we entered the politics and alignment era rather than focusing on delivering.
-
-Mixing alignment politics with VCs and engineering is obviously gonna be inefficient. The engineering of aligned groups is gonna be sold as top notch even if it isn’t. The politics are not gonna be related to solving concrete problems but to holding power long term to be able to invest in the next wave of ideas.
-
-Even with all this going on, the Ethereum Foundation is one of the few organizations in Ethereum that actively opens its doors to newcomers.
-
-Even if the EF changes it leadership and changes how things are done internally and even if it doesn’t sell 1 ETH I don’t believe that would have a huge impact on what is happening. It can for sure help, but the problem is deeper.</title>
+        <title>Fractals are incredible powerful in too many areas of engineering and science.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>1. The <a href="https://nitter.freedit.eu/ethereumfndn" title="Ethereum Foundation">@ethereumfndn</a> holds only a small portion of ETH’s total supply. Even if they sold everything they had, it wouldn’t significantly affect the price, since ETH is widely held by many different actors. This broad distribution is a good thing.<br>
-2. The Ethereum Foundation pays researchers and protocol contributors, so it needs to sell some of its tokens to fund this work. I don’t see that as a problem in itself.<br>
-3. Expecting the Ethereum Foundation to become run like a startup is misguided. What you want in research groups is freedom and long term thinking. Startups are the opposite. We need both in Ethereum. That said, I do think there are many groups inside the EF that don’t have very clear goals and people in those groups don’t know what they are doing. I have spoken this with multiple people inside the EF and outside and most agree on which ones aren’t doing much.<br>
-<br>
-Overall, the real issue with Ethereum isn’t that the Foundation might sell a few million dollars of ETH. The problem is that there’s a lack of urgency in most companies building Ethereum. Too many conferences, politics and not enough delivery.<br>
-Culturally we also have a big problem, there is a sense by everyone that only insiders are heard, with ideas only considered if they come from the “aligned” group. I do think this is partially true. We thought we won and we entered the politics and alignment era rather than focusing on delivering.<br>
-<br>
-Mixing alignment politics with VCs and engineering is obviously gonna be inefficient. The engineering of aligned groups is gonna be sold as top notch even if it isn’t. The politics are not gonna be related to solving concrete problems but to holding power long term to be able to invest in the next wave of ideas.<br>
-<br>
-Even with all this going on, the Ethereum Foundation is one of the few organizations in Ethereum that actively opens its doors to newcomers.<br>
-<br>
-Even if the EF changes it leadership and changes how things are done internally and even if it doesn’t sell 1 ETH I don’t believe that would have a huge impact on what is happening. It can for sure help, but the problem is deeper.</p>
-<p><a href="https://nitter.freedit.eu/CryptoCronkite/status/1885322486121636100#m">nitter.freedit.eu/CryptoCronkite/status/1885322486121636100#m</a></p>]]></description>
-        <pubDate>Sat, 01 Feb 2025 12:42:28 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1885670050339639418#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1885670050339639418#m</link>
+        <description><![CDATA[<p>Fractals are incredible powerful in too many areas of engineering and science.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGiy2a1ZWcAINgSX.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 02 Feb 2025 16:03:07 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886082932227346606#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886082932227346606#m</link>
       </item>
       <item>
-        <title>I hope Ethereum community understands at some point that part of why we’re losing is because of the kumbaya virtue signalling and aligment politics. 
+        <title>Freedom! Freedom! Freedom!
+Hear the sound of broken chains,
+See noble equality enthroned.
 
-Virtue signalling, aligment politics are way worst that respectful debate. The first is inefficient and long term unsustainable. Embrace disagreement and being able to question others.</title>
+From the new champions their faces
+Mars himself seems to inspire,
+And the gleam of their weapons
+Inspires great courage as well.
+
+Come, O people, take heart!
+Victory crowns us at last!
+Let us swear with glory to die,
+Let us swear with glory to die!</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>I hope Ethereum community understands at some point that part of why we’re losing is because of the kumbaya virtue signalling and aligment politics. <br>
+        <description><![CDATA[<p>Freedom! Freedom! Freedom!<br>
+Hear the sound of broken chains,<br>
+See noble equality enthroned.<br>
 <br>
-Virtue signalling, aligment politics are way worst that respectful debate. The first is inefficient and long term unsustainable. Embrace disagreement and being able to question others.</p>
-<p><a href="https://nitter.freedit.eu/binji_x/status/1885573471012360436#m">nitter.freedit.eu/binji_x/status/1885573471012360436#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGis-PUyXcAMAu6L.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 01 Feb 2025 12:39:31 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1885669307192856929#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1885669307192856929#m</link>
+From the new champions their faces<br>
+Mars himself seems to inspire,<br>
+And the gleam of their weapons<br>
+Inspires great courage as well.<br>
+<br>
+Come, O people, take heart!<br>
+Victory crowns us at last!<br>
+Let us swear with glory to die,<br>
+Let us swear with glory to die!</p>
+<video poster="https://nitter.freedit.eu/pic/tweet_video_thumb%2FGiy1DtfXwAA5GNB.jpg" autoplay muted loop style="max-width:250px;">
+  <source src="https://nitter.freedit.eu/pic/video.twimg.com%2Ftweet_video%2FGiy1DtfXwAA5GNB.mp4" type="video/mp4"></video>]]></description>
+        <pubDate>Sun, 02 Feb 2025 15:57:09 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886081429416579337#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886081429416579337#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: no more linkedin virtue signalling farts pls, just see what they actually do</title>
-        <dc:creator>@chainyoda</dc:creator>
-        <description><![CDATA[<p>no more linkedin virtue signalling farts pls, just see what they actually do</p>]]></description>
-        <pubDate>Sat, 01 Feb 2025 07:08:09 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/chainyoda/status/1885585917093548367#m</guid>
-        <link>https://nitter.freedit.eu/chainyoda/status/1885585917093548367#m</link>
+        <title>RT by @fede_intern: We&apos;re sharing a post this week on what needs to be done to make Linea a based rollup.</title>
+        <dc:creator>@DeclanFox14</dc:creator>
+        <description><![CDATA[<p>We're sharing a post this week on what needs to be done to make Linea a based rollup.</p>]]></description>
+        <pubDate>Sun, 02 Feb 2025 15:26:15 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/DeclanFox14/status/1886073654905033173#m</guid>
+        <link>https://nitter.freedit.eu/DeclanFox14/status/1886073654905033173#m</link>
       </item>
       <item>
-        <title>R to @fede_intern: Another example of this is that people say that BNB, Avalanche, etc are just copy cats of Ethereum.
-
-That’s what made Ethereum powerful: people copied it. You want people to copy your things. At the end clients always want to work or use the original.</title>
+        <title>List of some of the people I respect and like the most in crypto. I don’t agree every time with them and that’s why I like watching their talks and I like reading their accounts. They make me question myself and my beliefs.
+- @VitalikButerin
+- @sreeramkannan
+- @aeyakovenko
+- @musalbas
+- @drakefjustin
+- @EliBenSasson
+- @CryptoHayes
+- @LynAldenContact
+- @ercwl</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Another example of this is that people say that BNB, Avalanche, etc are just copy cats of Ethereum.<br>
-<br>
-That’s what made Ethereum powerful: people copied it. You want people to copy your things. At the end clients always want to work or use the original.</p>]]></description>
-        <pubDate>Sat, 01 Feb 2025 12:04:56 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1885660603928256721#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1885660603928256721#m</link>
+        <description><![CDATA[<p>List of some of the people I respect and like the most in crypto. I don’t agree every time with them and that’s why I like watching their talks and I like reading their accounts. They make me question myself and my beliefs.<br>
+- <a href="https://nitter.freedit.eu/VitalikButerin" title="vitalik.eth">@VitalikButerin</a><br>
+- <a href="https://nitter.freedit.eu/sreeramkannan" title="Sreeram Kannan">@sreeramkannan</a><br>
+- <a href="https://nitter.freedit.eu/aeyakovenko" title="toly 🇺🇸">@aeyakovenko</a><br>
+- <a href="https://nitter.freedit.eu/musalbas" title="Mustafa Al-Bassam">@musalbas</a><br>
+- <a href="https://nitter.freedit.eu/drakefjustin" title="Justin.eth Drake 🦇🔊">@drakefjustin</a><br>
+- <a href="https://nitter.freedit.eu/EliBenSasson" title="Eli Ben-Sasson">@EliBenSasson</a><br>
+- <a href="https://nitter.freedit.eu/CryptoHayes" title="Arthur Hayes">@CryptoHayes</a><br>
+- <a href="https://nitter.freedit.eu/LynAldenContact" title="Lyn Alden">@LynAldenContact</a><br>
+- <a href="https://nitter.freedit.eu/ercwl" title="eric.eth">@ercwl</a></p>]]></description>
+        <pubDate>Sun, 02 Feb 2025 15:43:09 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886077906872307765#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886077906872307765#m</link>
       </item>
       <item>
-        <title>This is my biggest criticism to @OpenAI but also to @RiscZero and @0xLita. I think @Starknet had a similar issue.
+        <title>I will be more clear: I believe @titanbuilderxyz is doing things correctly. I still need to study and learn more about alternatives but I like the fast engineering solution first to then complicate things.
 
-I believe that by keeping models and code private people couldn’t build on top, change it and make it viral. The motto of these companies isn’t the code. I’ve been saying this for years.
-
-I think @Optimism and @SuccinctLabs in this way have been smarter. They understand better the dynamics of software distribution.</title>
+Based rollups are going to be faster than Solana. I’m writing a thread about it in the plane.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>This is my biggest criticism to <a href="https://nitter.freedit.eu/OpenAI" title="OpenAI">@OpenAI</a> but also to <a href="https://nitter.freedit.eu/RiscZero" title="RISC Zero 🟡">@RiscZero</a> and <a href="https://nitter.freedit.eu/0xLita" title="Lita">@0xLita</a>. I think <a href="https://nitter.freedit.eu/Starknet" title="Starknet 🐺🐱">@Starknet</a> had a similar issue.<br>
+        <description><![CDATA[<p>I will be more clear: I believe <a href="https://nitter.freedit.eu/titanbuilderxyz" title="Titan Builder 🌕👷‍♂️">@titanbuilderxyz</a> is doing things correctly. I still need to study and learn more about alternatives but I like the fast engineering solution first to then complicate things.<br>
 <br>
-I believe that by keeping models and code private people couldn’t build on top, change it and make it viral. The motto of these companies isn’t the code. I’ve been saying this for years.<br>
-<br>
-I think <a href="https://nitter.freedit.eu/Optimism" title="Optimism.eth">@Optimism</a> and <a href="https://nitter.freedit.eu/SuccinctLabs" title="Succinct">@SuccinctLabs</a> in this way have been smarter. They understand better the dynamics of software distribution.</p>
-<p><a href="https://nitter.freedit.eu/StartupArchive_/status/1885372474470326472#m">nitter.freedit.eu/StartupArchive_/status/1885372474470326472#m</a></p>]]></description>
-        <pubDate>Sat, 01 Feb 2025 12:01:37 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1885659771207921713#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1885659771207921713#m</link>
+Based rollups are going to be faster than Solana. I’m writing a thread about it in the plane.</p>
+<p><a href="https://nitter.freedit.eu/fede_intern/status/1886052860267233587#m">nitter.freedit.eu/fede_intern/status/1886052860267233587#m</a></p>]]></description>
+        <pubDate>Sun, 02 Feb 2025 15:42:55 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886077847179039065#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886077847179039065#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: 🚨 JASON CALACANIS: “I think the best part about (DeepSeek) is the fact that Sam Altman was supposed to be doing open source, he made it a closed source company, he stole everyone’s data, he got caught red handed, he’s being sued by The New York Times for that, and now the Chinese have come and open sourced all the stuff he stole, and he’s got a real competitor on the mission that OpenAI was supposed to do. 
-
-I have zero sympathy for him or the team over there. I’m glad that this is all going open sourced. It should have been open sourced, and it’s better for humanity, and the fact that the Chinese did it to Sam Altman is comeuppance for the fact that he stole everyone else’s content.
-
-But I don’t have strong opinions on it.”
-
-LMAO. Wow. Jason with the double headshot. 😂</title>
-        <dc:creator>@AutismCapital</dc:creator>
-        <description><![CDATA[<p>🚨 JASON CALACANIS: “I think the best part about (DeepSeek) is the fact that Sam Altman was supposed to be doing open source, he made it a closed source company, he stole everyone’s data, he got caught red handed, he’s being sued by The New York Times for that, and now the Chinese have come and open sourced all the stuff he stole, and he’s got a real competitor on the mission that OpenAI was supposed to do. <br>
-<br>
-I have zero sympathy for him or the team over there. I’m glad that this is all going open sourced. It should have been open sourced, and it’s better for humanity, and the fact that the Chinese did it to Sam Altman is comeuppance for the fact that he stole everyone else’s content.<br>
-<br>
-But I don’t have strong opinions on it.”<br>
-<br>
-LMAO. Wow. Jason with the double headshot. 😂</p>
-<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1885489605010665472%2Fimg%2FE7KMxQa6pz9qn0gT.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 01 Feb 2025 00:45:54 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/AutismCapital/status/1885489719401996408#m</guid>
-        <link>https://nitter.freedit.eu/AutismCapital/status/1885489719401996408#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: Let me tell you all a little story. Sometime around a or so year ago i reached out to an openai staffer who will not be named who had implied they would be very interested in doing some things open source
-
-So, as any good representative of open source, i went to all the people i knew working in open source, and asked them all what things could openai do opensource that they would like to see. I collected maybe 15 bullet points, and gave that list to the staffer.
-
-6 months goes by with no response. So i say whats up lets go? And nothing. So i emailed sama himself. And ya know what’s even? He responded! And setup a meeting with a high level research director.
-
-We had an hour long conversation where i went through every item on the list, and he mostly shot every single one down. Mostly for not aligning with their business goals, some with hmm we will consider its. Said if they come up with any ideas they’d reach back out. 
-
-This was like 6 months ago now, and ive never heard back. Since then, i simply gave up trying with them. I gave them all the reasons i could as to why they would benefit from it, but went on what at least at the time was deaf ears.
-
-Here is that list again @sama since you seem to have finally seen what i was thinking, thanks at least for answering the email.
-
-- Open source your models or at least legacy and deprecated models
-- Research papers on what has worked for OAI, GPT-4 information such as architecture etc
-- Opensource datasets for IFT/RLHF/Toolformers/Plugins/FunctionCalling/Web Browsing?  (Addendum, reasoning)
-- Provide preferential access channels for vetted OSAI groups.
-- Vet internal research for release, with prerogative to release as much as possible, even if on a delay commensurate with business goals and safety concerns.
-- Have official townhall type meetings with major open source projects/teams
-- Tools to filter data
-- Contribute directly to public open source AI projects.
-- Plug &amp; Play RLHF training code/Reward Models
-- Alternatives to Text Models (Voice/Music/Image/Video) (preferably OS)
-- Open sourced moderation classifier model/Classification Model&apos;s dataset
-- Base gpt-4 model access for researchers
-- opt in to removing the gpt4 moderation
-- Release roadmap
-- Opening up the ToS to make it unambiguous that training models on openai outputs are all good.</title>
-        <dc:creator>@Teknium1</dc:creator>
-        <description><![CDATA[<p>Let me tell you all a little story. Sometime around a or so year ago i reached out to an openai staffer who will not be named who had implied they would be very interested in doing some things open source<br>
-<br>
-So, as any good representative of open source, i went to all the people i knew working in open source, and asked them all what things could openai do opensource that they would like to see. I collected maybe 15 bullet points, and gave that list to the staffer.<br>
-<br>
-6 months goes by with no response. So i say whats up lets go? And nothing. So i emailed sama himself. And ya know what’s even? He responded! And setup a meeting with a high level research director.<br>
-<br>
-We had an hour long conversation where i went through every item on the list, and he mostly shot every single one down. Mostly for not aligning with their business goals, some with hmm we will consider its. Said if they come up with any ideas they’d reach back out. <br>
-<br>
-This was like 6 months ago now, and ive never heard back. Since then, i simply gave up trying with them. I gave them all the reasons i could as to why they would benefit from it, but went on what at least at the time was deaf ears.<br>
-<br>
-Here is that list again <a href="https://nitter.freedit.eu/sama" title="Sam Altman">@sama</a> since you seem to have finally seen what i was thinking, thanks at least for answering the email.<br>
-<br>
-- Open source your models or at least legacy and deprecated models<br>
-- Research papers on what has worked for OAI, GPT-4 information such as architecture etc<br>
-- Opensource datasets for IFT/RLHF/Toolformers/Plugins/FunctionCalling/Web Browsing?  (Addendum, reasoning)<br>
-- Provide preferential access channels for vetted OSAI groups.<br>
-- Vet internal research for release, with prerogative to release as much as possible, even if on a delay commensurate with business goals and safety concerns.<br>
-- Have official townhall type meetings with major open source projects/teams<br>
-- Tools to filter data<br>
-- Contribute directly to public open source AI projects.<br>
-- Plug & Play RLHF training code/Reward Models<br>
-- Alternatives to Text Models (Voice/Music/Image/Video) (preferably OS)<br>
-- Open sourced moderation classifier model/Classification Model's dataset<br>
-- Base gpt-4 model access for researchers<br>
-- opt in to removing the gpt4 moderation<br>
-- Release roadmap<br>
-- Opening up the ToS to make it unambiguous that training models on openai outputs are all good.</p>
-<p><a href="https://nitter.freedit.eu/tsarnick/status/1885457829974466595#m">nitter.freedit.eu/tsarnick/status/1885457829974466595#m</a></p>]]></description>
-        <pubDate>Sat, 01 Feb 2025 00:28:05 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/Teknium1/status/1885485234533392585#m</guid>
-        <link>https://nitter.freedit.eu/Teknium1/status/1885485234533392585#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: This is a directed question that&apos;s probably better to call Justin directly than Twitter: 2025 according to the program itself, is for specing, which I assume will be a closed team of 4-5.</title>
-        <dc:creator>@potuz_eth</dc:creator>
-        <description><![CDATA[<p>This is a directed question that's probably better to call Justin directly than Twitter: 2025 according to the program itself, is for specing, which I assume will be a closed team of 4-5.</p>]]></description>
-        <pubDate>Fri, 31 Jan 2025 21:29:36 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/potuz_eth/status/1885440319585447977#m</guid>
-        <link>https://nitter.freedit.eu/potuz_eth/status/1885440319585447977#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: 100%. We have a real world used case, being used in the real world! With @fede_intern help we are taking it worldwide! Let’s meet next week Sam!</title>
-        <dc:creator>@fernandezdiego</dc:creator>
-        <description><![CDATA[<p>100%. We have a real world used case, being used in the real world! With <a href="https://nitter.freedit.eu/fede_intern" title="Fede’s intern 🥊">@fede_intern</a> help we are taking it worldwide! Let’s meet next week Sam!</p>
-<p><a href="https://nitter.freedit.eu/fede_intern/status/1885292148561523001#m">nitter.freedit.eu/fede_intern/status/1885292148561523001#m</a></p>]]></description>
-        <pubDate>Fri, 31 Jan 2025 17:54:58 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fernandezdiego/status/1885386306747789778#m</guid>
-        <link>https://nitter.freedit.eu/fernandezdiego/status/1885386306747789778#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: Built on Ethereum and @ZKsync.</title>
-        <dc:creator>@ethereum</dc:creator>
-        <description><![CDATA[<p>Built on Ethereum and <a href="https://nitter.freedit.eu/zksync" title="ZKsync (∎, ∆)">@ZKsync</a>.</p>
-<p><a href="https://nitter.freedit.eu/zksync/status/1885329177446133998#m">nitter.freedit.eu/zksync/status/1885329177446133998#m</a></p>]]></description>
-        <pubDate>Fri, 31 Jan 2025 15:16:36 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ethereum/status/1885346451313574220#m</guid>
-        <link>https://nitter.freedit.eu/ethereum/status/1885346451313574220#m</link>
-      </item>
-      <item>
-        <title>Let’s kick ass.
-
-Ethereum is gonna win.</title>
+        <title>gm miladies. tuesday i have one of the most important meetings in my life. about to take another long flight for that meeting. see you soon.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Let’s kick ass.<br>
-<br>
-Ethereum is gonna win.</p>
-<p><a href="https://nitter.freedit.eu/ethereum/status/1885327649662288047#m">nitter.freedit.eu/ethereum/status/1885327649662288047#m</a></p>]]></description>
-        <pubDate>Fri, 31 Jan 2025 15:04:28 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1885343395670904886#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1885343395670904886#m</link>
+        <description><![CDATA[<p>gm miladies. tuesday i have one of the most important meetings in my life. about to take another long flight for that meeting. see you soon.</p>]]></description>
+        <pubDate>Sun, 02 Feb 2025 15:31:35 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886074996331602346#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886074996331602346#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: 1/ Updates from the last couple of weeks in the Ethereum ecosystem, a thread by @sassal0x.
+        <title>Barcelona is amazing. The weather is incredible, as good as Buenos Aires.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>Barcelona is amazing. The weather is incredible, as good as Buenos Aires.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGiyuzKUWAAAN83a.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 02 Feb 2025 15:29:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886074546844745752#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886074546844745752#m</link>
+      </item>
+      <item>
+        <title>Based rollups and preconfirmations are easy to implement. We need to start with an MVP. Many teams are doing good work but it’s too theoretical and protocol like. We need to start with simple iterations and go to production asap.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>Based rollups and preconfirmations are easy to implement. We need to start with an MVP. Many teams are doing good work but it’s too theoretical and protocol like. We need to start with simple iterations and go to production asap.</p>]]></description>
+        <pubDate>Sun, 02 Feb 2025 14:03:37 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886052860267233587#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886052860267233587#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: I’m really happy for him. One of the most passionate founders I met in the space. Hope we have more time to collaborate with them.</title>
+        <dc:creator>@rj_aligned</dc:creator>
+        <description><![CDATA[<p>I’m really happy for him. One of the most passionate founders I met in the space. Hope we have more time to collaborate with them.</p>]]></description>
+        <pubDate>Sun, 02 Feb 2025 04:03:56 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/rj_aligned/status/1885901945832882392#m</guid>
+        <link>https://nitter.freedit.eu/rj_aligned/status/1885901945832882392#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: Eigenlayer: taking crypto mainstream!
+————————-
+Earnifi
+         The #5 Finance App in the App Store.
+          @OpacityNetwork ♾️ @eigenlayer
+————————-
+Problem 
+         I am a regular worker and want an advance. 
+————————-
+Today
+          Predatory pay day loans
+————————-
+Solution
+          Prove to the lender that the borrower receives x wages regularly (=genuine)
+————————-
+Unlock
+          Opacity provides powerful primtives for anyone to prove arbitrary claims about their bank account with privacy!  
+————————-
+Community 
+           This is made possible by the never-say-die, help-builders-build, overthrow-tyrants attitude of @Euler__Lagrange from opacity and the entrepreneurial spirit of @ArynChadha from Earnifi.
+ ————————-
+Call to action 
+           Eigenlayer powers verifiability of arbitrary claims. Opacity powers private verifiability of all password-protected content. 
 
-There’s so much happening in the Ethereum ecosystem that keeping up with it all can feel overwhelming, but allow me to give you the highlights.
+           Come build the user-owned internet with us!</title>
+        <dc:creator>@sreeramkannan</dc:creator>
+        <description><![CDATA[<p>Eigenlayer: taking crypto mainstream!<br>
+————————-<br>
+Earnifi<br>
+         The #5 Finance App in the App Store.<br>
+          <a href="https://nitter.freedit.eu/OpacityNetwork" title="Opacity Network">@OpacityNetwork</a> ♾️ <a href="https://nitter.freedit.eu/eigenlayer" title="EigenLayer">@eigenlayer</a><br>
+————————-<br>
+Problem <br>
+         I am a regular worker and want an advance. <br>
+————————-<br>
+Today<br>
+          Predatory pay day loans<br>
+————————-<br>
+Solution<br>
+          Prove to the lender that the borrower receives x wages regularly (=genuine)<br>
+————————-<br>
+Unlock<br>
+          Opacity provides powerful primtives for anyone to prove arbitrary claims about their bank account with privacy!  <br>
+————————-<br>
+Community <br>
+           This is made possible by the never-say-die, help-builders-build, overthrow-tyrants attitude of <a href="https://nitter.freedit.eu/Euler__Lagrange" title="EulerLagrange.eth - tevm/acc">@Euler__Lagrange</a> from opacity and the entrepreneurial spirit of <a href="https://nitter.freedit.eu/ArynChadha" title="Aryn Chadha">@ArynChadha</a> from Earnifi.<br>
+ ————————-<br>
+Call to action <br>
+           Eigenlayer powers verifiability of arbitrary claims. Opacity powers private verifiability of all password-protected content. <br>
+<br>
+           Come build the user-owned internet with us!</p>
+<p><a href="https://nitter.freedit.eu/MoneroMahesh/status/1885724000103371064#m">nitter.freedit.eu/MoneroMahesh/status/1885724000103371064#m</a></p>]]></description>
+        <pubDate>Sat, 01 Feb 2025 19:14:22 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/sreeramkannan/status/1885768674264731735#m</guid>
+        <link>https://nitter.freedit.eu/sreeramkannan/status/1885768674264731735#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: EigenLayer: taking crypto mainstream!
 
-Let’s get into it 🧵👇</title>
-        <dc:creator>@ethereum</dc:creator>
-        <description><![CDATA[<p>1/ Updates from the last couple of weeks in the Ethereum ecosystem, a thread by <a href="https://nitter.freedit.eu/sassal0x" title="sassal.eth/acc 🦇🔊">@sassal0x</a>.<br>
+Earnifi is the #5 Finance App in the App Store.
+
+What if lenders could verify wages privately -- no predatory loans needed?
+
+@OpacityNetwork ♾ @eigenlayer = trustless, private wage verification.
+
+Build the user-owned internet with us.</title>
+        <dc:creator>@eigenlayer</dc:creator>
+        <description><![CDATA[<p>EigenLayer: taking crypto mainstream!<br>
 <br>
-There’s so much happening in the Ethereum ecosystem that keeping up with it all can feel overwhelming, but allow me to give you the highlights.<br>
+Earnifi is the #5 Finance App in the App Store.<br>
 <br>
-Let’s get into it 🧵👇</p>]]></description>
-        <pubDate>Fri, 31 Jan 2025 14:01:54 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ethereum/status/1885327649662288047#m</guid>
-        <link>https://nitter.freedit.eu/ethereum/status/1885327649662288047#m</link>
+What if lenders could verify wages privately -- no predatory loans needed?<br>
+<br>
+<a href="https://nitter.freedit.eu/OpacityNetwork" title="Opacity Network">@OpacityNetwork</a> ♾ <a href="https://nitter.freedit.eu/eigenlayer" title="EigenLayer">@eigenlayer</a> = trustless, private wage verification.<br>
+<br>
+Build the user-owned internet with us.</p>
+<p><a href="https://nitter.freedit.eu/sreeramkannan/status/1885768674264731735#m">nitter.freedit.eu/sreeramkannan/status/1885768674264731735#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGiuaNMDXUAAXdPa.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sat, 01 Feb 2025 19:32:43 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/eigenlayer/status/1885773292629307853#m</guid>
+        <link>https://nitter.freedit.eu/eigenlayer/status/1885773292629307853#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: @Euler__Lagrange most underrated founder out there imo</title>
+        <dc:creator>@dabit3</dc:creator>
+        <description><![CDATA[<p><a href="https://nitter.freedit.eu/Euler__Lagrange" title="EulerLagrange.eth - tevm/acc">@Euler__Lagrange</a> most underrated founder out there imo</p>]]></description>
+        <pubDate>Sun, 02 Feb 2025 03:17:05 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/dabit3/status/1885890155774452109#m</guid>
+        <link>https://nitter.freedit.eu/dabit3/status/1885890155774452109#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: 🫡</title>
+        <dc:creator>@Euler__Lagrange</dc:creator>
+        <description><![CDATA[<p>🫡</p>
+<p><a href="https://nitter.freedit.eu/Euler__Lagrange/status/1885807317981004040#m">nitter.freedit.eu/Euler__Lagrange/status/1885807317981004040#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGiwCZrJXYAAUVOQ.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 02 Feb 2025 02:56:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/Euler__Lagrange/status/1885884987678855205#m</guid>
+        <link>https://nitter.freedit.eu/Euler__Lagrange/status/1885884987678855205#m</link>
+      </item>
+      <item>
+        <title>Thanks to @eigenlayer you can create things like this. Great work @OpacityNetwork.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>Thanks to <a href="https://nitter.freedit.eu/eigenlayer" title="EigenLayer">@eigenlayer</a> you can create things like this. Great work <a href="https://nitter.freedit.eu/OpacityNetwork" title="Opacity Network">@OpacityNetwork</a>.</p>
+<p><a href="https://nitter.freedit.eu/dabit3/status/1885797100492874052#m">nitter.freedit.eu/dabit3/status/1885797100492874052#m</a></p>]]></description>
+        <pubDate>Sun, 02 Feb 2025 02:50:29 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1885883458582450336#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1885883458582450336#m</link>
       </item>
 
   </channel>

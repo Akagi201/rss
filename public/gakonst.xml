@@ -16,6 +16,22 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @gakonst: not attending denver or any travel in coming months, fully heads down. this is a very important year. people should not forget that the #1 priority is shipping, and shipping, and shipping more.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>not attending denver or any travel in coming months, fully heads down. this is a very important year. people should not forget that the #1 priority is shipping, and shipping, and shipping more.</p>]]></description>
+        <pubDate>Wed, 21 Feb 2024 08:15:40 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1760216704452600102#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1760216704452600102#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: if you redirect me to a third-party payment provider in order to onramp - it’s insta churn for me</title>
+        <dc:creator>@_jxom</dc:creator>
+        <description><![CDATA[<p>if you redirect me to a third-party payment provider in order to onramp - it’s insta churn for me</p>]]></description>
+        <pubDate>Sat, 01 Feb 2025 01:56:37 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/_jxom/status/1885507515850645974#m</guid>
+        <link>https://nitter.freedit.eu/_jxom/status/1885507515850645974#m</link>
+      </item>
+      <item>
         <title>RT by @gakonst: This is a turning point in DEX innovation.
 
 Uniswap is now a platform.
@@ -283,35 +299,6 @@ The xchain-helpers library has support to simulate relaying messages over most m
         <pubDate>Thu, 30 Jan 2025 20:52:29 GMT</pubDate>
         <guid>https://nitter.freedit.eu/hexonaut/status/1885068591089025101#m</guid>
         <link>https://nitter.freedit.eu/hexonaut/status/1885068591089025101#m</link>
-      </item>
-      <item>
-        <title>Did you know that Foundry has supported multi chain deployments and fork testing for over a year now via the &quot;vm.createSelectFork&quot; cheatcode?
-
-What can we improve about it? Naming too!</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Did you know that Foundry has supported multi chain deployments and fork testing for over a year now via the "vm.createSelectFork" cheatcode?<br>
-<br>
-What can we improve about it? Naming too!</p>
-<p><a href="https://nitter.freedit.eu/0xz80/status/1885059863488979029#m">nitter.freedit.eu/0xz80/status/1885059863488979029#m</a></p>]]></description>
-        <pubDate>Thu, 30 Jan 2025 20:45:35 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1885066852176724377#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1885066852176724377#m</link>
-      </item>
-      <item>
-        <title>Foundry 1.0 will be soon out, a significant milestone in our mission of empowering EVM developers to build secure and gas-optimized smart contracts.
-
-We&apos;re looking at ambitious meaty features for our post-1.0 roadmap (e.g. formal verification).
-
-What should we do?</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Foundry 1.0 will be soon out, a significant milestone in our mission of empowering EVM developers to build secure and gas-optimized smart contracts.<br>
-<br>
-We're looking at ambitious meaty features for our post-1.0 roadmap (e.g. formal verification).<br>
-<br>
-What should we do?</p>]]></description>
-        <pubDate>Thu, 30 Jan 2025 19:42:52 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1885051069845430525#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1885051069845430525#m</link>
       </item>
 
   </channel>

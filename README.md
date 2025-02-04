@@ -82,6 +82,7 @@
 * <https://github.com/exaroth/liveboat> - generate static pages for RSS.
 * <https://github.com/exaroth/liveboat-github-runner> - template for liveboat
 * <https://github.com/abuseofnotation/feed-aggregator> - aggregate multi rss feeds into a markdown.
+* <https://github.com/exaroth/liveboat> - aggregate rss to a static pages
 
 ## RSS Source
 
@@ -131,6 +132,7 @@
 * freedium.cfg - unlock medium.
 * <https://www.rsstabs.com> - AI powered RSS Reader
 * <https://github.com/a-chacon/chaski-app> - rss reader client built with tauri
+* <https://github.com/newsboat/newsboat> - terminal rss reader
 
 ## RSS Source
 

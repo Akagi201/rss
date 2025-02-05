@@ -36,7 +36,8 @@
       <item>
         <title>RT by @ralexstokes: We should not ignore reality. The mempool is a crucial fallback, but very unlikely there&apos;s any path where it is the primary pipe through which txs end up onchain. It&apos;s important to design with this in mind: heavish block building, light inclusion list proposing</title>
         <dc:creator>@fradamt</dc:creator>
-        <description><![CDATA[<p>We should not ignore reality. The mempool is a crucial fallback, but very unlikely there's any path where it is the primary pipe through which txs end up onchain. It's important to design with this in mind: heavish block building, light inclusion list proposing</p>]]></description>
+        <description><![CDATA[<p>We should not ignore reality. The mempool is a crucial fallback, but very unlikely there's any path where it is the primary pipe through which txs end up onchain. It's important to design with this in mind: heavish block building, light inclusion list proposing</p>
+<p><a href="https://nitter.freedit.eu/Data_Always/status/1882612445426180188#m">nitter.freedit.eu/Data_Always/status/1882612445426180188#m</a></p>]]></description>
         <pubDate>Fri, 24 Jan 2025 14:01:17 GMT</pubDate>
         <guid>https://nitter.freedit.eu/fradamt/status/1882790781536383363#m</guid>
         <link>https://nitter.freedit.eu/fradamt/status/1882790781536383363#m</link>

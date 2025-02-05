@@ -16,308 +16,230 @@
       <height>128</height>
     </image>
       <item>
-        <title>Buenos Aires is an amazing tech city.</title>
+        <title>RT by @fede_intern: Great to see objective people who care about tech.
+
+It is not a zero-sum game, we all push crypto forward together.</title>
+        <dc:creator>@SashaSpiegelman</dc:creator>
+        <description><![CDATA[<p>Great to see objective people who care about tech.<br>
+<br>
+It is not a zero-sum game, we all push crypto forward together.</p>
+<p><a href="https://nitter.freedit.eu/fede_intern/status/1886673740357853689#m">nitter.freedit.eu/fede_intern/status/1886673740357853689#m</a></p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 18:25:09 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/SashaSpiegelman/status/1886843454069858364#m</guid>
+        <link>https://nitter.freedit.eu/SashaSpiegelman/status/1886843454069858364#m</link>
+      </item>
+      <item>
+        <title>too long, didn’t read. going rogue.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Buenos Aires is an amazing tech city.</p>
-<p><a href="https://nitter.freedit.eu/JJ2play1/status/1886104108752359828#m">nitter.freedit.eu/JJ2play1/status/1886104108752359828#m</a></p>]]></description>
-        <pubDate>Sun, 02 Feb 2025 22:42:12 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1886183363943322089#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1886183363943322089#m</link>
+        <description><![CDATA[<p>too long, didn’t read. going rogue.</p>
+<p><a href="https://nitter.freedit.eu/shawmakesmagic/status/1886829695343161494#m">nitter.freedit.eu/shawmakesmagic/status/1886829695343161494#m</a></p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 18:00:21 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886837211061977125#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886837211061977125#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: I think this is correct and decoupling without trust is hard. The current favourite for a workaround for this centralising force seems to be leaning on preconfirmations with gateways, a la mev-boost relays.</title>
-        <dc:creator>@OrestTa</dc:creator>
-        <description><![CDATA[<p>I think this is correct and decoupling without trust is hard. The current favourite for a workaround for this centralising force seems to be leaning on preconfirmations with gateways, a la mev-boost relays.</p>]]></description>
-        <pubDate>Fri, 31 Jan 2025 17:05:12 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/OrestTa/status/1885373780526067769#m</guid>
-        <link>https://nitter.freedit.eu/OrestTa/status/1885373780526067769#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: rollup stacks: trying to solve fragmentation
+        <title>RT by @fede_intern: With our security team at @FuzzingLabs we already reported 7 vulnerabilities to @ollama via @huntr_ai. Amazing work @Pat_Ventuzelo and team. We’re gonna be doing more work around LLMs and security with FuzzingLabs and development with Lambda.
 
-shared sequencers/interop initiatives: trying to solve the fragmentation created by those who try to solve fragmentation by creating new fragmentation
-
-based sequencing: cleaning up everybody&apos;s mess</title>
-        <dc:creator>@Junger0x</dc:creator>
-        <description><![CDATA[<p>rollup stacks: trying to solve fragmentation<br>
-<br>
-shared sequencers/interop initiatives: trying to solve the fragmentation created by those who try to solve fragmentation by creating new fragmentation<br>
-<br>
-based sequencing: cleaning up everybody's mess</p>]]></description>
-        <pubDate>Fri, 31 Jan 2025 11:40:51 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/Junger0x/status/1885292155494605082#m</guid>
-        <link>https://nitter.freedit.eu/Junger0x/status/1885292155494605082#m</link>
-      </item>
-      <item>
-        <title>I like the zk shared bridge but if native goes live and you have based rollups with preconfirmations working (not difficult to do, native needs coordination) you have decentralized very fast rollups without multisigs and security council and great interops between L1 and other L2s. 
-
-If you want ZK you only will need to prove with a RISCV zkVM an L1 client + all the addons you want and with based native rollups and preconfirmations you will have the best of both worlds.
-
-In less than 18 months this will become the default for rollups. Infra is gonna be commoditized and at the end it will be all customer acquisition.
-
-I’m gonna explain the technical details in another tweet.</title>
+Please do not exposed your Ollama server, it is not the only bug we found. The team will be sharing the other vulnerabilities as soon as possible.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>I like the zk shared bridge but if native goes live and you have based rollups with preconfirmations working (not difficult to do, native needs coordination) you have decentralized very fast rollups without multisigs and security council and great interops between L1 and other L2s. <br>
+        <description><![CDATA[<p>With our security team at <a href="https://nitter.freedit.eu/FuzzingLabs" title="FuzzingLabs">@FuzzingLabs</a> we already reported 7 vulnerabilities to <a href="https://nitter.freedit.eu/ollama" title="ollama">@ollama</a> via <a href="https://nitter.freedit.eu/huntr_ai" title="huntr">@huntr_ai</a>. Amazing work <a href="https://nitter.freedit.eu/Pat_Ventuzelo" title="Patrick Ventuzelo">@Pat_Ventuzelo</a> and team. We’re gonna be doing more work around LLMs and security with FuzzingLabs and development with Lambda.<br>
 <br>
-If you want ZK you only will need to prove with a RISCV zkVM an L1 client + all the addons you want and with based native rollups and preconfirmations you will have the best of both worlds.<br>
-<br>
-In less than 18 months this will become the default for rollups. Infra is gonna be commoditized and at the end it will be all customer acquisition.<br>
-<br>
-I’m gonna explain the technical details in another tweet.</p>
-<p><a href="https://nitter.freedit.eu/gluk64/status/1886081916580872429#m">nitter.freedit.eu/gluk64/status/1886081916580872429#m</a></p>]]></description>
-        <pubDate>Sun, 02 Feb 2025 18:14:22 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1886115963965456463#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1886115963965456463#m</link>
+Please do not exposed your Ollama server, it is not the only bug we found. The team will be sharing the other vulnerabilities as soon as possible.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGi6nAdkWQAAMfVL.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 04 Feb 2025 04:12:43 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886628928531402836#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886628928531402836#m</link>
       </item>
       <item>
-        <title>Since tech has no motto I believe this is incorrect. People are switching to deepseek, even microsoft is offering it in its cloud when chatgpt is an important investment for them, even if chatgpt has better distribution. X and Google have better distribution than chatgpt, nevertheless chatgpt has more adoption.
-
-With RISCV zkVMs the comparison will be easier and people will switch one for another one if what you can save is relevant enough. That’s why whales use cowswap rather than uniswap. Cowswap had a better product. With a RISCV zkVm you have no differentiator apart from performance and security.
-
-People will make money otherwise. ZK as AI LLMs have a raise to the bottom. You make money by building wrappers and things on top.</title>
+        <title>There are too many preconfirmations teams. If one or two doesn’t win quickly or we came up with a simple standard god saves us.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Since tech has no motto I believe this is incorrect. People are switching to deepseek, even microsoft is offering it in its cloud when chatgpt is an important investment for them, even if chatgpt has better distribution. X and Google have better distribution than chatgpt, nevertheless chatgpt has more adoption.<br>
-<br>
-With RISCV zkVMs the comparison will be easier and people will switch one for another one if what you can save is relevant enough. That’s why whales use cowswap rather than uniswap. Cowswap had a better product. With a RISCV zkVm you have no differentiator apart from performance and security.<br>
-<br>
-People will make money otherwise. ZK as AI LLMs have a raise to the bottom. You make money by building wrappers and things on top.</p>
-<p><a href="https://nitter.freedit.eu/Ismael_H_R/status/1886086363298030003#m">nitter.freedit.eu/Ismael_H_R/status/1886086363298030003#m</a></p>]]></description>
-        <pubDate>Sun, 02 Feb 2025 16:28:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1886089396660932852#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1886089396660932852#m</link>
+        <description><![CDATA[<p>There are too many preconfirmations teams. If one or two doesn’t win quickly or we came up with a simple standard god saves us.</p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 07:39:14 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886680900567491000#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886680900567491000#m</link>
       </item>
       <item>
-        <title>Fractals are incredible powerful in too many areas of engineering and science.</title>
+        <title>gm. we’re solving preconfirmations and based rollups with friends. once we have something working we will launch a first testnet without proving. then with proving.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Fractals are incredible powerful in too many areas of engineering and science.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiy2a1ZWcAINgSX.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 02 Feb 2025 16:03:07 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1886082932227346606#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1886082932227346606#m</link>
+        <description><![CDATA[<p>gm. we’re solving preconfirmations and based rollups with friends. once we have something working we will launch a first testnet without proving. then with proving.</p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 07:21:17 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886676383365005748#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886676383365005748#m</link>
       </item>
       <item>
-        <title>Freedom! Freedom! Freedom!
-Hear the sound of broken chains,
-See noble equality enthroned.
+        <title>I agree with @AveryChing.
 
-From the new champions their faces
-Mars himself seems to inspire,
-And the gleam of their weapons
-Inspires great courage as well.
+If you want big beefy fast blockchains @Aptos has better design than @solana but is more centralized. Move is a great language too. Way better than Solidity or Rust in Anchor/SVM. I’m an Ethereum guy but I recognize Aptos tech.
 
-Come, O people, take heart!
-Victory crowns us at last!
-Let us swear with glory to die,
-Let us swear with glory to die!</title>
+I have 0 aptos bags and I have exposure to solana companies, I’m saying this because I like Aptos tech. 
+
+I will start buying at some point in time when I have more time to look into it. My focus right now is making Ethereum win on the long term.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Freedom! Freedom! Freedom!<br>
-Hear the sound of broken chains,<br>
-See noble equality enthroned.<br>
+        <description><![CDATA[<p>I agree with <a href="https://nitter.freedit.eu/AveryChing" title="avery.apt 🌐">@AveryChing</a>.<br>
 <br>
-From the new champions their faces<br>
-Mars himself seems to inspire,<br>
-And the gleam of their weapons<br>
-Inspires great courage as well.<br>
+If you want big beefy fast blockchains <a href="https://nitter.freedit.eu/Aptos" title="Aptos">@Aptos</a> has better design than <a href="https://nitter.freedit.eu/solana" title="Solana">@solana</a> but is more centralized. Move is a great language too. Way better than Solidity or Rust in Anchor/SVM. I’m an Ethereum guy but I recognize Aptos tech.<br>
 <br>
-Come, O people, take heart!<br>
-Victory crowns us at last!<br>
-Let us swear with glory to die,<br>
-Let us swear with glory to die!</p>
-<video poster="https://nitter.freedit.eu/pic/tweet_video_thumb%2FGiy1DtfXwAA5GNB.jpg" autoplay muted loop style="max-width:250px;">
-  <source src="https://nitter.freedit.eu/pic/video.twimg.com%2Ftweet_video%2FGiy1DtfXwAA5GNB.mp4" type="video/mp4"></video>]]></description>
-        <pubDate>Sun, 02 Feb 2025 15:57:09 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1886081429416579337#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1886081429416579337#m</link>
+I have 0 aptos bags and I have exposure to solana companies, I’m saying this because I like Aptos tech. <br>
+<br>
+I will start buying at some point in time when I have more time to look into it. My focus right now is making Ethereum win on the long term.</p>
+<p><a href="https://nitter.freedit.eu/AveryChing/status/1886558304060760132#m">nitter.freedit.eu/AveryChing/status/1886558304060760132#m</a></p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 07:10:47 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886673740357853689#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886673740357853689#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: We&apos;re sharing a post this week on what needs to be done to make Linea a based rollup.</title>
-        <dc:creator>@DeclanFox14</dc:creator>
-        <description><![CDATA[<p>We're sharing a post this week on what needs to be done to make Linea a based rollup.</p>]]></description>
-        <pubDate>Sun, 02 Feb 2025 15:26:15 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/DeclanFox14/status/1886073654905033173#m</guid>
-        <link>https://nitter.freedit.eu/DeclanFox14/status/1886073654905033173#m</link>
-      </item>
-      <item>
-        <title>List of some of the people I respect and like the most in crypto. I don’t agree every time with them and that’s why I like watching their talks and I like reading their accounts. They make me question myself and my beliefs.
-- @VitalikButerin
-- @sreeramkannan
-- @aeyakovenko
-- @musalbas
-- @drakefjustin
-- @EliBenSasson
-- @CryptoHayes
-- @LynAldenContact
-- @ercwl</title>
+        <title>The SOL maxis are going to be more unbearable than the BTC and ETH ones right?</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>List of some of the people I respect and like the most in crypto. I don’t agree every time with them and that’s why I like watching their talks and I like reading their accounts. They make me question myself and my beliefs.<br>
-- <a href="https://nitter.freedit.eu/VitalikButerin" title="vitalik.eth">@VitalikButerin</a><br>
-- <a href="https://nitter.freedit.eu/sreeramkannan" title="Sreeram Kannan">@sreeramkannan</a><br>
-- <a href="https://nitter.freedit.eu/aeyakovenko" title="toly 🇺🇸">@aeyakovenko</a><br>
-- <a href="https://nitter.freedit.eu/musalbas" title="Mustafa Al-Bassam">@musalbas</a><br>
-- <a href="https://nitter.freedit.eu/drakefjustin" title="Justin.eth Drake 🦇🔊">@drakefjustin</a><br>
-- <a href="https://nitter.freedit.eu/EliBenSasson" title="Eli Ben-Sasson">@EliBenSasson</a><br>
-- <a href="https://nitter.freedit.eu/CryptoHayes" title="Arthur Hayes">@CryptoHayes</a><br>
-- <a href="https://nitter.freedit.eu/LynAldenContact" title="Lyn Alden">@LynAldenContact</a><br>
-- <a href="https://nitter.freedit.eu/ercwl" title="eric.eth">@ercwl</a></p>]]></description>
-        <pubDate>Sun, 02 Feb 2025 15:43:09 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1886077906872307765#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1886077906872307765#m</link>
+        <description><![CDATA[<p>The SOL maxis are going to be more unbearable than the BTC and ETH ones right?</p>
+<p><a href="https://nitter.freedit.eu/QwQiao/status/1886553047775764621#m">nitter.freedit.eu/QwQiao/status/1886553047775764621#m</a></p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 07:06:07 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886672568188342352#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886672568188342352#m</link>
       </item>
       <item>
-        <title>I will be more clear: I believe @titanbuilderxyz is doing things correctly. I still need to study and learn more about alternatives but I like the fast engineering solution first to then complicate things.
+        <title>Since VCs are facing, and will continue to face, greater challenges investing in early rounds due to the rise of @echodotxyz and other platforms, and because high FDV rounds don’t generate real profits, the big players will shift toward trading, much like Brevan Howard. VCs with liquid funds will become even more mercenary. It’s just business.
 
-Based rollups are going to be faster than Solana. I’m writing a thread about it in the plane.</title>
+The real problem is that you can’t have mercenaries shaping the future of an open, long-term protocol that is meant to remain unbiased.
+
+Engineers and researchers are too naïve. They have no experience dealing with sharks.
+
+If a protocol’s future depends on traders, the conflict between short-term gains and long-term vision will be inevitable.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>I will be more clear: I believe <a href="https://nitter.freedit.eu/titanbuilderxyz" title="Titan Builder 🌕👷‍♂️">@titanbuilderxyz</a> is doing things correctly. I still need to study and learn more about alternatives but I like the fast engineering solution first to then complicate things.<br>
+        <description><![CDATA[<p>Since VCs are facing, and will continue to face, greater challenges investing in early rounds due to the rise of <a href="https://nitter.freedit.eu/echodotxyz" title="echo">@echodotxyz</a> and other platforms, and because high FDV rounds don’t generate real profits, the big players will shift toward trading, much like Brevan Howard. VCs with liquid funds will become even more mercenary. It’s just business.<br>
 <br>
-Based rollups are going to be faster than Solana. I’m writing a thread about it in the plane.</p>
-<p><a href="https://nitter.freedit.eu/fede_intern/status/1886052860267233587#m">nitter.freedit.eu/fede_intern/status/1886052860267233587#m</a></p>]]></description>
-        <pubDate>Sun, 02 Feb 2025 15:42:55 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1886077847179039065#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1886077847179039065#m</link>
+The real problem is that you can’t have mercenaries shaping the future of an open, long-term protocol that is meant to remain unbiased.<br>
+<br>
+Engineers and researchers are too naïve. They have no experience dealing with sharks.<br>
+<br>
+If a protocol’s future depends on traders, the conflict between short-term gains and long-term vision will be inevitable.</p>
+<p><a href="https://nitter.freedit.eu/0xBalloonLover/status/1886409012951826570#m">nitter.freedit.eu/0xBalloonLover/status/1886409012951826570#m</a></p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 06:51:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886668902094287017#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886668902094287017#m</link>
       </item>
       <item>
-        <title>gm miladies. tuesday i have one of the most important meetings in my life. about to take another long flight for that meeting. see you soon.</title>
+        <title>Fully agree with @ellierdavidson.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>gm miladies. tuesday i have one of the most important meetings in my life. about to take another long flight for that meeting. see you soon.</p>]]></description>
-        <pubDate>Sun, 02 Feb 2025 15:31:35 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1886074996331602346#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1886074996331602346#m</link>
+        <description><![CDATA[<p>Fully agree with <a href="https://nitter.freedit.eu/ellierdavidson" title="Ellie Davidson ☕️">@ellierdavidson</a>.</p>
+<p><a href="https://nitter.freedit.eu/ellierdavidson/status/1866855783146586292#m">nitter.freedit.eu/ellierdavidson/status/1866855783146586292#m</a></p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 06:31:32 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886663865938714923#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886663865938714923#m</link>
       </item>
       <item>
-        <title>Barcelona is amazing. The weather is incredible, as good as Buenos Aires.</title>
+        <title>The way to kill Lambda is to destroy 🧉 production. It’s what makes us deliver and work non stop.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Barcelona is amazing. The weather is incredible, as good as Buenos Aires.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiyuzKUWAAAN83a.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 02 Feb 2025 15:29:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1886074546844745752#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1886074546844745752#m</link>
+        <description><![CDATA[<p>The way to kill Lambda is to destroy 🧉 production. It’s what makes us deliver and work non stop.</p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 06:30:25 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886663584643735636#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886663584643735636#m</link>
       </item>
       <item>
-        <title>Based rollups and preconfirmations are easy to implement. We need to start with an MVP. Many teams are doing good work but it’s too theoretical and protocol like. We need to start with simple iterations and go to production asap.</title>
+        <title>They are not a VC, you’re analyzing things too formally. Paradigm and friends own between 1/3 and 1/2 of the chain and the apps on it. They are the core devs too. For them it makes sense to EIP influence all the things. Influence is their business.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Based rollups and preconfirmations are easy to implement. We need to start with an MVP. Many teams are doing good work but it’s too theoretical and protocol like. We need to start with simple iterations and go to production asap.</p>]]></description>
-        <pubDate>Sun, 02 Feb 2025 14:03:37 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1886052860267233587#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1886052860267233587#m</link>
+        <description><![CDATA[<p>They are not a VC, you’re analyzing things too formally. Paradigm and friends own between 1/3 and 1/2 of the chain and the apps on it. They are the core devs too. For them it makes sense to EIP influence all the things. Influence is their business.</p>
+<p><a href="https://nitter.freedit.eu/MaxResnick1/status/1886660443986415659#m">nitter.freedit.eu/MaxResnick1/status/1886660443986415659#m</a></p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 06:27:15 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886662785863438592#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886662785863438592#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: I’m really happy for him. One of the most passionate founders I met in the space. Hope we have more time to collaborate with them.</title>
-        <dc:creator>@rj_aligned</dc:creator>
-        <description><![CDATA[<p>I’m really happy for him. One of the most passionate founders I met in the space. Hope we have more time to collaborate with them.</p>]]></description>
-        <pubDate>Sun, 02 Feb 2025 04:03:56 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rj_aligned/status/1885901945832882392#m</guid>
-        <link>https://nitter.freedit.eu/rj_aligned/status/1885901945832882392#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: Eigenlayer: taking crypto mainstream!
-————————-
-Earnifi
-         The #5 Finance App in the App Store.
-          @OpacityNetwork ♾️ @eigenlayer
-————————-
-Problem 
-         I am a regular worker and want an advance. 
-————————-
-Today
-          Predatory pay day loans
-————————-
-Solution
-          Prove to the lender that the borrower receives x wages regularly (=genuine)
-————————-
-Unlock
-          Opacity provides powerful primtives for anyone to prove arbitrary claims about their bank account with privacy!  
-————————-
-Community 
-           This is made possible by the never-say-die, help-builders-build, overthrow-tyrants attitude of @Euler__Lagrange from opacity and the entrepreneurial spirit of @ArynChadha from Earnifi.
- ————————-
-Call to action 
-           Eigenlayer powers verifiability of arbitrary claims. Opacity powers private verifiability of all password-protected content. 
-
-           Come build the user-owned internet with us!</title>
-        <dc:creator>@sreeramkannan</dc:creator>
-        <description><![CDATA[<p>Eigenlayer: taking crypto mainstream!<br>
-————————-<br>
-Earnifi<br>
-         The #5 Finance App in the App Store.<br>
-          <a href="https://nitter.freedit.eu/OpacityNetwork" title="Opacity Network">@OpacityNetwork</a> ♾️ <a href="https://nitter.freedit.eu/eigenlayer" title="EigenLayer">@eigenlayer</a><br>
-————————-<br>
-Problem <br>
-         I am a regular worker and want an advance. <br>
-————————-<br>
-Today<br>
-          Predatory pay day loans<br>
-————————-<br>
-Solution<br>
-          Prove to the lender that the borrower receives x wages regularly (=genuine)<br>
-————————-<br>
-Unlock<br>
-          Opacity provides powerful primtives for anyone to prove arbitrary claims about their bank account with privacy!  <br>
-————————-<br>
-Community <br>
-           This is made possible by the never-say-die, help-builders-build, overthrow-tyrants attitude of <a href="https://nitter.freedit.eu/Euler__Lagrange" title="EulerLagrange.eth - tevm/acc">@Euler__Lagrange</a> from opacity and the entrepreneurial spirit of <a href="https://nitter.freedit.eu/ArynChadha" title="Aryn Chadha">@ArynChadha</a> from Earnifi.<br>
- ————————-<br>
-Call to action <br>
-           Eigenlayer powers verifiability of arbitrary claims. Opacity powers private verifiability of all password-protected content. <br>
-<br>
-           Come build the user-owned internet with us!</p>
-<p><a href="https://nitter.freedit.eu/MoneroMahesh/status/1885724000103371064#m">nitter.freedit.eu/MoneroMahesh/status/1885724000103371064#m</a></p>]]></description>
-        <pubDate>Sat, 01 Feb 2025 19:14:22 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/sreeramkannan/status/1885768674264731735#m</guid>
-        <link>https://nitter.freedit.eu/sreeramkannan/status/1885768674264731735#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: EigenLayer: taking crypto mainstream!
-
-Earnifi is the #5 Finance App in the App Store.
-
-What if lenders could verify wages privately -- no predatory loans needed?
-
-@OpacityNetwork ♾ @eigenlayer = trustless, private wage verification.
-
-Build the user-owned internet with us.</title>
-        <dc:creator>@eigenlayer</dc:creator>
-        <description><![CDATA[<p>EigenLayer: taking crypto mainstream!<br>
-<br>
-Earnifi is the #5 Finance App in the App Store.<br>
-<br>
-What if lenders could verify wages privately -- no predatory loans needed?<br>
-<br>
-<a href="https://nitter.freedit.eu/OpacityNetwork" title="Opacity Network">@OpacityNetwork</a> ♾ <a href="https://nitter.freedit.eu/eigenlayer" title="EigenLayer">@eigenlayer</a> = trustless, private wage verification.<br>
-<br>
-Build the user-owned internet with us.</p>
-<p><a href="https://nitter.freedit.eu/sreeramkannan/status/1885768674264731735#m">nitter.freedit.eu/sreeramkannan/status/1885768674264731735#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiuaNMDXUAAXdPa.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 01 Feb 2025 19:32:43 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/eigenlayer/status/1885773292629307853#m</guid>
-        <link>https://nitter.freedit.eu/eigenlayer/status/1885773292629307853#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: @Euler__Lagrange most underrated founder out there imo</title>
-        <dc:creator>@dabit3</dc:creator>
-        <description><![CDATA[<p><a href="https://nitter.freedit.eu/Euler__Lagrange" title="EulerLagrange.eth - tevm/acc">@Euler__Lagrange</a> most underrated founder out there imo</p>]]></description>
-        <pubDate>Sun, 02 Feb 2025 03:17:05 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/dabit3/status/1885890155774452109#m</guid>
-        <link>https://nitter.freedit.eu/dabit3/status/1885890155774452109#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: 🫡</title>
-        <dc:creator>@Euler__Lagrange</dc:creator>
-        <description><![CDATA[<p>🫡</p>
-<p><a href="https://nitter.freedit.eu/Euler__Lagrange/status/1885807317981004040#m">nitter.freedit.eu/Euler__Lagrange/status/1885807317981004040#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiwCZrJXYAAUVOQ.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 02 Feb 2025 02:56:33 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/Euler__Lagrange/status/1885884987678855205#m</guid>
-        <link>https://nitter.freedit.eu/Euler__Lagrange/status/1885884987678855205#m</link>
-      </item>
-      <item>
-        <title>Thanks to @eigenlayer you can create things like this. Great work @OpacityNetwork.</title>
+        <title>Buy gold, bitcoin and ethereum.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Thanks to <a href="https://nitter.freedit.eu/eigenlayer" title="EigenLayer">@eigenlayer</a> you can create things like this. Great work <a href="https://nitter.freedit.eu/OpacityNetwork" title="Opacity Network">@OpacityNetwork</a>.</p>
-<p><a href="https://nitter.freedit.eu/dabit3/status/1885797100492874052#m">nitter.freedit.eu/dabit3/status/1885797100492874052#m</a></p>]]></description>
-        <pubDate>Sun, 02 Feb 2025 02:50:29 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1885883458582450336#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1885883458582450336#m</link>
+        <description><![CDATA[<p>Buy gold, bitcoin and ethereum.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGi6-TDTWYAAQHB9.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 04 Feb 2025 05:54:27 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886654534337835348#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886654534337835348#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: bump in the road, then stupids amount of printing. Trump won’t solve the deficit of the US. Even if he wanted, the US needs to have a deficit to export the dollar worldwide. This is the problem of having a global currency. I’m very bullish the US medium term. Europe is fucked with its policy of being an US ally and depending on their expensive energy. All talent of the west will go to US. The problem is that short term there are imbalances similar to the ones of Argentina during the last decades (with the advantage of not having debt denominated in other currency). They will have to print to solve it.
+
+Gold, bitcoin, ethereum (i think it’s becoming very cheap relative to competitors) and Treasury Inflation-Protected Securities (TIPS) to hedge. If you can buy a call OTM on an eurodollar contract or put on SPX or SPY OTM it’s a great idea too: volatility is super cheap relative to the problems.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>bump in the road, then stupids amount of printing. Trump won’t solve the deficit of the US. Even if he wanted, the US needs to have a deficit to export the dollar worldwide. This is the problem of having a global currency. I’m very bullish the US medium term. Europe is fucked with its policy of being an US ally and depending on their expensive energy. All talent of the west will go to US. The problem is that short term there are imbalances similar to the ones of Argentina during the last decades (with the advantage of not having debt denominated in other currency). They will have to print to solve it.<br>
+<br>
+Gold, bitcoin, ethereum (i think it’s becoming very cheap relative to competitors) and Treasury Inflation-Protected Securities (TIPS) to hedge. If you can buy a call OTM on an eurodollar contract or put on SPX or SPY OTM it’s a great idea too: volatility is super cheap relative to the problems.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGi69VUDXAAADTG-.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 04 Feb 2025 05:50:15 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886653474626007336#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886653474626007336#m</link>
+      </item>
+      <item>
+        <title>Shared bridges for a cluster of rollups or intent based bridges for rollups aren’t a solution for Ethereum liquidity fragmentation problem.
+
+The two solutions work but:
+- the first one is not a solution for Ethereum, so please stop presenting it as if it was
+- the second one needs market makers and is not usable for any asset
+
+We’re building the two but these are patches to the problem. Based native rollups with preconfirmations look like the most viable solution but I’m still thinking about the downsides.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>Shared bridges for a cluster of rollups or intent based bridges for rollups aren’t a solution for Ethereum liquidity fragmentation problem.<br>
+<br>
+The two solutions work but:<br>
+- the first one is not a solution for Ethereum, so please stop presenting it as if it was<br>
+- the second one needs market makers and is not usable for any asset<br>
+<br>
+We’re building the two but these are patches to the problem. Based native rollups with preconfirmations look like the most viable solution but I’m still thinking about the downsides.</p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 05:44:11 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886651949191221263#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886651949191221263#m</link>
+      </item>
+      <item>
+        <title>R to @fede_intern: have to say.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>have to say.</p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 05:35:40 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886649806115746145#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886649806115746145#m</link>
+      </item>
+      <item>
+        <title>If you want to understand what’s about to happen listen what Ray Dalio, Stanley Druckenmiller, Lyn Alden and Arthur Hayes.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>If you want to understand what’s about to happen listen what Ray Dalio, Stanley Druckenmiller, Lyn Alden and Arthur Hayes.</p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 05:27:47 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886647821043916855#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886647821043916855#m</link>
+      </item>
+      <item>
+        <title>This is very bad advice:
+1. If Uniswap did this it wouldn’t have won against Raydium, Raydium has been in Solana for ages. No chance of winning there.
+2. It would have alienated its current base of users and it would have put its strength at risk.
+3. Let’s see in a year or two if you’re right. I believe we shouldn’t be far away from a bounce in price and volume in Ethereum.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>This is very bad advice:<br>
+1. If Uniswap did this it wouldn’t have won against Raydium, Raydium has been in Solana for ages. No chance of winning there.<br>
+2. It would have alienated its current base of users and it would have put its strength at risk.<br>
+3. Let’s see in a year or two if you’re right. I believe we shouldn’t be far away from a bounce in price and volume in Ethereum.</p>
+<p><a href="https://nitter.freedit.eu/MaxResnick1/status/1886638973386174623#m">nitter.freedit.eu/MaxResnick1/status/1886638973386174623#m</a></p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 05:08:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886643029148098907#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886643029148098907#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: In my opinion, it’s a great time to add $ETH.</title>
+        <dc:creator>@EricTrump</dc:creator>
+        <description><![CDATA[<p>In my opinion, it’s a great time to add <a href="https://nitter.freedit.eu/search?q=%23ETH">$ETH</a>.</p>]]></description>
+        <pubDate>Mon, 03 Feb 2025 22:23:50 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/EricTrump/status/1886541132903133230#m</guid>
+        <link>https://nitter.freedit.eu/EricTrump/status/1886541132903133230#m</link>
+      </item>
+      <item>
+        <title>With all due respect this is a joke: Ethereum has enormous adoption and too many teams are working on incredible use cases right now.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>With all due respect this is a joke: Ethereum has enormous adoption and too many teams are working on incredible use cases right now.</p>
+<p><a href="https://nitter.freedit.eu/pokerchessman/status/1886507142296805528#m">nitter.freedit.eu/pokerchessman/status/1886507142296805528#m</a></p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 04:18:03 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886630270893187298#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886630270893187298#m</link>
+      </item>
+      <item>
+        <title>R to @fede_intern: url: https://huntr.com/bounties/f115fe52-58af-4844-ad29-b1c25f7245df</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>url: <a href="https://huntr.com/bounties/f115fe52-58af-4844-ad29-b1c25f7245df">huntr.com/bounties/f115fe52-…</a></p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 04:12:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1886628932520136757#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1886628932520136757#m</link>
       </item>
 
   </channel>

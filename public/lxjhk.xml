@@ -16,6 +16,67 @@
       <height>128</height>
     </image>
       <item>
+        <title>fun fact: block time might not be as important as ppl think they are</title>
+        <dc:creator>@lxjhk</dc:creator>
+        <description><![CDATA[<p>fun fact: block time might not be as important as ppl think they are</p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 23:19:25 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/lxjhk/status/1886917507161973110#m</guid>
+        <link>https://nitter.freedit.eu/lxjhk/status/1886917507161973110#m</link>
+      </item>
+      <item>
+        <title>RT by @lxjhk: Solana, the most actively used L1 blockchain, offers a multitude of advantages.
+
+How does Solana SVM enhance scalability, enable interoperability, and unlock untapped liquidity?
+
+Join with top-tier projects of SVM Alliance: @SonicSVM, @soon_svm, and @solayer_labs —as we discuss and explore more details about the future of SVM in 2025.
+
+Tune in on Feb. 5th at 3 PM UTC for the latest insights! 
+https://twitter.com/i/spaces/1MnxnDPDRVwGO</title>
+        <dc:creator>@ZeusNetworkHQ</dc:creator>
+        <description><![CDATA[<p>Solana, the most actively used L1 blockchain, offers a multitude of advantages.<br>
+<br>
+How does Solana SVM enhance scalability, enable interoperability, and unlock untapped liquidity?<br>
+<br>
+Join with top-tier projects of SVM Alliance: <a href="https://nitter.freedit.eu/SonicSVM" title="Sonic SVM">@SonicSVM</a>, <a href="https://nitter.freedit.eu/soon_svm" title="SOON - Solana Optimistic Network (Mainnet Arc)">@soon_svm</a>, and <a href="https://nitter.freedit.eu/solayer_labs" title="Solayer">@solayer_labs</a> —as we discuss and explore more details about the future of SVM in 2025.<br>
+<br>
+Tune in on Feb. 5th at 3 PM UTC for the latest insights! <br>
+<a href="https://nitter.freedit.eu/i/spaces/1MnxnDPDRVwGO">nitter.freedit.eu/i/spaces/1MnxnDP…</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGi9MarKbQAAH2JE.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 04 Feb 2025 16:15:24 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ZeusNetworkHQ/status/1886810798758223978#m</guid>
+        <link>https://nitter.freedit.eu/ZeusNetworkHQ/status/1886810798758223978#m</link>
+      </item>
+      <item>
+        <title>RT by @lxjhk: After the release of whitepaper @StoryProtocol !</title>
+        <dc:creator>@leo_hao</dc:creator>
+        <description><![CDATA[<p>After the release of whitepaper <a href="https://nitter.freedit.eu/StoryProtocol" title="Story (꧁IP꧂)">@StoryProtocol</a> !</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGi9aV89a4AAkVgI.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGi9aXHMa4AcazLy.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 04 Feb 2025 17:17:19 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/leo_hao/status/1886826381952287131#m</guid>
+        <link>https://nitter.freedit.eu/leo_hao/status/1886826381952287131#m</link>
+      </item>
+      <item>
+        <title>R to @lxjhk: Only SendTransaction POST accepted by this end point.</title>
+        <dc:creator>@lxjhk</dc:creator>
+        <description><![CDATA[<p>Only SendTransaction POST accepted by this end point.</p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 09:47:25 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/lxjhk/status/1886713160763113505#m</guid>
+        <link>https://nitter.freedit.eu/lxjhk/status/1886713160763113505#m</link>
+      </item>
+      <item>
+        <title>It looks like there’s a lot of fight about transaction sending. Hey, Solayer has a free endpoint! 
+
+http://acc.solayer.org</title>
+        <dc:creator>@lxjhk</dc:creator>
+        <description><![CDATA[<p>It looks like there’s a lot of fight about transaction sending. Hey, Solayer has a free endpoint! <br>
+<br>
+<a href="http://acc.solayer.org">acc.solayer.org</a></p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 09:46:40 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/lxjhk/status/1886712971956773230#m</guid>
+        <link>https://nitter.freedit.eu/lxjhk/status/1886712971956773230#m</link>
+      </item>
+      <item>
         <title>there is no perfect horizontal scaling solution for organizations – more friction and bureaucracies as you add ppl
 
 empower ppl with ai tools and get them to scale vertically</title>
@@ -266,49 +327,6 @@ but I've never been more convinced that it's worth investing in.</p>
         <pubDate>Tue, 28 Jan 2025 22:57:59 GMT</pubDate>
         <guid>https://nitter.freedit.eu/lxjhk/status/1884375398999547918#m</guid>
         <link>https://nitter.freedit.eu/lxjhk/status/1884375398999547918#m</link>
-      </item>
-      <item>
-        <title>Solayer lab’s tx acceleration endpoint. Works really well! 
-
-http://acc.solayer.org
-
-Only accepts sendTransaction method.</title>
-        <dc:creator>@lxjhk</dc:creator>
-        <description><![CDATA[<p>Solayer lab’s tx acceleration endpoint. Works really well! <br>
-<br>
-<a href="http://acc.solayer.org">acc.solayer.org</a><br>
-<br>
-Only accepts sendTransaction method.</p>]]></description>
-        <pubDate>Tue, 28 Jan 2025 22:40:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/lxjhk/status/1884371070691729697#m</guid>
-        <link>https://nitter.freedit.eu/lxjhk/status/1884371070691729697#m</link>
-      </item>
-      <item>
-        <title>respect for paradigm</title>
-        <dc:creator>@lxjhk</dc:creator>
-        <description><![CDATA[<p>respect for paradigm</p>
-<p><a href="https://nitter.freedit.eu/matthuang/status/1884358182082163162#m">nitter.freedit.eu/matthuang/status/1884358182082163162#m</a></p>]]></description>
-        <pubDate>Tue, 28 Jan 2025 22:33:40 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/lxjhk/status/1884369278029488457#m</guid>
-        <link>https://nitter.freedit.eu/lxjhk/status/1884369278029488457#m</link>
-      </item>
-      <item>
-        <title>shocked</title>
-        <dc:creator>@lxjhk</dc:creator>
-        <description><![CDATA[<p>shocked</p>
-<p><a href="https://nitter.freedit.eu/rstormsf/status/1882100012513186283#m">nitter.freedit.eu/rstormsf/status/1882100012513186283#m</a></p>]]></description>
-        <pubDate>Tue, 28 Jan 2025 22:33:21 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/lxjhk/status/1884369197536534763#m</guid>
-        <link>https://nitter.freedit.eu/lxjhk/status/1884369197536534763#m</link>
-      </item>
-      <item>
-        <title>i predict that this account is gonna issue a meme coin very soon</title>
-        <dc:creator>@lxjhk</dc:creator>
-        <description><![CDATA[<p>i predict that this account is gonna issue a meme coin very soon</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiZ7d__aQAEqk2Z.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 28 Jan 2025 19:54:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/lxjhk/status/1884329257981370497#m</guid>
-        <link>https://nitter.freedit.eu/lxjhk/status/1884329257981370497#m</link>
       </item>
 
   </channel>

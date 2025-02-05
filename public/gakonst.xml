@@ -16,6 +16,94 @@
       <height>128</height>
     </image>
       <item>
+        <title>spinner-level UX for zkemail recovery! so good.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>spinner-level UX for zkemail recovery! so good.</p>
+<p><a href="https://nitter.freedit.eu/Zac_Aztec/status/1886732228731838702#m">nitter.freedit.eu/Zac_Aztec/status/1886732228731838702#m</a></p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 17:19:26 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1886826912405971147#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1886826912405971147#m</link>
+      </item>
+      <item>
+        <title>anyone got a local fee market impl for evms?</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>anyone got a local fee market impl for evms?</p>]]></description>
+        <pubDate>Tue, 04 Feb 2025 17:18:46 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1886826747104281060#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1886826747104281060#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Can&apos;t wait for people to start doing cross Layer 2 interoperability by using market makers that hold inventory risk on the L1
+
+The experienced reader will know that this is basically the @Interledger vision</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Can't wait for people to start doing cross Layer 2 interoperability by using market makers that hold inventory risk on the L1<br>
+<br>
+The experienced reader will know that this is basically the <a href="https://nitter.freedit.eu/Interledger" title="Interledger Foundation">@Interledger</a> vision</p>
+<img src="https://nitter.freedit.eu/pic/media%2FEjLS8-cXsAA0Y1q.png" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 30 Sep 2020 16:31:20 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1311342880146042881#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1311342880146042881#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: book.getfoundry.sh/guides/v1…</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p><a href="https://book.getfoundry.sh/guides/v1.0-migration">book.getfoundry.sh/guides/v1…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1885747964733501440%2FuijMkuVS%3Fformat%3Dpng%26name%3D280x280_2" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 03 Feb 2025 17:39:36 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1886469599463714933#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1886469599463714933#m</link>
+      </item>
+      <item>
+        <title>🚨 We have cut the Foundry v1.0 Release Candidate, and published a migration guide. 🚨
+
+Run `foundryup -i rc` to get the RC binaries and try it out. 
+
+It is important to us we get your feedback as this is the last step before the official 1.0 release after three years.
+
+Docs link in thread below.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>🚨 We have cut the Foundry v1.0 Release Candidate, and published a migration guide. 🚨<br>
+<br>
+Run `foundryup -i rc` to get the RC binaries and try it out. <br>
+<br>
+It is important to us we get your feedback as this is the last step before the official 1.0 release after three years.<br>
+<br>
+Docs link in thread below.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGi4VsjKa4Acg5i0.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 03 Feb 2025 17:39:35 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1886469597685276698#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1886469597685276698#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: 1/ Today, we’re releasing ZKP2P V2—our next iteration of a trust-minimized, instant on/offramp protocol
+
+Onramp to USDC, ETH, cbBTC and more across any chain using Venmo, CashApp, Wise, or Revolut. No fees, no extra ID checks, and in under 60 seconds—settled on @base</title>
+        <dc:creator>@zkp2p</dc:creator>
+        <description><![CDATA[<p>1/ Today, we’re releasing ZKP2P V2—our next iteration of a trust-minimized, instant on/offramp protocol<br>
+<br>
+Onramp to USDC, ETH, cbBTC and more across any chain using Venmo, CashApp, Wise, or Revolut. No fees, no extra ID checks, and in under 60 seconds—settled on <a href="https://nitter.freedit.eu/base" title="Base">@base</a></p>
+<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1886416343383343104%2Fpu%2Fimg%2FdsmxblawcFBxHmlN.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 03 Feb 2025 14:51:32 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/zkp2p/status/1886427304223744026#m</guid>
+        <link>https://nitter.freedit.eu/zkp2p/status/1886427304223744026#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: We don&apos;t want to fight, but wrong.
+
+1. One of the maintainers is an employee of Cloudflare, but Cloudflare is not a sponsor
+2. The benchmark results on the website are correct (what should be benchmarked depends on your approach)</title>
+        <dc:creator>@honojs</dc:creator>
+        <description><![CDATA[<p>We don't want to fight, but wrong.<br>
+<br>
+1. One of the maintainers is an employee of Cloudflare, but Cloudflare is not a sponsor<br>
+2. The benchmark results on the website are correct (what should be benchmarked depends on your approach)</p>
+<p><a href="https://nitter.freedit.eu/matteocollina/status/1886119395124035752#m">nitter.freedit.eu/matteocollina/status/1886119395124035752#m</a></p>]]></description>
+        <pubDate>Sun, 02 Feb 2025 19:35:55 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/honojs/status/1886136486703387075#m</guid>
+        <link>https://nitter.freedit.eu/honojs/status/1886136486703387075#m</link>
+      </item>
+      <item>
         <title>RT by @gakonst: not attending denver or any travel in coming months, fully heads down. this is a very important year. people should not forget that the #1 priority is shipping, and shipping, and shipping more.</title>
         <dc:creator>@gakonst</dc:creator>
         <description><![CDATA[<p>not attending denver or any travel in coming months, fully heads down. this is a very important year. people should not forget that the #1 priority is shipping, and shipping, and shipping more.</p>]]></description>
@@ -172,7 +260,7 @@ pleasure to do this great work w/ <a href="https://nitter.freedit.eu/Irreducible
         <title>R to @gakonst: paradigm.xyz/2022/07/experim…</title>
         <dc:creator>@gakonst</dc:creator>
         <description><![CDATA[<p><a href="https://www.paradigm.xyz/2022/07/experiment-narwhal-bullshark-cosmos-stack">paradigm.xyz/2022/07/experim…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1881707852789682176%2Fw_K5st_V%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1884247102508654592%2FJ2Uc28JT%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Fri, 31 Jan 2025 17:42:50 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1885383252900487533#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1885383252900487533#m</link>
@@ -194,111 +282,6 @@ pleasure to do this great work w/ <a href="https://nitter.freedit.eu/Irreducible
         <pubDate>Fri, 31 Jan 2025 17:39:29 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1885382406196343147#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1885382406196343147#m</link>
-      </item>
-      <item>
-        <title>Feedback was heard Foundry Book has better docs now for multi chain deployments</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Feedback was heard Foundry Book has better docs now for multi chain deployments</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGio5MUKaoAA35f-.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 31 Jan 2025 17:39:13 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1885382340580679843#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1885382340580679843#m</link>
-      </item>
-      <item>
-        <title>tbh I would accept a PR that does this, whether it&apos;s with hard-coded tooltips, or with anything AI-generated from the Foundry book. LMK if anyone has a proposal.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>tbh I would accept a PR that does this, whether it's with hard-coded tooltips, or with anything AI-generated from the Foundry book. LMK if anyone has a proposal.</p>
-<p><a href="https://nitter.freedit.eu/emo_eth/status/1883940473934602639#m">nitter.freedit.eu/emo_eth/status/1883940473934602639#m</a></p>]]></description>
-        <pubDate>Fri, 31 Jan 2025 17:36:57 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1885381771665301642#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1885381771665301642#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: learn more at
-
-framesv2 dot com</title>
-        <dc:creator>@farcaster_xyz</dc:creator>
-        <description><![CDATA[<p>learn more at<br>
-<br>
-framesv2 dot com</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGikLHp2bYAQ2izx.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 30 Jan 2025 19:39:27 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/farcaster_xyz/status/1885050210424181234#m</guid>
-        <link>https://nitter.freedit.eu/farcaster_xyz/status/1885050210424181234#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Excited to deepen our collaboration with @IrreducibleHW alongside our friends @gakonst and Paradigm
-
-@radi_cojbasic and @jimpo_potamus are assembling a remarkable team that will make verifiability ubiquitous</title>
-        <dc:creator>@alexhevans</dc:creator>
-        <description><![CDATA[<p>Excited to deepen our collaboration with <a href="https://nitter.freedit.eu/IrreducibleHW" title="Irreducible">@IrreducibleHW</a> alongside our friends <a href="https://nitter.freedit.eu/gakonst" title="Georgios Konstantopoulos">@gakonst</a> and Paradigm<br>
-<br>
-<a href="https://nitter.freedit.eu/radi_cojbasic" title="Radisav Cojbasic">@radi_cojbasic</a> and <a href="https://nitter.freedit.eu/jimpo_potamus" title="Jim Posen">@jimpo_potamus</a> are assembling a remarkable team that will make verifiability ubiquitous</p>
-<p><a href="https://nitter.freedit.eu/IrreducibleHW/status/1885007516670578872#m">nitter.freedit.eu/IrreducibleHW/status/1885007516670578872#m</a></p>]]></description>
-        <pubDate>Thu, 30 Jan 2025 17:51:34 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/alexhevans/status/1885023062229496034#m</guid>
-        <link>https://nitter.freedit.eu/alexhevans/status/1885023062229496034#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Static Assets just landed in Workers for Platforms!🚀
-
-🌍 Host your customer&apos;s static sites directly on CF
-⚡ Serve front-end &amp; backend from one Worker
-📈 Scales seamlessly
-🔥 Built-in caching for fast load times
-
-We handle the infra so you don’t have to 🤗https://developers.cloudflare.com/cloudflare-for-platforms/workers-for-platforms/configuration/static-assets/</title>
-        <dc:creator>@dinasaur_404</dc:creator>
-        <description><![CDATA[<p>Static Assets just landed in Workers for Platforms!🚀<br>
-<br>
-🌍 Host your customer's static sites directly on CF<br>
-⚡ Serve front-end &amp; backend from one Worker<br>
-📈 Scales seamlessly<br>
-🔥 Built-in caching for fast load times<br>
-<br>
-We handle the infra so you don’t have to 🤗<a href="https://developers.cloudflare.com/cloudflare-for-platforms/workers-for-platforms/configuration/static-assets/">developers.cloudflare.com/cl…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1883790147772108800%2FrTDeeACi%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 30 Jan 2025 22:33:44 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/dinasaur_404/status/1885094070453686594#m</guid>
-        <link>https://nitter.freedit.eu/dinasaur_404/status/1885094070453686594#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: callbacks with durable objects are weird 
-(but it&apos;s also convenient to solve human-in-the-loop for ai agents) 
-
-tl;dr - by defining callbacks as data, we can let durable objects &quot;sleep&quot; while it&apos;s waiting for a timer/email/webhook/phone call/whatever. demo borked a little bit, I blame openai, but it all stilkl worked.
-
-that&apos;s video 2. gnight!</title>
-        <dc:creator>@threepointone</dc:creator>
-        <description><![CDATA[<p>callbacks with durable objects are weird <br>
-(but it's also convenient to solve human-in-the-loop for ai agents) <br>
-<br>
-tl;dr - by defining callbacks as data, we can let durable objects "sleep" while it's waiting for a timer/email/webhook/phone call/whatever. demo borked a little bit, I blame openai, but it all stilkl worked.<br>
-<br>
-that's video 2. gnight!</p>
-<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1885118731233181697%2Fpu%2Fimg%2FypqjNW3ddG-SUPsD.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 31 Jan 2025 00:14:29 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/threepointone/status/1885119427223707872#m</guid>
-        <link>https://nitter.freedit.eu/threepointone/status/1885119427223707872#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Spark uses Foundry multichain support quite heavily for our cross-chain governance.
-
-The xchain-helpers library has support to simulate relaying messages over most major bridge types (OP Stack, Arbitrum Orbit, CCTP, AMB)
-
-https://github.com/marsfoundation/xchain-helpers</title>
-        <dc:creator>@hexonaut</dc:creator>
-        <description><![CDATA[<p>Spark uses Foundry multichain support quite heavily for our cross-chain governance.<br>
-<br>
-The xchain-helpers library has support to simulate relaying messages over most major bridge types (OP Stack, Arbitrum Orbit, CCTP, AMB)<br>
-<br>
-<a href="https://github.com/marsfoundation/xchain-helpers">github.com/marsfoundation/xc…</a></p>
-<p><a href="https://nitter.freedit.eu/gakonst/status/1885066852176724377#m">nitter.freedit.eu/gakonst/status/1885066852176724377#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGika8lqaAAAc3Ww.jpg" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGika8lpbYAUyDP4.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 30 Jan 2025 20:52:29 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/hexonaut/status/1885068591089025101#m</guid>
-        <link>https://nitter.freedit.eu/hexonaut/status/1885068591089025101#m</link>
       </item>
 
   </channel>

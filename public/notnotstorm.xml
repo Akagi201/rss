@@ -16,6 +16,19 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @notnotstorm: For the first time in Ethereum PoS, validators have voted to increase the gas limit and it&apos;s happening now. 🎉
+
+We saw the last gas limit increase with the London hardfork in August 2021, still PoW.</title>
+        <dc:creator>@nero_eth</dc:creator>
+        <description><![CDATA[<p>For the first time in Ethereum PoS, validators have voted to increase the gas limit and it's happening now. 🎉<br>
+<br>
+We saw the last gas limit increase with the London hardfork in August 2021, still PoW.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGi7Jd47XsAAKGbL.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 04 Feb 2025 06:43:15 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/nero_eth/status/1886666811510239272#m</guid>
+        <link>https://nitter.freedit.eu/nero_eth/status/1886666811510239272#m</link>
+      </item>
+      <item>
         <title>snowflake and other data warehouses charge massive margins. would love to see a crypto-powered alternative chip away at those margins and create a more competitive + liquid marketplace</title>
         <dc:creator>@notnotstorm</dc:creator>
         <description><![CDATA[<p>snowflake and other data warehouses charge massive margins. would love to see a crypto-powered alternative chip away at those margins and create a more competitive + liquid marketplace</p>
@@ -132,7 +145,7 @@ https://mirror.xyz/nixo.eth/TS-GwCEAKD_UTOE2_SCA_eFWyHstVAtGGn2Hu8mMezQ</title>
         <description><![CDATA[<p>I aggregated some info on the EF R&amp;D teams today - descriptions, research, repos, general links. I drafted it for the EF internship applicants, but it got to a place where it seemed like it would be a good resource for the community as a whole.<br>
 <br>
 <a href="https://mirror.xyz/nixo.eth/TS-GwCEAKD_UTOE2_SCA_eFWyHstVAtGGn2Hu8mMezQ">mirror.xyz/nixo.eth/TS-GwCEA…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1881932998939197440%2Ff7buc10h%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1884982760051544064%2FeODWBUuR%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Wed, 22 Jan 2025 01:33:23 GMT</pubDate>
         <guid>https://nitter.freedit.eu/nixorokish/status/1881877792515911845#m</guid>
         <link>https://nitter.freedit.eu/nixorokish/status/1881877792515911845#m</link>
@@ -262,20 +275,6 @@ caching 100K accounts could make &gt;80% of account accesses super cheap</p>
         <pubDate>Wed, 08 Jan 2025 18:43:52 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1877063689045483924#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1877063689045483924#m</link>
-      </item>
-      <item>
-        <title>cache-aware storage pricing would be a nice boost for scaling ethereum L1
-
-if node clients cached 100K storage slots, that could make &gt;50% of all storage reads virtually free (and it would require only 10&apos;s of MB&apos;s of memory)</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>cache-aware storage pricing would be a nice boost for scaling ethereum L1<br>
-<br>
-if node clients cached 100K storage slots, that could make &gt;50% of all storage reads virtually free (and it would require only 10's of MB's of memory)</p>
-<p><a href="https://nitter.freedit.eu/adietrichs/status/1877021863412482356#m">nitter.freedit.eu/adietrichs/status/1877021863412482356#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgymd9SagAAWclQ.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 08 Jan 2025 18:43:51 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1877063686529102179#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1877063686529102179#m</link>
       </item>
 
   </channel>

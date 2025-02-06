@@ -16,6 +16,38 @@
       <height>128</height>
     </image>
       <item>
+        <title>Any Rust MEV searcher friends that are tired of searching and want to build interop-related software? LMK!</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Any Rust MEV searcher friends that are tired of searching and want to build interop-related software? LMK!</p>]]></description>
+        <pubDate>Wed, 05 Feb 2025 22:23:37 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1887265854024523841#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1887265854024523841#m</link>
+      </item>
+      <item>
+        <title>ERC4337 bundling across users seems like a non-usecase? what do you really save? 21k gas of compute per user&apos;s batch? peanuts. what do you tradeoff? smart contract complexity, not having 1:1 mapping between user action and on-chain operation, latency for users waiting to be bundled with other users...if you say BLS sig aggregation I&apos;ll answer that you haven&apos;t measured the cost of pairings for verifying across multiple users w/ diff messages (not 1 user)</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>ERC4337 bundling across users seems like a non-usecase? what do you really save? 21k gas of compute per user's batch? peanuts. what do you tradeoff? smart contract complexity, not having 1:1 mapping between user action and on-chain operation, latency for users waiting to be bundled with other users...if you say BLS sig aggregation I'll answer that you haven't measured the cost of pairings for verifying across multiple users w/ diff messages (not 1 user)</p>]]></description>
+        <pubDate>Wed, 05 Feb 2025 20:53:26 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1887243154740674941#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1887243154740674941#m</link>
+      </item>
+      <item>
+        <title>what priors would you update if you believed that you can move assets across chains &amp; execute actions with these assets with &lt;10bps slippage, &lt;1s latency, 1 click, accessible from any crypto app?</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>what priors would you update if you believed that you can move assets across chains &amp; execute actions with these assets with &lt;10bps slippage, &lt;1s latency, 1 click, accessible from any crypto app?</p>]]></description>
+        <pubDate>Wed, 05 Feb 2025 19:44:17 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1887225755505131728#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1887225755505131728#m</link>
+      </item>
+      <item>
+        <title>does any account abstraction infra company make any money? making money on bundling doesn&apos;t feel it, neither does making a spread on gas sponsored? maybe i m mistaken?</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>does any account abstraction infra company make any money? making money on bundling doesn't feel it, neither does making a spread on gas sponsored? maybe i m mistaken?</p>]]></description>
+        <pubDate>Wed, 05 Feb 2025 02:42:52 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1886968706934432249#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1886968706934432249#m</link>
+      </item>
+      <item>
         <title>spinner-level UX for zkemail recovery! so good.</title>
         <dc:creator>@gakonst</dc:creator>
         <description><![CDATA[<p>spinner-level UX for zkemail recovery! so good.</p>
@@ -229,59 +261,6 @@ if you make it through, <a href="https://nitter.freedit.eu/optimizoor" title="ve
         <pubDate>Fri, 31 Jan 2025 19:55:31 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1885416640453763484#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1885416640453763484#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: thrilled to announce that 𝘚𝘶𝘤𝘤𝘪𝘯𝘤𝘵 𝘈𝘳𝘨𝘶𝘮𝘦𝘯𝘵𝘴 𝘰𝘷𝘦𝘳 𝘛𝘰𝘸𝘦𝘳𝘴 𝘰𝘧 𝘉𝘪𝘯𝘢𝘳𝘺 𝘍𝘪𝘦𝘭𝘥𝘴, joint with @jimpo_potamus, has been accepted to EUROCRYPT.
-
-pleasure to do this great work w/ @IrreducibleHW—we are just getting started.
-
-https://eprint.iacr.org/2023/1784</title>
-        <dc:creator>@benediamond</dc:creator>
-        <description><![CDATA[<p>thrilled to announce that 𝘚𝘶𝘤𝘤𝘪𝘯𝘤𝘵 𝘈𝘳𝘨𝘶𝘮𝘦𝘯𝘵𝘴 𝘰𝘷𝘦𝘳 𝘛𝘰𝘸𝘦𝘳𝘴 𝘰𝘧 𝘉𝘪𝘯𝘢𝘳𝘺 𝘍𝘪𝘦𝘭𝘥𝘴, joint with <a href="https://nitter.freedit.eu/jimpo_potamus" title="Jim Posen">@jimpo_potamus</a>, has been accepted to EUROCRYPT.<br>
-<br>
-pleasure to do this great work w/ <a href="https://nitter.freedit.eu/IrreducibleHW" title="Irreducible">@IrreducibleHW</a>—we are just getting started.<br>
-<br>
-<a href="https://eprint.iacr.org/2023/1784">eprint.iacr.org/2023/1784</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1884654293959270400%2Fm3rwGTW9%3Fformat%3Dpng%26name%3D280x280_2" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 31 Jan 2025 18:07:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/benediamond/status/1885389414404182346#m</guid>
-        <link>https://nitter.freedit.eu/benediamond/status/1885389414404182346#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: github.com/gakonst/narwhal-a…</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p><a href="https://github.com/gakonst/narwhal-abci-evm">github.com/gakonst/narwhal-a…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1885383249247297538%2F1_Qyq22u%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 31 Jan 2025 17:42:51 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1885383254607556757#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1885383254607556757#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: paradigm.xyz/2022/07/experim…</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p><a href="https://www.paradigm.xyz/2022/07/experiment-narwhal-bullshark-cosmos-stack">paradigm.xyz/2022/07/experim…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1884247102508654592%2FJ2Uc28JT%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 31 Jan 2025 17:42:50 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1885383252900487533#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1885383252900487533#m</link>
-      </item>
-      <item>
-        <title>We PoCed this a long time ago by integrating Narwhal/Bullshark with an EVM executor (see below). The gas changes are area of work I&apos;d like to see more research on.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>We PoCed this a long time ago by integrating Narwhal/Bullshark with an EVM executor (see below). The gas changes are area of work I'd like to see more research on.</p>
-<p><a href="https://nitter.freedit.eu/danrobinson/status/1885377116885442927#m">nitter.freedit.eu/danrobinson/status/1885377116885442927#m</a></p>]]></description>
-        <pubDate>Fri, 31 Jan 2025 17:42:50 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1885383251688366338#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1885383251688366338#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: gg</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>gg</p>
-<p><a href="https://nitter.freedit.eu/gndizzy/status/1885313514543206555#m">nitter.freedit.eu/gndizzy/status/1885313514543206555#m</a></p>]]></description>
-        <pubDate>Fri, 31 Jan 2025 17:39:29 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1885382406196343147#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1885382406196343147#m</link>
       </item>
 
   </channel>

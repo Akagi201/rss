@@ -16,6 +16,35 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @notnotstorm: data from @hildobby_&apos;s blob dash. can scoop the data easily with spice:
+
+import spice
+blob_fees = spice.query(&apos;https://dune.com/queries/4104427&apos;)</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>data from <a href="https://nitter.freedit.eu/hildobby_" title="hildobby">@hildobby_</a>'s blob dash. can scoop the data easily with spice:<br>
+<br>
+import spice<br>
+blob_fees = spice.query('<a href="https://dune.com/queries/4104427">dune.com/queries/4104427</a>')</p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1887196297998016512%2FxoEru7zg%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 05 Feb 2025 23:54:10 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1887288640679899408#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1887288640679899408#m</link>
+      </item>
+      <item>
+        <title>everyone should take note that scaling the L1 will make blobs cheaper
+
+this is because regular gas is still the most expensive part of submitting blobs</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>everyone should take note that scaling the L1 will make blobs cheaper<br>
+<br>
+this is because regular gas is still the most expensive part of submitting blobs</p>
+<p><a href="https://nitter.freedit.eu/jon_charb/status/1887283520231334361#m">nitter.freedit.eu/jon_charb/status/1887283520231334361#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjD-7dJbgAAKhs_.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 05 Feb 2025 23:54:10 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1887288638914138358#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1887288638914138358#m</link>
+      </item>
+      <item>
         <title>RT by @notnotstorm: For the first time in Ethereum PoS, validators have voted to increase the gas limit and it&apos;s happening now. 🎉
 
 We saw the last gas limit increase with the London hardfork in August 2021, still PoW.</title>
@@ -252,29 +281,6 @@ crypto data has always been trust-but-verify. but instead of telling ppl to depr
         <pubDate>Wed, 08 Jan 2025 19:30:02 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1877075306395193825#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1877075306395193825#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: from an old thread last year https://ethresear.ch/t/proper-disk-i-o-gas-pricing-via-lru-cache/18146/19?u=storm</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>from an old thread last year <a href="https://ethresear.ch/t/proper-disk-i-o-gas-pricing-via-lru-cache/18146/19?u=storm">ethresear.ch/t/proper-disk-i…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1884674334637051904%2FXTXrUEia%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 08 Jan 2025 18:43:52 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1877063691956339041#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1877063691956339041#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: beyond slots it&apos;s an even more extreme story for accessing cold accounts
-
-caching 100K accounts could make &gt;80% of account accesses super cheap</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>beyond slots it's an even more extreme story for accessing cold accounts<br>
-<br>
-caching 100K accounts could make &gt;80% of account accesses super cheap</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgyq-p-a4AAfx58.jpg" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGgyq_w6aMAEnGQk.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 08 Jan 2025 18:43:52 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1877063689045483924#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1877063689045483924#m</link>
       </item>
 
   </channel>

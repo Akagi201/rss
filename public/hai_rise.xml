@@ -16,6 +16,19 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @hai_rise: The RISE Testnet is coming fast, and it’s built for speed!
+
+Now, we’re inviting builders to take RISE for a test drive with up to 100M $RISE in total prizes to be won.</title>
+        <dc:creator>@rise_chain</dc:creator>
+        <description><![CDATA[<p>The RISE Testnet is coming fast, and it’s built for speed!<br>
+<br>
+Now, we’re inviting builders to take RISE for a test drive with up to 100M <a href="https://nitter.freedit.eu/search?q=%23RISE">$RISE</a> in total prizes to be won.</p>
+<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1887128430048636928%2Fpu%2Fimg%2FdFC0GzhxOdRnaOg7.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 05 Feb 2025 13:21:41 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/rise_chain/status/1887129468302447081#m</guid>
+        <link>https://nitter.freedit.eu/rise_chain/status/1887129468302447081#m</link>
+      </item>
+      <item>
         <title>RT by @hai_rise: some casual e2e latency benchmarks from the @rise_chain devs
 
 latency is extremely undercooked on EVMs</title>
@@ -61,7 +74,7 @@ And he means business! (yes it was a call 3am for me)</title>
 <br>
 I just spent 2hrs on the EF preconfirmations call with top L2 and based infra teams all sharing their support for Native Based Rollups!<br>
 <br>
-<a href="https://nitter.freedit.eu/drakefjustin" title="Justin.eth Drake 🦇🔊">@drakefjustin</a> presented a key message of inclusive for layer 2. Bottom line is Ethereum offers services to Layer 2s:<br>
+<a href="https://nitter.freedit.eu/drakefjustin" title="Justin.eth Drake">@drakefjustin</a> presented a key message of inclusive for layer 2. Bottom line is Ethereum offers services to Layer 2s:<br>
 🔹DA (Blobs)<br>
 🔹Sequencing (Based)<br>
 🔹Native Execution<br>
@@ -370,19 +383,6 @@ https://github.com/risechain/pevm</title>
         <pubDate>Tue, 03 Dec 2024 16:16:31 GMT</pubDate>
         <guid>https://nitter.freedit.eu/hai_rise/status/1863980643555660114#m</guid>
         <link>https://nitter.freedit.eu/hai_rise/status/1863980643555660114#m</link>
-      </item>
-      <item>
-        <title>More private contributions than public in November as always... 
-
-Cannot wait to open source @rise_chain&apos;s block pipeline this month to start turning this trend around 🤞!</title>
-        <dc:creator>@hai_rise</dc:creator>
-        <description><![CDATA[<p>More private contributions than public in November as always... <br>
-<br>
-Cannot wait to open source <a href="https://nitter.freedit.eu/rise_chain" title="RISE Chain">@rise_chain</a>'s block pipeline this month to start turning this trend around 🤞!</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGd4v181WEAAx4OU.png" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 03 Dec 2024 16:15:45 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/hai_rise/status/1863980452958101953#m</guid>
-        <link>https://nitter.freedit.eu/hai_rise/status/1863980452958101953#m</link>
       </item>
 
   </channel>

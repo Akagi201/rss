@@ -16,6 +16,110 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @0xTaker: Fun little side project where we forecast runescape GE prices of runes.
+
+Tldr: Runes have super strong positive autocorrelation in daily returns.
+
+Link to article in comments 👇</title>
+        <dc:creator>@Vertox_DF</dc:creator>
+        <description><![CDATA[<p>Fun little side project where we forecast runescape GE prices of runes.<br>
+<br>
+Tldr: Runes have super strong positive autocorrelation in daily returns.<br>
+<br>
+Link to article in comments 👇</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjNsWhkWYAESWVa.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 07 Feb 2025 21:09:53 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/Vertox_DF/status/1887972072586100868#m</guid>
+        <link>https://nitter.freedit.eu/Vertox_DF/status/1887972072586100868#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: The vision of rpcX is to improve the conversation quality between client and server.
+
+The client is the interviewer and the server is the guest. 
+
+A well-designed API request means the interviewer can ask sharp, specific questions, and a well-designed API response means the guest can return accurate and specific responses
+
+The Solana JSON RPC spec fails on both counts. The question to the server is vague, and the server can only respond with slop due to the lack of specificity.
+
+rpcX solves the read layer problem by allowing the client to ask good questions and the server to provide good answers.
+
+When UI clients ask for account data, they don&apos;t care about the encoded byte schema. They want application-specific data rendered to the screen.
+
+When an Explorer asks for a transaction signature, it doesn&apos;t want encoded base58. It wants human-readable context for interpreting the on-chain state transition.
+
+A programmable read-layer enables fluid client-server communication. 
+
+It&apos;s up to the developer to figure out the details: call/response vs pub-sub, server-side vs. client-side data filtering, and network bandwidth management. rpcX provides the tools to have fine-grained control over this non-trivial tradeoff space.
+
+The result? 
+
+Highly responsive, lightweight applications that can power the future of on-chain finance.</title>
+        <dc:creator>@jarxiao</dc:creator>
+        <description><![CDATA[<p>The vision of rpcX is to improve the conversation quality between client and server.<br>
+<br>
+The client is the interviewer and the server is the guest. <br>
+<br>
+A well-designed API request means the interviewer can ask sharp, specific questions, and a well-designed API response means the guest can return accurate and specific responses<br>
+<br>
+The Solana JSON RPC spec fails on both counts. The question to the server is vague, and the server can only respond with slop due to the lack of specificity.<br>
+<br>
+rpcX solves the read layer problem by allowing the client to ask good questions and the server to provide good answers.<br>
+<br>
+When UI clients ask for account data, they don't care about the encoded byte schema. They want application-specific data rendered to the screen.<br>
+<br>
+When an Explorer asks for a transaction signature, it doesn't want encoded base58. It wants human-readable context for interpreting the on-chain state transition.<br>
+<br>
+A programmable read-layer enables fluid client-server communication. <br>
+<br>
+It's up to the developer to figure out the details: call/response vs pub-sub, server-side vs. client-side data filtering, and network bandwidth management. rpcX provides the tools to have fine-grained control over this non-trivial tradeoff space.<br>
+<br>
+The result? <br>
+<br>
+Highly responsive, lightweight applications that can power the future of on-chain finance.</p>
+<p><a href="https://nitter.freedit.eu/atlasxyz/status/1887892770758516750#m">nitter.freedit.eu/atlasxyz/status/1887892770758516750#m</a></p>
+<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1887918919828045824%2Fpu%2Fimg%2FdpdqVkmIwdpiJbGe.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 07 Feb 2025 17:59:06 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/jarxiao/status/1887924059578495433#m</guid>
+        <link>https://nitter.freedit.eu/jarxiao/status/1887924059578495433#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: We built Pay for exactly this purpose.
+
+One click to pay from any chain, any wallet.
+
+Our mission is to make it feel like &quot;one Ethereum&quot;.</title>
+        <dc:creator>@daimo_eth</dc:creator>
+        <description><![CDATA[<p>We built Pay for exactly this purpose.<br>
+<br>
+One click to pay from any chain, any wallet.<br>
+<br>
+Our mission is to make it feel like "one Ethereum".</p>
+<p><a href="https://nitter.freedit.eu/real_philogy/status/1887491267577221591#m">nitter.freedit.eu/real_philogy/status/1887491267577221591#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjNPNwubkAAUuKi.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGjNQNKSaQAEsMib.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 07 Feb 2025 19:06:59 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/daimo_eth/status/1887941144790864136#m</guid>
+        <link>https://nitter.freedit.eu/daimo_eth/status/1887941144790864136#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: </title>
+        <dc:creator>@ptrwtts</dc:creator>
+        <description><![CDATA[<p></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjHzZiYbIAA2MeT.png" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 06 Feb 2025 17:42:02 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ptrwtts/status/1887557376603267324#m</guid>
+        <link>https://nitter.freedit.eu/ptrwtts/status/1887557376603267324#m</link>
+      </item>
+      <item>
+        <title>You guys think @functi0nZer0 is stupid, but he’s actually smart. Today he released a secret beta for Wildcat Mobile. “Which fund wouldn&apos;t want to deposit 50k ETH clips on their phone?” he tells as the top 10 fund managers enter and do coke at Hamver and buy Larry Cermak a yacht</title>
+        <dc:creator>@0xTaker</dc:creator>
+        <description><![CDATA[<p>You guys think <a href="https://nitter.freedit.eu/functi0nZer0" title="laurence">@functi0nZer0</a> is stupid, but he’s actually smart. Today he released a secret beta for Wildcat Mobile. “Which fund wouldn't want to deposit 50k ETH clips on their phone?” he tells as the top 10 fund managers enter and do coke at Hamver and buy Larry Cermak a yacht</p>
+<p><a href="https://nitter.freedit.eu/Bonecondor/status/1887159179435032994#m">nitter.freedit.eu/Bonecondor/status/1887159179435032994#m</a></p>]]></description>
+        <pubDate>Thu, 06 Feb 2025 15:06:11 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xTaker/status/1887518154177298723#m</guid>
+        <link>https://nitter.freedit.eu/0xTaker/status/1887518154177298723#m</link>
+      </item>
+      <item>
         <title>RT by @0xTaker: Say hello to true interop for @ethereum.
 
 In collaboration with many teams, we&apos;re building a universal intents engine.
@@ -519,160 +623,6 @@ Cheers.</p>
         <pubDate>Mon, 20 Jan 2025 13:32:21 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ceterispar1bus/status/1881333950259610077#m</guid>
         <link>https://nitter.freedit.eu/ceterispar1bus/status/1881333950259610077#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: Nate a knower n real one 🫡
-we enjoy tha @AdjacentNews</title>
-        <dc:creator>@andnasnd</dc:creator>
-        <description><![CDATA[<p>Nate a knower n real one 🫡<br>
-we enjoy tha <a href="https://nitter.freedit.eu/AdjacentNews" title="Adjacent News">@AdjacentNews</a></p>]]></description>
-        <pubDate>Fri, 17 Jan 2025 16:58:58 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/andnasnd/status/1880298783428534751#m</guid>
-        <link>https://nitter.freedit.eu/andnasnd/status/1880298783428534751#m</link>
-      </item>
-      <item>
-        <title>R to @0xTaker: Would like to thank @0xperp and @0xDamian0x for their insightful feedback. Nate (@0xperp) is the real person to look at for everything news-based trading and prediction markets!
-
-Have been meaning to post this in December, but a lot of things got busy, so there you are - enjoy!</title>
-        <dc:creator>@0xTaker</dc:creator>
-        <description><![CDATA[<p>Would like to thank <a href="https://nitter.freedit.eu/0xperp" title="nate">@0xperp</a> and <a href="https://nitter.freedit.eu/0xDamian0x" title="Damian">@0xDamian0x</a> for their insightful feedback. Nate (<a href="https://nitter.freedit.eu/0xperp" title="nate">@0xperp</a>) is the real person to look at for everything news-based trading and prediction markets!<br>
-<br>
-Have been meaning to post this in December, but a lot of things got busy, so there you are - enjoy!</p>]]></description>
-        <pubDate>Fri, 17 Jan 2025 16:51:05 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xTaker/status/1880296796196688029#m</guid>
-        <link>https://nitter.freedit.eu/0xTaker/status/1880296796196688029#m</link>
-      </item>
-      <item>
-        <title>Has been a while.
-
-Publishing this (long overdue) piece on arbitrage trading the US elections through @Polymarket, @Kalshi, @DriftProtocol and a bunch of other CEXs and DEXs and the strategies involved, alongside my own thoughts on PMs as a whole.
-
-https://taker.mirror.xyz/ZcfYR06Vkccv8Fx71IpiWEoYGqXdoGMyOdcMu1_TkVA</title>
-        <dc:creator>@0xTaker</dc:creator>
-        <description><![CDATA[<p>Has been a while.<br>
-<br>
-Publishing this (long overdue) piece on arbitrage trading the US elections through <a href="https://nitter.freedit.eu/Polymarket" title="Polymarket">@Polymarket</a>, <a href="https://nitter.freedit.eu/Kalshi" title="Kalshi">@Kalshi</a>, <a href="https://nitter.freedit.eu/DriftProtocol" title="Drift">@DriftProtocol</a> and a bunch of other CEXs and DEXs and the strategies involved, alongside my own thoughts on PMs as a whole.<br>
-<br>
-<a href="https://taker.mirror.xyz/ZcfYR06Vkccv8Fx71IpiWEoYGqXdoGMyOdcMu1_TkVA">taker.mirror.xyz/ZcfYR06Vkcc…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1885372233851310080%2F0SXxi3tP%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 17 Jan 2025 16:50:54 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xTaker/status/1880296753632801283#m</guid>
-        <link>https://nitter.freedit.eu/0xTaker/status/1880296753632801283#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: 🚨WE&apos;RE BACK🚨
-
-Kicking off 2025 by chatting all things @solana MEV!
-
-Together with the @0xGhostLogs team; Chief Penguin, @chrischang43 AKA Product/Full-Stack/GTM, and Data-whisperer, George AKA (Backend/Infrastructure/EVM)  
-
-In this episode we discuss:
-
-• Solana MEV &amp; sandwich attacks
-• Solana MEV competition
-• Liquidity provisions &amp; lowering MEV impact
-• Validators
-• Novel attack strategies: CeFi/DeFi arb, liquidity snipping
-• MEV: Ethereum vs Solana
-• MEV mitigation tools
-• Slippage indexing
-• Ghost’s 2025 roadmap
-• Parallel EVM visualizer
-• What needs solving in 2025?
-
-And a special announcement at the ~30 minute mark 👀 — enjoy!
-—
-Chapters:
-(00:00) Introduction
-(00:53) George &amp; Chris’ background
-(05:22) Solana MEV &amp; sandwich attacks
-(14:26) Solana MEV competition
-(19:13) Liquidity provisions &amp; lowering MEV impact
-(22:47) Validators
-(24:12) Novel attack strategies: CeFi/DeFi arb, liquidity snipping
-(29:32) MEV: Ethereum vs Solana
-(39:07) MEV mitigation tools
-(41:10) Slippage indexing
-(43:05) Ghost’s 2025 focuses
-(46:05) Parallel EVM visualizer
-(52:10) Ghost’s 2025 roadmap
-(53:33) What needs solving in 2025?
-(59:34) Outro
-
-Note: apologies, there is a slight technical syncing error at one moment in this episode. 
-—
-The Indexed Podcast discusses hot topics, trendy metrics and chart crimes in the crypto industry every 1st and 3rd Thursday of the month - brought to you by wizards @hildobby_ , @0xBoxer, &amp; @sui414.
-
-Subscribe to our Youtube channel and leave a comment to help us make the pod better!
-
-And please follow the Indexed Podcast here on Twitter!
-—
-DISCLAIMER: All information presented here should not be relied upon as legal, financial, investment, tax or even life advice. The views expressed in the podcast are not representative of hosts&apos; employers views. We are acting independently of our respective professional roles.</title>
-        <dc:creator>@indexed_pod</dc:creator>
-        <description><![CDATA[<p>🚨WE'RE BACK🚨<br>
-<br>
-Kicking off 2025 by chatting all things <a href="https://nitter.freedit.eu/solana" title="Solana">@solana</a> MEV!<br>
-<br>
-Together with the <a href="https://nitter.freedit.eu/0xGhostLogs" title="Ghost">@0xGhostLogs</a> team; Chief Penguin, <a href="https://nitter.freedit.eu/chrischang43" title="chris">@chrischang43</a> AKA Product/Full-Stack/GTM, and Data-whisperer, George AKA (Backend/Infrastructure/EVM)  <br>
-<br>
-In this episode we discuss:<br>
-<br>
-• Solana MEV & sandwich attacks<br>
-• Solana MEV competition<br>
-• Liquidity provisions & lowering MEV impact<br>
-• Validators<br>
-• Novel attack strategies: CeFi/DeFi arb, liquidity snipping<br>
-• MEV: Ethereum vs Solana<br>
-• MEV mitigation tools<br>
-• Slippage indexing<br>
-• Ghost’s 2025 roadmap<br>
-• Parallel EVM visualizer<br>
-• What needs solving in 2025?<br>
-<br>
-And a special announcement at the ~30 minute mark 👀 — enjoy!<br>
-—<br>
-Chapters:<br>
-(00:00) Introduction<br>
-(00:53) George & Chris’ background<br>
-(05:22) Solana MEV & sandwich attacks<br>
-(14:26) Solana MEV competition<br>
-(19:13) Liquidity provisions & lowering MEV impact<br>
-(22:47) Validators<br>
-(24:12) Novel attack strategies: CeFi/DeFi arb, liquidity snipping<br>
-(29:32) MEV: Ethereum vs Solana<br>
-(39:07) MEV mitigation tools<br>
-(41:10) Slippage indexing<br>
-(43:05) Ghost’s 2025 focuses<br>
-(46:05) Parallel EVM visualizer<br>
-(52:10) Ghost’s 2025 roadmap<br>
-(53:33) What needs solving in 2025?<br>
-(59:34) Outro<br>
-<br>
-Note: apologies, there is a slight technical syncing error at one moment in this episode. <br>
-—<br>
-The Indexed Podcast discusses hot topics, trendy metrics and chart crimes in the crypto industry every 1st and 3rd Thursday of the month - brought to you by wizards <a href="https://nitter.freedit.eu/hildobby_" title="hildobby">@hildobby_</a> , <a href="https://nitter.freedit.eu/0xBoxer" title="Boxer">@0xBoxer</a>, & <a href="https://nitter.freedit.eu/sui414" title="danning.eth⚡️🤖">@sui414</a>.<br>
-<br>
-Subscribe to our Youtube channel and leave a comment to help us make the pod better!<br>
-<br>
-And please follow the Indexed Podcast here on Twitter!<br>
-—<br>
-DISCLAIMER: All information presented here should not be relied upon as legal, financial, investment, tax or even life advice. The views expressed in the podcast are not representative of hosts' employers views. We are acting independently of our respective professional roles.</p>
-<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1879918789313093632%2Fimg%2F4Qmu_e0XOM-MyDSp.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 16 Jan 2025 20:24:43 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/indexed_pod/status/1879988170575737209#m</guid>
-        <link>https://nitter.freedit.eu/indexed_pod/status/1879988170575737209#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: firms that invested deeply into building out onchain token trading capabilities in the early years (wintermute + scp) developed a massive edge and are making $$ now
-
-firms that invested deeply into building out onchain NFT trading capabilities (MMs, price oracles etc) are dead</title>
-        <dc:creator>@kapursanat</dc:creator>
-        <description><![CDATA[<p>firms that invested deeply into building out onchain token trading capabilities in the early years (wintermute + scp) developed a massive edge and are making $$ now<br>
-<br>
-firms that invested deeply into building out onchain NFT trading capabilities (MMs, price oracles etc) are dead</p>]]></description>
-        <pubDate>Mon, 13 Jan 2025 07:22:42 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/kapursanat/status/1878704208754663905#m</guid>
-        <link>https://nitter.freedit.eu/kapursanat/status/1878704208754663905#m</link>
       </item>
 
   </channel>

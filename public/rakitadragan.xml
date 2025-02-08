@@ -16,6 +16,19 @@
       <height>128</height>
     </image>
       <item>
+        <title>The biggest impact of this change is allowing Ethereum to increase the block gas limit by N times while it can limit block size so bandwidth is not affected by the gas limit increase.
+
+Kudos to @monad_xyz their docs were the first time I read about the delayed state root idea (which evolved into delaying execution).</title>
+        <dc:creator>@rakitadragan</dc:creator>
+        <description><![CDATA[<p>The biggest impact of this change is allowing Ethereum to increase the block gas limit by N times while it can limit block size so bandwidth is not affected by the gas limit increase.<br>
+<br>
+Kudos to <a href="https://nitter.freedit.eu/monad_xyz" title="Monad ⨀">@monad_xyz</a> their docs were the first time I read about the delayed state root idea (which evolved into delaying execution).</p>
+<p><a href="https://nitter.freedit.eu/nero_eth/status/1887082982378189208#m">nitter.freedit.eu/nero_eth/status/1887082982378189208#m</a></p>]]></description>
+        <pubDate>Thu, 06 Feb 2025 14:43:42 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/rakitadragan/status/1887512499341373499#m</guid>
+        <link>https://nitter.freedit.eu/rakitadragan/status/1887512499341373499#m</link>
+      </item>
+      <item>
         <title>RT by @rakitadragan: #Serbia is currently trending on X.
 
 Student protests have broken through the media blockade.</title>
@@ -291,19 +304,6 @@ Obviously implementing them is even better..<br>
         <pubDate>Mon, 23 Dec 2024 13:28:05 GMT</pubDate>
         <guid>https://nitter.freedit.eu/rakitadragan/status/1871186016364589204#m</guid>
         <link>https://nitter.freedit.eu/rakitadragan/status/1871186016364589204#m</link>
-      </item>
-      <item>
-        <title>The gas limit should be increased until stuff starts breaking, and then it should be lowered by 25%.
-
-This does not cover the worst case, but it is a metric.</title>
-        <dc:creator>@rakitadragan</dc:creator>
-        <description><![CDATA[<p>The gas limit should be increased until stuff starts breaking, and then it should be lowered by 25%.<br>
-<br>
-This does not cover the worst case, but it is a metric.</p>
-<p><a href="https://nitter.freedit.eu/nero_eth/status/1869382727780425948#m">nitter.freedit.eu/nero_eth/status/1869382727780425948#m</a></p>]]></description>
-        <pubDate>Thu, 19 Dec 2024 09:01:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rakitadragan/status/1869669450687062297#m</guid>
-        <link>https://nitter.freedit.eu/rakitadragan/status/1869669450687062297#m</link>
       </item>
 
   </channel>

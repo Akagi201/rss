@@ -16,6 +16,22 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @hai_rise: The bugs we fixed:
+- Missed the beacon root contract transitions when the chain reorgs within an L1 slot.
+- Infinity loop when the chain reorgs over an L1 slot.
+- Invalid state transitions due to wrong pre-execution (state cache) handling when the chain reorgs.
+- Mishandling of no_tx_pool.</title>
+        <dc:creator>@hai_rise</dc:creator>
+        <description><![CDATA[<p>The bugs we fixed:<br>
+- Missed the beacon root contract transitions when the chain reorgs within an L1 slot.<br>
+- Infinity loop when the chain reorgs over an L1 slot.<br>
+- Invalid state transitions due to wrong pre-execution (state cache) handling when the chain reorgs.<br>
+- Mishandling of no_tx_pool.</p>]]></description>
+        <pubDate>Thu, 06 Feb 2025 13:41:54 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/hai_rise/status/1887496945171898666#m</guid>
+        <link>https://nitter.freedit.eu/hai_rise/status/1887496945171898666#m</link>
+      </item>
+      <item>
         <title>RT by @hai_rise: The RISE Testnet is coming fast, and it’s built for speed!
 
 Now, we’re inviting builders to take RISE for a test drive with up to 100M $RISE in total prizes to be won.</title>
@@ -132,6 +148,22 @@ Developed by LayerZero Labs, QMDB is MIT and apache-2 licensed and completely op
         <pubDate>Tue, 14 Jan 2025 15:56:24 GMT</pubDate>
         <guid>https://nitter.freedit.eu/LayerZero_Core/status/1879195871042310159#m</guid>
         <link>https://nitter.freedit.eu/LayerZero_Core/status/1879195871042310159#m</link>
+      </item>
+      <item>
+        <title>After the latest Reth bump, we could 3~4x the throughput limit on 2 test loads without breaking the chain!
+
+Best bump ever and cannot thank the Reth contributors enough (especially in the last month). 
+
+Reth is getting more and more stable for high loads 🫡.</title>
+        <dc:creator>@hai_rise</dc:creator>
+        <description><![CDATA[<p>After the latest Reth bump, we could 3~4x the throughput limit on 2 test loads without breaking the chain!<br>
+<br>
+Best bump ever and cannot thank the Reth contributors enough (especially in the last month). <br>
+<br>
+Reth is getting more and more stable for high loads 🫡.</p>]]></description>
+        <pubDate>Mon, 13 Jan 2025 12:45:57 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/hai_rise/status/1878785558220345556#m</guid>
+        <link>https://nitter.freedit.eu/hai_rise/status/1878785558220345556#m</link>
       </item>
       <item>
         <title>This may or may not be @rise_chain&apos;s cultural question for tech candidates 🫣:
@@ -363,26 +395,6 @@ Will suggest and upstream improvements 🫡.</p>
         <pubDate>Mon, 09 Dec 2024 08:52:30 GMT</pubDate>
         <guid>https://nitter.freedit.eu/hai_rise/status/1866043231286312978#m</guid>
         <link>https://nitter.freedit.eu/hai_rise/status/1866043231286312978#m</link>
-      </item>
-      <item>
-        <title>RT by @hai_rise: good project</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>good project</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGeJMC7AakAAtY22.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 06 Dec 2024 20:50:50 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1865136840929644810#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1865136840929644810#m</link>
-      </item>
-      <item>
-        <title>R to @hai_rise: In the meantime, pevm has been open-source for months!
-https://github.com/risechain/pevm</title>
-        <dc:creator>@hai_rise</dc:creator>
-        <description><![CDATA[<p>In the meantime, pevm has been open-source for months!<br>
-<a href="https://github.com/risechain/pevm">github.com/risechain/pevm</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1885651195525787648%2F5kKs7fKV%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 03 Dec 2024 16:16:31 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/hai_rise/status/1863980643555660114#m</guid>
-        <link>https://nitter.freedit.eu/hai_rise/status/1863980643555660114#m</link>
       </item>
 
   </channel>

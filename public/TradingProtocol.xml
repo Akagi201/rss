@@ -16,6 +16,15 @@
       <height>128</height>
     </image>
       <item>
+        <title>Image</title>
+        <dc:creator>@TradingProtocol</dc:creator>
+        <description><![CDATA[<p></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjMrdPsXYAY_jzE.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 07 Feb 2025 16:25:19 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/TradingProtocol/status/1887900460452896779#m</guid>
+        <link>https://nitter.freedit.eu/TradingProtocol/status/1887900460452896779#m</link>
+      </item>
+      <item>
         <title>SP500
 
 - Market-cap-weighted index (&quot;the usual&quot;)
@@ -307,14 +316,6 @@ Fast: low transaction latency</p>]]></description>
         <pubDate>Wed, 15 Jan 2025 13:27:12 GMT</pubDate>
         <guid>https://nitter.freedit.eu/TradingProtocol/status/1879520714111234454#m</guid>
         <link>https://nitter.freedit.eu/TradingProtocol/status/1879520714111234454#m</link>
-      </item>
-      <item>
-        <title>R to @TradingProtocol: 8/ - Backed by Coinbase to ensure there is a focus on good user experience for retail users</title>
-        <dc:creator>@TradingProtocol</dc:creator>
-        <description><![CDATA[<p>8/ - Backed by Coinbase to ensure there is a focus on good user experience for retail users</p>]]></description>
-        <pubDate>Wed, 15 Jan 2025 13:27:12 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/TradingProtocol/status/1879520713222070405#m</guid>
-        <link>https://nitter.freedit.eu/TradingProtocol/status/1879520713222070405#m</link>
       </item>
 
   </channel>

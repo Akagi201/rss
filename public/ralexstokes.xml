@@ -16,6 +16,44 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @ralexstokes: Let&apos;s try this, collecting some of the EF Research publications + collabs from this past week in the tweets below!</title>
+        <dc:creator>@barnabemonnot</dc:creator>
+        <description><![CDATA[<p>Let's try this, collecting some of the EF Research publications + collabs from this past week in the tweets below!</p>]]></description>
+        <pubDate>Fri, 07 Feb 2025 16:25:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/barnabemonnot/status/1887900515553489119#m</guid>
+        <link>https://nitter.freedit.eu/barnabemonnot/status/1887900515553489119#m</link>
+      </item>
+      <item>
+        <title>whats the state of the art on LLM-backed intents wallet for ethereum?
+
+i should be able to tell an agent what i want to do, it should do biometric auth on my device for the entire flow, and then go off to execute</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>whats the state of the art on LLM-backed intents wallet for ethereum?<br>
+<br>
+i should be able to tell an agent what i want to do, it should do biometric auth on my device for the entire flow, and then go off to execute</p>]]></description>
+        <pubDate>Thu, 06 Feb 2025 18:45:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1887573408441114864#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1887573408441114864#m</link>
+      </item>
+      <item>
+        <title>RT by @ralexstokes: Pectra is going live 🥳
+
+Holesky will fork at slot 3710976 (Mon, Feb 24 at 21:55:12 UTC)
+Sepolia will fork at slot 7118848 (Wed, Mar 5 at 07:29:36 UTC)
+
+Assuming Sepolia goes smoothly, we&apos;ll pick the mainnet slot on the March 6 ACD call 📅</title>
+        <dc:creator>@TimBeiko</dc:creator>
+        <description><![CDATA[<p>Pectra is going live 🥳<br>
+<br>
+Holesky will fork at slot 3710976 (Mon, Feb 24 at 21:55:12 UTC)<br>
+Sepolia will fork at slot 7118848 (Wed, Mar 5 at 07:29:36 UTC)<br>
+<br>
+Assuming Sepolia goes smoothly, we'll pick the mainnet slot on the March 6 ACD call 📅</p>]]></description>
+        <pubDate>Thu, 06 Feb 2025 14:19:58 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/TimBeiko/status/1887506524756717747#m</guid>
+        <link>https://nitter.freedit.eu/TimBeiko/status/1887506524756717747#m</link>
+      </item>
+      <item>
         <title>exciting work from EFR cryptography (in collaboration with others)!</title>
         <dc:creator>@ralexstokes</dc:creator>
         <description><![CDATA[<p>exciting work from EFR cryptography (in collaboration with others)!</p>
@@ -190,48 +228,6 @@ curious</p>]]></description>
         <pubDate>Tue, 07 Jan 2025 01:12:23 GMT</pubDate>
         <guid>https://nitter.freedit.eu/0xstark/status/1876436686428885255#m</guid>
         <link>https://nitter.freedit.eu/0xstark/status/1876436686428885255#m</link>
-      </item>
-      <item>
-        <title>its true (mev is everywhere)</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>its true (mev is everywhere)</p>
-<p><a href="https://nitter.freedit.eu/hasufl/status/1869660534943220144#m">nitter.freedit.eu/hasufl/status/1869660534943220144#m</a></p>]]></description>
-        <pubDate>Thu, 19 Dec 2024 14:24:18 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1869750609689375011#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1869750609689375011#m</link>
-      </item>
-      <item>
-        <title>R to @ralexstokes: 2/
-
-ethereum will be harder to change as it gets adoption and so we should be honest (and quick!) as a community to make changes to the protocol today before ossification is forced upon us
-
-i’m mainly thinking of issuance here, but it applies to all parts of the stack</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>2/<br>
-<br>
-ethereum will be harder to change as it gets adoption and so we should be honest (and quick!) as a community to make changes to the protocol today before ossification is forced upon us<br>
-<br>
-i’m mainly thinking of issuance here, but it applies to all parts of the stack</p>]]></description>
-        <pubDate>Wed, 18 Dec 2024 19:04:12 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1869458660004696124#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1869458660004696124#m</link>
-      </item>
-      <item>
-        <title>ethereum is becoming the central hub of a new financial internet. full stop. 
-
-an early warning here is to take lesson from the near-term future of the bitcoin protocol captured by the debate around a covenants soft-fork vs a BSR locking the protocol in via adoption 
-
-1/</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>ethereum is becoming the central hub of a new financial internet. full stop. <br>
-<br>
-an early warning here is to take lesson from the near-term future of the bitcoin protocol captured by the debate around a covenants soft-fork vs a BSR locking the protocol in via adoption <br>
-<br>
-1/</p>
-<p><a href="https://nitter.freedit.eu/Cointelegraph/status/1869377874140012620#m">nitter.freedit.eu/Cointelegraph/status/1869377874140012620#m</a></p>]]></description>
-        <pubDate>Wed, 18 Dec 2024 19:02:44 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1869458293380567504#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1869458293380567504#m</link>
       </item>
 
   </channel>

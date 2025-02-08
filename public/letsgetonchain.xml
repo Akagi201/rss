@@ -16,6 +16,166 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @letsgetonchain: Fighting consumes energy and brings people to the breaking point. This is part of the condition of life.
+
+Do I feel good when I hear people from crypto twitter and VC firms telling me that PvP KOL degen casino that&apos;s money-losing for &gt;99% of its own users is the best product market fit that crypto is going to get, and it&apos;s &quot;condescending and elitist&quot; to wish for something better?
+
+Or when people with no understanding of the ethereum foundation internals tell me exactly whom I should rip out of the organization and whom I should throw in, and on top of that expect it all to get done within 2 weeks?
+
+No, I do not feel good at all hearing these things. There are even times when they make me feel emotional desire to quit. But each time that happens, I always see a sign from the world, something that reminds me that we are fighting for something valuable, that is worth fighting for.
+
+If you look inside yourself, you will find things worth fighting for too.
+
+Don&apos;t cancel yourself.
+Become uncancellable.
+Milady</title>
+        <dc:creator>@VitalikButerin</dc:creator>
+        <description><![CDATA[<p>Fighting consumes energy and brings people to the breaking point. This is part of the condition of life.<br>
+<br>
+Do I feel good when I hear people from crypto twitter and VC firms telling me that PvP KOL degen casino that's money-losing for &gt;99% of its own users is the best product market fit that crypto is going to get, and it's "condescending and elitist" to wish for something better?<br>
+<br>
+Or when people with no understanding of the ethereum foundation internals tell me exactly whom I should rip out of the organization and whom I should throw in, and on top of that expect it all to get done within 2 weeks?<br>
+<br>
+No, I do not feel good at all hearing these things. There are even times when they make me feel emotional desire to quit. But each time that happens, I always see a sign from the world, something that reminds me that we are fighting for something valuable, that is worth fighting for.<br>
+<br>
+If you look inside yourself, you will find things worth fighting for too.<br>
+<br>
+Don't cancel yourself.<br>
+Become uncancellable.<br>
+Milady</p>]]></description>
+        <pubDate>Thu, 06 Feb 2025 20:09:35 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/VitalikButerin/status/1887594511414796784#m</guid>
+        <link>https://nitter.freedit.eu/VitalikButerin/status/1887594511414796784#m</link>
+      </item>
+      <item>
+        <title>RT by @letsgetonchain: Posting here part 2 which is more intended for devs.
+
+I cover @ashekhirin pull request that added EIP 2537 to revm (rust implemention of the evm).
+
+In this code deep dive you will get a good understanding of how precompiles work within the EVM!</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Posting here part 2 which is more intended for devs.<br>
+<br>
+I cover <a href="https://nitter.freedit.eu/ashekhirin" title="Alexey Shekhirin ⛵">@ashekhirin</a> pull request that added EIP 2537 to revm (rust implemention of the evm).<br>
+<br>
+In this code deep dive you will get a good understanding of how precompiles work within the EVM!</p>
+<p><a href="https://nitter.freedit.eu/letsgetonchain/status/1887452718153052290#m">nitter.freedit.eu/letsgetonchain/status/1887452718153052290#m</a></p>
+<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1887453453485572096%2Fimg%2Fz2viq1JOa-DyxqLV.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 06 Feb 2025 10:51:13 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887453993083019704#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1887453993083019704#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: Here is the youtube🔗 for part 2
+https://youtu.be/y7TfMwAi4H4?si=owLERCMwyYDPrQFG</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Here is the youtube🔗 for part 2<br>
+<a href="https://piped.video/y7TfMwAi4H4?si=owLERCMwyYDPrQFG">piped.video/y7TfMwAi4H4?si=owLE…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1887477069963005953%2FW9aTePoQ%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 06 Feb 2025 12:23:30 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887477214511247599#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1887477214511247599#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: Check out the full two part series on my youtube 🔗 in bio!</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Check out the full two part series on my youtube 🔗 in bio!</p>]]></description>
+        <pubDate>Thu, 06 Feb 2025 10:46:14 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887452735953641809#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1887452735953641809#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: 4/ It means the execution layer can communicate with consensus, for example to cryptographically check that finality is reached for a certain block.
+
+More generally these precompiles can be used by:
+
+1) restaking protocols (@eigenlayer)
+2) light clients
+3) bridges
+4) staking pools
+5) zk tech
+
+Others? please add!</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>4/ It means the execution layer can communicate with consensus, for example to cryptographically check that finality is reached for a certain block.<br>
+<br>
+More generally these precompiles can be used by:<br>
+<br>
+1) restaking protocols (<a href="https://nitter.freedit.eu/eigenlayer" title="EigenLayer">@eigenlayer</a>)<br>
+2) light clients<br>
+3) bridges<br>
+4) staking pools<br>
+5) zk tech<br>
+<br>
+Others? please add!</p>]]></description>
+        <pubDate>Thu, 06 Feb 2025 10:46:13 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887452731968770512#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1887452731968770512#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: 3/ It makes it a good fit for much used cryptographic schemes like BLS Signatures for example.
+
+BLS signatures are already used on the consensus layer due to its unique ability to aggregate many signatures and verify them efficiently.
+
+What does this enable?</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>3/ It makes it a good fit for much used cryptographic schemes like BLS Signatures for example.<br>
+<br>
+BLS signatures are already used on the consensus layer due to its unique ability to aggregate many signatures and verify them efficiently.<br>
+<br>
+What does this enable?</p>]]></description>
+        <pubDate>Thu, 06 Feb 2025 10:46:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887452729213087830#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1887452729213087830#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: 2/ EIP 2537 introduces a bunch of new precompiles to the evm to handler operations on elliptic curve BLS12-381. 
+
+The evm already supports some elliptic curves (like BN254) , but this one is pairing friendly and offers higher security than existing ones. 
+
+Why is this important?</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>2/ EIP 2537 introduces a bunch of new precompiles to the evm to handler operations on elliptic curve BLS12-381. <br>
+<br>
+The evm already supports some elliptic curves (like BN254) , but this one is pairing friendly and offers higher security than existing ones. <br>
+<br>
+Why is this important?</p>]]></description>
+        <pubDate>Thu, 06 Feb 2025 10:46:11 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887452725098496243#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1887452725098496243#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: If you don&apos;t like video&apos;s here is a little tldr thread:
+
+1/ First of credit to the authors of the eip (@asanso @ralexstokes @shamatar), the discussion around it had been going on for over 4 years 🤯</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>If you don't like video's here is a little tldr thread:<br>
+<br>
+1/ First of credit to the authors of the eip (<a href="https://nitter.freedit.eu/asanso" title="asanso.eth">@asanso</a> <a href="https://nitter.freedit.eu/ralexstokes" title="stokes">@ralexstokes</a> <a href="https://nitter.freedit.eu/Shamatar" title="Alexander Vlasov">@shamatar</a>), the discussion around it had been going on for over 4 years 🤯</p>]]></description>
+        <pubDate>Thu, 06 Feb 2025 10:46:10 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887452721789186388#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1887452721789186388#m</link>
+      </item>
+      <item>
+        <title>Believe it or not Ethereum&apos;s Pectra upgrade ships with a record number of EIPs 🚀
+
+Today I cover EIP 2537 which enables the evm to handle more advanced elliptic curve cryptography!
+
+Part 1 -&gt; high level intro to the EIP, with everything you need to know (video below)
+Part 2 -&gt; Evm code deep dive into how precompiles are implemented (youtube video  🔗 in bio) (credit to pull request by @ashekhirin)</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Believe it or not Ethereum's Pectra upgrade ships with a record number of EIPs 🚀<br>
+<br>
+Today I cover EIP 2537 which enables the evm to handle more advanced elliptic curve cryptography!<br>
+<br>
+Part 1 -&gt; high level intro to the EIP, with everything you need to know (video below)<br>
+Part 2 -&gt; Evm code deep dive into how precompiles are implemented (youtube video  🔗 in bio) (credit to pull request by <a href="https://nitter.freedit.eu/ashekhirin" title="Alexey Shekhirin ⛵">@ashekhirin</a>)</p>
+<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1887443611588993024%2Fpu%2Fimg%2Fd_DlVSAR4c-bHrqS.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 06 Feb 2025 10:46:09 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887452718153052290#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1887452718153052290#m</link>
+      </item>
+      <item>
         <title>R to @letsgetonchain: @jarrodWattsDev @0xCygaar anyway to get access here?</title>
         <dc:creator>@letsgetonchain</dc:creator>
         <description><![CDATA[<p><a href="https://nitter.freedit.eu/jarrodWattsDev" title="Jarrod Watts">@jarrodWattsDev</a> <a href="https://nitter.freedit.eu/0xCygaar" title="cygaar">@0xCygaar</a> anyway to get access here?</p>]]></description>
@@ -161,175 +321,6 @@ Made my week king <a href="https://nitter.freedit.eu/sassal0x" title="sassal.eth
         <pubDate>Fri, 24 Jan 2025 14:02:53 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1882791185397489899#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1882791185397489899#m</link>
-      </item>
-      <item>
-        <title>Here is the Youtube version of yesterday&apos;s video.
-
-All you need to know on EIP-7623! 
-
-Less than two months away from hitting Ethereum mainnet ⌛️
-
-https://www.youtube.com/watch?v=FTNvl6F1w6I&amp;t=5s</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Here is the Youtube version of yesterday's video.<br>
-<br>
-All you need to know on EIP-7623! <br>
-<br>
-Less than two months away from hitting Ethereum mainnet ⌛️<br>
-<br>
-<a href="https://piped.video/watch?v=FTNvl6F1w6I&t=5s">piped.video/watch?v=FTNvl6F1…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1885246852020527106%2F2e-a98Ak%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 24 Jan 2025 08:31:30 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1882707790252404977#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1882707790252404977#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: youtube 🔗
-https://www.youtube.com/watch?v=FTNvl6F1w6I</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>youtube 🔗<br>
-<a href="https://piped.video/watch?v=FTNvl6F1w6I">piped.video/watch?v=FTNvl6F1…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1884955475931697154%2FKGxTA1DO%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 23 Jan 2025 12:46:57 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1882409686202478829#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1882409686202478829#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: Result:
-
-EIP-7623 effectively reduces block size variance and makes the network more stable
-
-For a more detailed explanation and implementation details check out the full video on my Youtube (link in bio)</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Result:<br>
-<br>
-EIP-7623 effectively reduces block size variance and makes the network more stable<br>
-<br>
-For a more detailed explanation and implementation details check out the full video on my Youtube (link in bio)</p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 11:05:52 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1882384248046518700#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1882384248046518700#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: Solution:
-
-Introduce dynamic calldata pricing:
-
-10 gas for zero bytes, 40 for non-zero bytes-&gt; for data-heavy transactions 
-
-Keep old calldata cost structure for regular/compute-transactions.
-
-Basically making it more costly and less attractive to use calldata for DA purposes.</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Solution:<br>
-<br>
-Introduce dynamic calldata pricing:<br>
-<br>
-10 gas for zero bytes, 40 for non-zero bytes-&gt; for data-heavy transactions <br>
-<br>
-Keep old calldata cost structure for regular/compute-transactions.<br>
-<br>
-Basically making it more costly and less attractive to use calldata for DA purposes.</p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 11:05:51 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1882384246075261043#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1882384246075261043#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: TLDR on EIP-7623
-
-Problem:
-As pointed out by @blocknative L2s can save money by opportunistically switching between calldata and blob space for DA. 
-
-However this causes spikes in block sizes when calldata becomes cheaper than blob space. 
-
-The high variance in block size strains the network, slows block propagation and stresses nodes.
-
-https://x.com/blocknative/status/1806043723538821609</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>TLDR on EIP-7623<br>
-<br>
-Problem:<br>
-As pointed out by <a href="https://nitter.freedit.eu/blocknative" title="Blocknative | ⛽">@blocknative</a> L2s can save money by opportunistically switching between calldata and blob space for DA. <br>
-<br>
-However this causes spikes in block sizes when calldata becomes cheaper than blob space. <br>
-<br>
-The high variance in block size strains the network, slows block propagation and stresses nodes.<br>
-<br>
-<a href="https://x.com/blocknative/status/1806043723538821609">x.com/blocknative/status/180…</a></p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 11:05:51 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1882384244141707755#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1882384244141707755#m</link>
-      </item>
-      <item>
-        <title>Ethereum Pectra is less than two months away to hit mainnet 🚀
-
-Last week I covered EIP-7702, this week I cover EIP- 7623 by @VitalikButerin &amp; @nero_eth.
-
-Same vibe,
-1⃣ High level overview
-2⃣ Deep dive into every line of code in the evm that changes
-
-Milady</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Ethereum Pectra is less than two months away to hit mainnet 🚀<br>
-<br>
-Last week I covered EIP-7702, this week I cover EIP- 7623 by <a href="https://nitter.freedit.eu/VitalikButerin" title="vitalik.eth">@VitalikButerin</a> &amp; <a href="https://nitter.freedit.eu/nero_eth" title="Toni Wahrstätter ⟠">@nero_eth</a>.<br>
-<br>
-Same vibe,<br>
-1⃣ High level overview<br>
-2⃣ Deep dive into every line of code in the evm that changes<br>
-<br>
-Milady</p>
-<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1882379729912664064%2Fimg%2FxwIm3VLdjejUPQvg.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 23 Jan 2025 11:05:50 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1882384241037885866#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1882384241037885866#m</link>
-      </item>
-      <item>
-        <title>All these discussion around the EF just shows me how fucking amazing Ethereum is</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>All these discussion around the EF just shows me how fucking amazing Ethereum is</p>]]></description>
-        <pubDate>Tue, 21 Jan 2025 17:17:30 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1881752998369698088#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1881752998369698088#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: Add animation to yt videos? My channel is in bio btw</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Add animation to yt videos? My channel is in bio btw</p>]]></description>
-        <pubDate>Tue, 21 Jan 2025 10:02:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1881643558773600343#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1881643558773600343#m</link>
-      </item>
-      <item>
-        <title>Thanks @maxos_max for this for this animation! 
-
-@cryptotesters community supportive as always 🔥
-
-What do you think should i add to my youtube videos from now on? Poll in second tweet</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Thanks <a href="https://nitter.freedit.eu/maxos_max" title="Max">@maxos_max</a> for this for this animation! <br>
-<br>
-<a href="https://nitter.freedit.eu/cryptotesters" title="cryptotesters 🧪">@cryptotesters</a> community supportive as always 🔥<br>
-<br>
-What do you think should i add to my youtube videos from now on? Poll in second tweet</p>
-<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1881639214590107648%2Fpu%2Fimg%2F3ulJWz4vF99qBUIF.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 21 Jan 2025 10:02:37 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1881643554969411710#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1881643554969411710#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: Part 2 is def more interesting
-
-https://www.youtube.com/watch?v=K2Tm1f8MIwg&amp;t=848s</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Part 2 is def more interesting<br>
-<br>
-<a href="https://piped.video/watch?v=K2Tm1f8MIwg&t=848s">piped.video/watch?v=K2Tm1f8M…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1885991292888666112%2F67nFaEdf%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 19 Jan 2025 09:48:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1880915299077353780#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1880915299077353780#m</link>
       </item>
 
   </channel>

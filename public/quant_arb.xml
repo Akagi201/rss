@@ -16,6 +16,30 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @quant_arb: I assume this works for other popular libraries and languages just as well.</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>I assume this works for other popular libraries and languages just as well.</p>]]></description>
+        <pubDate>Sat, 08 Feb 2025 18:48:35 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1888298902157205842#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1888298902157205842#m</link>
+      </item>
+      <item>
+        <title>Just started prompting ChatGPT for some advanced knowledge on Pandas until I found something interesting.
+
+Honestly discovered a TON of cool features in pandas I would have had no idea existed. 
+
+Try it.</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>Just started prompting ChatGPT for some advanced knowledge on Pandas until I found something interesting.<br>
+<br>
+Honestly discovered a TON of cool features in pandas I would have had no idea existed. <br>
+<br>
+Try it.</p>]]></description>
+        <pubDate>Sat, 08 Feb 2025 18:47:08 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1888298534023336080#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1888298534023336080#m</link>
+      </item>
+      <item>
         <title>R to @quant_arb: A handful of people get everyone’s interest by random basically</title>
         <dc:creator>@quant_arb</dc:creator>
         <description><![CDATA[<p>A handful of people get everyone’s interest by random basically</p>]]></description>
@@ -205,24 +229,6 @@ https://www.lse.ac.uk/study-at-lse/undergraduate/degree-programmes-2024/bsc-fina
         <pubDate>Fri, 24 Jan 2025 11:53:06 GMT</pubDate>
         <guid>https://nitter.freedit.eu/quant_arb/status/1882758522607448432#m</guid>
         <link>https://nitter.freedit.eu/quant_arb/status/1882758522607448432#m</link>
-      </item>
-      <item>
-        <title>Rough day for linear regression enjoyers</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>Rough day for linear regression enjoyers</p>
-<p><a href="https://nitter.freedit.eu/paularambles/status/1882133170797297894#m">nitter.freedit.eu/paularambles/status/1882133170797297894#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGh-9eVTWEAAEJ4K.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 23 Jan 2025 14:13:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1882431501641658654#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1882431501641658654#m</link>
-      </item>
-      <item>
-        <title>R to @quant_arb: There’s only one correct answer</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>There’s only one correct answer</p>]]></description>
-        <pubDate>Wed, 22 Jan 2025 12:46:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1882047262085591433#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1882047262085591433#m</link>
       </item>
 
   </channel>

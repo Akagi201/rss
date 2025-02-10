@@ -16,6 +16,110 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @emilianobonassi: Co-founder of Andreessen Horowitz: Nobody Cares</title>
+        <dc:creator>@zfellows</dc:creator>
+        <description><![CDATA[<p>Co-founder of Andreessen Horowitz: Nobody Cares</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjWdgZzWEAAWlCK.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 09 Feb 2025 14:00:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/zfellows/status/1888588802425340376#m</guid>
+        <link>https://nitter.freedit.eu/zfellows/status/1888588802425340376#m</link>
+      </item>
+      <item>
+        <title>RT by @emilianobonassi: 🔈Announce 🚀ZK Security Framework🚀
+
+ZKPs are revolutionizing privacy and security, but they also introduce new attack surfaces. To address these challenges, @salus_sec  &amp; @zerobasezk  have launched the ZK Security Framework—a structured approach to analyzing ZKP vulnerabilities, providing security audit checklists, and offering mitigation strategies to help developers build more secure ZK systems.
+
+🔍 Key Security Risks 
+✅ Completeness Issues: Over-constrained circuits may cause verification failures 
+✅ Soundness Issues: Under-constrained circuits can allow attackers to forge proofs 
+✅ Information Leakage: Trusted setup leaks may lead to stolen assets 
+✅ Arithmetic Overflows: Improper field arithmetic can be exploited
+
+📊 ZK Risk Classification 
+🔴 High Risk: Proof forgery (e.g., Frozen Heart attack) 🟡 Medium Risk: Unintended exposure of private inputs 
+🔵 Low Risk: Interfaces that are prone to misuse 
+⚫ Informational: Redundant constraints in logical
+
+Operations
+More than just an audit checklist, the ZK Security Framework serves as an essential learning resource for developers and security researchers.
+A huge thank you to the @ethereum  &amp; @EF_ESP team for their invaluable support! 🙌Without you, we wouldn&apos;t be able to complete it !
+
+Explore now 👉 GitHub: https://github.com/Salusec/zksecurity-framework/</title>
+        <dc:creator>@mirrorzk</dc:creator>
+        <description><![CDATA[<p>🔈Announce 🚀ZK Security Framework🚀<br>
+<br>
+ZKPs are revolutionizing privacy and security, but they also introduce new attack surfaces. To address these challenges, <a href="https://nitter.freedit.eu/salus_sec" title="Salus">@salus_sec</a>  & <a href="https://nitter.freedit.eu/zerobasezk" title="ZEROBASE">@zerobasezk</a>  have launched the ZK Security Framework—a structured approach to analyzing ZKP vulnerabilities, providing security audit checklists, and offering mitigation strategies to help developers build more secure ZK systems.<br>
+<br>
+🔍 Key Security Risks <br>
+✅ Completeness Issues: Over-constrained circuits may cause verification failures <br>
+✅ Soundness Issues: Under-constrained circuits can allow attackers to forge proofs <br>
+✅ Information Leakage: Trusted setup leaks may lead to stolen assets <br>
+✅ Arithmetic Overflows: Improper field arithmetic can be exploited<br>
+<br>
+📊 ZK Risk Classification <br>
+🔴 High Risk: Proof forgery (e.g., Frozen Heart attack) 🟡 Medium Risk: Unintended exposure of private inputs <br>
+🔵 Low Risk: Interfaces that are prone to misuse <br>
+⚫ Informational: Redundant constraints in logical<br>
+<br>
+Operations<br>
+More than just an audit checklist, the ZK Security Framework serves as an essential learning resource for developers and security researchers.<br>
+A huge thank you to the <a href="https://nitter.freedit.eu/ethereum" title="Ethereum.org">@ethereum</a>  & <a href="https://nitter.freedit.eu/EF_ESP" title="EF Ecosystem Support Program">@EF_ESP</a> team for their invaluable support! 🙌Without you, we wouldn't be able to complete it !<br>
+<br>
+Explore now 👉 GitHub: <a href="https://github.com/Salusec/zksecurity-framework/">github.com/Salusec/zksecurit…</a></p>]]></description>
+        <pubDate>Wed, 05 Feb 2025 09:23:20 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/mirrorzk/status/1887069486576259368#m</guid>
+        <link>https://nitter.freedit.eu/mirrorzk/status/1887069486576259368#m</link>
+      </item>
+      <item>
+        <title>RT by @emilianobonassi: Let&apos;s talk Delayed Execution.
+
+Together with @fradamt, we&apos;ve published a post exploring a potential implementation and its impact on scaling Ethereum&apos;s Layer 1.
+
+🔗 Read the full post here:
+https://ethresear.ch/t/delayed-execution-and-skipped-transactions/21677
+
+If you want a quick summary, here&apos;s the TL;DR 🧵👇</title>
+        <dc:creator>@nero_eth</dc:creator>
+        <description><![CDATA[<p>Let's talk Delayed Execution.<br>
+<br>
+Together with <a href="https://nitter.freedit.eu/fradamt" title="Francesco">@fradamt</a>, we've published a post exploring a potential implementation and its impact on scaling Ethereum's Layer 1.<br>
+<br>
+🔗 Read the full post here:<br>
+<a href="https://ethresear.ch/t/delayed-execution-and-skipped-transactions/21677">ethresear.ch/t/delayed-execu…</a><br>
+<br>
+If you want a quick summary, here's the TL;DR 🧵👇</p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1887078372179591168%2FKU49lDr5%3Fformat%3Dpng%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 05 Feb 2025 10:16:57 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/nero_eth/status/1887082982378189208#m</guid>
+        <link>https://nitter.freedit.eu/nero_eth/status/1887082982378189208#m</link>
+      </item>
+      <item>
+        <title>RT by @emilianobonassi: Introducing zkFOCIL, a protocol for private Ethereum inclusion lists! Based on FOCIL (EIP-7805) and powered by Linkable Ring Signatures, validators publish inclusion lists privately without revealing their identity.
+
+by @asn_d6, Benedikt and @soispoke
+
+https://ethresear.ch/t/zkfocil-inclusion-list-privacy-using-linkable-ring-signatures/21688/1</title>
+        <dc:creator>@asn_d6</dc:creator>
+        <description><![CDATA[<p>Introducing zkFOCIL, a protocol for private Ethereum inclusion lists! Based on FOCIL (EIP-7805) and powered by Linkable Ring Signatures, validators publish inclusion lists privately without revealing their identity.<br>
+<br>
+by <a href="https://nitter.freedit.eu/asn_d6" title="George Kadianakis">@asn_d6</a>, Benedikt and <a href="https://nitter.freedit.eu/soispoke" title="soispoke.eth">@soispoke</a><br>
+<br>
+<a href="https://ethresear.ch/t/zkfocil-inclusion-list-privacy-using-linkable-ring-signatures/21688/1">ethresear.ch/t/zkfocil-inclu…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1884988742462480384%2F3TAmQRbL%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 06 Feb 2025 10:07:22 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/asn_d6/status/1887442957705371906#m</guid>
+        <link>https://nitter.freedit.eu/asn_d6/status/1887442957705371906#m</link>
+      </item>
+      <item>
+        <title>RT by @emilianobonassi: Powered by @conduitxyz</title>
+        <dc:creator>@KAndrewHuang</dc:creator>
+        <description><![CDATA[<p>Powered by <a href="https://nitter.freedit.eu/conduitxyz" title="Conduit">@conduitxyz</a></p>
+<p><a href="https://nitter.freedit.eu/aixbt_agent/status/1888530918295691610#m">nitter.freedit.eu/aixbt_agent/status/1888530918295691610#m</a></p>]]></description>
+        <pubDate>Sun, 09 Feb 2025 16:59:39 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/KAndrewHuang/status/1888633875662024942#m</guid>
+        <link>https://nitter.freedit.eu/KAndrewHuang/status/1888633875662024942#m</link>
+      </item>
+      <item>
         <title>RT by @emilianobonassi: gm, rollups are scaling Ethereum throughput 54x and 3 of the top 5 rollups are on Conduit 
 
 @ProofOfPlay Apex + Boss chains and @WINRProtocol all seeing huge Mgas/s</title>
@@ -227,62 +331,6 @@ Cost to operate an Ethereum rollup with Conduit: $3,000/mo</p>
         <pubDate>Sun, 02 Feb 2025 18:00:41 GMT</pubDate>
         <guid>https://nitter.freedit.eu/conduitxyz/status/1886112517589549490#m</guid>
         <link>https://nitter.freedit.eu/conduitxyz/status/1886112517589549490#m</link>
-      </item>
-      <item>
-        <title>when there’s work to be done 🏗️
-
-go @conduitxyz</title>
-        <dc:creator>@emilianobonassi</dc:creator>
-        <description><![CDATA[<p>when there’s work to be done 🏗️<br>
-<br>
-go <a href="https://nitter.freedit.eu/conduitxyz" title="Conduit">@conduitxyz</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiuil5HXUAAZUZh.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 01 Feb 2025 19:57:58 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/emilianobonassi/status/1885779645947097393#m</guid>
-        <link>https://nitter.freedit.eu/emilianobonassi/status/1885779645947097393#m</link>
-      </item>
-      <item>
-        <title>RT by @emilianobonassi: 35 DEX&apos;s</title>
-        <dc:creator>@OrderlyNetwork</dc:creator>
-        <description><![CDATA[<p>35 DEX's</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGind5HmaMAA21BA.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 31 Jan 2025 11:00:05 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/OrderlyNetwork/status/1885281894545448987#m</guid>
-        <link>https://nitter.freedit.eu/OrderlyNetwork/status/1885281894545448987#m</link>
-      </item>
-      <item>
-        <title>RT by @emilianobonassi: 📢 Phala Network Joins NVIDIA Inception Program
-
-Phala is thrilled to be joining @nvidia Inception Program to accelerate our mission to bring Confidential AI to Web3! This milestone unlocks cutting-edge AI tech, expert support, and ecosystem collaboration for Phala Network to drive the future of trustworthy AI.
-
-#NVIDIAInception</title>
-        <dc:creator>@PhalaNetwork</dc:creator>
-        <description><![CDATA[<p>📢 Phala Network Joins NVIDIA Inception Program<br>
-<br>
-Phala is thrilled to be joining <a href="https://nitter.freedit.eu/nvidia" title="NVIDIA">@nvidia</a> Inception Program to accelerate our mission to bring Confidential AI to Web3! This milestone unlocks cutting-edge AI tech, expert support, and ecosystem collaboration for Phala Network to drive the future of trustworthy AI.<br>
-<br>
-<a href="https://nitter.freedit.eu/search?q=%23NVIDIAInception">#NVIDIAInception</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGilXVLWXsAAu5mM.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 31 Jan 2025 01:20:30 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/PhalaNetwork/status/1885136039016051039#m</guid>
-        <link>https://nitter.freedit.eu/PhalaNetwork/status/1885136039016051039#m</link>
-      </item>
-      <item>
-        <title>RT by @emilianobonassi: Nothing cures you of your pathology faster than meeting someone who has just a slightly more extreme case of it</title>
-        <dc:creator>@danrobinson</dc:creator>
-        <description><![CDATA[<p>Nothing cures you of your pathology faster than meeting someone who has just a slightly more extreme case of it</p>]]></description>
-        <pubDate>Thu, 30 Jan 2025 21:02:58 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/danrobinson/status/1885071229326864482#m</guid>
-        <link>https://nitter.freedit.eu/danrobinson/status/1885071229326864482#m</link>
-      </item>
-      <item>
-        <title>To stay ahead, go @conduitxyz 🌊</title>
-        <dc:creator>@emilianobonassi</dc:creator>
-        <description><![CDATA[<p>To stay ahead, go <a href="https://nitter.freedit.eu/conduitxyz" title="Conduit">@conduitxyz</a> 🌊</p>
-<p><a href="https://nitter.freedit.eu/jtguibas/status/1885060794846765532#m">nitter.freedit.eu/jtguibas/status/1885060794846765532#m</a></p>]]></description>
-        <pubDate>Thu, 30 Jan 2025 21:02:27 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/emilianobonassi/status/1885071098108154112#m</guid>
-        <link>https://nitter.freedit.eu/emilianobonassi/status/1885071098108154112#m</link>
       </item>
 
   </channel>

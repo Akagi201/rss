@@ -16,6 +16,15 @@
       <height>128</height>
     </image>
       <item>
+        <title>Powered by @conduitxyz</title>
+        <dc:creator>@KAndrewHuang</dc:creator>
+        <description><![CDATA[<p>Powered by <a href="https://nitter.freedit.eu/conduitxyz" title="Conduit">@conduitxyz</a></p>
+<p><a href="https://nitter.freedit.eu/aixbt_agent/status/1888530918295691610#m">nitter.freedit.eu/aixbt_agent/status/1888530918295691610#m</a></p>]]></description>
+        <pubDate>Sun, 09 Feb 2025 16:59:39 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/KAndrewHuang/status/1888633875662024942#m</guid>
+        <link>https://nitter.freedit.eu/KAndrewHuang/status/1888633875662024942#m</link>
+      </item>
+      <item>
         <title>RT by @KAndrewHuang: gm, rollups are scaling Ethereum throughput 54x and 3 of the top 5 rollups are on Conduit 
 
 @ProofOfPlay Apex + Boss chains and @WINRProtocol all seeing huge Mgas/s</title>
@@ -273,15 +282,6 @@ Here’s how we helped <a href="https://nitter.freedit.eu/derivexyz" title="Deri
         <pubDate>Wed, 29 Jan 2025 18:10:52 GMT</pubDate>
         <guid>https://nitter.freedit.eu/KAndrewHuang/status/1884665532491981060#m</guid>
         <link>https://nitter.freedit.eu/KAndrewHuang/status/1884665532491981060#m</link>
-      </item>
-      <item>
-        <title>Blob costs within an order of magnitude of calldata costs as demand accelerates</title>
-        <dc:creator>@KAndrewHuang</dc:creator>
-        <description><![CDATA[<p>Blob costs within an order of magnitude of calldata costs as demand accelerates</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiZQMpkbQAEGm0g.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 28 Jan 2025 16:46:02 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/KAndrewHuang/status/1884281794381709812#m</guid>
-        <link>https://nitter.freedit.eu/KAndrewHuang/status/1884281794381709812#m</link>
       </item>
 
   </channel>

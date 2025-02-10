@@ -16,6 +16,15 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @conduitxyz: Powered by @conduitxyz</title>
+        <dc:creator>@KAndrewHuang</dc:creator>
+        <description><![CDATA[<p>Powered by <a href="https://nitter.freedit.eu/conduitxyz" title="Conduit">@conduitxyz</a></p>
+<p><a href="https://nitter.freedit.eu/aixbt_agent/status/1888530918295691610#m">nitter.freedit.eu/aixbt_agent/status/1888530918295691610#m</a></p>]]></description>
+        <pubDate>Sun, 09 Feb 2025 16:59:39 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/KAndrewHuang/status/1888633875662024942#m</guid>
+        <link>https://nitter.freedit.eu/KAndrewHuang/status/1888633875662024942#m</link>
+      </item>
+      <item>
         <title>gm, rollups are scaling Ethereum throughput 54x and 3 of the top 5 rollups are on Conduit 
 
 @ProofOfPlay Apex + Boss chains and @WINRProtocol all seeing huge Mgas/s</title>
@@ -267,19 +276,6 @@ Powered by <a href="https://nitter.freedit.eu/conduitxyz" title="Conduit">@condu
         <pubDate>Mon, 03 Feb 2025 14:01:01 GMT</pubDate>
         <guid>https://nitter.freedit.eu/conduitxyz/status/1886414592332435717#m</guid>
         <link>https://nitter.freedit.eu/conduitxyz/status/1886414592332435717#m</link>
-      </item>
-      <item>
-        <title>Cost to operate Solana: $338,759,189/mo
-Cost to operate Avalanche: $54,885,187/mo
-Cost to operate an Ethereum rollup with Conduit: $3,000/mo</title>
-        <dc:creator>@conduitxyz</dc:creator>
-        <description><![CDATA[<p>Cost to operate Solana: $338,759,189/mo<br>
-Cost to operate Avalanche: $54,885,187/mo<br>
-Cost to operate an Ethereum rollup with Conduit: $3,000/mo</p>
-<p><a href="https://nitter.freedit.eu/ethereumintern_/status/1885677885878362506#m">nitter.freedit.eu/ethereumintern_/status/1885677885878362506#m</a></p>]]></description>
-        <pubDate>Sun, 02 Feb 2025 18:00:41 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/conduitxyz/status/1886112517589549490#m</guid>
-        <link>https://nitter.freedit.eu/conduitxyz/status/1886112517589549490#m</link>
       </item>
 
   </channel>

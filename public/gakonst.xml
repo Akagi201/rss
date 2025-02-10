@@ -16,6 +16,65 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @gakonst: zkemail-cairo – DKIM RSA-SHA256 verification in Cairo general-purpose ZKVM!🚀
+
+Enables email domain ownership &amp; email body content ZK-STARK proofs.
+Currently: 1.1M CairoCPU cycles, provable with STWO in 6.5s.</title>
+        <dc:creator>@bartolomeo_diaz</dc:creator>
+        <description><![CDATA[<p>zkemail-cairo – DKIM RSA-SHA256 verification in Cairo general-purpose ZKVM!🚀<br>
+<br>
+Enables email domain ownership &amp; email body content ZK-STARK proofs.<br>
+Currently: 1.1M CairoCPU cycles, provable with STWO in 6.5s.</p>]]></description>
+        <pubDate>Sat, 08 Feb 2025 14:55:25 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/bartolomeo_diaz/status/1888240222724354106#m</guid>
+        <link>https://nitter.freedit.eu/bartolomeo_diaz/status/1888240222724354106#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: a coin isn’t the only way to capture value and create something valuable onchain.
+
+non-predatory options for ye:
+
++ release collectible tracks and earn royalties when traded
++ tokenize ownership of his upcoming album and reward owners with exclusive perks like access to shows and merch
++ allow other artists to remix his track and earn splits when they monetize it
++  permissionlessly sync licensing 
++ and all the unintended value add that comes with enabling other people to build experiences on top of his tokens
+
+he can deepen his relationship with his perpetually dying fanbase and bypass the ruthless gatekeepers and exploitative middle men of the music industry.
+
+it’s not only an additional revenue stream, but one that’s completely executed by code, lowering the overhead and human capital needed to manage and enforce agreements.
+
+this is the future of music.</title>
+        <dc:creator>@0xDesigner</dc:creator>
+        <description><![CDATA[<p>a coin isn’t the only way to capture value and create something valuable onchain.<br>
+<br>
+non-predatory options for ye:<br>
+<br>
++ release collectible tracks and earn royalties when traded<br>
++ tokenize ownership of his upcoming album and reward owners with exclusive perks like access to shows and merch<br>
++ allow other artists to remix his track and earn splits when they monetize it<br>
++  permissionlessly sync licensing <br>
++ and all the unintended value add that comes with enabling other people to build experiences on top of his tokens<br>
+<br>
+he can deepen his relationship with his perpetually dying fanbase and bypass the ruthless gatekeepers and exploitative middle men of the music industry.<br>
+<br>
+it’s not only an additional revenue stream, but one that’s completely executed by code, lowering the overhead and human capital needed to manage and enforce agreements.<br>
+<br>
+this is the future of music.</p>
+<p><a href="https://nitter.freedit.eu/kanyewest/status/1888184202371494304#m">nitter.freedit.eu/kanyewest/status/1888184202371494304#m</a></p>]]></description>
+        <pubDate>Sat, 08 Feb 2025 18:46:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xDesigner/status/1888298299074986123#m</guid>
+        <link>https://nitter.freedit.eu/0xDesigner/status/1888298299074986123#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: IM NOT DOING A COIN    I MAKE PRODUCTS     I ONLY DO THINGS I AM PASSIONATE AND KNOWLEDGEABLE ABOUT      IM TOO RICH TO DO ANYTHING ELSE    COINS PREY ON THE FANS WITH HYPE    JUST LIKE HYPED UP SNEAKERS CULTURE    WHERES THE FTPS NOW 👀</title>
+        <dc:creator>@kanyewest</dc:creator>
+        <description><![CDATA[<p>IM NOT DOING A COIN    I MAKE PRODUCTS     I ONLY DO THINGS I AM PASSIONATE AND KNOWLEDGEABLE ABOUT      IM TOO RICH TO DO ANYTHING ELSE    COINS PREY ON THE FANS WITH HYPE    JUST LIKE HYPED UP SNEAKERS CULTURE    WHERES THE FTPS NOW 👀</p>]]></description>
+        <pubDate>Sat, 08 Feb 2025 11:12:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/kanyewest/status/1888184202371494304#m</guid>
+        <link>https://nitter.freedit.eu/kanyewest/status/1888184202371494304#m</link>
+      </item>
+      <item>
         <title>RT by @gakonst: Is anyone in the ZKP GPU-acceleration gang (@Ingo_zk @Snarkify_ZKP @SuccinctLabs @RiscZero) looking to bypass CUDA and do low-level PTX stuff, a la Deepseek method?</title>
         <dc:creator>@radi_cojbasic</dc:creator>
         <description><![CDATA[<p>Is anyone in the ZKP GPU-acceleration gang (<a href="https://nitter.freedit.eu/Ingo_zk" title="Ingonyama">@Ingo_zk</a> <a href="https://nitter.freedit.eu/Snarkify_ZKP" title="Snarkify">@Snarkify_ZKP</a> <a href="https://nitter.freedit.eu/SuccinctLabs" title="Succinct">@SuccinctLabs</a> <a href="https://nitter.freedit.eu/RiscZero" title="RISC Zero 🟡">@RiscZero</a>) looking to bypass CUDA and do low-level PTX stuff, a la Deepseek method?</p>]]></description>
@@ -160,36 +219,6 @@ If you want a quick summary, here's the TL;DR 🧵👇</p>
         <pubDate>Tue, 04 Feb 2025 17:19:26 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1886826912405971147#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1886826912405971147#m</link>
-      </item>
-      <item>
-        <title>anyone got a local fee market impl for evms?</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>anyone got a local fee market impl for evms?</p>]]></description>
-        <pubDate>Tue, 04 Feb 2025 17:18:46 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1886826747104281060#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1886826747104281060#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Can&apos;t wait for people to start doing cross Layer 2 interoperability by using market makers that hold inventory risk on the L1
-
-The experienced reader will know that this is basically the @Interledger vision</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Can't wait for people to start doing cross Layer 2 interoperability by using market makers that hold inventory risk on the L1<br>
-<br>
-The experienced reader will know that this is basically the <a href="https://nitter.freedit.eu/Interledger" title="Interledger Foundation">@Interledger</a> vision</p>
-<img src="https://nitter.freedit.eu/pic/media%2FEjLS8-cXsAA0Y1q.png" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 30 Sep 2020 16:31:20 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1311342880146042881#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1311342880146042881#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: book.getfoundry.sh/guides/v1…</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p><a href="https://book.getfoundry.sh/guides/v1.0-migration">book.getfoundry.sh/guides/v1…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1885747964733501440%2FuijMkuVS%3Fformat%3Dpng%26name%3D280x280_2" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 03 Feb 2025 17:39:36 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1886469599463714933#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1886469599463714933#m</link>
       </item>
 
   </channel>

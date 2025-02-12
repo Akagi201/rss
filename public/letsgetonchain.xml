@@ -11,10 +11,274 @@
     <image>
       <title>letsgetonchain / @letsgetonchain</title>
       <link>https://nitter.freedit.eu/letsgetonchain</link>
-      <url>https://nitter.freedit.eu/pic/pbs.twimg.com%2Fprofile_images%2F1882767541199634432%2F3yb27DKY_400x400.jpg</url>
+      <url>https://nitter.freedit.eu/pic/pbs.twimg.com%2Fprofile_images%2F1888897704660463616%2FLDYhDa9w_400x400.jpg</url>
       <width>128</width>
       <height>128</height>
     </image>
+      <item>
+        <title>R to @letsgetonchain: Thinking about a video series on chain abstraction.
+
+- What are the competing standards
+- What are the tradeoffs
+- What’s in production today
+- What’s coming in the next 6 months
+
+Tell me what i don&apos;t know, link anything I have to read and know! Cheers!</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Thinking about a video series on chain abstraction.<br>
+<br>
+- What are the competing standards<br>
+- What are the tradeoffs<br>
+- What’s in production today<br>
+- What’s coming in the next 6 months<br>
+<br>
+Tell me what i don't know, link anything I have to read and know! Cheers!</p>]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:27 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312797529461106#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312797529461106#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: Anyway I read this post and got quite excited. What am i missing ? What are the tradeoffs ? Are their other even better solutions? I know companies like @OneBalance_io @particle working on this. And i have seen demos by @useenclave that leverage the socket protocol. Who else is building in that space?</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Anyway I read this post and got quite excited. What am i missing ? What are the tradeoffs ? Are their other even better solutions? I know companies like <a href="https://nitter.freedit.eu/OneBalance_io" title="☉neBalance">@OneBalance_io</a> <a href="https://nitter.freedit.eu/particle" title="Particle">@particle</a> working on this. And i have seen demos by <a href="https://nitter.freedit.eu/useenclave" title="Enclave Money">@useenclave</a> that leverage the socket protocol. Who else is building in that space?</p>]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:26 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312794790556140#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312794790556140#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: </title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjgvv-BWIAASiBJ.png" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:26 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312792693375084#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312792693375084#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: Here is a visual about how that might look like on the wallet level:</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Here is a visual about how that might look like on the wallet level:</p>
+<p><a href="https://nitter.freedit.eu/spacemonkey127/status/1853380559948382336#m">nitter.freedit.eu/spacemonkey127/status/1853380559948382336#m</a></p>]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:25 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312789233074399#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312789233074399#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: 11/ Back to our example of depositing into aave on base or swapping cross chain, all the user has to do is to sign a single UserOp which gets instantly executed!
+
+How? The solver can execute it immediately on destination chain. The paymaster can then claim it back form the CAB risk free.</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>11/ Back to our example of depositing into aave on base or swapping cross chain, all the user has to do is to sign a single UserOp which gets instantly executed!<br>
+<br>
+How? The solver can execute it immediately on destination chain. The paymaster can then claim it back form the CAB risk free.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjgvoFpXwAE7diA.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:24 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312786959773965#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312786959773965#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: 10/ With Socket’s framework of account abstraction (CAB), the user sees one chain-abstracted balance and never deals with separate chain allocations.
+
+Under the hood the user has a 4337 smart wallet with CAB locking functionality deployed on every chain!</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>10/ With Socket’s framework of account abstraction (CAB), the user sees one chain-abstracted balance and never deals with separate chain allocations.<br>
+<br>
+Under the hood the user has a 4337 smart wallet with CAB locking functionality deployed on every chain!</p>]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:24 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312784405365104#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312784405365104#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: 9/ In our example imagine a user wants to deposit 1000 USDC into @aave on @base or swap 1000 USDC for OP tokens on @Optimism.
+
+Bad news: under the hood, he has 300 USDC on @ethereum, 300 USDC on @arbitrum and 400 USDC on @zksync.
+
+Good news: He doesn&apos;t even know any of it.</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>9/ In our example imagine a user wants to deposit 1000 USDC into <a href="https://nitter.freedit.eu/aave" title="Aave">@aave</a> on <a href="https://nitter.freedit.eu/base" title="Base">@base</a> or swap 1000 USDC for OP tokens on <a href="https://nitter.freedit.eu/Optimism" title="Optimism.eth">@Optimism</a>.<br>
+<br>
+Bad news: under the hood, he has 300 USDC on <a href="https://nitter.freedit.eu/ethereum" title="Ethereum.org">@ethereum</a>, 300 USDC on <a href="https://nitter.freedit.eu/arbitrum" title="Arbitrum">@arbitrum</a> and 400 USDC on <a href="https://nitter.freedit.eu/zksync" title="ZKsync (∎, ∆)">@zksync</a>.<br>
+<br>
+Good news: He doesn't even know any of it.</p>]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:23 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312782652199135#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312782652199135#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: 8/ Side note: In this example we will be looking at an EIP 4337 account but the set up will probably be very similar to EIP 7702 accounts with the only difference being that the locking mechanism would  have to be implemented in a separate smart contract since 7702 smart wallet implementation can just be re-upgraded by the EOA owner and hence any locking logic would be overwritten..</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>8/ Side note: In this example we will be looking at an EIP 4337 account but the set up will probably be very similar to EIP 7702 accounts with the only difference being that the locking mechanism would  have to be implemented in a separate smart contract since 7702 smart wallet implementation can just be re-upgraded by the EOA owner and hence any locking logic would be overwritten..</p>]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:23 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312780919918766#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312780919918766#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: 7/ This pre-locked amount is what @SOCKETProtocol  calls a “chain-abstracted balance” (CAB).
+
+Think of it as a unified balance across all L2s.
+
+You don’t need to worry about specific chain balances or infrastructure details anymore 🤯
+
+Let&apos;s get practical, an example ⬇️</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>7/ This pre-locked amount is what <a href="https://nitter.freedit.eu/SOCKETProtocol" title="SOCKET.eth">@SOCKETProtocol</a>  calls a “chain-abstracted balance” (CAB).<br>
+<br>
+Think of it as a unified balance across all L2s.<br>
+<br>
+You don’t need to worry about specific chain balances or infrastructure details anymore 🤯<br>
+<br>
+Let's get practical, an example ⬇️</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjgvRzOWoAA_3ZC.png" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:22 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312777941958991#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312777941958991#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: 6/ Finalized commitments by default.
+
+If user funds are pre-locked in a smart wallet, the solver can safely execute on the destination chain immediately, no finality wait needed, because it can later claim those locked funds as repayment.
+
+Cross chain latency solved!</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>6/ Finalized commitments by default.<br>
+<br>
+If user funds are pre-locked in a smart wallet, the solver can safely execute on the destination chain immediately, no finality wait needed, because it can later claim those locked funds as repayment.<br>
+<br>
+Cross chain latency solved!</p>]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:22 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312775693902210#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312775693902210#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: 5/ Here is the issue with this set up, the user makes a commitment precisely when they want an action to happen. Example locking up USDC on source chain. This commitment takes time to finalize.
+
+What if that commitment was already finalized? 👀
+
+That’s the idea suggested in the post!</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>5/ Here is the issue with this set up, the user makes a commitment precisely when they want an action to happen. Example locking up USDC on source chain. This commitment takes time to finalize.<br>
+<br>
+What if that commitment was already finalized? 👀<br>
+<br>
+That’s the idea suggested in the post!</p>]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:21 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312772216803482#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312772216803482#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: 4/ Without waiting for finality, a reorg on the source chain can cause financial loss to the sponsor.
+
+Sure, you could pay a risk premium to someone who takes that risk, but using “One Ethereum” shouldn’t include paying risk premiums because of how the underlying infra works.</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>4/ Without waiting for finality, a reorg on the source chain can cause financial loss to the sponsor.<br>
+<br>
+Sure, you could pay a risk premium to someone who takes that risk, but using “One Ethereum” shouldn’t include paying risk premiums because of how the underlying infra works.</p>]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:20 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312770232816058#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312770232816058#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: 3/ Most cross-L2 interactions happen like this:
+
+1️⃣ You perform an action on the source chain (creating a commitment).
+
+2️⃣ Once finality is reached on the source chain, the desired action goes through on the destination chain.
+
+But why do we need to wait for finality?</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>3/ Most cross-L2 interactions happen like this:<br>
+<br>
+1️⃣ You perform an action on the source chain (creating a commitment).<br>
+<br>
+2️⃣ Once finality is reached on the source chain, the desired action goes through on the destination chain.<br>
+<br>
+But why do we need to wait for finality?</p>]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:20 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312768538427827#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312768538427827#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: 2/ Even though L2s are secured by Ethereum, interacting with them doesn’t  feel like “One Ethereum.”
+
+- Each chain has its own USDC balance, its own ETH balance—a total mess.
+
+- Interacting across L2s comes with unbearable latency and friction.
+
+Why this latency?</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>2/ Even though L2s are secured by Ethereum, interacting with them doesn’t  feel like “One Ethereum.”<br>
+<br>
+- Each chain has its own USDC balance, its own ETH balance—a total mess.<br>
+<br>
+- Interacting across L2s comes with unbearable latency and friction.<br>
+<br>
+Why this latency?</p>]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:19 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312766810263991#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312766810263991#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: 1/ Ethereum UX has improved a lot thanks to account abstraction (e.g., gasless transactions, multisig) :
+
+- EIP 4337 for new users
+- EIP 7702 for existing EOAs
+
+Account abstraction is great, but Ethereum misses a layer of abstraction to compete UX wise: CHAIN ABSTRACTION</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>1/ Ethereum UX has improved a lot thanks to account abstraction (e.g., gasless transactions, multisig) :<br>
+<br>
+- EIP 4337 for new users<br>
+- EIP 7702 for existing EOAs<br>
+<br>
+Account abstraction is great, but Ethereum misses a layer of abstraction to compete UX wise: CHAIN ABSTRACTION</p>]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:19 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312765052960794#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312765052960794#m</link>
+      </item>
+      <item>
+        <title>Got excited after reading @vaibhavchellani&apos;s post.
+
+History shows retail often doesn’t care about decentralization, until they do. Short term, they prioritize UX.
+
+The concept of &quot;One Ethereum&quot; via chain abstraction offers both.
+
+Let me explain how 🧵⬇️
+https://ethresear.ch/t/magicspend-spend-now-debit-later/19678</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Got excited after reading <a href="https://nitter.freedit.eu/vaibhavchellani" title="Vaibhav⚡️">@vaibhavchellani</a>'s post.<br>
+<br>
+History shows retail often doesn’t care about decentralization, until they do. Short term, they prioritize UX.<br>
+<br>
+The concept of "One Ethereum" via chain abstraction offers both.<br>
+<br>
+Let me explain how 🧵⬇️<br>
+<a href="https://ethresear.ch/t/magicspend-spend-now-debit-later/19678">ethresear.ch/t/magicspend-sp…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1887405215919337472%2FDLBWciEO%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:57:19 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312763178102990#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312763178102990#m</link>
+      </item>
+      <item>
+        <title>RT by @letsgetonchain: If you are building on the EVM you need to know at least EIP 7702, EIP 7623 and EIP 2537 out of Ethereum&apos;s next upgrade!  
+
+I covered each of these with a video where I go through every line of code in the evm that changes!  
+
+Sunday gud day to get ready!  
+
+Links in tweets below ⬇️</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>If you are building on the EVM you need to know at least EIP 7702, EIP 7623 and EIP 2537 out of Ethereum's next upgrade!  <br>
+<br>
+I covered each of these with a video where I go through every line of code in the evm that changes!  <br>
+<br>
+Sunday gud day to get ready!  <br>
+<br>
+Links in tweets below ⬇️</p>
+<p><a href="https://nitter.freedit.eu/binji_x/status/1874422557992263720#m">nitter.freedit.eu/binji_x/status/1874422557992263720#m</a></p>]]></description>
+        <pubDate>Sun, 09 Feb 2025 16:42:38 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1888629594313658662#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1888629594313658662#m</link>
+      </item>
       <item>
         <title>R to @letsgetonchain: EIP 7702 ⬇️
 https://www.youtube.com/watch?v=4G2KwbxjKi8&amp;list=PLYYidDLT5Dd-7s3rbuAy3vJxAjz17bSEE</title>
@@ -47,264 +311,6 @@ https://www.youtube.com/watch?v=PEr2ivthRf4</title>
         <pubDate>Sun, 09 Feb 2025 16:42:39 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1888629596435649015#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1888629596435649015#m</link>
-      </item>
-      <item>
-        <title>If you are building on the EVM you need to know at least EIP 7702, EIP 7623 and EIP 2537 out of Ethereum&apos;s next upgrade!  
-
-I covered each of these with a video where I go through every line of code in the evm that changes!  
-
-Sunday gud day to get ready!  
-
-Links in tweets below ⬇️</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>If you are building on the EVM you need to know at least EIP 7702, EIP 7623 and EIP 2537 out of Ethereum's next upgrade!  <br>
-<br>
-I covered each of these with a video where I go through every line of code in the evm that changes!  <br>
-<br>
-Sunday gud day to get ready!  <br>
-<br>
-Links in tweets below ⬇️</p>
-<p><a href="https://nitter.freedit.eu/binji_x/status/1874422557992263720#m">nitter.freedit.eu/binji_x/status/1874422557992263720#m</a></p>]]></description>
-        <pubDate>Sun, 09 Feb 2025 16:42:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1888629594313658662#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1888629594313658662#m</link>
-      </item>
-      <item>
-        <title>RT by @letsgetonchain: Believe it or not Ethereum&apos;s Pectra upgrade ships with a record number of EIPs 🚀
-
-Today I cover EIP 2537 which enables the evm to handle more advanced elliptic curve cryptography!
-
-Part 1 -&gt; high level intro to the EIP, with everything you need to know (video below)
-Part 2 -&gt; Evm code deep dive into how precompiles are implemented (youtube video  🔗 in bio) (credit to pull request by @ashekhirin)</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Believe it or not Ethereum's Pectra upgrade ships with a record number of EIPs 🚀<br>
-<br>
-Today I cover EIP 2537 which enables the evm to handle more advanced elliptic curve cryptography!<br>
-<br>
-Part 1 -&gt; high level intro to the EIP, with everything you need to know (video below)<br>
-Part 2 -&gt; Evm code deep dive into how precompiles are implemented (youtube video  🔗 in bio) (credit to pull request by <a href="https://nitter.freedit.eu/ashekhirin" title="Alexey Shekhirin ⛵">@ashekhirin</a>)</p>
-<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1887443611588993024%2Fpu%2Fimg%2Fd_DlVSAR4c-bHrqS.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 06 Feb 2025 10:46:09 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887452718153052290#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1887452718153052290#m</link>
-      </item>
-      <item>
-        <title>RT by @letsgetonchain: Fighting consumes energy and brings people to the breaking point. This is part of the condition of life.
-
-Do I feel good when I hear people from crypto twitter and VC firms telling me that PvP KOL degen casino that&apos;s money-losing for &gt;99% of its own users is the best product market fit that crypto is going to get, and it&apos;s &quot;condescending and elitist&quot; to wish for something better?
-
-Or when people with no understanding of the ethereum foundation internals tell me exactly whom I should rip out of the organization and whom I should throw in, and on top of that expect it all to get done within 2 weeks?
-
-No, I do not feel good at all hearing these things. There are even times when they make me feel emotional desire to quit. But each time that happens, I always see a sign from the world, something that reminds me that we are fighting for something valuable, that is worth fighting for.
-
-If you look inside yourself, you will find things worth fighting for too.
-
-Don&apos;t cancel yourself.
-Become uncancellable.
-Milady</title>
-        <dc:creator>@VitalikButerin</dc:creator>
-        <description><![CDATA[<p>Fighting consumes energy and brings people to the breaking point. This is part of the condition of life.<br>
-<br>
-Do I feel good when I hear people from crypto twitter and VC firms telling me that PvP KOL degen casino that's money-losing for &gt;99% of its own users is the best product market fit that crypto is going to get, and it's "condescending and elitist" to wish for something better?<br>
-<br>
-Or when people with no understanding of the ethereum foundation internals tell me exactly whom I should rip out of the organization and whom I should throw in, and on top of that expect it all to get done within 2 weeks?<br>
-<br>
-No, I do not feel good at all hearing these things. There are even times when they make me feel emotional desire to quit. But each time that happens, I always see a sign from the world, something that reminds me that we are fighting for something valuable, that is worth fighting for.<br>
-<br>
-If you look inside yourself, you will find things worth fighting for too.<br>
-<br>
-Don't cancel yourself.<br>
-Become uncancellable.<br>
-Milady</p>]]></description>
-        <pubDate>Thu, 06 Feb 2025 20:09:35 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/VitalikButerin/status/1887594511414796784#m</guid>
-        <link>https://nitter.freedit.eu/VitalikButerin/status/1887594511414796784#m</link>
-      </item>
-      <item>
-        <title>RT by @letsgetonchain: Posting here part 2 which is more intended for devs.
-
-I cover @ashekhirin pull request that added EIP 2537 to revm (rust implemention of the evm).
-
-In this code deep dive you will get a good understanding of how precompiles work within the EVM!</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Posting here part 2 which is more intended for devs.<br>
-<br>
-I cover <a href="https://nitter.freedit.eu/ashekhirin" title="Alexey Shekhirin ⛵">@ashekhirin</a> pull request that added EIP 2537 to revm (rust implemention of the evm).<br>
-<br>
-In this code deep dive you will get a good understanding of how precompiles work within the EVM!</p>
-<p><a href="https://nitter.freedit.eu/letsgetonchain/status/1887452718153052290#m">nitter.freedit.eu/letsgetonchain/status/1887452718153052290#m</a></p>
-<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1887453453485572096%2Fimg%2Fz2viq1JOa-DyxqLV.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 06 Feb 2025 10:51:13 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887453993083019704#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1887453993083019704#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: Here is the youtube🔗 for part 2
-https://youtu.be/y7TfMwAi4H4?si=owLERCMwyYDPrQFG</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Here is the youtube🔗 for part 2<br>
-<a href="https://piped.video/y7TfMwAi4H4?si=owLERCMwyYDPrQFG">piped.video/y7TfMwAi4H4?si=owLE…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1887477069963005953%2FW9aTePoQ%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 06 Feb 2025 12:23:30 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887477214511247599#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1887477214511247599#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: Check out the full two part series on my youtube 🔗 in bio!</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Check out the full two part series on my youtube 🔗 in bio!</p>]]></description>
-        <pubDate>Thu, 06 Feb 2025 10:46:14 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887452735953641809#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1887452735953641809#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: 4/ It means the execution layer can communicate with consensus, for example to cryptographically check that finality is reached for a certain block.
-
-More generally these precompiles can be used by:
-
-1) restaking protocols (@eigenlayer)
-2) light clients
-3) bridges
-4) staking pools
-5) zk tech
-
-Others? please add!</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>4/ It means the execution layer can communicate with consensus, for example to cryptographically check that finality is reached for a certain block.<br>
-<br>
-More generally these precompiles can be used by:<br>
-<br>
-1) restaking protocols (<a href="https://nitter.freedit.eu/eigenlayer" title="EigenLayer">@eigenlayer</a>)<br>
-2) light clients<br>
-3) bridges<br>
-4) staking pools<br>
-5) zk tech<br>
-<br>
-Others? please add!</p>]]></description>
-        <pubDate>Thu, 06 Feb 2025 10:46:13 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887452731968770512#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1887452731968770512#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: 3/ It makes it a good fit for much used cryptographic schemes like BLS Signatures for example.
-
-BLS signatures are already used on the consensus layer due to its unique ability to aggregate many signatures and verify them efficiently.
-
-What does this enable?</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>3/ It makes it a good fit for much used cryptographic schemes like BLS Signatures for example.<br>
-<br>
-BLS signatures are already used on the consensus layer due to its unique ability to aggregate many signatures and verify them efficiently.<br>
-<br>
-What does this enable?</p>]]></description>
-        <pubDate>Thu, 06 Feb 2025 10:46:12 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887452729213087830#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1887452729213087830#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: 2/ EIP 2537 introduces a bunch of new precompiles to the evm to handler operations on elliptic curve BLS12-381. 
-
-The evm already supports some elliptic curves (like BN254) , but this one is pairing friendly and offers higher security than existing ones. 
-
-Why is this important?</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>2/ EIP 2537 introduces a bunch of new precompiles to the evm to handler operations on elliptic curve BLS12-381. <br>
-<br>
-The evm already supports some elliptic curves (like BN254) , but this one is pairing friendly and offers higher security than existing ones. <br>
-<br>
-Why is this important?</p>]]></description>
-        <pubDate>Thu, 06 Feb 2025 10:46:11 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887452725098496243#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1887452725098496243#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: If you don&apos;t like video&apos;s here is a little tldr thread:
-
-1/ First of credit to the authors of the eip (@asanso @ralexstokes @shamatar), the discussion around it had been going on for over 4 years 🤯</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>If you don't like video's here is a little tldr thread:<br>
-<br>
-1/ First of credit to the authors of the eip (<a href="https://nitter.freedit.eu/asanso" title="asanso.eth">@asanso</a> <a href="https://nitter.freedit.eu/ralexstokes" title="stokes">@ralexstokes</a> <a href="https://nitter.freedit.eu/Shamatar" title="Alexander Vlasov">@shamatar</a>), the discussion around it had been going on for over 4 years 🤯</p>]]></description>
-        <pubDate>Thu, 06 Feb 2025 10:46:10 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887452721789186388#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1887452721789186388#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: @jarrodWattsDev @0xCygaar anyway to get access here?</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p><a href="https://nitter.freedit.eu/jarrodWattsDev" title="Jarrod Watts">@jarrodWattsDev</a> <a href="https://nitter.freedit.eu/0xCygaar" title="cygaar">@0xCygaar</a> anyway to get access here?</p>]]></description>
-        <pubDate>Wed, 05 Feb 2025 11:20:06 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1887098874214363387#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1887098874214363387#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: the most unique thing from my understanding is that smart contracts will be able to verify bls sigs from consensus layer to check if a block is final for instance.
-
-What rollups will make use of these new precompiles? which proof systems will leverage it?</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>the most unique thing from my understanding is that smart contracts will be able to verify bls sigs from consensus layer to check if a block is final for instance.<br>
-<br>
-What rollups will make use of these new precompiles? which proof systems will leverage it?</p>]]></description>
-        <pubDate>Fri, 31 Jan 2025 14:22:39 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1885332874938687534#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1885332874938687534#m</link>
-      </item>
-      <item>
-        <title>Prepping a video on eip 2537, would love to speak with someone who knows more about specific use cases who will leverage the cryptographic schemes enabled by the new precompiles for curve bls12-381. 
-
-As in what does it enable from day one what other existing precompiles for existing curves did not support?</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Prepping a video on eip 2537, would love to speak with someone who knows more about specific use cases who will leverage the cryptographic schemes enabled by the new precompiles for curve bls12-381. <br>
-<br>
-As in what does it enable from day one what other existing precompiles for existing curves did not support?</p>]]></description>
-        <pubDate>Fri, 31 Jan 2025 11:31:45 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1885289864888811834#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1885289864888811834#m</link>
-      </item>
-      <item>
-        <title>Just applied as a streamer on @AbstractChain. 
-
-Would you watch a stream where I run through their docs and build a dapp?  
-
-Their onboarding is really cool compared to what I have seen before in L2 land.. Instant overview of what is available, account abstraction built in, live streams to connect with community..  
-
-Don&apos;t fade a builder like @0xCygaar i guess..</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Just applied as a streamer on <a href="https://nitter.freedit.eu/AbstractChain" title="Abstract">@AbstractChain</a>. <br>
-<br>
-Would you watch a stream where I run through their docs and build a dapp?  <br>
-<br>
-Their onboarding is really cool compared to what I have seen before in L2 land.. Instant overview of what is available, account abstraction built in, live streams to connect with community..  <br>
-<br>
-Don't fade a builder like <a href="https://nitter.freedit.eu/0xCygaar" title="cygaar">@0xCygaar</a> i guess..</p>]]></description>
-        <pubDate>Fri, 31 Jan 2025 09:45:36 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1885263151052075136#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1885263151052075136#m</link>
-      </item>
-      <item>
-        <title>RT by @letsgetonchain: Revm feels like going through Ethereum&apos;s history..
-
-For example it&apos;s support for older transaction types lets you trace the evolution of fork-specific validations⬇️
-
-Way more effective and sticky than reading EIPs.
-
-Obviously implementing them is even better..
-
-2025 goal 🫡</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Revm feels like going through Ethereum's history..<br>
-<br>
-For example it's support for older transaction types lets you trace the evolution of fork-specific validations⬇️<br>
-<br>
-Way more effective and sticky than reading EIPs.<br>
-<br>
-Obviously implementing them is even better..<br>
-<br>
-2025 goal 🫡</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgNhUstWkAAA0hE.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 01 Jan 2025 13:38:00 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1874450001792848050#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1874450001792848050#m</link>
       </item>
 
   </channel>

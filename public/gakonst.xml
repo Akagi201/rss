@@ -16,6 +16,137 @@
       <height>128</height>
     </image>
       <item>
+        <title>what smart contracts test suites should we benchmark for performance improvements between foundry 0.2 and 1.0?</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>what smart contracts test suites should we benchmark for performance improvements between foundry 0.2 and 1.0?</p>]]></description>
+        <pubDate>Tue, 11 Feb 2025 23:22:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1889455058280128758#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1889455058280128758#m</link>
+      </item>
+      <item>
+        <title>https://github.com/bluealloy/revm/pull/2043 looking for a taker</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p><a href="https://github.com/bluealloy/revm/pull/2043">github.com/bluealloy/revm/pu…</a> looking for a taker</p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1889431627769802752%2FHUT1LhE5%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 11 Feb 2025 21:52:37 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1889432377740689907#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1889432377740689907#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: It doesn’t cost $10 million to launch a rollup.
+
+But more importantly, you’re thinking about rollup costs all wrong.
+
+Study Nvidia. Study Jensen Huang.
+
+“Our total cost of operations is so good that even when competitors’ chips are free, it’s not cheap enough.”</title>
+        <dc:creator>@KAndrewHuang</dc:creator>
+        <description><![CDATA[<p>It doesn’t cost $10 million to launch a rollup.<br>
+<br>
+But more importantly, you’re thinking about rollup costs all wrong.<br>
+<br>
+Study Nvidia. Study Jensen Huang.<br>
+<br>
+“Our total cost of operations is so good that even when competitors’ chips are free, it’s not cheap enough.”</p>
+<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1889415840220545024%2Fpu%2Fimg%2FHCrcnTLTxJb0_xVY.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 11 Feb 2025 20:50:17 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/KAndrewHuang/status/1889416689991012528#m</guid>
+        <link>https://nitter.freedit.eu/KAndrewHuang/status/1889416689991012528#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: We are looking for engineers to come and push the boundaries of what&apos;s possible with our L2 team
+
+Unique opportunity to build cutting edge engineering across the rollup ecosystem
+
+Reach out in DMs or apply below if you&apos;re a 10x rust engineer or know someone who is</title>
+        <dc:creator>@bertcmiller</dc:creator>
+        <description><![CDATA[<p>We are looking for engineers to come and push the boundaries of what's possible with our L2 team<br>
+<br>
+Unique opportunity to build cutting edge engineering across the rollup ecosystem<br>
+<br>
+Reach out in DMs or apply below if you're a 10x rust engineer or know someone who is</p>
+<p><a href="https://nitter.freedit.eu/ferranbt/status/1888901877787476379#m">nitter.freedit.eu/ferranbt/status/1888901877787476379#m</a></p>]]></description>
+        <pubDate>Tue, 11 Feb 2025 13:32:14 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/bertcmiller/status/1889306453384536194#m</guid>
+        <link>https://nitter.freedit.eu/bertcmiller/status/1889306453384536194#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Viem 2.23 now has support for better call simulation, including asset changes, gas used, and logs with the `simulateCalls` API!
+
+Image 1: Usage
+Image 2: Response (asset changes)
+Image 3: Response (results, logs &amp; gas used)
+
+Powered by `eth_simulateV1` – a successor to multicall.</title>
+        <dc:creator>@_jxom</dc:creator>
+        <description><![CDATA[<p>Viem 2.23 now has support for better call simulation, including asset changes, gas used, and logs with the `simulateCalls` API!<br>
+<br>
+Image 1: Usage<br>
+Image 2: Response (asset changes)<br>
+Image 3: Response (results, logs & gas used)<br>
+<br>
+Powered by `eth_simulateV1` – a successor to multicall.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjaHiIraoAAuJtl.png" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGjaHmbOaMAAMOw9.png" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGjaHorXbYAAeXgO.png" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 10 Feb 2025 18:40:10 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/_jxom/status/1889021557953233341#m</guid>
+        <link>https://nitter.freedit.eu/_jxom/status/1889021557953233341#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Memecoins were once fun and pure, but the industrialized trenches have turned a harmless PvP game into a predatory one, dominated by insider edge.
+
+Traditional casino games and memecoins share a core design idea: a high “return to player” (RTP) that masks a built-in edge while delivering intermittent, variable rewards to players.
+
+Traditional casino games like slots and blackjack offer high RTPs (90-99%+), meaning you might lose $1-10 in expectation on $100 of wagers. These games work because they leverage near-miss effects and the gambler’s fallacy, ensuring that the lure of a big win (variable payoff) keeps you in the game even as you’re bleeding bankroll.
+
+As I see it, the main issue with memecoins-as-gambling-game today is that they have moved away from their purest form to a fully industrialized version of the trenches. Initially, they functioned more like a PvP slot machine: most bets evaporate, but there’s a small chance to graduate with a 5-25x+ multiplier, or even hit a jackpot-level payout of 100-1000x+ when they temporarily become PvE. The thrill is from “catching a runner” or watching someone hit a massive win.
+
+Now, only 1-1.5% of PumpFun launches graduate every day. I would guess nearly all of these are industrialized, operated by sophisticated insiders and influencers (“eca”) like [REDACTED] who launch them to their audiences with ever shortening half-lifes. All of this lowers the effective RTP for casuals, transforming memecoins from a pseudo-random high RTP slot-style game to a predatory, low RTP insider game where casual users are set up to lose.
+
+The death knell for these games is when RTP drops so low that uninformed players have ~no chance to profit. Gambler’s fallacy and social media can temporarily keep the game alive by spotlighting winners. Over time, if nearly all profits are captured by house edge, the player pool is liable to dry up and destroys the original, harmless PvP thrills that made memes fun in the first place.</title>
+        <dc:creator>@arjunblj</dc:creator>
+        <description><![CDATA[<p>Memecoins were once fun and pure, but the industrialized trenches have turned a harmless PvP game into a predatory one, dominated by insider edge.<br>
+<br>
+Traditional casino games and memecoins share a core design idea: a high “return to player” (RTP) that masks a built-in edge while delivering intermittent, variable rewards to players.<br>
+<br>
+Traditional casino games like slots and blackjack offer high RTPs (90-99%+), meaning you might lose $1-10 in expectation on $100 of wagers. These games work because they leverage near-miss effects and the gambler’s fallacy, ensuring that the lure of a big win (variable payoff) keeps you in the game even as you’re bleeding bankroll.<br>
+<br>
+As I see it, the main issue with memecoins-as-gambling-game today is that they have moved away from their purest form to a fully industrialized version of the trenches. Initially, they functioned more like a PvP slot machine: most bets evaporate, but there’s a small chance to graduate with a 5-25x+ multiplier, or even hit a jackpot-level payout of 100-1000x+ when they temporarily become PvE. The thrill is from “catching a runner” or watching someone hit a massive win.<br>
+<br>
+Now, only 1-1.5% of PumpFun launches graduate every day. I would guess nearly all of these are industrialized, operated by sophisticated insiders and influencers (“eca”) like [REDACTED] who launch them to their audiences with ever shortening half-lifes. All of this lowers the effective RTP for casuals, transforming memecoins from a pseudo-random high RTP slot-style game to a predatory, low RTP insider game where casual users are set up to lose.<br>
+<br>
+The death knell for these games is when RTP drops so low that uninformed players have ~no chance to profit. Gambler’s fallacy and social media can temporarily keep the game alive by spotlighting winners. Over time, if nearly all profits are captured by house edge, the player pool is liable to dry up and destroys the original, harmless PvP thrills that made memes fun in the first place.</p>]]></description>
+        <pubDate>Mon, 10 Feb 2025 19:50:45 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/arjunblj/status/1889039321140961303#m</guid>
+        <link>https://nitter.freedit.eu/arjunblj/status/1889039321140961303#m</link>
+      </item>
+      <item>
+        <title>A fresh idea on scaling from our own @notnotstorm. 
+
+Increasing the gas target from 50% to 75% could be a great way to bump throughput without reducing worst case load.
+
+Note there&apos;s precedent on this for blobs in Pectra, so it could be a quick win.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>A fresh idea on scaling from our own <a href="https://nitter.freedit.eu/notnotstorm" title="storm">@notnotstorm</a>. <br>
+<br>
+Increasing the gas target from 50% to 75% could be a great way to bump throughput without reducing worst case load.<br>
+<br>
+Note there's precedent on this for blobs in Pectra, so it could be a quick win.</p>
+<p><a href="https://nitter.freedit.eu/notnotstorm/status/1888992516558704898#m">nitter.freedit.eu/notnotstorm/status/1888992516558704898#m</a></p>]]></description>
+        <pubDate>Mon, 10 Feb 2025 17:07:59 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1888998359303954920#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1888998359303954920#m</link>
+      </item>
+      <item>
+        <title>would you migrate funds, nfts, ens etc to enable your account to work flawlessly (one balance, gas abstracted, no key mgmt etc)? how locked are you in your existing wallet? what would you need to be told to be excited to migrate?</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>would you migrate funds, nfts, ens etc to enable your account to work flawlessly (one balance, gas abstracted, no key mgmt etc)? how locked are you in your existing wallet? what would you need to be told to be excited to migrate?</p>]]></description>
+        <pubDate>Mon, 10 Feb 2025 05:30:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1888822912486199375#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1888822912486199375#m</link>
+      </item>
+      <item>
         <title>RT by @gakonst: zkemail-cairo – DKIM RSA-SHA256 verification in Cairo general-purpose ZKVM!🚀
 
 Enables email domain ownership &amp; email body content ZK-STARK proofs.
@@ -60,19 +191,10 @@ he can deepen his relationship with his perpetually dying fanbase and bypass the
 <br>
 it’s not only an additional revenue stream, but one that’s completely executed by code, lowering the overhead and human capital needed to manage and enforce agreements.<br>
 <br>
-this is the future of music.</p>
-<p><a href="https://nitter.freedit.eu/kanyewest/status/1888184202371494304#m">nitter.freedit.eu/kanyewest/status/1888184202371494304#m</a></p>]]></description>
+this is the future of music.</p>]]></description>
         <pubDate>Sat, 08 Feb 2025 18:46:12 GMT</pubDate>
         <guid>https://nitter.freedit.eu/0xDesigner/status/1888298299074986123#m</guid>
         <link>https://nitter.freedit.eu/0xDesigner/status/1888298299074986123#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: IM NOT DOING A COIN    I MAKE PRODUCTS     I ONLY DO THINGS I AM PASSIONATE AND KNOWLEDGEABLE ABOUT      IM TOO RICH TO DO ANYTHING ELSE    COINS PREY ON THE FANS WITH HYPE    JUST LIKE HYPED UP SNEAKERS CULTURE    WHERES THE FTPS NOW 👀</title>
-        <dc:creator>@kanyewest</dc:creator>
-        <description><![CDATA[<p>IM NOT DOING A COIN    I MAKE PRODUCTS     I ONLY DO THINGS I AM PASSIONATE AND KNOWLEDGEABLE ABOUT      IM TOO RICH TO DO ANYTHING ELSE    COINS PREY ON THE FANS WITH HYPE    JUST LIKE HYPED UP SNEAKERS CULTURE    WHERES THE FTPS NOW 👀</p>]]></description>
-        <pubDate>Sat, 08 Feb 2025 11:12:49 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/kanyewest/status/1888184202371494304#m</guid>
-        <link>https://nitter.freedit.eu/kanyewest/status/1888184202371494304#m</link>
       </item>
       <item>
         <title>RT by @gakonst: Is anyone in the ZKP GPU-acceleration gang (@Ingo_zk @Snarkify_ZKP @SuccinctLabs @RiscZero) looking to bypass CUDA and do low-level PTX stuff, a la Deepseek method?</title>
@@ -158,67 +280,6 @@ smooth UX with blockchain infra is not far</p>
         <pubDate>Thu, 06 Feb 2025 18:17:11 GMT</pubDate>
         <guid>https://nitter.freedit.eu/0xdhruva/status/1887566221186637959#m</guid>
         <link>https://nitter.freedit.eu/0xdhruva/status/1887566221186637959#m</link>
-      </item>
-      <item>
-        <title>tons of PRs from Github accounts with private activity recently / templated .profile/README.md, most/all AI generated/low effort, but noticeably better than the &quot;fix docs&quot; farmers.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>tons of PRs from Github accounts with private activity recently / templated .profile/README.md, most/all AI generated/low effort, but noticeably better than the "fix docs" farmers.</p>]]></description>
-        <pubDate>Thu, 06 Feb 2025 18:13:33 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1887565306639622245#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1887565306639622245#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: 🚨 We have cut the Foundry v1.0 Release Candidate, and published a migration guide. 🚨
-
-Run `foundryup -i rc` to get the RC binaries and try it out. 
-
-It is important to us we get your feedback as this is the last step before the official 1.0 release after three years.
-
-Docs link in thread below.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>🚨 We have cut the Foundry v1.0 Release Candidate, and published a migration guide. 🚨<br>
-<br>
-Run `foundryup -i rc` to get the RC binaries and try it out. <br>
-<br>
-It is important to us we get your feedback as this is the last step before the official 1.0 release after three years.<br>
-<br>
-Docs link in thread below.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGi4VsjKa4Acg5i0.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 03 Feb 2025 17:39:35 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1886469597685276698#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1886469597685276698#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Let&apos;s talk Delayed Execution.
-
-Together with @fradamt, we&apos;ve published a post exploring a potential implementation and its impact on scaling Ethereum&apos;s Layer 1.
-
-🔗 Read the full post here:
-https://ethresear.ch/t/delayed-execution-and-skipped-transactions/21677
-
-If you want a quick summary, here&apos;s the TL;DR 🧵👇</title>
-        <dc:creator>@nero_eth</dc:creator>
-        <description><![CDATA[<p>Let's talk Delayed Execution.<br>
-<br>
-Together with <a href="https://nitter.freedit.eu/fradamt" title="Francesco">@fradamt</a>, we've published a post exploring a potential implementation and its impact on scaling Ethereum's Layer 1.<br>
-<br>
-🔗 Read the full post here:<br>
-<a href="https://ethresear.ch/t/delayed-execution-and-skipped-transactions/21677">ethresear.ch/t/delayed-execu…</a><br>
-<br>
-If you want a quick summary, here's the TL;DR 🧵👇</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1887078372179591168%2FKU49lDr5%3Fformat%3Dpng%26name%3D420x420_2" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 05 Feb 2025 10:16:57 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/nero_eth/status/1887082982378189208#m</guid>
-        <link>https://nitter.freedit.eu/nero_eth/status/1887082982378189208#m</link>
-      </item>
-      <item>
-        <title>spinner-level UX for zkemail recovery! so good.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>spinner-level UX for zkemail recovery! so good.</p>
-<p><a href="https://nitter.freedit.eu/Zac_Aztec/status/1886732228731838702#m">nitter.freedit.eu/Zac_Aztec/status/1886732228731838702#m</a></p>]]></description>
-        <pubDate>Tue, 04 Feb 2025 17:19:26 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1886826912405971147#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1886826912405971147#m</link>
       </item>
 
   </channel>

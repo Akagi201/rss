@@ -16,6 +16,195 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @notnotstorm: this tweak is low hanging fruit for safely scaling ethereum ⛽🎯
+
+if this interests you, check out the discussion of the EIP here https://ethereum-magicians.org/t/eip-xxxx-increase-gas-utilization-target/22815
+
+🌱→🌲</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>this tweak is low hanging fruit for safely scaling ethereum ⛽🎯<br>
+<br>
+if this interests you, check out the discussion of the EIP here <a href="https://ethereum-magicians.org/t/eip-xxxx-increase-gas-utilization-target/22815">ethereum-magicians.org/t/eip…</a><br>
+<br>
+🌱→🌲</p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1887414827251036160%2Fc_DE6_s0%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 10 Feb 2025 16:44:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992531360473423#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1888992531360473423#m</link>
+      </item>
+      <item>
+        <title>R to @notnotstorm: this is also not much different from what pectra is doing to the blob market. targeting 6/9 blobs is a utilization target of 66.7%</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>this is also not much different from what pectra is doing to the blob market. targeting 6/9 blobs is a utilization target of 66.7%</p>]]></description>
+        <pubDate>Mon, 10 Feb 2025 16:44:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992530160873587#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1888992530160873587#m</link>
+      </item>
+      <item>
+        <title>R to @notnotstorm: why only 75% instead of something higher?
+
+utilization must be able to freely move above and below the target in order to be a useful signal for demand. 75% leaves enough headroom above target to remain useful as a proxy for demand</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>why only 75% instead of something higher?<br>
+<br>
+utilization must be able to freely move above and below the target in order to be a useful signal for demand. 75% leaves enough headroom above target to remain useful as a proxy for demand</p>]]></description>
+        <pubDate>Mon, 10 Feb 2025 16:44:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992528873242645#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1888992528873242645#m</link>
+      </item>
+      <item>
+        <title>R to @notnotstorm: this new EIP increases the utilization target from 50% to 75%
+
+other aspects of EIP’s design remain unchanged</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>this new EIP increases the utilization target from 50% to 75%<br>
+<br>
+other aspects of EIP’s design remain unchanged</p>]]></description>
+        <pubDate>Mon, 10 Feb 2025 16:44:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992527820419397#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1888992527820419397#m</link>
+      </item>
+      <item>
+        <title>R to @notnotstorm: EIP-1559 measures demand via utilization
+
+when utilization is &gt;50%, the base fee goes up. when utilization is &lt;50%, the base fee goes down
+
+this is robust. however, forcing an equilibrium of 50% utilization widens the gap between average case and worst case, as detailed above</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>EIP-1559 measures demand via utilization<br>
+<br>
+when utilization is &gt;50%, the base fee goes up. when utilization is &lt;50%, the base fee goes down<br>
+<br>
+this is robust. however, forcing an equilibrium of 50% utilization widens the gap between average case and worst case, as detailed above</p>]]></description>
+        <pubDate>Mon, 10 Feb 2025 16:44:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992526708998634#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1888992526708998634#m</link>
+      </item>
+      <item>
+        <title>R to @notnotstorm: EIP-1559 separates each tx fee into a base fee and priority fee
+
+the base fee absorbs fee volatility across blocks
+
+users only need to decide on the priority fee, which is relatively constant across blocks. this makes choosing an appropriate fee relatively idiotproof</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>EIP-1559 separates each tx fee into a base fee and priority fee<br>
+<br>
+the base fee absorbs fee volatility across blocks<br>
+<br>
+users only need to decide on the priority fee, which is relatively constant across blocks. this makes choosing an appropriate fee relatively idiotproof</p>]]></description>
+        <pubDate>Mon, 10 Feb 2025 16:44:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992525559734735#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1888992525559734735#m</link>
+      </item>
+      <item>
+        <title>R to @notnotstorm: more technical details for those interested:
+
+EIP-1559 is a beautiful transaction fee mechanism from @Tim_Roughgarden @VitalikButerin @econoar @AFDudley0 @mslipper @IanSNorden @dimahledba
+
+it improves UX for landing txs onchain by making fee parameters more predictable</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>more technical details for those interested:<br>
+<br>
+EIP-1559 is a beautiful transaction fee mechanism from <a href="https://nitter.freedit.eu/Tim_Roughgarden" title="Tim Roughgarden">@Tim_Roughgarden</a> <a href="https://nitter.freedit.eu/VitalikButerin" title="vitalik.eth">@VitalikButerin</a> <a href="https://nitter.freedit.eu/econoar" title="Eric Conner">@econoar</a> <a href="https://nitter.freedit.eu/AFDudley0" title="Rick Dudley (afdudley.eth)">@AFDudley0</a> <a href="https://nitter.freedit.eu/mslipper" title="Matthew Slipper 🔴✨">@mslipper</a> <a href="https://nitter.freedit.eu/IanSNorden" title="Ian Norden">@IanSNorden</a> <a href="https://nitter.freedit.eu/dimahledba" title="A₿del ∞/21M">@dimahledba</a><br>
+<br>
+it improves UX for landing txs onchain by making fee parameters more predictable</p>]]></description>
+        <pubDate>Mon, 10 Feb 2025 16:44:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992524347592790#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1888992524347592790#m</link>
+      </item>
+      <item>
+        <title>R to @notnotstorm: this is a low hanging fruit for safely scaling ethereum
+
+big thanks to @nero_eth @barnabemonnot @malleshpai @Data_Always @ciamac for initial feedback
+
+discuss the EIP here https://ethereum-magicians.org/t/eip-xxxx-increase-gas-utilization-target/22815
+
+🌱→🌲</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>this is a low hanging fruit for safely scaling ethereum<br>
+<br>
+big thanks to <a href="https://nitter.freedit.eu/nero_eth" title="Toni Wahrstätter ⟠">@nero_eth</a> <a href="https://nitter.freedit.eu/barnabemonnot" title="barnabe.eth">@barnabemonnot</a> <a href="https://nitter.freedit.eu/malleshpai" title="Mallesh Pai">@malleshpai</a> <a href="https://nitter.freedit.eu/Data_Always" title="dataalways.eth">@Data_Always</a> <a href="https://nitter.freedit.eu/ciamac" title="ciamac moallemi">@ciamac</a> for initial feedback<br>
+<br>
+discuss the EIP here <a href="https://ethereum-magicians.org/t/eip-xxxx-increase-gas-utilization-target/22815">ethereum-magicians.org/t/eip…</a><br>
+<br>
+🌱→🌲</p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1887414827251036160%2Fc_DE6_s0%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 10 Feb 2025 16:44:47 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992523076735308#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1888992523076735308#m</link>
+      </item>
+      <item>
+        <title>R to @notnotstorm: why do this instead of just raising the gas limit?
+
+raising the target from 50% to 75% gives the same benefit to avg throughput as raising gas limit from 36M to 54M
+
+but the former is way safer against DoS attacks because it does not increase the severity of the worst case load</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>why do this instead of just raising the gas limit?<br>
+<br>
+raising the target from 50% to 75% gives the same benefit to avg throughput as raising gas limit from 36M to 54M<br>
+<br>
+but the former is way safer against DoS attacks because it does not increase the severity of the worst case load</p>]]></description>
+        <pubDate>Mon, 10 Feb 2025 16:44:47 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992521868739026#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1888992521868739026#m</link>
+      </item>
+      <item>
+        <title>R to @notnotstorm: the solution = increase the gas utilization target from 50% to 75%, thus shrinking the gap between worst case and average case
+
+this is today’s EIP ⛽🎯 it is a simple parameter change that could easily fit into fusaka 2025</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>the solution = increase the gas utilization target from 50% to 75%, thus shrinking the gap between worst case and average case<br>
+<br>
+this is today’s EIP ⛽🎯 it is a simple parameter change that could easily fit into fusaka 2025</p>]]></description>
+        <pubDate>Mon, 10 Feb 2025 16:44:47 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992520660730217#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1888992520660730217#m</link>
+      </item>
+      <item>
+        <title>R to @notnotstorm: EIP-1559’s current parameterization forces the network to overprovision resources by an extra factor of 2, because the gas utilization target is only 50% of the gas limit
+
+this widens the gap between worst case and average case</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>EIP-1559’s current parameterization forces the network to overprovision resources by an extra factor of 2, because the gas utilization target is only 50% of the gas limit<br>
+<br>
+this widens the gap between worst case and average case</p>]]></description>
+        <pubDate>Mon, 10 Feb 2025 16:44:47 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992519503114548#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1888992519503114548#m</link>
+      </item>
+      <item>
+        <title>R to @notnotstorm: the core issue = the gap between ethereum’s worst case load and its average case load
+
+opcodes need to be priced for the worst case resource load in order to prevent DoS attacks. meanwhile, the average case load is where the network spends most of its time</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>the core issue = the gap between ethereum’s worst case load and its average case load<br>
+<br>
+opcodes need to be priced for the worst case resource load in order to prevent DoS attacks. meanwhile, the average case load is where the network spends most of its time</p>]]></description>
+        <pubDate>Mon, 10 Feb 2025 16:44:46 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992518278385841#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1888992518278385841#m</link>
+      </item>
+      <item>
+        <title>there’s a new EIP for scaling ethereum. it:
+- increases blockspace by FIFTY percent
+- does NOT increase the gas limit or DoS risk
+- is TRIVIAL to implement
+
+details 👇</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>there’s a new EIP for scaling ethereum. it:<br>
+- increases blockspace by FIFTY percent<br>
+- does NOT increase the gas limit or DoS risk<br>
+- is TRIVIAL to implement<br>
+<br>
+details 👇</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjcMGbga8AAlX0Z.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 10 Feb 2025 16:44:46 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992516558704898#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1888992516558704898#m</link>
+      </item>
+      <item>
         <title>R to @notnotstorm: data from @hildobby_&apos;s blob dash. can scoop the data easily with spice:
 
 import spice
@@ -107,180 +296,6 @@ We must stand with <a href="https://nitter.freedit.eu/rstormsf" title="Roman Sto
         <pubDate>Mon, 27 Jan 2025 18:38:08 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1883947618373623990#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1883947618373623990#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: the @ethPandaOps team probably has the most experience running lots of clients at once
-
-how hard do you think it would be to build a robust metaclient orchestrator that lets anyone run all the clients they want on a single machine with low maintenance burden for node operators? @BarnabasBusa @mattevansnz @parithosh_j @_pk910_ @samcmAU @Savid @skylenet</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>the <a href="https://nitter.freedit.eu/ethPandaOps" title="ethPandaOps">@ethPandaOps</a> team probably has the most experience running lots of clients at once<br>
-<br>
-how hard do you think it would be to build a robust metaclient orchestrator that lets anyone run all the clients they want on a single machine with low maintenance burden for node operators? <a href="https://nitter.freedit.eu/BarnabasBusa" title="Barnabas Busa">@BarnabasBusa</a> <a href="https://nitter.freedit.eu/mattevansnz" title="Matty">@mattevansnz</a> <a href="https://nitter.freedit.eu/parithosh_j" title="parithosh | 🐼👉👈🐼">@parithosh_j</a> <a href="https://nitter.freedit.eu/_pk910_" title="pk910.eth">@_pk910_</a> <a href="https://nitter.freedit.eu/samcmAU" title="Sam Calder-Mason">@samcmAU</a> <a href="https://nitter.freedit.eu/Savid" title="Andrew Davis">@Savid</a> <a href="https://nitter.freedit.eu/skylenet" title="Rafael Matias 🐼🕯️">@skylenet</a></p>]]></description>
-        <pubDate>Mon, 27 Jan 2025 02:49:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1883708918670774507#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1883708918670774507#m</link>
-      </item>
-      <item>
-        <title>on eth/acc: waiting for only M-of-N node clients to launch new hardforks (with M&lt;N) would be a lot more practical if there were a “metaclient” tool like @peter_szilagyi used to talk about
-
-a lot of new patterns get unlocked if there is a system that makes it effortless to run two or more clients on a single machine. this includes “leave no validator behind”, even when one of the node implementations isnt ready for the fork</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>on eth/acc: waiting for only M-of-N node clients to launch new hardforks (with M&lt;N) would be a lot more practical if there were a “metaclient” tool like <a href="https://nitter.freedit.eu/peter_szilagyi" title="Péter Szilágyi">@peter_szilagyi</a> used to talk about<br>
-<br>
-a lot of new patterns get unlocked if there is a system that makes it effortless to run two or more clients on a single machine. this includes “leave no validator behind”, even when one of the node implementations isnt ready for the fork</p>
-<p><a href="https://nitter.freedit.eu/lightclients/status/1883656093832024248#m">nitter.freedit.eu/lightclients/status/1883656093832024248#m</a></p>]]></description>
-        <pubDate>Mon, 27 Jan 2025 02:44:46 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1883707693288108278#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1883707693288108278#m</link>
-      </item>
-      <item>
-        <title>&quot;The art of war is of vital importance to the State&quot;
-
--- Sun Tzu</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>"The art of war is of vital importance to the State"<br>
-<br>
--- Sun Tzu</p>
-<p><a href="https://nitter.freedit.eu/gakonst/status/1883192835874390276#m">nitter.freedit.eu/gakonst/status/1883192835874390276#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiJ5VI8bgAA9S0u.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 25 Jan 2025 17:13:59 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1883201662921351332#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1883201662921351332#m</link>
-      </item>
-      <item>
-        <title>&quot;The Emperor Protects&quot;</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>"The Emperor Protects"</p>
-<p><a href="https://nitter.freedit.eu/VitalikButerin/status/1882649065139384600#m">nitter.freedit.eu/VitalikButerin/status/1882649065139384600#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGiE6VOZW0AAcz8K.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 24 Jan 2025 17:58:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1882850369023410633#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1882850369023410633#m</link>
-      </item>
-      <item>
-        <title>this type of AI will make it easy to exfiltrate your data from social media websites. this will eventually destroy their moats so that you can have something like, a single app / UI that connects to all social media websites and chat platforms</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>this type of AI will make it easy to exfiltrate your data from social media websites. this will eventually destroy their moats so that you can have something like, a single app / UI that connects to all social media websites and chat platforms</p>
-<p><a href="https://nitter.freedit.eu/gdb/status/1882494743739015389#m">nitter.freedit.eu/gdb/status/1882494743739015389#m</a></p>]]></description>
-        <pubDate>Fri, 24 Jan 2025 16:58:54 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1882835480850608187#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1882835480850608187#m</link>
-      </item>
-      <item>
-        <title>RT by @notnotstorm: I aggregated some info on the EF R&amp;D teams today - descriptions, research, repos, general links. I drafted it for the EF internship applicants, but it got to a place where it seemed like it would be a good resource for the community as a whole.
-
-https://mirror.xyz/nixo.eth/TS-GwCEAKD_UTOE2_SCA_eFWyHstVAtGGn2Hu8mMezQ</title>
-        <dc:creator>@nixorokish</dc:creator>
-        <description><![CDATA[<p>I aggregated some info on the EF R&amp;D teams today - descriptions, research, repos, general links. I drafted it for the EF internship applicants, but it got to a place where it seemed like it would be a good resource for the community as a whole.<br>
-<br>
-<a href="https://mirror.xyz/nixo.eth/TS-GwCEAKD_UTOE2_SCA_eFWyHstVAtGGn2Hu8mMezQ">mirror.xyz/nixo.eth/TS-GwCEA…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1884982760051544064%2FzYXtCz6H%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 22 Jan 2025 01:33:23 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/nixorokish/status/1881877792515911845#m</guid>
-        <link>https://nitter.freedit.eu/nixorokish/status/1881877792515911845#m</link>
-      </item>
-      <item>
-        <title>the world&apos;s greatest smart contract toolkit just reached stability after 3 years</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>the world's greatest smart contract toolkit just reached stability after 3 years</p>
-<p><a href="https://nitter.freedit.eu/gakonst/status/1881802255202193584#m">nitter.freedit.eu/gakonst/status/1881802255202193584#m</a></p>]]></description>
-        <pubDate>Tue, 21 Jan 2025 20:47:36 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1881805869773726181#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1881805869773726181#m</link>
-      </item>
-      <item>
-        <title>it&apos;s exciting that everyone hates this roadmap</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>it's exciting that everyone hates this roadmap</p>
-<p><a href="https://nitter.freedit.eu/notnotstorm/status/1881041568263790828#m">nitter.freedit.eu/notnotstorm/status/1881041568263790828#m</a></p>]]></description>
-        <pubDate>Mon, 20 Jan 2025 22:30:22 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1881469344720597015#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1881469344720597015#m</link>
-      </item>
-      <item>
-        <title>RT by @notnotstorm: Some points on this:
-
-1. The current process of upgrading Ethereum IS BROKEN.  Builders need long-term commitments to capacity, otherwise they cannot build on Ethereum. They need to know what the plan is in 5 years.
-So I hope that we can finally agree to timelines in the core dev process.
-
-2. We nonsensically claim that L1 cannot be scaled and L2s are the only way.
-This is a complete ivory tower perspective -- Vitalik already posted this 3 years ago, and with DAS and zkEVMs the ingredients are now ready: https://vitalik.eth.limo/general/2021/12/06/endgame.html
-There are limits to this, yes, but scaling it 100-1000x in a few years is completely possible.
-This achieves many things that based/native/etc. rollups don&apos;t.
-I think actually doing this and stopping to find excuses for not doing it is essential for Ethereum winning.
-
-3. Not everything can be on Ethereum L1, whether the actual limit is 1k or 100k tps or maybe even 1M tps. For this it is still great to add lots of data availability and create a great Ethereum security zones for rollups, who are Ethereum allies and can use Ether and all other Ethereum assets trustlessly.
-But we need to do it at a scale that actually matters. We need to get to our current target of one Megabyte per second in 1-2 years rather than 5, and then KEEP GOING. I am currently doing research on maximally decentralizing the networking DAS/Data Availability Sampling, but until that&apos;s done, adding Data Availability Provider nodes with higher requirements is a good solution that has the same security assumptions as optimistic rollups (one honest node).
-Other Data Availability protocols are currently building for GB/s! Ethereum does not have to match this, but being at 1/1000ths is not good enough.
-Some projects are openly stating already that they will never use Ethereum DA (and openly advertising with Vitalik&apos;s support! The irony). Being ok with that and still claiming that they are somehow &quot;Ethereum aligned&quot; is thoroughly un-ambitious.</title>
-        <dc:creator>@dankrad</dc:creator>
-        <description><![CDATA[<p>Some points on this:<br>
-<br>
-1. The current process of upgrading Ethereum IS BROKEN.  Builders need long-term commitments to capacity, otherwise they cannot build on Ethereum. They need to know what the plan is in 5 years.<br>
-So I hope that we can finally agree to timelines in the core dev process.<br>
-<br>
-2. We nonsensically claim that L1 cannot be scaled and L2s are the only way.<br>
-This is a complete ivory tower perspective -- Vitalik already posted this 3 years ago, and with DAS and zkEVMs the ingredients are now ready: <a href="https://vitalik.eth.limo/general/2021/12/06/endgame.html">vitalik.eth.limo/general/202…</a><br>
-There are limits to this, yes, but scaling it 100-1000x in a few years is completely possible.<br>
-This achieves many things that based/native/etc. rollups don't.<br>
-I think actually doing this and stopping to find excuses for not doing it is essential for Ethereum winning.<br>
-<br>
-3. Not everything can be on Ethereum L1, whether the actual limit is 1k or 100k tps or maybe even 1M tps. For this it is still great to add lots of data availability and create a great Ethereum security zones for rollups, who are Ethereum allies and can use Ether and all other Ethereum assets trustlessly.<br>
-But we need to do it at a scale that actually matters. We need to get to our current target of one Megabyte per second in 1-2 years rather than 5, and then KEEP GOING. I am currently doing research on maximally decentralizing the networking DAS/Data Availability Sampling, but until that's done, adding Data Availability Provider nodes with higher requirements is a good solution that has the same security assumptions as optimistic rollups (one honest node).<br>
-Other Data Availability protocols are currently building for GB/s! Ethereum does not have to match this, but being at 1/1000ths is not good enough.<br>
-Some projects are openly stating already that they will never use Ethereum DA (and openly advertising with Vitalik's support! The irony). Being ok with that and still claiming that they are somehow "Ethereum aligned" is thoroughly un-ambitious.</p>
-<p><a href="https://nitter.freedit.eu/dankrad/status/1881387224350052528#m">nitter.freedit.eu/dankrad/status/1881387224350052528#m</a></p>]]></description>
-        <pubDate>Mon, 20 Jan 2025 18:15:09 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/dankrad/status/1881405119373234238#m</guid>
-        <link>https://nitter.freedit.eu/dankrad/status/1881405119373234238#m</link>
-      </item>
-      <item>
-        <title>RT by @notnotstorm: So finally we are talking about how the current plan is just way too unambitious. 
-
-If Ethereum wants to win, we need to be ambitious.</title>
-        <dc:creator>@dankrad</dc:creator>
-        <description><![CDATA[<p>So finally we are talking about how the current plan is just way too unambitious. <br>
-<br>
-If Ethereum wants to win, we need to be ambitious.</p>
-<p><a href="https://nitter.freedit.eu/jessepollak/status/1881092825888276727#m">nitter.freedit.eu/jessepollak/status/1881092825888276727#m</a></p>]]></description>
-        <pubDate>Mon, 20 Jan 2025 17:04:03 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/dankrad/status/1881387224350052528#m</guid>
-        <link>https://nitter.freedit.eu/dankrad/status/1881387224350052528#m</link>
-      </item>
-      <item>
-        <title>this is my understanding/prediction for the ethereum scaling roadmap
-
-continual improvements to hardware, software, and protocols will support gas+blob increases without compromising network health</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>this is my understanding/prediction for the ethereum scaling roadmap<br>
-<br>
-continual improvements to hardware, software, and protocols will support gas+blob increases without compromising network health</p>
-<p><a href="https://nitter.freedit.eu/fradamt/status/1880389727041515981#m">nitter.freedit.eu/fradamt/status/1880389727041515981#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGhrLkUSbAAAT-Ua.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 19 Jan 2025 18:10:32 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1881041568263790828#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1881041568263790828#m</link>
-      </item>
-      <item>
-        <title>all of the good names on pypi are taken by projects that look like this</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>all of the good names on pypi are taken by projects that look like this</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGg58IjIaMAEu7OO.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 10 Jan 2025 04:34:21 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1877574676722966766#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1877574676722966766#m</link>
-      </item>
-      <item>
-        <title>crypto data becomes good if and only if it&apos;s prioritized by ecosystem + leadership
-
-crypto data has always been trust-but-verify. but instead of telling ppl to deprioritize data, we should tell ecosystems + leaders to step up and make good data a priority. data = tablestakes</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>crypto data becomes good if and only if it's prioritized by ecosystem + leadership<br>
-<br>
-crypto data has always been trust-but-verify. but instead of telling ppl to deprioritize data, we should tell ecosystems + leaders to step up and make good data a priority. data = tablestakes</p>]]></description>
-        <pubDate>Wed, 08 Jan 2025 19:30:02 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1877075306395193825#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1877075306395193825#m</link>
       </item>
 
   </channel>

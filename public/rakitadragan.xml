@@ -16,6 +16,15 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @rakitadragan: https://github.com/bluealloy/revm/pull/2043 looking for a taker</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p><a href="https://github.com/bluealloy/revm/pull/2043">github.com/bluealloy/revm/pu…</a> looking for a taker</p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1889431627769802752%2FHUT1LhE5%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 11 Feb 2025 21:52:37 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1889432377740689907#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1889432377740689907#m</link>
+      </item>
+      <item>
         <title>The biggest impact of this change is allowing Ethereum to increase the block gas limit by N times while it can limit block size so bandwidth is not affected by the gas limit increase.
 
 Kudos to @monad_xyz their docs were the first time I read about the delayed state root idea (which evolved into delaying execution).</title>
@@ -71,7 +80,7 @@ We're looking for researchers to help shape Ethereum's future and secure Pectra 
         <title>R to @rakitadragan: Yesterday drone footage https://youtu.be/55pvAuiRtb4?si=QuHeFl4kRenc9i3Q</title>
         <dc:creator>@rakitadragan</dc:creator>
         <description><![CDATA[<p>Yesterday drone footage <a href="https://piped.video/55pvAuiRtb4?si=QuHeFl4kRenc9i3Q">piped.video/55pvAuiRtb4?si=QuHe…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1886517028405616640%2FXsYfTqkA%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1889055727463157760%2FOdcS1ayT%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
         <pubDate>Tue, 28 Jan 2025 12:31:03 GMT</pubDate>
         <guid>https://nitter.freedit.eu/rakitadragan/status/1884217623384318408#m</guid>
         <link>https://nitter.freedit.eu/rakitadragan/status/1884217623384318408#m</link>
@@ -295,15 +304,6 @@ Obviously implementing them is even better..<br>
         <pubDate>Wed, 01 Jan 2025 13:38:00 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1874450001792848050#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1874450001792848050#m</link>
-      </item>
-      <item>
-        <title>1M downloads, do feel good!</title>
-        <dc:creator>@rakitadragan</dc:creator>
-        <description><![CDATA[<p>1M downloads, do feel good!</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGffJqO-XAAAROrQ.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 23 Dec 2024 13:28:05 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rakitadragan/status/1871186016364589204#m</guid>
-        <link>https://nitter.freedit.eu/rakitadragan/status/1871186016364589204#m</link>
       </item>
 
   </channel>

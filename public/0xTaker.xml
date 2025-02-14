@@ -16,6 +16,52 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @0xTaker: ANNOUNCING: FOUNDRY v1.0!
+
+Every major DeFi protocol and smart contract developer who wants secure and gas-efficient code uses Foundry.
+
+Today, Foundry is officially stable, and here for the long run.
+
+Congratulations to everyone on today&apos;s huge milestone.
+
+`foundryup`!
+
+A lot of exciting updates in the thread.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>ANNOUNCING: FOUNDRY v1.0!<br>
+<br>
+Every major DeFi protocol and smart contract developer who wants secure and gas-efficient code uses Foundry.<br>
+<br>
+Today, Foundry is officially stable, and here for the long run.<br>
+<br>
+Congratulations to everyone on today's huge milestone.<br>
+<br>
+`foundryup`!<br>
+<br>
+A lot of exciting updates in the thread.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjs1STwbcAAqZWT.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 13 Feb 2025 22:16:05 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890163061182591480#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890163061182591480#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: Enabling safe concurrency for advanced transaction bundling is a fundamental principle of how Jito brings atomic MEV optimizations to Solana.
+
+Our research team has investigated the locking patterns in bundle execution and here are our findings:
+
+https://www.eclipselabs.io/blogs/understanding-locking-patterns-in-bundle-execution-in-jito-solana</title>
+        <dc:creator>@Labs_Eclipse</dc:creator>
+        <description><![CDATA[<p>Enabling safe concurrency for advanced transaction bundling is a fundamental principle of how Jito brings atomic MEV optimizations to Solana.<br>
+<br>
+Our research team has investigated the locking patterns in bundle execution and here are our findings:<br>
+<br>
+<a href="https://www.eclipselabs.io/blogs/understanding-locking-patterns-in-bundle-execution-in-jito-solana">eclipselabs.io/blogs/underst…</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjm7gDjaIAM1Ijz.png" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 18:47:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/Labs_Eclipse/status/1889748103248396690#m</guid>
+        <link>https://nitter.freedit.eu/Labs_Eclipse/status/1889748103248396690#m</link>
+      </item>
+      <item>
         <title>RT by @0xTaker: never blame traders
 
 the job of a trader is to take the trade they give you
@@ -372,35 +418,6 @@ We’re here to build the world’s best developer tools for token trading on ev
         <pubDate>Tue, 04 Feb 2025 15:20:35 GMT</pubDate>
         <guid>https://nitter.freedit.eu/flashnet/status/1886797005738893598#m</guid>
         <link>https://nitter.freedit.eu/flashnet/status/1886797005738893598#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: Awesome sandwich. Great bundle. Looks profitable. Solid. Tight. Keep us all posted on your continued arbs with any new backrun pics or frontrun clips. Show us what you extracted man. Wanna see how freakin&apos; huge, solid, profitable and tight your mev can get. Thanks for the alpha</title>
-        <dc:creator>@0xQTpie</dc:creator>
-        <description><![CDATA[<p>Awesome sandwich. Great bundle. Looks profitable. Solid. Tight. Keep us all posted on your continued arbs with any new backrun pics or frontrun clips. Show us what you extracted man. Wanna see how freakin' huge, solid, profitable and tight your mev can get. Thanks for the alpha</p>]]></description>
-        <pubDate>Thu, 30 Jan 2025 04:33:03 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xQTpie/status/1884822106430464123#m</guid>
-        <link>https://nitter.freedit.eu/0xQTpie/status/1884822106430464123#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: Introducing Omni Account
-
-A system that employs Modules and our Orchestrator to transform any ERC7579 Smart Accounts (and “Smart EOAs”) into chain abstracted accounts.
-
-One signature. Any action. Any chain. Any token.
-
-Built on @AcrossProtocol in partnership with @magic_labs</title>
-        <dc:creator>@rhinestonewtf</dc:creator>
-        <description><![CDATA[<p>Introducing Omni Account<br>
-<br>
-A system that employs Modules and our Orchestrator to transform any ERC7579 Smart Accounts (and “Smart EOAs”) into chain abstracted accounts.<br>
-<br>
-One signature. Any action. Any chain. Any token.<br>
-<br>
-Built on <a href="https://nitter.freedit.eu/AcrossProtocol" title="Across">@AcrossProtocol</a> in partnership with <a href="https://nitter.freedit.eu/magic_labs" title="Magic">@magic_labs</a></p>
-<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1884646890651955200%2Fimg%2FaM7jfM76wH6cyCB5.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 29 Jan 2025 16:57:03 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rhinestonewtf/status/1884646951779770818#m</guid>
-        <link>https://nitter.freedit.eu/rhinestonewtf/status/1884646951779770818#m</link>
       </item>
 
   </channel>

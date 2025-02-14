@@ -16,6 +16,353 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @paramonoww: How can we make the use of web2 data in web3 actually private and verifiable?
+
+Many people who claim that web3 is the new internet define it with the phrase &quot;read, write, own.&quot; The &quot;read&quot; and &quot;write&quot; parts are clear, but when it comes to &quot;own&quot; in terms of data, we hardly own anything today.
+
+User data is often stolen by corporations and used in ways that benefit them; we don’t truly own anything on the internet. 
+
+However, we can&apos;t just shift to a world where only web3 exists without sharing anything. No, we still need to share, but only what&apos;s necessary.
+
+As someone with a weaker passport, I&apos;m stuck applying for e-visas and submitting endless details about myself to prove I&apos;m eligible for specific visas. And I always end up asking myself:
+
+• Why should I share my entire bank statement when they only need to confirm a specific income level?
+
+• Why should I provide the exact hotel reservation instead of just proving I&apos;ve booked a hotel in this country?
+
+• Why do I have to submit my full passport details when all they need is to verify my permanent residence in my current country?
+
+There are two main concerns here: services know far more than they need to, and the data you&apos;re providing isn&apos;t private. But how does this relate to security and privacy in crypto?
+
+1. Web3 is not gonna make it without web2 data.
+
+As most of you know, smart contracts essentially have no idea how much BTC, ETH, SOL, or any other asset costs. This task is delegated to oracles, which constantly post public data from the outside world to the smart contract.
+
+In the Ethereum world, this role is almost monopolized by @chainlink with their oracle networks to ensure we don&apos;t rely on a single node. So, we really do need web2 data for more use cases beyond just knowing the price of certain assets.
+
+However, this only applies to public data. What if I want to securely connect my bank account or Telegram account and share sensitive information that isn&apos;t publicly available but is private to me?
+
+The first thought is: how can we bring this data onto a blockchain with proof that the private data is secure?
+
+Unfortunately, it doesn’t work that way because servers don’t sign the responses they send, so you can’t reliably verify something like that in smart contracts.
+
+The protocol that secures communication over a computer network is called TLS: Transport Layer Security. Even if you haven&apos;t heard of it, you use it daily. For example, while reading this article, you&apos;ll see the &quot;https://&quot; in your browser&apos;s address bar.
+
+If you tried accessing the website with an &quot;http://&quot; connection (without the &quot;s&quot;), your browser would warn you that the connection isn&apos;t secure. The &quot;s&quot; in the link stands for TLS, which secures your connection, ensuring privacy and preventing anyone from stealing the data you&apos;re transmitting.
+
+2. The connection is already secure, can&apos;t we just transport and use it in the web3?
+
+As I mentioned before, we face a verifiability problem: servers don’t sign the responses they send, so we can&apos;t really verify the data.
+
+Even if a data source agrees to share its data, the standard TLS protocol can&apos;t prove its authenticity to others. Simply passing a response isn’t enough: clients can easily alter the data locally, sharing those responses fully exposes them, risking user privacy.
+
+One approach to the verifiability problem is an enhanced version of TLS called zkTLS.
+
+The working mechanism of zkTLS is similar to TLS but slightly different, here&apos;s how it works:
+
+• You visit a website through a secure TLS connection and send the required request.
+
+• zkTLS generates a zk proof that verifies the data while revealing only the specific details the user wants to prove, keeping everything else private.
+
+• The generated zk proof is then used by other apps to confirm and verify that the provided information is correct.
+
+When I say zkTLS, I&apos;m referring to projects utilizing zkTLS, but there are different approaches to data verifiability using various solutions: 
+
+1. TEE (Trusted Execution Environment)
+2. MPC (Multi-Party Computation)
+3. Proxy
+
+Interestingly, each approach introduces its own set of unique use cases. So, how do they differ?
+
+3. Why isn&apos;t there a single standard for zkTLS? How are they different?
+
+zkTLS isn&apos;t a single technology because verifying private web data without exposing it can be approached from multiple angles, each with its own trade-offs. The core idea is to extend TLS with proofs, but how you generate and validate those proofs depends on the underlying mechanism.
+
+As I mentioned before, three main approaches are using TEE-TLS, MPC-TLS, or Proxy-TLS.
+
+TEE relies on specialized hardware, like Intel SGX or AWS Nitro Enclaves, to create a secure &quot;black box&quot; where data can be processed and proofs generated. The hardware ensures the data stays private and computations are tamper-proof.
+
+In a TEE-based zkTLS setup, the TEE runs the protocol, proving the TLS session&apos;s execution and content. The verifier is the TEE itself, so trust depends on the TEE&apos;s manufacturer and its resistance to attacks. This approach is efficient with low computational and network overhead. 
+
+However, it has a major flaw: you have to trust the hardware manufacturer, and vulnerabilities in TEEs (like side-channel attacks) can break the whole system.
+
+Proxy-TLS and MPC-TLS are the most widely adopted approaches due to their broader range of use cases. Projects like @OpacityNetwork and @reclaimprotocol, that are built on @eigenlayer, leverage these models to ensure data security and privacy along with an additional layer of economic security.
+
+Let&apos;s see how secure these solutions are, which use cases zkTLS protocols enable, and what&apos;s already live today.
+
+4. What&apos;s so special about MPC-TLS and Opacity Network?
+
+During the TLS Handshake (where a client and server agree on how to securely communicate by sharing encryption keys), the website&apos;s role remains unchanged, but the browser&apos;s process does something different.
+
+Instead of generating its own secret key, it uses a network of nodes to create a multiparty secret key via MPC. This key performs the handshake for the browser, ensuring that no single entity knows the shared key.
+
+Encryption and decryption require cooperation among all nodes and the browser, with each adding or removing their part of the encryption sequentially before data reaches or leaves the website. MPC-TLS provides strong security and can be distributed so no one group has all the power.
+
+Opacity Network enhances the classic @tlsnotary framework by adding safeguards to minimize trust issues. It employs multiple security measures like:
+
+1. On-chain verification of web2 account IDs
+2. Commit scheme
+3. Reveal scheme
+4. Random MPC-network sampling
+5. Verifiable log of attempts
+
+Account IDs, being static in web2 systems, allow for proof by committee where ten different nodes must confirm ownership. This links the account to a unique wallet, preventing repeated tries with different wallets to find a colluding node. 
+
+You can see how Opacity works in detail down below:
+
+Opacity nodes operate within a TEE, making collusion almost impossible if the TEE is secure. Beyond TEEs, Opacity also uses Eigenlayer to leverage an AVS, requiring nodes to restake 32 stETH, with immediate slashing for misconduct, avoiding delays associated with cooldowns.
+
+You can see that Opacity uses both MPC and TEE, but because MPC is used for zkTLS while TEE is used basically for node security, it&apos;s still called MPC-TLS.
+
+However, if the TEEs were to fail, it could enable a node to engage in collusion within the MPC. That&apos;s one of the reasons why an additional economic security layer is needed to prevent this behavior.
+
+That&apos;s also why Opacity is developing a whistleblower mechanism where users who can prove that a notary has acted improperly will be rewarded with a share of the penalty imposed on the notary&apos;s stake.
+
+Due to its simplicity of integration, security, and the privacy it offers, Opacity has attracted various protocols to integrate it into their products across consumer, DeFi, and AI agent sectors.
+
+The team from @earnos_io is developing a platform where brands can reward users for engagement or task completion. EarnOS uses Opacity’s tech to prove traits via popular apps without revealing personal info, letting brands target audiences while users keep privacy and earn rewards.
+
+Opacity is also integrated into the @daylightenergy_ protocol, developing a decentralized electric utility network where users can earn rewards for contributing to clean energy solutions. Thanks to Opacity, users can prove energy device ownership on-chain without specialized hardware.
+
+Opacity can even be integrated with AI agents, bringing more verifiability and transparency to a field that currently faces significant challenges. zkTLS was recently integrated into @elizaOS, allowing for verifiable AI interactions without privacy loss. 
+
+However, TEE-TLS and MPC-TLS are only two variations of zkTLS, there&apos;s also a third one called Proxy-TLS, with the Reclaim Network being the most famous representation of this model. So, how is it different in terms of tech from the other two variations, and which use cases can be enabled by Proxy-TLS?
+
+5. What’s so special about Proxy-TLS and Reclaim Protocol?
+
+HTTPS proxies, common on the internet, forward encrypted traffic without accessing its content. In the zkTLS proxy model, it works almost the same with slight additions:
+
+• The browser sends requests to the website through a proxy, which also handles the website&apos;s responses.
+
+• The proxy sees all encrypted exchanges and attests to their authenticity, noting whether each is a request or response.
+
+• The browser then generates a zk proof which states that it can encrypt this data with a shared key without revealing the key and shows the result.
+
+• This works because it&apos;s nearly impossible to create a fake key that turns the data into anything sensible, so just showing you can decrypt it is enough.
+
+Revealing the key would compromise all prior messages, including sensitive data like usernames and passwords. Proxy-TLS is pretty fast, affordable, and handles large data volumes well, making it ideal for high-throughput settings. 
+
+The majority of servers don&apos;t restrict access based on varying IP addresses, making this method pretty widely applicable.
+
+Reclaim Protocol uses Proxy-TLS for efficient data verification and employs proxies to bypass Web2 firewalls preventing large-scale proxy blocking. 
+
+Here&apos;s how it works:
+
+The main problem here is collusion: if the user and attestor collude, they can sign basically anything and act maliciously. To mitigate this, Reclaim incorporates a subset of validators chosen to introduce randomness and block such exploits.
+
+Reclaim uses Eigen&apos;s AVS to decentralize the validation of the data. EigenLayer operators can act as attestors, but they will need to deploy their own AVS to specify the attestation logic for their service.
+
+Reclaim is a platform enabling unique use cases like importing ride-sharing data for transportation apps, bridging off-chain data for blockchain economics, verifying identities with national ID data, creating custom data solutions via developer tools, and more.
+
+The Reclaim ecosystem is home to 20+ projects, but I&apos;d like to highlight 4 of them in the money markets, digital identity, consumer, and hiring sectors.
+
+@3janexyz is the first credit-based money market on Base, offering secured credit lines to crypto users by assessing their creditworthiness and future cash flows, using both on-chain and off-chain financial data.
+
+3Jane uses Reclaim&apos;s proxy model to verify credit data from VantageScore, Cred, Coinbase, and Plaid, ensuring privacy of this data.
+
+Another use for credit scores with zkTLS is through @zkme_&apos;s feature, zkCreditScore. It uses Reclaim Protocol to get your US credit score securely with zkTLS. This lets zkMe check a user&apos;s credit score and make unique soulbound tokens (SBTs) to store this data.
+
+Can there be any other use cases besides credit scores? Of course, there are. 
+
+We can take @zkp2p as an example, which is a consumer goods marketplace that leverages Reclaim for verifying users&apos; Ticketmaster data as well as verifying user payments. 
+
+At the same time, @bondexapp, which is one of the most popular job boards in crypto, uses Reclaim for getting proof of work of profiles, verifying that the data is real, private, and verifiable.
+
+Looking at the use cases possible via zkTLS, the ability to verify TLS transcripts on-chain is already unlocking numerous new functionalities, allowing users to control their own data without needing permission from large corporations. 
+
+More importantly, zkTLS is made to ensure that your personal data is not used against you. So, where is this headed?
+
+6. Is zkTLS here to stay?
+
+There is still work to be done, but different zkTLS protocols are already introducing new use cases that redistribute power back to the users. 
+
+@Tim_Roughgarden on the a16z crypto podcast highlighted that zk proofs, proposed in 1985, only gained popularity with blockchain applications, thanks to hundreds of developers working to reduce proof size and costs.
+
+And now, contributions from the blockchain industry are finding uses in other areas beyond just crypto itself.
+
+I expect a similar story to play out with zkTLS, starting with implementation in Web3 and then extending beyond that, because, as I said before, currently, we &quot;read&quot; and &quot;write,&quot; but we are hardly protected and hardly &quot;own&quot; even our own data.</title>
+        <dc:creator>@paramonoww</dc:creator>
+        <description><![CDATA[<p>How can we make the use of web2 data in web3 actually private and verifiable?<br>
+<br>
+Many people who claim that web3 is the new internet define it with the phrase "read, write, own." The "read" and "write" parts are clear, but when it comes to "own" in terms of data, we hardly own anything today.<br>
+<br>
+User data is often stolen by corporations and used in ways that benefit them; we don’t truly own anything on the internet. <br>
+<br>
+However, we can't just shift to a world where only web3 exists without sharing anything. No, we still need to share, but only what's necessary.<br>
+<br>
+As someone with a weaker passport, I'm stuck applying for e-visas and submitting endless details about myself to prove I'm eligible for specific visas. And I always end up asking myself:<br>
+<br>
+• Why should I share my entire bank statement when they only need to confirm a specific income level?<br>
+<br>
+• Why should I provide the exact hotel reservation instead of just proving I've booked a hotel in this country?<br>
+<br>
+• Why do I have to submit my full passport details when all they need is to verify my permanent residence in my current country?<br>
+<br>
+There are two main concerns here: services know far more than they need to, and the data you're providing isn't private. But how does this relate to security and privacy in crypto?<br>
+<br>
+1. Web3 is not gonna make it without web2 data.<br>
+<br>
+As most of you know, smart contracts essentially have no idea how much BTC, ETH, SOL, or any other asset costs. This task is delegated to oracles, which constantly post public data from the outside world to the smart contract.<br>
+<br>
+In the Ethereum world, this role is almost monopolized by <a href="https://nitter.freedit.eu/chainlink" title="Chainlink">@chainlink</a> with their oracle networks to ensure we don't rely on a single node. So, we really do need web2 data for more use cases beyond just knowing the price of certain assets.<br>
+<br>
+However, this only applies to public data. What if I want to securely connect my bank account or Telegram account and share sensitive information that isn't publicly available but is private to me?<br>
+<br>
+The first thought is: how can we bring this data onto a blockchain with proof that the private data is secure?<br>
+<br>
+Unfortunately, it doesn’t work that way because servers don’t sign the responses they send, so you can’t reliably verify something like that in smart contracts.<br>
+<br>
+The protocol that secures communication over a computer network is called TLS: Transport Layer Security. Even if you haven't heard of it, you use it daily. For example, while reading this article, you'll see the "https://" in your browser's address bar.<br>
+<br>
+If you tried accessing the website with an "http://" connection (without the "s"), your browser would warn you that the connection isn't secure. The "s" in the link stands for TLS, which secures your connection, ensuring privacy and preventing anyone from stealing the data you're transmitting.<br>
+<br>
+2. The connection is already secure, can't we just transport and use it in the web3?<br>
+<br>
+As I mentioned before, we face a verifiability problem: servers don’t sign the responses they send, so we can't really verify the data.<br>
+<br>
+Even if a data source agrees to share its data, the standard TLS protocol can't prove its authenticity to others. Simply passing a response isn’t enough: clients can easily alter the data locally, sharing those responses fully exposes them, risking user privacy.<br>
+<br>
+One approach to the verifiability problem is an enhanced version of TLS called zkTLS.<br>
+<br>
+The working mechanism of zkTLS is similar to TLS but slightly different, here's how it works:<br>
+<br>
+• You visit a website through a secure TLS connection and send the required request.<br>
+<br>
+• zkTLS generates a zk proof that verifies the data while revealing only the specific details the user wants to prove, keeping everything else private.<br>
+<br>
+• The generated zk proof is then used by other apps to confirm and verify that the provided information is correct.<br>
+<br>
+When I say zkTLS, I'm referring to projects utilizing zkTLS, but there are different approaches to data verifiability using various solutions: <br>
+<br>
+1. TEE (Trusted Execution Environment)<br>
+2. MPC (Multi-Party Computation)<br>
+3. Proxy<br>
+<br>
+Interestingly, each approach introduces its own set of unique use cases. So, how do they differ?<br>
+<br>
+3. Why isn't there a single standard for zkTLS? How are they different?<br>
+<br>
+zkTLS isn't a single technology because verifying private web data without exposing it can be approached from multiple angles, each with its own trade-offs. The core idea is to extend TLS with proofs, but how you generate and validate those proofs depends on the underlying mechanism.<br>
+<br>
+As I mentioned before, three main approaches are using TEE-TLS, MPC-TLS, or Proxy-TLS.<br>
+<br>
+TEE relies on specialized hardware, like Intel SGX or AWS Nitro Enclaves, to create a secure "black box" where data can be processed and proofs generated. The hardware ensures the data stays private and computations are tamper-proof.<br>
+<br>
+In a TEE-based zkTLS setup, the TEE runs the protocol, proving the TLS session's execution and content. The verifier is the TEE itself, so trust depends on the TEE's manufacturer and its resistance to attacks. This approach is efficient with low computational and network overhead. <br>
+<br>
+However, it has a major flaw: you have to trust the hardware manufacturer, and vulnerabilities in TEEs (like side-channel attacks) can break the whole system.<br>
+<br>
+Proxy-TLS and MPC-TLS are the most widely adopted approaches due to their broader range of use cases. Projects like <a href="https://nitter.freedit.eu/OpacityNetwork" title="Opacity Network">@OpacityNetwork</a> and <a href="https://nitter.freedit.eu/reclaimprotocol" title="Reclaim Protocol">@reclaimprotocol</a>, that are built on <a href="https://nitter.freedit.eu/eigenlayer" title="EigenLayer">@eigenlayer</a>, leverage these models to ensure data security and privacy along with an additional layer of economic security.<br>
+<br>
+Let's see how secure these solutions are, which use cases zkTLS protocols enable, and what's already live today.<br>
+<br>
+4. What's so special about MPC-TLS and Opacity Network?<br>
+<br>
+During the TLS Handshake (where a client and server agree on how to securely communicate by sharing encryption keys), the website's role remains unchanged, but the browser's process does something different.<br>
+<br>
+Instead of generating its own secret key, it uses a network of nodes to create a multiparty secret key via MPC. This key performs the handshake for the browser, ensuring that no single entity knows the shared key.<br>
+<br>
+Encryption and decryption require cooperation among all nodes and the browser, with each adding or removing their part of the encryption sequentially before data reaches or leaves the website. MPC-TLS provides strong security and can be distributed so no one group has all the power.<br>
+<br>
+Opacity Network enhances the classic <a href="https://nitter.freedit.eu/tlsnotary" title="TLSNotary">@tlsnotary</a> framework by adding safeguards to minimize trust issues. It employs multiple security measures like:<br>
+<br>
+1. On-chain verification of web2 account IDs<br>
+2. Commit scheme<br>
+3. Reveal scheme<br>
+4. Random MPC-network sampling<br>
+5. Verifiable log of attempts<br>
+<br>
+Account IDs, being static in web2 systems, allow for proof by committee where ten different nodes must confirm ownership. This links the account to a unique wallet, preventing repeated tries with different wallets to find a colluding node. <br>
+<br>
+You can see how Opacity works in detail down below:<br>
+<br>
+Opacity nodes operate within a TEE, making collusion almost impossible if the TEE is secure. Beyond TEEs, Opacity also uses Eigenlayer to leverage an AVS, requiring nodes to restake 32 stETH, with immediate slashing for misconduct, avoiding delays associated with cooldowns.<br>
+<br>
+You can see that Opacity uses both MPC and TEE, but because MPC is used for zkTLS while TEE is used basically for node security, it's still called MPC-TLS.<br>
+<br>
+However, if the TEEs were to fail, it could enable a node to engage in collusion within the MPC. That's one of the reasons why an additional economic security layer is needed to prevent this behavior.<br>
+<br>
+That's also why Opacity is developing a whistleblower mechanism where users who can prove that a notary has acted improperly will be rewarded with a share of the penalty imposed on the notary's stake.<br>
+<br>
+Due to its simplicity of integration, security, and the privacy it offers, Opacity has attracted various protocols to integrate it into their products across consumer, DeFi, and AI agent sectors.<br>
+<br>
+The team from <a href="https://nitter.freedit.eu/earnos_io" title="EarnOS">@earnos_io</a> is developing a platform where brands can reward users for engagement or task completion. EarnOS uses Opacity’s tech to prove traits via popular apps without revealing personal info, letting brands target audiences while users keep privacy and earn rewards.<br>
+<br>
+Opacity is also integrated into the <a href="https://nitter.freedit.eu/daylightenergy_" title="Daylight Energy 🔆">@daylightenergy_</a> protocol, developing a decentralized electric utility network where users can earn rewards for contributing to clean energy solutions. Thanks to Opacity, users can prove energy device ownership on-chain without specialized hardware.<br>
+<br>
+Opacity can even be integrated with AI agents, bringing more verifiability and transparency to a field that currently faces significant challenges. zkTLS was recently integrated into <a href="https://nitter.freedit.eu/elizaOS" title="elizaOS">@elizaOS</a>, allowing for verifiable AI interactions without privacy loss. <br>
+<br>
+However, TEE-TLS and MPC-TLS are only two variations of zkTLS, there's also a third one called Proxy-TLS, with the Reclaim Network being the most famous representation of this model. So, how is it different in terms of tech from the other two variations, and which use cases can be enabled by Proxy-TLS?<br>
+<br>
+5. What’s so special about Proxy-TLS and Reclaim Protocol?<br>
+<br>
+HTTPS proxies, common on the internet, forward encrypted traffic without accessing its content. In the zkTLS proxy model, it works almost the same with slight additions:<br>
+<br>
+• The browser sends requests to the website through a proxy, which also handles the website's responses.<br>
+<br>
+• The proxy sees all encrypted exchanges and attests to their authenticity, noting whether each is a request or response.<br>
+<br>
+• The browser then generates a zk proof which states that it can encrypt this data with a shared key without revealing the key and shows the result.<br>
+<br>
+• This works because it's nearly impossible to create a fake key that turns the data into anything sensible, so just showing you can decrypt it is enough.<br>
+<br>
+Revealing the key would compromise all prior messages, including sensitive data like usernames and passwords. Proxy-TLS is pretty fast, affordable, and handles large data volumes well, making it ideal for high-throughput settings. <br>
+<br>
+The majority of servers don't restrict access based on varying IP addresses, making this method pretty widely applicable.<br>
+<br>
+Reclaim Protocol uses Proxy-TLS for efficient data verification and employs proxies to bypass Web2 firewalls preventing large-scale proxy blocking. <br>
+<br>
+Here's how it works:<br>
+<br>
+The main problem here is collusion: if the user and attestor collude, they can sign basically anything and act maliciously. To mitigate this, Reclaim incorporates a subset of validators chosen to introduce randomness and block such exploits.<br>
+<br>
+Reclaim uses Eigen's AVS to decentralize the validation of the data. EigenLayer operators can act as attestors, but they will need to deploy their own AVS to specify the attestation logic for their service.<br>
+<br>
+Reclaim is a platform enabling unique use cases like importing ride-sharing data for transportation apps, bridging off-chain data for blockchain economics, verifying identities with national ID data, creating custom data solutions via developer tools, and more.<br>
+<br>
+The Reclaim ecosystem is home to 20+ projects, but I'd like to highlight 4 of them in the money markets, digital identity, consumer, and hiring sectors.<br>
+<br>
+<a href="https://nitter.freedit.eu/3janexyz" title="3Jane">@3janexyz</a> is the first credit-based money market on Base, offering secured credit lines to crypto users by assessing their creditworthiness and future cash flows, using both on-chain and off-chain financial data.<br>
+<br>
+3Jane uses Reclaim's proxy model to verify credit data from VantageScore, Cred, Coinbase, and Plaid, ensuring privacy of this data.<br>
+<br>
+Another use for credit scores with zkTLS is through <a href="https://nitter.freedit.eu/zkme_" title="zkMe">@zkme_</a>'s feature, zkCreditScore. It uses Reclaim Protocol to get your US credit score securely with zkTLS. This lets zkMe check a user's credit score and make unique soulbound tokens (SBTs) to store this data.<br>
+<br>
+Can there be any other use cases besides credit scores? Of course, there are. <br>
+<br>
+We can take <a href="https://nitter.freedit.eu/zkp2p" title="ZKP2P">@zkp2p</a> as an example, which is a consumer goods marketplace that leverages Reclaim for verifying users' Ticketmaster data as well as verifying user payments. <br>
+<br>
+At the same time, <a href="https://nitter.freedit.eu/bondexapp" title="Bondex">@bondexapp</a>, which is one of the most popular job boards in crypto, uses Reclaim for getting proof of work of profiles, verifying that the data is real, private, and verifiable.<br>
+<br>
+Looking at the use cases possible via zkTLS, the ability to verify TLS transcripts on-chain is already unlocking numerous new functionalities, allowing users to control their own data without needing permission from large corporations. <br>
+<br>
+More importantly, zkTLS is made to ensure that your personal data is not used against you. So, where is this headed?<br>
+<br>
+6. Is zkTLS here to stay?<br>
+<br>
+There is still work to be done, but different zkTLS protocols are already introducing new use cases that redistribute power back to the users. <br>
+<br>
+<a href="https://nitter.freedit.eu/Tim_Roughgarden" title="Tim Roughgarden">@Tim_Roughgarden</a> on the a16z crypto podcast highlighted that zk proofs, proposed in 1985, only gained popularity with blockchain applications, thanks to hundreds of developers working to reduce proof size and costs.<br>
+<br>
+And now, contributions from the blockchain industry are finding uses in other areas beyond just crypto itself.<br>
+<br>
+I expect a similar story to play out with zkTLS, starting with implementation in Web3 and then extending beyond that, because, as I said before, currently, we "read" and "write," but we are hardly protected and hardly "own" even our own data.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjgs6wAagAAWAZ1.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGjguSa9aYAAhYP9.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 11 Feb 2025 14:17:37 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/paramonoww/status/1889317871551180955#m</guid>
+        <link>https://nitter.freedit.eu/paramonoww/status/1889317871551180955#m</link>
+      </item>
+      <item>
+        <title>RT by @paramonoww: Great thread, owning the data is the key element now</title>
+        <dc:creator>@Srijith_Padmesh</dc:creator>
+        <description><![CDATA[<p>Great thread, owning the data is the key element now</p>
+<p><a href="https://nitter.freedit.eu/paramonoww/status/1889317871551180955#m">nitter.freedit.eu/paramonoww/status/1889317871551180955#m</a></p>]]></description>
+        <pubDate>Tue, 11 Feb 2025 15:43:06 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/Srijith_Padmesh/status/1889339386111693019#m</guid>
+        <link>https://nitter.freedit.eu/Srijith_Padmesh/status/1889339386111693019#m</link>
+      </item>
+      <item>
         <title>RT by @paramonoww: Building the foundation for private, verifiable web2 data in crypto. @OpacityNetwork and @reclaimprotocol are showing what&apos;s possible with EigenLayer.</title>
         <dc:creator>@eigenlayer</dc:creator>
         <description><![CDATA[<p>Building the foundation for private, verifiable web2 data in crypto. <a href="https://nitter.freedit.eu/OpacityNetwork" title="Opacity Network">@OpacityNetwork</a> and <a href="https://nitter.freedit.eu/reclaimprotocol" title="Reclaim Protocol">@reclaimprotocol</a> are showing what's possible with EigenLayer.</p>
@@ -658,15 +1005,6 @@ As I've said a lot in my previous writings, the future of millions of general-pu
         <pubDate>Wed, 15 Jan 2025 12:06:52 GMT</pubDate>
         <guid>https://nitter.freedit.eu/paramonoww/status/1879500495641006082#m</guid>
         <link>https://nitter.freedit.eu/paramonoww/status/1879500495641006082#m</link>
-      </item>
-      <item>
-        <title>My long read written back in July is still pretty relevant.</title>
-        <dc:creator>@paramonoww</dc:creator>
-        <description><![CDATA[<p>My long read written back in July is still pretty relevant.</p>
-<p><a href="https://nitter.freedit.eu/paramonoww/status/1811083786773483628#m">nitter.freedit.eu/paramonoww/status/1811083786773483628#m</a></p>]]></description>
-        <pubDate>Mon, 13 Jan 2025 08:52:07 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/paramonoww/status/1878726711329873934#m</guid>
-        <link>https://nitter.freedit.eu/paramonoww/status/1878726711329873934#m</link>
       </item>
 
   </channel>

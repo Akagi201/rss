@@ -16,6 +16,65 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @hai_rise: Checkout our latest article on low latency real-time preconfirmations
+
+TDLR; 
+🔹Pipeline execution so transactions are never idle
+🔹Split block into shreds with deferred merklisation
+🔹Stream shreds to nodes via p2p
+🔹Users get fast confirmations AND incremental state updates
+
+https://blog.riselabs.xyz/incremental-block-construction/</title>
+        <dc:creator>@sam_battenally</dc:creator>
+        <description><![CDATA[<p>Checkout our latest article on low latency real-time preconfirmations<br>
+<br>
+TDLR; <br>
+🔹Pipeline execution so transactions are never idle<br>
+🔹Split block into shreds with deferred merklisation<br>
+🔹Stream shreds to nodes via p2p<br>
+🔹Users get fast confirmations AND incremental state updates<br>
+<br>
+<a href="https://blog.riselabs.xyz/incremental-block-construction/">blog.riselabs.xyz/incrementa…</a></p>
+<p><a href="https://nitter.freedit.eu/nvthnh/status/1889960339481219349#m">nitter.freedit.eu/nvthnh/status/1889960339481219349#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjqXJ_pbwAAm_m4.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 13 Feb 2025 10:45:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/sam_battenally/status/1889989348134986207#m</guid>
+        <link>https://nitter.freedit.eu/sam_battenally/status/1889989348134986207#m</link>
+      </item>
+      <item>
+        <title>RT by @hai_rise: 1/ In blockchain networks, particularly L2s, transaction confirmation speed and state synchronization are critical challenges that impact network performance and user experience.</title>
+        <dc:creator>@nvthnh</dc:creator>
+        <description><![CDATA[<p>1/ In blockchain networks, particularly L2s, transaction confirmation speed and state synchronization are critical challenges that impact network performance and user experience.</p>]]></description>
+        <pubDate>Thu, 13 Feb 2025 08:50:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/nvthnh/status/1889960339481219349#m</guid>
+        <link>https://nitter.freedit.eu/nvthnh/status/1889960339481219349#m</link>
+      </item>
+      <item>
+        <title>RT by @hai_rise: Road to Gigagas!
+
+Reth v1.2 is out, Pectra ready &amp; up to 50% gains in perf for L1 usage, 36M default gas limit!
+
+This is a breakthrough release, starting the rollout of our new high perf consensus engine with previously inaccessible optimizations.
+
+We have worked on this for many months and are very excited for this release today. We think this gets us one step closer to being in the best of both worlds: the compact archive node of the Erigon architecture, and the high performance at the tip of the TrieDB architecture without needing specialized databases!
+
+More to come, including L2 support!</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Road to Gigagas!<br>
+<br>
+Reth v1.2 is out, Pectra ready & up to 50% gains in perf for L1 usage, 36M default gas limit!<br>
+<br>
+This is a breakthrough release, starting the rollout of our new high perf consensus engine with previously inaccessible optimizations.<br>
+<br>
+We have worked on this for many months and are very excited for this release today. We think this gets us one step closer to being in the best of both worlds: the compact archive node of the Erigon architecture, and the high performance at the tip of the TrieDB architecture without needing specialized databases!<br>
+<br>
+More to come, including L2 support!</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjnlpXwaIAEI4lf.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 21:56:51 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1889795832234516835#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1889795832234516835#m</link>
+      </item>
+      <item>
         <title>R to @hai_rise: The bugs we fixed:
 - Missed the beacon root contract transitions when the chain reorgs within an L1 slot.
 - Infinity loop when the chain reorgs over an L1 slot.
@@ -365,36 +424,6 @@ stay tuned!</p>
         <pubDate>Tue, 10 Dec 2024 17:08:15 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1866530377524973789#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1866530377524973789#m</link>
-      </item>
-      <item>
-        <title>100%. 
-
-Like with Rust traits, we should define minimal core methods that a meaningful program would call from the abstraction. We may tolerate some good-to-haves if they have good defaults. Otherwise, it&apos;s best to provide these extras in each different implementation.
-
-The same is true for Reth! The current TransactionPool trait requires 44 methods! Several are for blobs that most L2s don&apos;t support. Or when PayloadJob asks for methods only relevant to block-building with slow block times. We either need to provide frictional implementations that we should not need, or panic and pray the Lord that underlying Reth will not call them in a new release.
-
-Will suggest and upstream improvements 🫡.</title>
-        <dc:creator>@hai_rise</dc:creator>
-        <description><![CDATA[<p>100%. <br>
-<br>
-Like with Rust traits, we should define minimal core methods that a meaningful program would call from the abstraction. We may tolerate some good-to-haves if they have good defaults. Otherwise, it's best to provide these extras in each different implementation.<br>
-<br>
-The same is true for Reth! The current TransactionPool trait requires 44 methods! Several are for blobs that most L2s don't support. Or when PayloadJob asks for methods only relevant to block-building with slow block times. We either need to provide frictional implementations that we should not need, or panic and pray the Lord that underlying Reth will not call them in a new release.<br>
-<br>
-Will suggest and upstream improvements 🫡.</p>
-<p><a href="https://nitter.freedit.eu/gakonst/status/1866213173726183459#m">nitter.freedit.eu/gakonst/status/1866213173726183459#m</a></p>]]></description>
-        <pubDate>Tue, 10 Dec 2024 02:13:43 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/hai_rise/status/1866305261729910873#m</guid>
-        <link>https://nitter.freedit.eu/hai_rise/status/1866305261729910873#m</link>
-      </item>
-      <item>
-        <title>Hardest question for any Vietnamese male: &quot;You prefer your mother or your wife&apos;s cooked rice?&quot; 🥵</title>
-        <dc:creator>@hai_rise</dc:creator>
-        <description><![CDATA[<p>Hardest question for any Vietnamese male: "You prefer your mother or your wife's cooked rice?" 🥵</p>
-<p><a href="https://nitter.freedit.eu/rise_chain/status/1866042059481846157#m">nitter.freedit.eu/rise_chain/status/1866042059481846157#m</a></p>]]></description>
-        <pubDate>Mon, 09 Dec 2024 08:52:30 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/hai_rise/status/1866043231286312978#m</guid>
-        <link>https://nitter.freedit.eu/hai_rise/status/1866043231286312978#m</link>
       </item>
 
   </channel>

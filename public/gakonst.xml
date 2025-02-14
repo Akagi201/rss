@@ -16,270 +16,225 @@
       <height>128</height>
     </image>
       <item>
-        <title>what smart contracts test suites should we benchmark for performance improvements between foundry 0.2 and 1.0?</title>
+        <title>RT by @gakonst: ANNOUNCING: FOUNDRY v1.0!
+
+Every major DeFi protocol and smart contract developer who wants secure and gas-efficient code uses Foundry.
+
+Today, Foundry is officially stable, and here for the long run.
+
+Congratulations to everyone on today&apos;s huge milestone.
+
+`foundryup`!
+
+A lot of exciting updates in the thread.</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>what smart contracts test suites should we benchmark for performance improvements between foundry 0.2 and 1.0?</p>]]></description>
-        <pubDate>Tue, 11 Feb 2025 23:22:44 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1889455058280128758#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1889455058280128758#m</link>
+        <description><![CDATA[<p>ANNOUNCING: FOUNDRY v1.0!<br>
+<br>
+Every major DeFi protocol and smart contract developer who wants secure and gas-efficient code uses Foundry.<br>
+<br>
+Today, Foundry is officially stable, and here for the long run.<br>
+<br>
+Congratulations to everyone on today's huge milestone.<br>
+<br>
+`foundryup`!<br>
+<br>
+A lot of exciting updates in the thread.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjs1STwbcAAqZWT.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 13 Feb 2025 22:16:05 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890163061182591480#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890163061182591480#m</link>
       </item>
       <item>
-        <title>https://github.com/bluealloy/revm/pull/2043 looking for a taker</title>
+        <title>i spoke to a bunch of ML researchers recently around their views on training on sensitive data (eg w/ TEE), and everybody said &quot;even if you get everything right, your model will memorize the sensitive information and you can extract it from there&quot; -- is there a solution to this?</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p><a href="https://github.com/bluealloy/revm/pull/2043">github.com/bluealloy/revm/pu…</a> looking for a taker</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1889431627769802752%2FHUT1LhE5%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 11 Feb 2025 21:52:37 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1889432377740689907#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1889432377740689907#m</link>
+        <description><![CDATA[<p>i spoke to a bunch of ML researchers recently around their views on training on sensitive data (eg w/ TEE), and everybody said "even if you get everything right, your model will memorize the sensitive information and you can extract it from there" -- is there a solution to this?</p>]]></description>
+        <pubDate>Thu, 13 Feb 2025 23:06:24 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890175722154844352#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890175722154844352#m</link>
       </item>
       <item>
-        <title>RT by @gakonst: It doesn’t cost $10 million to launch a rollup.
+        <title>R to @gakonst: ANNOUNCING: FOUNDRY v1.0!
 
-But more importantly, you’re thinking about rollup costs all wrong.
-
-Study Nvidia. Study Jensen Huang.
-
-“Our total cost of operations is so good that even when competitors’ chips are free, it’s not cheap enough.”</title>
-        <dc:creator>@KAndrewHuang</dc:creator>
-        <description><![CDATA[<p>It doesn’t cost $10 million to launch a rollup.<br>
-<br>
-But more importantly, you’re thinking about rollup costs all wrong.<br>
-<br>
-Study Nvidia. Study Jensen Huang.<br>
-<br>
-“Our total cost of operations is so good that even when competitors’ chips are free, it’s not cheap enough.”</p>
-<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1889415840220545024%2Fpu%2Fimg%2FHCrcnTLTxJb0_xVY.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 11 Feb 2025 20:50:17 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/KAndrewHuang/status/1889416689991012528#m</guid>
-        <link>https://nitter.freedit.eu/KAndrewHuang/status/1889416689991012528#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: We are looking for engineers to come and push the boundaries of what&apos;s possible with our L2 team
-
-Unique opportunity to build cutting edge engineering across the rollup ecosystem
-
-Reach out in DMs or apply below if you&apos;re a 10x rust engineer or know someone who is</title>
-        <dc:creator>@bertcmiller</dc:creator>
-        <description><![CDATA[<p>We are looking for engineers to come and push the boundaries of what's possible with our L2 team<br>
-<br>
-Unique opportunity to build cutting edge engineering across the rollup ecosystem<br>
-<br>
-Reach out in DMs or apply below if you're a 10x rust engineer or know someone who is</p>
-<p><a href="https://nitter.freedit.eu/ferranbt/status/1888901877787476379#m">nitter.freedit.eu/ferranbt/status/1888901877787476379#m</a></p>]]></description>
-        <pubDate>Tue, 11 Feb 2025 13:32:14 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/bertcmiller/status/1889306453384536194#m</guid>
-        <link>https://nitter.freedit.eu/bertcmiller/status/1889306453384536194#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Viem 2.23 now has support for better call simulation, including asset changes, gas used, and logs with the `simulateCalls` API!
-
-Image 1: Usage
-Image 2: Response (asset changes)
-Image 3: Response (results, logs &amp; gas used)
-
-Powered by `eth_simulateV1` – a successor to multicall.</title>
-        <dc:creator>@_jxom</dc:creator>
-        <description><![CDATA[<p>Viem 2.23 now has support for better call simulation, including asset changes, gas used, and logs with the `simulateCalls` API!<br>
-<br>
-Image 1: Usage<br>
-Image 2: Response (asset changes)<br>
-Image 3: Response (results, logs & gas used)<br>
-<br>
-Powered by `eth_simulateV1` – a successor to multicall.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjaHiIraoAAuJtl.png" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGjaHmbOaMAAMOw9.png" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGjaHorXbYAAeXgO.png" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 10 Feb 2025 18:40:10 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/_jxom/status/1889021557953233341#m</guid>
-        <link>https://nitter.freedit.eu/_jxom/status/1889021557953233341#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Memecoins were once fun and pure, but the industrialized trenches have turned a harmless PvP game into a predatory one, dominated by insider edge.
-
-Traditional casino games and memecoins share a core design idea: a high “return to player” (RTP) that masks a built-in edge while delivering intermittent, variable rewards to players.
-
-Traditional casino games like slots and blackjack offer high RTPs (90-99%+), meaning you might lose $1-10 in expectation on $100 of wagers. These games work because they leverage near-miss effects and the gambler’s fallacy, ensuring that the lure of a big win (variable payoff) keeps you in the game even as you’re bleeding bankroll.
-
-As I see it, the main issue with memecoins-as-gambling-game today is that they have moved away from their purest form to a fully industrialized version of the trenches. Initially, they functioned more like a PvP slot machine: most bets evaporate, but there’s a small chance to graduate with a 5-25x+ multiplier, or even hit a jackpot-level payout of 100-1000x+ when they temporarily become PvE. The thrill is from “catching a runner” or watching someone hit a massive win.
-
-Now, only 1-1.5% of PumpFun launches graduate every day. I would guess nearly all of these are industrialized, operated by sophisticated insiders and influencers (“eca”) like [REDACTED] who launch them to their audiences with ever shortening half-lifes. All of this lowers the effective RTP for casuals, transforming memecoins from a pseudo-random high RTP slot-style game to a predatory, low RTP insider game where casual users are set up to lose.
-
-The death knell for these games is when RTP drops so low that uninformed players have ~no chance to profit. Gambler’s fallacy and social media can temporarily keep the game alive by spotlighting winners. Over time, if nearly all profits are captured by house edge, the player pool is liable to dry up and destroys the original, harmless PvP thrills that made memes fun in the first place.</title>
-        <dc:creator>@arjunblj</dc:creator>
-        <description><![CDATA[<p>Memecoins were once fun and pure, but the industrialized trenches have turned a harmless PvP game into a predatory one, dominated by insider edge.<br>
-<br>
-Traditional casino games and memecoins share a core design idea: a high “return to player” (RTP) that masks a built-in edge while delivering intermittent, variable rewards to players.<br>
-<br>
-Traditional casino games like slots and blackjack offer high RTPs (90-99%+), meaning you might lose $1-10 in expectation on $100 of wagers. These games work because they leverage near-miss effects and the gambler’s fallacy, ensuring that the lure of a big win (variable payoff) keeps you in the game even as you’re bleeding bankroll.<br>
-<br>
-As I see it, the main issue with memecoins-as-gambling-game today is that they have moved away from their purest form to a fully industrialized version of the trenches. Initially, they functioned more like a PvP slot machine: most bets evaporate, but there’s a small chance to graduate with a 5-25x+ multiplier, or even hit a jackpot-level payout of 100-1000x+ when they temporarily become PvE. The thrill is from “catching a runner” or watching someone hit a massive win.<br>
-<br>
-Now, only 1-1.5% of PumpFun launches graduate every day. I would guess nearly all of these are industrialized, operated by sophisticated insiders and influencers (“eca”) like [REDACTED] who launch them to their audiences with ever shortening half-lifes. All of this lowers the effective RTP for casuals, transforming memecoins from a pseudo-random high RTP slot-style game to a predatory, low RTP insider game where casual users are set up to lose.<br>
-<br>
-The death knell for these games is when RTP drops so low that uninformed players have ~no chance to profit. Gambler’s fallacy and social media can temporarily keep the game alive by spotlighting winners. Over time, if nearly all profits are captured by house edge, the player pool is liable to dry up and destroys the original, harmless PvP thrills that made memes fun in the first place.</p>]]></description>
-        <pubDate>Mon, 10 Feb 2025 19:50:45 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/arjunblj/status/1889039321140961303#m</guid>
-        <link>https://nitter.freedit.eu/arjunblj/status/1889039321140961303#m</link>
-      </item>
-      <item>
-        <title>A fresh idea on scaling from our own @notnotstorm. 
-
-Increasing the gas target from 50% to 75% could be a great way to bump throughput without reducing worst case load.
-
-Note there&apos;s precedent on this for blobs in Pectra, so it could be a quick win.</title>
+https://www.paradigm.xyz/2025/02/announcing-foundry-v1-0</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>A fresh idea on scaling from our own <a href="https://nitter.freedit.eu/notnotstorm" title="storm">@notnotstorm</a>. <br>
+        <description><![CDATA[<p>ANNOUNCING: FOUNDRY v1.0!<br>
 <br>
-Increasing the gas target from 50% to 75% could be a great way to bump throughput without reducing worst case load.<br>
-<br>
-Note there's precedent on this for blobs in Pectra, so it could be a quick win.</p>
-<p><a href="https://nitter.freedit.eu/notnotstorm/status/1888992516558704898#m">nitter.freedit.eu/notnotstorm/status/1888992516558704898#m</a></p>]]></description>
-        <pubDate>Mon, 10 Feb 2025 17:07:59 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1888998359303954920#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1888998359303954920#m</link>
+<a href="https://www.paradigm.xyz/2025/02/announcing-foundry-v1-0">paradigm.xyz/2025/02/announc…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1890068920603639808%2FXPe7V3S5%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 13 Feb 2025 22:16:51 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890163253462139337#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890163253462139337#m</link>
       </item>
       <item>
-        <title>would you migrate funds, nfts, ens etc to enable your account to work flawlessly (one balance, gas abstracted, no key mgmt etc)? how locked are you in your existing wallet? what would you need to be told to be excited to migrate?</title>
+        <title>R to @gakonst: I am looking for Rust OSS maintainers to help with Foundry, Alloy &amp; our other OSS projects @paradigm.
+
+We build the best public good tools and the most engaging communities. It&apos;s an exciting mission to be a part of.
+
+Please reach out with your Github and resume to georgios@paradigm.xyz.</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>would you migrate funds, nfts, ens etc to enable your account to work flawlessly (one balance, gas abstracted, no key mgmt etc)? how locked are you in your existing wallet? what would you need to be told to be excited to migrate?</p>]]></description>
-        <pubDate>Mon, 10 Feb 2025 05:30:49 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1888822912486199375#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1888822912486199375#m</link>
+        <description><![CDATA[<p>I am looking for Rust OSS maintainers to help with Foundry, Alloy & our other OSS projects <a href="https://nitter.freedit.eu/paradigm" title="Paradigm">@paradigm</a>.<br>
+<br>
+We build the best public good tools and the most engaging communities. It's an exciting mission to be a part of.<br>
+<br>
+Please reach out with your Github and resume to georgios@paradigm.xyz.</p>]]></description>
+        <pubDate>Thu, 13 Feb 2025 22:16:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890163241206386971#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890163241206386971#m</link>
       </item>
       <item>
-        <title>RT by @gakonst: zkemail-cairo – DKIM RSA-SHA256 verification in Cairo general-purpose ZKVM!🚀
+        <title>R to @gakonst: It is unbelievable to see `forge 1.0.0-stable` in my terminal, after &gt;3 years.
 
-Enables email domain ownership &amp; email body content ZK-STARK proofs.
-Currently: 1.1M CairoCPU cycles, provable with STWO in 6.5s.</title>
-        <dc:creator>@bartolomeo_diaz</dc:creator>
-        <description><![CDATA[<p>zkemail-cairo – DKIM RSA-SHA256 verification in Cairo general-purpose ZKVM!🚀<br>
-<br>
-Enables email domain ownership &amp; email body content ZK-STARK proofs.<br>
-Currently: 1.1M CairoCPU cycles, provable with STWO in 6.5s.</p>]]></description>
-        <pubDate>Sat, 08 Feb 2025 14:55:25 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/bartolomeo_diaz/status/1888240222724354106#m</guid>
-        <link>https://nitter.freedit.eu/bartolomeo_diaz/status/1888240222724354106#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: a coin isn’t the only way to capture value and create something valuable onchain.
-
-non-predatory options for ye:
-
-+ release collectible tracks and earn royalties when traded
-+ tokenize ownership of his upcoming album and reward owners with exclusive perks like access to shows and merch
-+ allow other artists to remix his track and earn splits when they monetize it
-+  permissionlessly sync licensing 
-+ and all the unintended value add that comes with enabling other people to build experiences on top of his tokens
-
-he can deepen his relationship with his perpetually dying fanbase and bypass the ruthless gatekeepers and exploitative middle men of the music industry.
-
-it’s not only an additional revenue stream, but one that’s completely executed by code, lowering the overhead and human capital needed to manage and enforce agreements.
-
-this is the future of music.</title>
-        <dc:creator>@0xDesigner</dc:creator>
-        <description><![CDATA[<p>a coin isn’t the only way to capture value and create something valuable onchain.<br>
-<br>
-non-predatory options for ye:<br>
-<br>
-+ release collectible tracks and earn royalties when traded<br>
-+ tokenize ownership of his upcoming album and reward owners with exclusive perks like access to shows and merch<br>
-+ allow other artists to remix his track and earn splits when they monetize it<br>
-+  permissionlessly sync licensing <br>
-+ and all the unintended value add that comes with enabling other people to build experiences on top of his tokens<br>
-<br>
-he can deepen his relationship with his perpetually dying fanbase and bypass the ruthless gatekeepers and exploitative middle men of the music industry.<br>
-<br>
-it’s not only an additional revenue stream, but one that’s completely executed by code, lowering the overhead and human capital needed to manage and enforce agreements.<br>
-<br>
-this is the future of music.</p>]]></description>
-        <pubDate>Sat, 08 Feb 2025 18:46:12 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xDesigner/status/1888298299074986123#m</guid>
-        <link>https://nitter.freedit.eu/0xDesigner/status/1888298299074986123#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Is anyone in the ZKP GPU-acceleration gang (@Ingo_zk @Snarkify_ZKP @SuccinctLabs @RiscZero) looking to bypass CUDA and do low-level PTX stuff, a la Deepseek method?</title>
-        <dc:creator>@radi_cojbasic</dc:creator>
-        <description><![CDATA[<p>Is anyone in the ZKP GPU-acceleration gang (<a href="https://nitter.freedit.eu/Ingo_zk" title="Ingonyama">@Ingo_zk</a> <a href="https://nitter.freedit.eu/Snarkify_ZKP" title="Snarkify">@Snarkify_ZKP</a> <a href="https://nitter.freedit.eu/SuccinctLabs" title="Succinct">@SuccinctLabs</a> <a href="https://nitter.freedit.eu/RiscZero" title="RISC Zero 🟡">@RiscZero</a>) looking to bypass CUDA and do low-level PTX stuff, a la Deepseek method?</p>]]></description>
-        <pubDate>Fri, 07 Feb 2025 13:29:17 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/radi_cojbasic/status/1887856157307371665#m</guid>
-        <link>https://nitter.freedit.eu/radi_cojbasic/status/1887856157307371665#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Somehow, Solady repo doesn’t attract (possibly) AI generated PRs, wheareas Ithaca’s account repo does. 
-
-I wonder what’s the differentiating factor.</title>
-        <dc:creator>@optimizoor</dc:creator>
-        <description><![CDATA[<p>Somehow, Solady repo doesn’t attract (possibly) AI generated PRs, wheareas Ithaca’s account repo does. <br>
-<br>
-I wonder what’s the differentiating factor.</p>]]></description>
-        <pubDate>Fri, 07 Feb 2025 01:53:01 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/optimizoor/status/1887680936642552238#m</guid>
-        <link>https://nitter.freedit.eu/optimizoor/status/1887680936642552238#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Any Rust MEV searcher friends that are tired of searching and want to build interop-related software? LMK!</title>
+All the kudos goes to the people that have worked on this release, @gndizzy, @zerosnacks, @YashAtreya, @klkvrr, @DaniPopes, @jenpaff &amp; @mattsse_.</title>
         <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Any Rust MEV searcher friends that are tired of searching and want to build interop-related software? LMK!</p>]]></description>
-        <pubDate>Wed, 05 Feb 2025 22:23:37 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1887265854024523841#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1887265854024523841#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: ERC4337 bundling across users seems like a non-usecase? what do you really save? 21k gas of compute per user&apos;s batch? peanuts. what do you tradeoff? smart contract complexity, not having 1:1 mapping between user action and on-chain operation, latency for users waiting to be bundled with other users...if you say BLS sig aggregation I&apos;ll answer that you haven&apos;t measured the cost of pairings for verifying across multiple users w/ diff messages (not 1 user)</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>ERC4337 bundling across users seems like a non-usecase? what do you really save? 21k gas of compute per user's batch? peanuts. what do you tradeoff? smart contract complexity, not having 1:1 mapping between user action and on-chain operation, latency for users waiting to be bundled with other users...if you say BLS sig aggregation I'll answer that you haven't measured the cost of pairings for verifying across multiple users w/ diff messages (not 1 user)</p>]]></description>
-        <pubDate>Wed, 05 Feb 2025 20:53:26 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1887243154740674941#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1887243154740674941#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: does any account abstraction infra company make any money? making money on bundling doesn&apos;t feel it, neither does making a spread on gas sponsored? maybe i m mistaken?</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>does any account abstraction infra company make any money? making money on bundling doesn't feel it, neither does making a spread on gas sponsored? maybe i m mistaken?</p>]]></description>
-        <pubDate>Wed, 05 Feb 2025 02:42:52 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1886968706934432249#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1886968706934432249#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: what priors would you update if you believed that you can move assets across chains &amp; execute actions with these assets with &lt;10bps slippage, &lt;1s latency, 1 click, accessible from any crypto app?</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>what priors would you update if you believed that you can move assets across chains &amp; execute actions with these assets with &lt;10bps slippage, &lt;1s latency, 1 click, accessible from any crypto app?</p>]]></description>
-        <pubDate>Wed, 05 Feb 2025 19:44:17 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1887225755505131728#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1887225755505131728#m</link>
-      </item>
-      <item>
-        <title>To the Ethereum Core Dev community: We want an EOF devnet.
-
-Reth and @NethermindEth are passing all EOF tests on top of Ethereum’s Pectra devnet-6 changes.
-
-Let&apos;s move.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>To the Ethereum Core Dev community: We want an EOF devnet.<br>
+        <description><![CDATA[<p>It is unbelievable to see `forge 1.0.0-stable` in my terminal, after &gt;3 years.<br>
 <br>
-Reth and <a href="https://nitter.freedit.eu/NethermindEth" title="Nethermind">@NethermindEth</a> are passing all EOF tests on top of Ethereum’s Pectra devnet-6 changes.<br>
-<br>
-Let's move.</p>]]></description>
-        <pubDate>Thu, 06 Feb 2025 21:41:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1887617710445777143#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1887617710445777143#m</link>
+All the kudos goes to the people that have worked on this release, <a href="https://nitter.freedit.eu/gndizzy" title="George Niculae">@gndizzy</a>, <a href="https://nitter.freedit.eu/zerosnacks" title="zerosnacks.eth">@zerosnacks</a>, <a href="https://nitter.freedit.eu/YashAtreya" title="Yash Atreya">@YashAtreya</a>, <a href="https://nitter.freedit.eu/klkvrr" title="Arsenii Kulikov">@klkvrr</a>, <a href="https://nitter.freedit.eu/DaniPopes" title="DaniPopes">@DaniPopes</a>, <a href="https://nitter.freedit.eu/jenpaff" title="Jennifer">@jenpaff</a> &amp; <a href="https://nitter.freedit.eu/mattsse_" title="Matthias Seitz">@mattsse_</a>.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjs1cDlbQAA8Yo4.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 13 Feb 2025 22:16:45 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890163228371783972#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890163228371783972#m</link>
       </item>
       <item>
-        <title>RT by @gakonst: implemented some basic optimisations in the pipegate that have reduced auth latency sub 50ms 
+        <title>R to @gakonst: Post Foundry v1.0, things are getting even more fun. Higher performance and deeper test coverage. More secure smart contracts, and faster build times. Reth Anvil. So much! Exciting times.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Post Foundry v1.0, things are getting even more fun. Higher performance and deeper test coverage. More secure smart contracts, and faster build times. Reth Anvil. So much! Exciting times.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjs1bHmbUAAi8zT.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 13 Feb 2025 22:16:41 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890163211456102809#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890163211456102809#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: We have published a migration guide for Foundry 1.0.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>We have published a migration guide for Foundry 1.0.</p>
+<p><a href="https://nitter.freedit.eu/gakonst/status/1886469597685276698#m">nitter.freedit.eu/gakonst/status/1886469597685276698#m</a></p>]]></description>
+        <pubDate>Thu, 13 Feb 2025 22:16:37 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890163194557264132#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890163194557264132#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: We now have a mature release process.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>We now have a mature release process.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjs1ZalacAAS3O-.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 13 Feb 2025 22:16:34 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890163182020546854#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890163182020546854#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: Foundry is of course Pectra ready. But it&apos;s also Fusaka ready! It already supports testing EOF-compiled smart contracts with the `--eof` flag, and utilities for debugging EOF code.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Foundry is of course Pectra ready. But it's also Fusaka ready! It already supports testing EOF-compiled smart contracts with the `--eof` flag, and utilities for debugging EOF code.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjs1YazacAQD49j.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 13 Feb 2025 22:16:30 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890163165956305360#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890163165956305360#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: Too many QoL improvements to talk about, read the post on new cheatcodes &amp; better tracing. Highlighting that we now can decode internal calls, can show storage diffs, and have flamecharts.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Too many QoL improvements to talk about, read the post on new cheatcodes &amp; better tracing. Highlighting that we now can decode internal calls, can show storage diffs, and have flamecharts.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjs1XMBacAMAY-S.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 13 Feb 2025 22:16:26 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890163148491223373#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890163148491223373#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: Our invariant testing feature aka multi-step fuzzing got A LOT faster. Like 1000x faster in some cases.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Our invariant testing feature aka multi-step fuzzing got A LOT faster. Like 1000x faster in some cases.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjs1WMlbQAAxifE.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 13 Feb 2025 22:16:21 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890163127146479937#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890163127146479937#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: As if Forge Test wasn&apos;t already ~~blazing-fast~~, it got much better! Lots of love went into this.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>As if Forge Test wasn't already ~~blazing-fast~~, it got much better! Lots of love went into this.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjs1VNubIAA0doU.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 13 Feb 2025 22:16:17 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890163110885068825#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890163110885068825#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: Foundry makes your code build faster, so you can focus on writing features and tests vs waiting for the compiler.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Foundry makes your code build faster, so you can focus on writing features and tests vs waiting for the compiler.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjs1URVaEAAQok2.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 13 Feb 2025 22:16:13 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890163094074322969#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890163094074322969#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: We started over 3 years ago to build the best EVM development toolkit.
 
-i did a benchmarking of the all the middleware i had and it&apos;s comparable to other traditional methods which have a range of 10-150ms
+In the process of building Foundry, we also built a community of developers larger than we ever imagined. Truly incredible.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>We started over 3 years ago to build the best EVM development toolkit.<br>
+<br>
+In the process of building Foundry, we also built a community of developers larger than we ever imagined. Truly incredible.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjs1TT-bwAAjICi.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 13 Feb 2025 22:16:09 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890163077603291322#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890163077603291322#m</link>
+      </item>
+      <item>
+        <title>EOF is good because we won&apos;t see stack too deep ever again. 
 
-smooth UX with blockchain infra is not far</title>
-        <dc:creator>@0xdhruva</dc:creator>
-        <description><![CDATA[<p>implemented some basic optimisations in the pipegate that have reduced auth latency sub 50ms <br>
+There&apos;s other great reasons for it, but for the broad app dev community this should be good enough on its own.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>EOF is good because we won't see stack too deep ever again. <br>
 <br>
-i did a benchmarking of the all the middleware i had and it's comparable to other traditional methods which have a range of 10-150ms<br>
+There's other great reasons for it, but for the broad app dev community this should be good enough on its own.</p>]]></description>
+        <pubDate>Thu, 13 Feb 2025 20:45:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1890140337915720135#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1890140337915720135#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Hope we can quickly move away from the McCarthy era of Ethereum, and back to a welcoming community where anyone can find their niche, while also moving forward to a focused mindset that acknowledges competition and the need to carefully prioritize. Not mutually exclusive.</title>
+        <dc:creator>@fradamt</dc:creator>
+        <description><![CDATA[<p>Hope we can quickly move away from the McCarthy era of Ethereum, and back to a welcoming community where anyone can find their niche, while also moving forward to a focused mindset that acknowledges competition and the need to carefully prioritize. Not mutually exclusive.</p>]]></description>
+        <pubDate>Thu, 13 Feb 2025 12:57:40 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fradamt/status/1890022528535642555#m</guid>
+        <link>https://nitter.freedit.eu/fradamt/status/1890022528535642555#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: However big you think stablecoins will be, think bigger.
+
+Banks, fintechs, VCs, etc fully arrived and regulators are on their way.</title>
+        <dc:creator>@_charlienoyes</dc:creator>
+        <description><![CDATA[<p>However big you think stablecoins will be, think bigger.<br>
 <br>
-smooth UX with blockchain infra is not far</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjH6Hy1bIAMaDBD.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 06 Feb 2025 18:17:11 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xdhruva/status/1887566221186637959#m</guid>
-        <link>https://nitter.freedit.eu/0xdhruva/status/1887566221186637959#m</link>
+Banks, fintechs, VCs, etc fully arrived and regulators are on their way.</p>]]></description>
+        <pubDate>Thu, 13 Feb 2025 17:37:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/_charlienoyes/status/1890093028221809153#m</guid>
+        <link>https://nitter.freedit.eu/_charlienoyes/status/1890093028221809153#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Road to Gigagas!
+
+Reth v1.2 is out, Pectra ready &amp; up to 50% gains in perf for L1 usage, 36M default gas limit!
+
+This is a breakthrough release, starting the rollout of our new high perf consensus engine with previously inaccessible optimizations.
+
+We have worked on this for many months and are very excited for this release today. We think this gets us one step closer to being in the best of both worlds: the compact archive node of the Erigon architecture, and the high performance at the tip of the TrieDB architecture without needing specialized databases!
+
+More to come, including L2 support!</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Road to Gigagas!<br>
+<br>
+Reth v1.2 is out, Pectra ready & up to 50% gains in perf for L1 usage, 36M default gas limit!<br>
+<br>
+This is a breakthrough release, starting the rollout of our new high perf consensus engine with previously inaccessible optimizations.<br>
+<br>
+We have worked on this for many months and are very excited for this release today. We think this gets us one step closer to being in the best of both worlds: the compact archive node of the Erigon architecture, and the high performance at the tip of the TrieDB architecture without needing specialized databases!<br>
+<br>
+More to come, including L2 support!</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGjnlpXwaIAEI4lf.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 21:56:51 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1889795832234516835#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1889795832234516835#m</link>
       </item>
 
   </channel>

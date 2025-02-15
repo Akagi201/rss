@@ -16,6 +16,26 @@
       <height>128</height>
     </image>
       <item>
+        <title>There should be a @_kaitoai dev yapping leaderboard for opensource dev contributions
+
+github stars measure mindshare
+
+some smart algo to measure value of commits to value the yap
+
+Who&apos;s building this?</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>There should be a <a href="https://nitter.freedit.eu/_kaitoai" title="Kaito AI 🌊">@_kaitoai</a> dev yapping leaderboard for opensource dev contributions<br>
+<br>
+github stars measure mindshare<br>
+<br>
+some smart algo to measure value of commits to value the yap<br>
+<br>
+Who's building this?</p>]]></description>
+        <pubDate>Fri, 14 Feb 2025 13:35:11 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1890394359171871090#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1890394359171871090#m</link>
+      </item>
+      <item>
         <title>R to @letsgetonchain: Here is the playlist  with all Pectra EIPs that EVM developers should know
 
 https://www.youtube.com/playlist?list=PLYYidDLT5Dd-T9iGSa23-X2nnnAWmYbao</title>
@@ -320,22 +340,6 @@ Cross chain latency solved!</p>]]></description>
         <pubDate>Tue, 11 Feb 2025 13:57:22 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312775693902210#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1889312775693902210#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: 5/ Here is the issue with this set up, the user makes a commitment precisely when they want an action to happen. Example locking up USDC on source chain. This commitment takes time to finalize.
-
-What if that commitment was already finalized? 👀
-
-That’s the idea suggested in the post!</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>5/ Here is the issue with this set up, the user makes a commitment precisely when they want an action to happen. Example locking up USDC on source chain. This commitment takes time to finalize.<br>
-<br>
-What if that commitment was already finalized? 👀<br>
-<br>
-That’s the idea suggested in the post!</p>]]></description>
-        <pubDate>Tue, 11 Feb 2025 13:57:21 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312772216803482#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312772216803482#m</link>
       </item>
 
   </channel>

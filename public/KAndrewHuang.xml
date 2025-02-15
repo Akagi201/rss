@@ -16,6 +16,18 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @KAndrewHuang: Reasons to have higher L1 gas limits even in an L2-heavy Ethereum
+
+https://vitalik.eth.limo/general/2025/02/14/l1scaling.html</title>
+        <dc:creator>@VitalikButerin</dc:creator>
+        <description><![CDATA[<p>Reasons to have higher L1 gas limits even in an L2-heavy Ethereum<br>
+<br>
+<a href="https://vitalik.eth.limo/general/2025/02/14/l1scaling.html">vitalik.eth.limo/general/202…</a></p>]]></description>
+        <pubDate>Fri, 14 Feb 2025 12:43:34 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/VitalikButerin/status/1890381369806561789#m</guid>
+        <link>https://nitter.freedit.eu/VitalikButerin/status/1890381369806561789#m</link>
+      </item>
+      <item>
         <title>RT by @KAndrewHuang: Conduit’s 2025 State of Rollups Report is out today. Inside, you’ll find:
 
 Data on which infra components are most widely used and how that differs by use case
@@ -266,23 +278,6 @@ ZK makes Ethereum one big chain.</p>
         <pubDate>Wed, 05 Feb 2025 21:13:45 GMT</pubDate>
         <guid>https://nitter.freedit.eu/jtguibas/status/1887248270596186591#m</guid>
         <link>https://nitter.freedit.eu/jtguibas/status/1887248270596186591#m</link>
-      </item>
-      <item>
-        <title>RT by @KAndrewHuang: Has been a great experience taking OP Succinct to market with the chads at Conduit. 
-
-Their team deeply gets how ZK will enable Ethereum&apos;s interoperable future 🫡
-
-Reach out if you want to convert your rollup to ZK with us.</title>
-        <dc:creator>@pumatheuma</dc:creator>
-        <description><![CDATA[<p>Has been a great experience taking OP Succinct to market with the chads at Conduit. <br>
-<br>
-Their team deeply gets how ZK will enable Ethereum's interoperable future 🫡<br>
-<br>
-Reach out if you want to convert your rollup to ZK with us.</p>
-<p><a href="https://nitter.freedit.eu/conduitxyz/status/1887199669836517402#m">nitter.freedit.eu/conduitxyz/status/1887199669836517402#m</a></p>]]></description>
-        <pubDate>Wed, 05 Feb 2025 19:16:34 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/pumatheuma/status/1887218780293701770#m</guid>
-        <link>https://nitter.freedit.eu/pumatheuma/status/1887218780293701770#m</link>
       </item>
 
   </channel>

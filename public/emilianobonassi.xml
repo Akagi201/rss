@@ -16,6 +16,23 @@
       <height>128</height>
     </image>
       <item>
+        <title>another form of nonce reuse - old but still valid (and impactful)
+
+pair based cryptography is more immune
+
+wondering when we start migrating off elliptic based</title>
+        <dc:creator>@emilianobonassi</dc:creator>
+        <description><![CDATA[<p>another form of nonce reuse - old but still valid (and impactful)<br>
+<br>
+pair based cryptography is more immune<br>
+<br>
+wondering when we start migrating off elliptic based</p>
+<p><a href="https://nitter.freedit.eu/paulmillr/status/1890773644386730464#m">nitter.freedit.eu/paulmillr/status/1890773644386730464#m</a></p>]]></description>
+        <pubDate>Sat, 15 Feb 2025 15:48:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/emilianobonassi/status/1890790377742827659#m</guid>
+        <link>https://nitter.freedit.eu/emilianobonassi/status/1890790377742827659#m</link>
+      </item>
+      <item>
         <title>You cannot miss this 👇
 
 Coverage on projects using rollups with real stats and alpha on the tech + prediction for the future and more 😉
@@ -321,15 +338,6 @@ ZK makes Ethereum one big chain.</p>
         <pubDate>Wed, 05 Feb 2025 21:13:45 GMT</pubDate>
         <guid>https://nitter.freedit.eu/jtguibas/status/1887248270596186591#m</guid>
         <link>https://nitter.freedit.eu/jtguibas/status/1887248270596186591#m</link>
-      </item>
-      <item>
-        <title>RT by @emilianobonassi: Ethereum&apos;s secret weapon has a nice ring to it.</title>
-        <dc:creator>@SuccinctLabs</dc:creator>
-        <description><![CDATA[<p>Ethereum's secret weapon has a nice ring to it.</p>
-<p><a href="https://nitter.freedit.eu/conduitxyz/status/1887199669836517402#m">nitter.freedit.eu/conduitxyz/status/1887199669836517402#m</a></p>]]></description>
-        <pubDate>Wed, 05 Feb 2025 19:31:24 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/SuccinctLabs/status/1887222511483691384#m</guid>
-        <link>https://nitter.freedit.eu/SuccinctLabs/status/1887222511483691384#m</link>
       </item>
 
   </channel>

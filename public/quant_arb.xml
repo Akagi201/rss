@@ -16,6 +16,24 @@
       <height>128</height>
     </image>
       <item>
+        <title>This is a scam btw. Watch out</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>This is a scam btw. Watch out</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGj5t-GiWEAE-goi.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGj5t-GkWYAAdNAR.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 16 Feb 2025 10:19:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1891069811263766740#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1891069811263766740#m</link>
+      </item>
+      <item>
+        <title>In the lab doing complex ML research rn (for symbol in symbols: plt.plot(pnl[symbol]))</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>In the lab doing complex ML research rn (for symbol in symbols: plt.plot(pnl[symbol]))</p>]]></description>
+        <pubDate>Sat, 15 Feb 2025 14:17:01 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1890767274807615907#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1890767274807615907#m</link>
+      </item>
+      <item>
         <title>RT by @quant_arb: For HFT, data structures and algorithms matter, but the real deal is efficient memory allocation</title>
         <dc:creator>@ninjaquant_</dc:creator>
         <description><![CDATA[<p>For HFT, data structures and algorithms matter, but the real deal is efficient memory allocation</p>]]></description>
@@ -196,31 +214,6 @@ https://www.lse.ac.uk/study-at-lse/undergraduate/degree-programmes-2024/bsc-fina
         <pubDate>Thu, 30 Jan 2025 10:30:06 GMT</pubDate>
         <guid>https://nitter.freedit.eu/quant_arb/status/1884911962791763968#m</guid>
         <link>https://nitter.freedit.eu/quant_arb/status/1884911962791763968#m</link>
-      </item>
-      <item>
-        <title>You learn a lot of cool new tricks just by reading deep into the docs of your favourite pandas / numpy functions</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>You learn a lot of cool new tricks just by reading deep into the docs of your favourite pandas / numpy functions</p>]]></description>
-        <pubDate>Thu, 30 Jan 2025 10:24:53 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1884910648187920653#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1884910648187920653#m</link>
-      </item>
-      <item>
-        <title>RT by @quant_arb: Just heard of a prop shop in HK that has their trading platform in Python. It takes them 1-2 days to run 1 backtest, ouch.</title>
-        <dc:creator>@ninjaquant_</dc:creator>
-        <description><![CDATA[<p>Just heard of a prop shop in HK that has their trading platform in Python. It takes them 1-2 days to run 1 backtest, ouch.</p>]]></description>
-        <pubDate>Wed, 29 Jan 2025 15:53:00 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ninjaquant_/status/1884630834650763333#m</guid>
-        <link>https://nitter.freedit.eu/ninjaquant_/status/1884630834650763333#m</link>
-      </item>
-      <item>
-        <title>They really could put more effort into making these AI authors more believeable</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>They really could put more effort into making these AI authors more believeable</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGidrMnFXkAAhYuj.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 29 Jan 2025 13:22:25 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1884592937817751828#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1884592937817751828#m</link>
       </item>
 
   </channel>

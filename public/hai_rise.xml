@@ -16,6 +16,14 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @hai_rise: Our testnet will break. If it doesn’t, we didn’t push hard enough.</title>
+        <dc:creator>@sam_battenally</dc:creator>
+        <description><![CDATA[<p>Our testnet will break. If it doesn’t, we didn’t push hard enough.</p>]]></description>
+        <pubDate>Sat, 15 Feb 2025 06:45:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/sam_battenally/status/1890653705696874971#m</guid>
+        <link>https://nitter.freedit.eu/sam_battenally/status/1890653705696874971#m</link>
+      </item>
+      <item>
         <title>RT by @hai_rise: Checkout our latest article on low latency real-time preconfirmations
 
 TDLR; 
@@ -407,23 +415,6 @@ Timestamps:<br>
         <pubDate>Thu, 12 Dec 2024 14:44:38 GMT</pubDate>
         <guid>https://nitter.freedit.eu/hai_rise/status/1867219012049883518#m</guid>
         <link>https://nitter.freedit.eu/hai_rise/status/1867219012049883518#m</link>
-      </item>
-      <item>
-        <title>RT by @hai_rise: Reth v1.1.3 is out -- smol updates, but most importantly breaking changes in the library API, setting us up for Reth as a type-abstracted SDK for building nodes...similar to Cosmos SDK and Substrate, but for the Rollup-centric roadmap.
-
-so far you&apos;ve been able to overload payload building, txpool, rpcs, the runtime w/ evm or other state transition functions, soon you&apos;ll be able to define custom transaction &amp; block types, setting up for innovation and unprecedented customization for both research and product differentiation
-
-stay tuned!</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Reth v1.1.3 is out -- smol updates, but most importantly breaking changes in the library API, setting us up for Reth as a type-abstracted SDK for building nodes...similar to Cosmos SDK and Substrate, but for the Rollup-centric roadmap.<br>
-<br>
-so far you've been able to overload payload building, txpool, rpcs, the runtime w/ evm or other state transition functions, soon you'll be able to define custom transaction & block types, setting up for innovation and unprecedented customization for both research and product differentiation<br>
-<br>
-stay tuned!</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGec-qN9bkAAeqYd.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 10 Dec 2024 17:08:15 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1866530377524973789#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1866530377524973789#m</link>
       </item>
 
   </channel>

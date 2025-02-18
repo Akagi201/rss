@@ -16,6 +16,76 @@
       <height>128</height>
     </image>
       <item>
+        <title>if you&apos;re running an MPC key managent solution and don&apos;t have an EIP7702 strategy dm me can help</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>if you're running an MPC key managent solution and don't have an EIP7702 strategy dm me can help</p>]]></description>
+        <pubDate>Mon, 17 Feb 2025 18:14:08 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1891551722734047335#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1891551722734047335#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Bingo! https://github.com/janwilmake/cloudflare-virtual-fs-do</title>
+        <dc:creator>@janwilmake</dc:creator>
+        <description><![CDATA[<p>Bingo! <a href="https://github.com/janwilmake/cloudflare-virtual-fs-do">github.com/janwilmake/cloudf…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1891176996140457984%2FiXrEYcg3%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 16 Feb 2025 17:25:17 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/janwilmake/status/1891177039106859266#m</guid>
+        <link>https://nitter.freedit.eu/janwilmake/status/1891177039106859266#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: If you have a filesystem you can build any datastore on top. Be it Postgres/PGlite, SQLite, DuckDB, a KV store, anything!
+Thats the advantage of OPFS in the browser, it&apos;s the lowest level possible.
+I think we need that in these edge platforms, and OPFS equivalent.</title>
+        <dc:creator>@samwillis</dc:creator>
+        <description><![CDATA[<p>If you have a filesystem you can build any datastore on top. Be it Postgres/PGlite, SQLite, DuckDB, a KV store, anything!<br>
+Thats the advantage of OPFS in the browser, it's the lowest level possible.<br>
+I think we need that in these edge platforms, and OPFS equivalent.</p>]]></description>
+        <pubDate>Sun, 16 Feb 2025 16:39:28 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/samwillis/status/1891165508960952676#m</guid>
+        <link>https://nitter.freedit.eu/samwillis/status/1891165508960952676#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: I want something like a Cloudflare Durable Object, but with a filesystem api rather than a KV store or SQLite.
+As close to the metal as possible. A tiny, individually addressable, nano-server.
+Don&apos;t even need redundancy of disk, just use multiple instances.</title>
+        <dc:creator>@samwillis</dc:creator>
+        <description><![CDATA[<p>I want something like a Cloudflare Durable Object, but with a filesystem api rather than a KV store or SQLite.<br>
+As close to the metal as possible. A tiny, individually addressable, nano-server.<br>
+Don't even need redundancy of disk, just use multiple instances.</p>]]></description>
+        <pubDate>Sun, 16 Feb 2025 15:46:04 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/samwillis/status/1891152072575173100#m</guid>
+        <link>https://nitter.freedit.eu/samwillis/status/1891152072575173100#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: ai agents are local first clients
+---
+
+of course they are! they&apos;re long lived processes that connect to a system, sync data, and call actions that do side effects. I wrote a post about it, and recorded a video that walks through it.  
+
+link to post in reply!</title>
+        <dc:creator>@threepointone</dc:creator>
+        <description><![CDATA[<p>ai agents are local first clients<br>
+---<br>
+<br>
+of course they are! they're long lived processes that connect to a system, sync data, and call actions that do side effects. I wrote a post about it, and recorded a video that walks through it.  <br>
+<br>
+link to post in reply!</p>
+<p><a href="https://nitter.freedit.eu/threepointone/status/1891122153229046264#m">nitter.freedit.eu/threepointone/status/1891122153229046264#m</a></p>
+<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1891197070423269376%2Fpu%2Fimg%2FTDXCz7tSUTrKClc3.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 16 Feb 2025 18:54:04 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/threepointone/status/1891199382428557459#m</guid>
+        <link>https://nitter.freedit.eu/threepointone/status/1891199382428557459#m</link>
+      </item>
+      <item>
+        <title>exp-0003 this week, feat policy engine</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>exp-0003 this week, feat policy engine</p>
+<p><a href="https://nitter.freedit.eu/shazow/status/1891184018160250924#m">nitter.freedit.eu/shazow/status/1891184018160250924#m</a></p>]]></description>
+        <pubDate>Sun, 16 Feb 2025 19:40:07 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1891210970950742165#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1891210970950742165#m</link>
+      </item>
+      <item>
         <title>R to @gakonst: It&apos;s also just less work than you think these days...Your stack is: Reth w/ the OP Stack variant (@Optimism) &amp; RBuilder w/ Rollup Boost (Flashbots), OP Succinct (@SuccinctLabs). No excuses really.</title>
         <dc:creator>@gakonst</dc:creator>
         <description><![CDATA[<p>It's also just less work than you think these days...Your stack is: Reth w/ the OP Stack variant (<a href="https://nitter.freedit.eu/Optimism" title="optimism.eth">@Optimism</a>) &amp; RBuilder w/ Rollup Boost (Flashbots), OP Succinct (<a href="https://nitter.freedit.eu/SuccinctLabs" title="Succinct">@SuccinctLabs</a>). No excuses really.</p>]]></description>
@@ -174,55 +244,6 @@ All the kudos goes to the people that have worked on this release, <a href="http
         <pubDate>Thu, 13 Feb 2025 22:16:30 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1890163165956305360#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1890163165956305360#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: Too many QoL improvements to talk about, read the post on new cheatcodes &amp; better tracing. Highlighting that we now can decode internal calls, can show storage diffs, and have flamecharts.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Too many QoL improvements to talk about, read the post on new cheatcodes &amp; better tracing. Highlighting that we now can decode internal calls, can show storage diffs, and have flamecharts.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjs1XMBacAMAY-S.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 13 Feb 2025 22:16:26 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1890163148491223373#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1890163148491223373#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: Our invariant testing feature aka multi-step fuzzing got A LOT faster. Like 1000x faster in some cases.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Our invariant testing feature aka multi-step fuzzing got A LOT faster. Like 1000x faster in some cases.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjs1WMlbQAAxifE.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 13 Feb 2025 22:16:21 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1890163127146479937#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1890163127146479937#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: As if Forge Test wasn&apos;t already ~~blazing-fast~~, it got much better! Lots of love went into this.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>As if Forge Test wasn't already ~~blazing-fast~~, it got much better! Lots of love went into this.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjs1VNubIAA0doU.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 13 Feb 2025 22:16:17 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1890163110885068825#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1890163110885068825#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: Foundry makes your code build faster, so you can focus on writing features and tests vs waiting for the compiler.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Foundry makes your code build faster, so you can focus on writing features and tests vs waiting for the compiler.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjs1URVaEAAQok2.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 13 Feb 2025 22:16:13 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1890163094074322969#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1890163094074322969#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: We started over 3 years ago to build the best EVM development toolkit.
-
-In the process of building Foundry, we also built a community of developers larger than we ever imagined. Truly incredible.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>We started over 3 years ago to build the best EVM development toolkit.<br>
-<br>
-In the process of building Foundry, we also built a community of developers larger than we ever imagined. Truly incredible.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjs1TT-bwAAjICi.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 13 Feb 2025 22:16:09 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1890163077603291322#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1890163077603291322#m</link>
       </item>
 
   </channel>

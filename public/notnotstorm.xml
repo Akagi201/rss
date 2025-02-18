@@ -16,6 +16,20 @@
       <height>128</height>
     </image>
       <item>
+        <title>one nice thing about ethereum is huge inertia around transparency and introspectability
+
+this is deeply rooted in the culture and has many downstream advantages</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>one nice thing about ethereum is huge inertia around transparency and introspectability<br>
+<br>
+this is deeply rooted in the culture and has many downstream advantages</p>
+<p><a href="https://nitter.freedit.eu/fozzydiablo/status/1891710497554063419#m">nitter.freedit.eu/fozzydiablo/status/1891710497554063419#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkC5HMqaAAMah7x.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 18 Feb 2025 05:04:31 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1891715397159629073#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1891715397159629073#m</link>
+      </item>
+      <item>
         <title>RT by @notnotstorm: ANNOUNCING: FOUNDRY v1.0!
 
 Every major DeFi protocol and smart contract developer who wants secure and gas-efficient code uses Foundry.
@@ -65,7 +79,7 @@ if this interests you, check out the discussion of the EIP here https://ethereum
 if this interests you, check out the discussion of the EIP here <a href="https://ethereum-magicians.org/t/eip-xxxx-increase-gas-utilization-target/22815">ethereum-magicians.org/t/eip…</a><br>
 <br>
 🌱→🌲</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1887414827251036160%2Fc_DE6_s0%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1889955952415363072%2Fgk2UVeIa%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
         <pubDate>Mon, 10 Feb 2025 16:44:49 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1888992531360473423#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1888992531360473423#m</link>
@@ -166,7 +180,7 @@ big thanks to <a href="https://nitter.freedit.eu/nero_eth" title="Toni Wahrstät
 discuss the EIP here <a href="https://ethereum-magicians.org/t/eip-xxxx-increase-gas-utilization-target/22815">ethereum-magicians.org/t/eip…</a><br>
 <br>
 🌱→🌲</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1887414827251036160%2Fc_DE6_s0%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1889955952415363072%2Fgk2UVeIa%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
         <pubDate>Mon, 10 Feb 2025 16:44:47 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1888992523076735308#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1888992523076735308#m</link>
@@ -292,22 +306,6 @@ We saw the last gas limit increase with the London hardfork in August 2021, stil
         <pubDate>Thu, 30 Jan 2025 19:34:03 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1885048850530066784#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1885048850530066784#m</link>
-      </item>
-      <item>
-        <title>RT by @notnotstorm: Next-slot real-time proving is coming in 2025.
-
-This year I expect multiple zkVM vendors to prove mainnet EVM blocks on GPUs in less than 12 seconds, at &lt;$0.10 per block. Performance numbers will get crazier with SNARK ASICS. Follow the journey on @eth_proofs.
-
-No L1 is poised to benefit from real-time zkVMs nearly as much as Ethereum. zk is how Ethereum scales sustainably, with full validation for stakers and wallets accessible to phones and watches. Real-time zk is the endgame :)</title>
-        <dc:creator>@drakefjustin</dc:creator>
-        <description><![CDATA[<p>Next-slot real-time proving is coming in 2025.<br>
-<br>
-This year I expect multiple zkVM vendors to prove mainnet EVM blocks on GPUs in less than 12 seconds, at &lt;$0.10 per block. Performance numbers will get crazier with SNARK ASICS. Follow the journey on <a href="https://nitter.freedit.eu/eth_proofs" title="Ethproofs">@eth_proofs</a>.<br>
-<br>
-No L1 is poised to benefit from real-time zkVMs nearly as much as Ethereum. zk is how Ethereum scales sustainably, with full validation for stakers and wallets accessible to phones and watches. Real-time zk is the endgame :)</p>]]></description>
-        <pubDate>Thu, 30 Jan 2025 08:45:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/drakefjustin/status/1884885708399075464#m</guid>
-        <link>https://nitter.freedit.eu/drakefjustin/status/1884885708399075464#m</link>
       </item>
 
   </channel>

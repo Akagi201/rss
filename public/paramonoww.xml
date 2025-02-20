@@ -16,6 +16,33 @@
       <height>128</height>
     </image>
       <item>
+        <title>I was glad to research different AMM designs, mostly focusing on CLOB and intent-based models, and to help @threesigmaxyz write this lengthy article.
+
+In this article:
+
+• AMM limitations from the perspectives of LPs and users
+• Design choices for hybrid CLOB-AMM DEXs
+• The use of intents in current protocols
+• New AMM designs, such as am-AMM, pm-AMM, sr-AMM, and more
+
+As the website states, it takes 49 minutes to read it.</title>
+        <dc:creator>@paramonoww</dc:creator>
+        <description><![CDATA[<p>I was glad to research different AMM designs, mostly focusing on CLOB and intent-based models, and to help <a href="https://nitter.freedit.eu/threesigmaxyz" title="Three Sigma">@threesigmaxyz</a> write this lengthy article.<br>
+<br>
+In this article:<br>
+<br>
+• AMM limitations from the perspectives of LPs and users<br>
+• Design choices for hybrid CLOB-AMM DEXs<br>
+• The use of intents in current protocols<br>
+• New AMM designs, such as am-AMM, pm-AMM, sr-AMM, and more<br>
+<br>
+As the website states, it takes 49 minutes to read it.</p>
+<p><a href="https://nitter.freedit.eu/threesigmaxyz/status/1891866104990982244#m">nitter.freedit.eu/threesigmaxyz/status/1891866104990982244#m</a></p>]]></description>
+        <pubDate>Tue, 18 Feb 2025 16:29:15 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/paramonoww/status/1891887715819586015#m</guid>
+        <link>https://nitter.freedit.eu/paramonoww/status/1891887715819586015#m</link>
+      </item>
+      <item>
         <title>While everyone is in HK or preparing for Denver, I decided to go to China to visit Guangzhou and Shenzhen.</title>
         <dc:creator>@paramonoww</dc:creator>
         <description><![CDATA[<p>While everyone is in HK or preparing for Denver, I decided to go to China to visit Guangzhou and Shenzhen.</p>
@@ -677,34 +704,6 @@ EigenDA is Hyperscale.</p>
         <pubDate>Thu, 16 Jan 2025 00:10:55 GMT</pubDate>
         <guid>https://nitter.freedit.eu/dabit3/status/1879682707883745763#m</guid>
         <link>https://nitter.freedit.eu/dabit3/status/1879682707883745763#m</link>
-      </item>
-      <item>
-        <title>RT by @paramonoww: #EigenDA the #rollup lever.
-
-- The #EigenLayer AVS for Data Availability.
-- Explained clearly and understandably.
-- Perfectly summarized in the diagram.
-- Well done. 👍</title>
-        <dc:creator>@criptosimpatic</dc:creator>
-        <description><![CDATA[<p><a href="https://nitter.freedit.eu/search?q=%23EigenDA">#EigenDA</a> the <a href="https://nitter.freedit.eu/search?q=%23rollup">#rollup</a> lever.<br>
-<br>
-- The <a href="https://nitter.freedit.eu/search?q=%23EigenLayer">#EigenLayer</a> AVS for Data Availability.<br>
-- Explained clearly and understandably.<br>
-- Perfectly summarized in the diagram.<br>
-- Well done. 👍</p>
-<p><a href="https://nitter.freedit.eu/paramonoww/status/1879500495641006082#m">nitter.freedit.eu/paramonoww/status/1879500495641006082#m</a></p>]]></description>
-        <pubDate>Thu, 16 Jan 2025 00:12:06 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/criptosimpatic/status/1879683007633842502#m</guid>
-        <link>https://nitter.freedit.eu/criptosimpatic/status/1879683007633842502#m</link>
-      </item>
-      <item>
-        <title>RT by @paramonoww: @eigen_da is the natural place for the L2s and L3s priced out of Ethereum&apos;s blob market to direct their data availability demand.</title>
-        <dc:creator>@punk5736</dc:creator>
-        <description><![CDATA[<p><a href="https://nitter.freedit.eu/eigen_da" title="EigenDA">@eigen_da</a> is the natural place for the L2s and L3s priced out of Ethereum's blob market to direct their data availability demand.</p>
-<p><a href="https://nitter.freedit.eu/paramonoww/status/1879500495641006082#m">nitter.freedit.eu/paramonoww/status/1879500495641006082#m</a></p>]]></description>
-        <pubDate>Wed, 15 Jan 2025 18:26:28 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/punk5736/status/1879596025637466519#m</guid>
-        <link>https://nitter.freedit.eu/punk5736/status/1879596025637466519#m</link>
       </item>
 
   </channel>

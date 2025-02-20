@@ -16,6 +16,690 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @0xTaker: The @0xTaker episode cooked. coming soon.</title>
+        <dc:creator>@apriori0x</dc:creator>
+        <description><![CDATA[<p>The <a href="https://nitter.freedit.eu/0xTaker" title="Taker">@0xTaker</a> episode cooked. coming soon.</p>]]></description>
+        <pubDate>Wed, 19 Feb 2025 20:25:04 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/apriori0x/status/1892309447537471559#m</guid>
+        <link>https://nitter.freedit.eu/apriori0x/status/1892309447537471559#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: EXP-0003: Application Subscriptions!
+
+In this experiment we show Porto, @ithacaxyz&apos;s Ethereum Account SDK, powering subscriptions &amp; delegating access to your account securely.
+
+Huge implications for app-builders doing payments/subscriptions, AI agents, Telegram bots, DeFi &amp; more.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>EXP-0003: Application Subscriptions!<br>
+<br>
+In this experiment we show Porto, <a href="https://nitter.freedit.eu/ithacaxyz" title="Ithaca">@ithacaxyz</a>'s Ethereum Account SDK, powering subscriptions &amp; delegating access to your account securely.<br>
+<br>
+Huge implications for app-builders doing payments/subscriptions, AI agents, Telegram bots, DeFi &amp; more.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkLBFo2bUAIy8Ij.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 19 Feb 2025 18:56:16 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1892287101129150855#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1892287101129150855#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: How Monad Works
+
+Summary / Network Parameters
+
+- Monad is EVM bytecode-equivalent (you can redeploy bytecode without recompilation)
+
+- Cancun fork (TSTORE, TLOAD, MCOPY) is supported
+
+- Opcode to gas units mapping is same as Ethereum (e.g. ADD is 4)
+
+- RPC conforms to geth&apos;s RPC interface
+
+- Blocks are every 500 ms
+
+- Finality occurs in 1 second; finality of block N occurs at the proposal of block N+2
+
+- Block gas limit in testnet is 150 million gas, i.e. gas rate is 300 million gas/s. This will increase over time
+
+- 100-200 validators expected in consensus
+
+- on Day 1 of testnet, Monad will have about 55 globally-distributed validators
+
+Frugality / Impact on Decentralization
+
+The driving goal of Monad is to have better software algorithms for consensus and execution, offering high performance while preserving decentralization
+
+These algorithms deliver high performance while relying on nodes with relatively modest hardware:
+
+- 32 GB of RAM
+- 2x 2 TB SSDs
+- 100 Mbps of bandwidth
+- a 16-core 4.5 GHz processor like the AMD Ryzen 7950X
+
+You can assemble this machine for about $1500
+
+These algorithms deliver high performance while maintaining a fully-globally-distributed validator set and stake weight distribution
+
+There isn’t a reliance on a supermajority in one geographic region - one would think this is an obvious expectation but many “high-performance” L1s actually derive their performance from having a supermajority of stake weight in close proximity 
+
+Node
+
+Monad node has 3 components:
+- monad-bft [consensus]
+- monad-execution [execution + state]
+- monad-rpc [handling user reads/writes]
+
+- Network is 100-200 voting nodes (we’ll call them “validators” for the rest of this doc)
+
+- Non-voting full nodes listen to network traffic
+
+- All nodes execute all transactions and have full state
+
+Consensus Mechanism
+
+Overall consensus mechanism is MonadBFT.
+
+MonadBFT has linear communication complexity which allows it to scale to far more nodes than quadratic-complexity algorithms like CometBFT
+
+In the happy path, it follows the pattern of “one-to-many-to-one” or “fan out, fan in”:
+ 
+- Leader (Alice) broadcasts a signed block proposal to all other nodes (fan out), who acknowledge its validity by sending a signed attestation the next leader Bob (fan in). 
+
+- Bob aggregates the attestations into a “Quorum Certificate” (QC)
+
+- Attestation signatures use the BLS signature scheme for ease of aggregation
+
+- Bob broadcasts the QC to all the nodes, who attest to receiving it by sending a message to the 3rd leader (Charlie) who aggregates the attestations into a QC-on-QC
+
+- Charlie sends the QC-on-QC to everyone. Upon receiving the QC-on-QC, everyone knows that Alice’s block has been finalized
+
+In the above story, Bob and Charlie are only sending out QCs or QCs-on-QCs, but in reality the proposals are pipelined: 
+
+- Bob’s message contains both the QC for Alice’s block and also the contents of a new block. 
+
+- Charlie’s message contains the QC for Bob’s block (which is a QC-on-QC for Alice’s block) and also contains the transactions for a new block 
+
+When validators send an attestation for Bob’s message they are attesting to both the validity of Bob’s block and the validity of the QC
+
+This pipelining raises the throughput of the network since every slot a new block gets produced.
+
+The below diagram shows how MonadBFT reaches consensus. Pipelining is tracked at the top:
+
+See the docs for a fuller description. Obvious questions addressed there are:
+
+- How the network handles the unhappy path where Bob doesn’t get enough a supermajority of attestations
+
+- How the above mechanism results in nodes being sure that the block has been finalized once they have received the QC-on-QC
+
+RaptorCast
+
+MonadBFT requires the leader to directly send blocks to every validator
+
+However, blocks may be quite large: 10,000 transactions/s * 200 bytes/tx = 2 MB/s. Sending directly to 200 validators would require 400 MB/s (3.2 Gbps). 
+
+We don’t want validators to have to have such high upload bandwidth
+
+RaptorCast is a specialized messaging protocol which solves this problem
+
+In RaptorCast, a block is erasure-coded to produce a bunch of smaller chunks
+
+In erasure coding, the total size of all of the chunks is greater than the original data (by a multiplicative factor) but the original data can be restored using (almost) any combination of chunks whose total size matches the original data’s size
+
+For example, a 1000 kb block erasure-coded with a multiplicative factor of 3 might produce 150 20kb chunks, but (roughly) any 50 of the chunks can reassemble the original message
+
+RaptorCast uses a variant of Raptor codes as the encoding mechanism
+
+In RaptorCast, each chunk is sent to one validator who is tasked with sending the chunk to every other validator in the network
+
+That is, each chunk follows a two-level broadcast tree where the leader is the root, one other validator is at the first level, and all other validators are on the second level
+
+Validators are assigned chunks prorata to their stake weight
+
+Here&apos;s a diagram showing the RaptorCast protocol: each validator serves as a first-hop recipient for a range of chunks, and broadcasts those chunks to every other validator:
+
+Raptorcast properties:
+
+- Using the two-level broadcast tree ensures that message delivery occurs within 2x the longest hop
+
+- Upload bandwidth for the leader is limited to the block size times the replication factor (roughly 2)
+
+- Since chunks are assigned pro-rata to stake weight, and BFT assumes no more than 33% of stake is malicious, at most 33% of chunks could fail to reach their recipients. With a replication factor of 2x, nodes can reconstruct the original block despite a maximum 33% loss.
+
+Transaction Lifecycle
+
+- User submits pending transaction to RPC node
+
+- RPC node sends pending transaction to next 3 leaders based on the leader schedule
+
+- Pending transaction gets added to those leaders’ local mempools
+
+- Leader adds transaction to their block as they see fit [default: they order by descending fee-per-gas-unit, i.e. Priority Gas Auction]
+
+- Leader proposes block, which is confirmed by the network as mentioned above
+
+Note: directly forwarding to upcoming leaders (as opposed to flood forwarding to all nodes) greatly reduces traffic. Flood forwarding would take up the entire bandwidth
+
+Note: in the future, a behavior is being considered where leaders forward pending transactions (that they weren’t able to include in their block) to the next leader
+
+Leader Election
+
+- Leaders in the current testnet are permissioned. Staking will be added shortly
+
+- An epoch occurs roughly once per day. Validator stake weights are locked in one epoch ahead (i.e. any changes for epoch N+1 must be registered prior to the start of epoch N)
+
+- At the start of each epoch, each validator computes the leader schedule based on running a deterministic pseudorandom function on the stake weights. Since the function is deterministic everyone arrives at the same leader schedule
+
+Asynchronous Execution
+
+Monad pipelines consensus and execution, moving execution out of the hot path of consensus into a separate swim lane and allowing execution to utilize the full block time.
+
+- Consensus is reached prior to execution 
+
+- Leader &amp; validators check transaction validity (valid signature; valid nonce; submitter can pay for the data cost of the transaction being transmitted), but are not required to execute the transactions prior to voting.
+
+- After a block is finalized, it is executed; meanwhile consensus is already proceeding on subsequent blocks
+
+This is in contrast to most blockchains, which have interleaved execution.
+
+One way to understand the impact of asynchronous execution is to recognize that, in interleaved execution, the execution budget is necessarily a small fraction of the block time since in interleaved execution, the leader must execute the transactions before proposing the block, and validators must execute before responding
+
+For a 500 ms block time, almost all of the time will be budgeted for multiple rounds of cross-globe communication, leaving only a small fraction of the time for execution
+
+The below diagram contrasts interleaved execution with asynchronous execution. Blue rectangles correspond to time spent on execution while orange rectangles correspond to time spent on consensus.
+
+The budget for execution is much larger in async execution.
+
+Delayed merkle root
+
+Due to async execution, Monad block proposals don’t include the merkle root of the state trie, since that would require execution to have already completed.
+
+All nodes should stay in sync because they’re all starting from the same point and doing the same work. 
+
+But it’d be nice to be sure! As a precaution, proposals in Monad also include a delayed merkle root from D blocks ago, allowing nodes to detect if they have diverged. D is a systemwide parameter, currently set to 3. 
+
+If any of the validators makes a computation error (cosmic rays?) when computing the state root at block N, it will realize that it possibly erred by block N+D (since the delayed merkle root for N contained in that block differs from its local view). 
+The validator then needs to wait until N+D+2 to see if 2/3 of the stake weight finalizes the block proposal at N+D (in which case the local node made an error) or if the block gets rejected (in which case the leader made the error).
+
+Block stages
+
+Assume that a validator has just received block N. We say that:
+
+- Block N is ‘proposed’
+
+- Block N-1 is ‘voted’
+
+- Block N-2 is ‘finalized’ (because block N carries the QC-on-QC of block N-2)
+
+- Block N-2-D is ‘verified’ (because block N-2 carries the merkle root post the transactions in block N-2-D, and block N-2 is the last block that has been finalized)
+
+Note that unlike Ethereum, only one block at height N is proposed and voted on, avoiding retroactive block reorganization due to competing forks
+
+Speculative execution
+
+Although only block N-2 is ‘finalized’ and can officially be executed, nodes have a strong suspicion that the lists of transactions in block N-1 and block N are likely to become the finalized lists
+
+Therefore, nodes speculatively execute the transactions included in each new proposed block, storing a pointer to the state trie post those transactions. In the event that a block ends up not being finalized, the pointer is discarded, undoing the execution
+
+Speculative execution allows nodes to (likely) have the most up-to-date state, which helps users simulate transactions correctly
+
+Optimistic parallel execution
+
+Like in Ethereum, blocks are linearly ordered, as are transactions. That means that the true state of the world is the state arrived at by executing all transactions one after another
+
+In Monad, transactions are executed optimistically in parallel to generate pending results. A pending result contains the list of storage slots that were read (SLOADed) and written (SSTOREd) during the course of that execution. We refer to these slots as “inputs” and “outputs”
+
+Pending results are committed serially, checking that each pending result’s inputs are still valid, and re-executing if an input has been invalidated. This serial commitment ensures that the result is the same as if the transactions were executed serially
+
+Here&apos;s an example of how Optimistic Parallel Execution works:
+
+Assume that prior to the start of a block, the following are the USDC balances:
+- Alice: 1000 USDC
+- Bob: 0 USDC
+- Charlie: 400 USD
+(Note also that each of these balances corresponds to 1 storage slot, since each is 1 key-value pair in a mapping in the USDC contract.)
+
+Two transactions appear as transaction 0 and 1 in the block:
+- Transaction 0: Alice sends 100 USDC to Bob
+- Transaction 1: Alice sends 100 USDC to Charlie
+
+Then optimistic parallel execution will produce two pending results:
+
+- PendingResult0: 
+  * Inputs: Alice = 1000 USDC, Bob = 0 USDC
+  * Outputs: Alice = 900 USDC; Bob = 100 USDC
+
+- PendingResult 1: 
+  * Inputs: Alice = 1000 USDC; Charlie = 400 USDC
+  * Outputs: Alice = 900 USDC, Charlie = 500 USDC
+
+When we go to commit these pending results:
+
+- PendingResult 0 is committed successfully, changing the official state to Alice = 900, Bob = 100, Charlie = 400
+
+- PendingResult 1 cannot be committed because now one of the inputs conflicts (Alice was assumed to have 1000, but actually has 900)
+
+So transaction 1 is re-executed
+
+Final result:
+- Alice: 800 USDC
+- Bob: 100 USDC
+- Charlie: 500 USDC
+
+Note that in optimistic parallel execution, every transaction gets executed at most twice - once optimistically, and (at most) once when it is being committed
+
+Re-execution is typically cheap because storage slots are usually in cache. It is only when re-execution triggers a different codepath (requiring a different slot) that execution has to read a storage slot from SSD
+
+MonadDb
+
+As in Ethereum, state is stored in a merkle trie. There is a custom database, MonadDb, which stores merkle trie data natively
+
+This differs from existing clients [which embed the merkle trie inside of a commodity database which itself uses a tree structure]
+
+MonadDb is a significant optimization because it eliminates a level of indirection, reduces the number of pages read from SSD in order to perform one lookup, allows for async I/O, and allows the filesystem to be bypassed
+
+State access [SLOAD and SSTORE] is the biggest bottleneck for execution, and MonadDb is a significant unlock for state access because:
+- it reduces the number of iops to read or write one value
+- it makes recomputing the merkle root a lot faster
+- and it supports many parallel reads which the parallel execution system can take advantage of
+
+Synergies between optimistic parallel execution and MonadDb
+
+Optimistic parallel execution can be thought of as surfacing many storage slot dependencies – all of the inputs and outputs of the pending results – in parallel and pulling them into the cache
+
+Even in the worst case where every pending result’s inputs are invalidated and the transaction has to be re-executed, optimistic parallel execution is still extremely useful by “running ahead” of the serial commitment and pulling many storage slots from SSD
+
+This makes optimistic parallel execution and MonadDb work really well together, because MonadDb provides fast asynchronous state lookups while optimistic parallel execution cues up many parallel reads from SSD
+
+Bootstrapping a node (Statesync/Blocksync)
+
+High throughput means a long transaction history which makes replaying from genesis challenging
+
+Most node operators will prefer to initialize their nodes by copying over recent state from other nodes and only replaying the last mile. This is what statesync accomplishes
+
+In statesync, a synchronizing node (“client”) provides their current view’s version and a target version and asks other nodes (“servers”) to help it progress from the current view to the target version
+
+MonadDb has versioning on each node in the trie. Servers use this version information to identify which trie components need to be sent
+
+Nodes can also request blocks from their peers in a protocol called blocksync. This is used if a block is missed (not enough chunks arrived), as well as when executing the “last mile” after statesync completes (since more blocks will have come in since the start of statesync)
+
+Thanks for reading and be sure to check out the docs</title>
+        <dc:creator>@keoneHD</dc:creator>
+        <description><![CDATA[<p>How Monad Works<br>
+<br>
+Summary / Network Parameters<br>
+<br>
+- Monad is EVM bytecode-equivalent (you can redeploy bytecode without recompilation)<br>
+<br>
+- Cancun fork (TSTORE, TLOAD, MCOPY) is supported<br>
+<br>
+- Opcode to gas units mapping is same as Ethereum (e.g. ADD is 4)<br>
+<br>
+- RPC conforms to geth's RPC interface<br>
+<br>
+- Blocks are every 500 ms<br>
+<br>
+- Finality occurs in 1 second; finality of block N occurs at the proposal of block N+2<br>
+<br>
+- Block gas limit in testnet is 150 million gas, i.e. gas rate is 300 million gas/s. This will increase over time<br>
+<br>
+- 100-200 validators expected in consensus<br>
+<br>
+- on Day 1 of testnet, Monad will have about 55 globally-distributed validators<br>
+<br>
+Frugality / Impact on Decentralization<br>
+<br>
+The driving goal of Monad is to have better software algorithms for consensus and execution, offering high performance while preserving decentralization<br>
+<br>
+These algorithms deliver high performance while relying on nodes with relatively modest hardware:<br>
+<br>
+- 32 GB of RAM<br>
+- 2x 2 TB SSDs<br>
+- 100 Mbps of bandwidth<br>
+- a 16-core 4.5 GHz processor like the AMD Ryzen 7950X<br>
+<br>
+You can assemble this machine for about $1500<br>
+<br>
+These algorithms deliver high performance while maintaining a fully-globally-distributed validator set and stake weight distribution<br>
+<br>
+There isn’t a reliance on a supermajority in one geographic region - one would think this is an obvious expectation but many “high-performance” L1s actually derive their performance from having a supermajority of stake weight in close proximity <br>
+<br>
+Node<br>
+<br>
+Monad node has 3 components:<br>
+- monad-bft [consensus]<br>
+- monad-execution [execution + state]<br>
+- monad-rpc [handling user reads/writes]<br>
+<br>
+- Network is 100-200 voting nodes (we’ll call them “validators” for the rest of this doc)<br>
+<br>
+- Non-voting full nodes listen to network traffic<br>
+<br>
+- All nodes execute all transactions and have full state<br>
+<br>
+Consensus Mechanism<br>
+<br>
+Overall consensus mechanism is MonadBFT.<br>
+<br>
+MonadBFT has linear communication complexity which allows it to scale to far more nodes than quadratic-complexity algorithms like CometBFT<br>
+<br>
+In the happy path, it follows the pattern of “one-to-many-to-one” or “fan out, fan in”:<br>
+ <br>
+- Leader (Alice) broadcasts a signed block proposal to all other nodes (fan out), who acknowledge its validity by sending a signed attestation the next leader Bob (fan in). <br>
+<br>
+- Bob aggregates the attestations into a “Quorum Certificate” (QC)<br>
+<br>
+- Attestation signatures use the BLS signature scheme for ease of aggregation<br>
+<br>
+- Bob broadcasts the QC to all the nodes, who attest to receiving it by sending a message to the 3rd leader (Charlie) who aggregates the attestations into a QC-on-QC<br>
+<br>
+- Charlie sends the QC-on-QC to everyone. Upon receiving the QC-on-QC, everyone knows that Alice’s block has been finalized<br>
+<br>
+In the above story, Bob and Charlie are only sending out QCs or QCs-on-QCs, but in reality the proposals are pipelined: <br>
+<br>
+- Bob’s message contains both the QC for Alice’s block and also the contents of a new block. <br>
+<br>
+- Charlie’s message contains the QC for Bob’s block (which is a QC-on-QC for Alice’s block) and also contains the transactions for a new block <br>
+<br>
+When validators send an attestation for Bob’s message they are attesting to both the validity of Bob’s block and the validity of the QC<br>
+<br>
+This pipelining raises the throughput of the network since every slot a new block gets produced.<br>
+<br>
+The below diagram shows how MonadBFT reaches consensus. Pipelining is tracked at the top:<br>
+<br>
+See the docs for a fuller description. Obvious questions addressed there are:<br>
+<br>
+- How the network handles the unhappy path where Bob doesn’t get enough a supermajority of attestations<br>
+<br>
+- How the above mechanism results in nodes being sure that the block has been finalized once they have received the QC-on-QC<br>
+<br>
+RaptorCast<br>
+<br>
+MonadBFT requires the leader to directly send blocks to every validator<br>
+<br>
+However, blocks may be quite large: 10,000 transactions/s * 200 bytes/tx = 2 MB/s. Sending directly to 200 validators would require 400 MB/s (3.2 Gbps). <br>
+<br>
+We don’t want validators to have to have such high upload bandwidth<br>
+<br>
+RaptorCast is a specialized messaging protocol which solves this problem<br>
+<br>
+In RaptorCast, a block is erasure-coded to produce a bunch of smaller chunks<br>
+<br>
+In erasure coding, the total size of all of the chunks is greater than the original data (by a multiplicative factor) but the original data can be restored using (almost) any combination of chunks whose total size matches the original data’s size<br>
+<br>
+For example, a 1000 kb block erasure-coded with a multiplicative factor of 3 might produce 150 20kb chunks, but (roughly) any 50 of the chunks can reassemble the original message<br>
+<br>
+RaptorCast uses a variant of Raptor codes as the encoding mechanism<br>
+<br>
+In RaptorCast, each chunk is sent to one validator who is tasked with sending the chunk to every other validator in the network<br>
+<br>
+That is, each chunk follows a two-level broadcast tree where the leader is the root, one other validator is at the first level, and all other validators are on the second level<br>
+<br>
+Validators are assigned chunks prorata to their stake weight<br>
+<br>
+Here's a diagram showing the RaptorCast protocol: each validator serves as a first-hop recipient for a range of chunks, and broadcasts those chunks to every other validator:<br>
+<br>
+Raptorcast properties:<br>
+<br>
+- Using the two-level broadcast tree ensures that message delivery occurs within 2x the longest hop<br>
+<br>
+- Upload bandwidth for the leader is limited to the block size times the replication factor (roughly 2)<br>
+<br>
+- Since chunks are assigned pro-rata to stake weight, and BFT assumes no more than 33% of stake is malicious, at most 33% of chunks could fail to reach their recipients. With a replication factor of 2x, nodes can reconstruct the original block despite a maximum 33% loss.<br>
+<br>
+Transaction Lifecycle<br>
+<br>
+- User submits pending transaction to RPC node<br>
+<br>
+- RPC node sends pending transaction to next 3 leaders based on the leader schedule<br>
+<br>
+- Pending transaction gets added to those leaders’ local mempools<br>
+<br>
+- Leader adds transaction to their block as they see fit [default: they order by descending fee-per-gas-unit, i.e. Priority Gas Auction]<br>
+<br>
+- Leader proposes block, which is confirmed by the network as mentioned above<br>
+<br>
+Note: directly forwarding to upcoming leaders (as opposed to flood forwarding to all nodes) greatly reduces traffic. Flood forwarding would take up the entire bandwidth<br>
+<br>
+Note: in the future, a behavior is being considered where leaders forward pending transactions (that they weren’t able to include in their block) to the next leader<br>
+<br>
+Leader Election<br>
+<br>
+- Leaders in the current testnet are permissioned. Staking will be added shortly<br>
+<br>
+- An epoch occurs roughly once per day. Validator stake weights are locked in one epoch ahead (i.e. any changes for epoch N+1 must be registered prior to the start of epoch N)<br>
+<br>
+- At the start of each epoch, each validator computes the leader schedule based on running a deterministic pseudorandom function on the stake weights. Since the function is deterministic everyone arrives at the same leader schedule<br>
+<br>
+Asynchronous Execution<br>
+<br>
+Monad pipelines consensus and execution, moving execution out of the hot path of consensus into a separate swim lane and allowing execution to utilize the full block time.<br>
+<br>
+- Consensus is reached prior to execution <br>
+<br>
+- Leader & validators check transaction validity (valid signature; valid nonce; submitter can pay for the data cost of the transaction being transmitted), but are not required to execute the transactions prior to voting.<br>
+<br>
+- After a block is finalized, it is executed; meanwhile consensus is already proceeding on subsequent blocks<br>
+<br>
+This is in contrast to most blockchains, which have interleaved execution.<br>
+<br>
+One way to understand the impact of asynchronous execution is to recognize that, in interleaved execution, the execution budget is necessarily a small fraction of the block time since in interleaved execution, the leader must execute the transactions before proposing the block, and validators must execute before responding<br>
+<br>
+For a 500 ms block time, almost all of the time will be budgeted for multiple rounds of cross-globe communication, leaving only a small fraction of the time for execution<br>
+<br>
+The below diagram contrasts interleaved execution with asynchronous execution. Blue rectangles correspond to time spent on execution while orange rectangles correspond to time spent on consensus.<br>
+<br>
+The budget for execution is much larger in async execution.<br>
+<br>
+Delayed merkle root<br>
+<br>
+Due to async execution, Monad block proposals don’t include the merkle root of the state trie, since that would require execution to have already completed.<br>
+<br>
+All nodes should stay in sync because they’re all starting from the same point and doing the same work. <br>
+<br>
+But it’d be nice to be sure! As a precaution, proposals in Monad also include a delayed merkle root from D blocks ago, allowing nodes to detect if they have diverged. D is a systemwide parameter, currently set to 3. <br>
+<br>
+If any of the validators makes a computation error (cosmic rays?) when computing the state root at block N, it will realize that it possibly erred by block N+D (since the delayed merkle root for N contained in that block differs from its local view). <br>
+The validator then needs to wait until N+D+2 to see if 2/3 of the stake weight finalizes the block proposal at N+D (in which case the local node made an error) or if the block gets rejected (in which case the leader made the error).<br>
+<br>
+Block stages<br>
+<br>
+Assume that a validator has just received block N. We say that:<br>
+<br>
+- Block N is ‘proposed’<br>
+<br>
+- Block N-1 is ‘voted’<br>
+<br>
+- Block N-2 is ‘finalized’ (because block N carries the QC-on-QC of block N-2)<br>
+<br>
+- Block N-2-D is ‘verified’ (because block N-2 carries the merkle root post the transactions in block N-2-D, and block N-2 is the last block that has been finalized)<br>
+<br>
+Note that unlike Ethereum, only one block at height N is proposed and voted on, avoiding retroactive block reorganization due to competing forks<br>
+<br>
+Speculative execution<br>
+<br>
+Although only block N-2 is ‘finalized’ and can officially be executed, nodes have a strong suspicion that the lists of transactions in block N-1 and block N are likely to become the finalized lists<br>
+<br>
+Therefore, nodes speculatively execute the transactions included in each new proposed block, storing a pointer to the state trie post those transactions. In the event that a block ends up not being finalized, the pointer is discarded, undoing the execution<br>
+<br>
+Speculative execution allows nodes to (likely) have the most up-to-date state, which helps users simulate transactions correctly<br>
+<br>
+Optimistic parallel execution<br>
+<br>
+Like in Ethereum, blocks are linearly ordered, as are transactions. That means that the true state of the world is the state arrived at by executing all transactions one after another<br>
+<br>
+In Monad, transactions are executed optimistically in parallel to generate pending results. A pending result contains the list of storage slots that were read (SLOADed) and written (SSTOREd) during the course of that execution. We refer to these slots as “inputs” and “outputs”<br>
+<br>
+Pending results are committed serially, checking that each pending result’s inputs are still valid, and re-executing if an input has been invalidated. This serial commitment ensures that the result is the same as if the transactions were executed serially<br>
+<br>
+Here's an example of how Optimistic Parallel Execution works:<br>
+<br>
+Assume that prior to the start of a block, the following are the USDC balances:<br>
+- Alice: 1000 USDC<br>
+- Bob: 0 USDC<br>
+- Charlie: 400 USD<br>
+(Note also that each of these balances corresponds to 1 storage slot, since each is 1 key-value pair in a mapping in the USDC contract.)<br>
+<br>
+Two transactions appear as transaction 0 and 1 in the block:<br>
+- Transaction 0: Alice sends 100 USDC to Bob<br>
+- Transaction 1: Alice sends 100 USDC to Charlie<br>
+<br>
+Then optimistic parallel execution will produce two pending results:<br>
+<br>
+- PendingResult0: <br>
+  * Inputs: Alice = 1000 USDC, Bob = 0 USDC<br>
+  * Outputs: Alice = 900 USDC; Bob = 100 USDC<br>
+<br>
+- PendingResult 1: <br>
+  * Inputs: Alice = 1000 USDC; Charlie = 400 USDC<br>
+  * Outputs: Alice = 900 USDC, Charlie = 500 USDC<br>
+<br>
+When we go to commit these pending results:<br>
+<br>
+- PendingResult 0 is committed successfully, changing the official state to Alice = 900, Bob = 100, Charlie = 400<br>
+<br>
+- PendingResult 1 cannot be committed because now one of the inputs conflicts (Alice was assumed to have 1000, but actually has 900)<br>
+<br>
+So transaction 1 is re-executed<br>
+<br>
+Final result:<br>
+- Alice: 800 USDC<br>
+- Bob: 100 USDC<br>
+- Charlie: 500 USDC<br>
+<br>
+Note that in optimistic parallel execution, every transaction gets executed at most twice - once optimistically, and (at most) once when it is being committed<br>
+<br>
+Re-execution is typically cheap because storage slots are usually in cache. It is only when re-execution triggers a different codepath (requiring a different slot) that execution has to read a storage slot from SSD<br>
+<br>
+MonadDb<br>
+<br>
+As in Ethereum, state is stored in a merkle trie. There is a custom database, MonadDb, which stores merkle trie data natively<br>
+<br>
+This differs from existing clients [which embed the merkle trie inside of a commodity database which itself uses a tree structure]<br>
+<br>
+MonadDb is a significant optimization because it eliminates a level of indirection, reduces the number of pages read from SSD in order to perform one lookup, allows for async I/O, and allows the filesystem to be bypassed<br>
+<br>
+State access [SLOAD and SSTORE] is the biggest bottleneck for execution, and MonadDb is a significant unlock for state access because:<br>
+- it reduces the number of iops to read or write one value<br>
+- it makes recomputing the merkle root a lot faster<br>
+- and it supports many parallel reads which the parallel execution system can take advantage of<br>
+<br>
+Synergies between optimistic parallel execution and MonadDb<br>
+<br>
+Optimistic parallel execution can be thought of as surfacing many storage slot dependencies – all of the inputs and outputs of the pending results – in parallel and pulling them into the cache<br>
+<br>
+Even in the worst case where every pending result’s inputs are invalidated and the transaction has to be re-executed, optimistic parallel execution is still extremely useful by “running ahead” of the serial commitment and pulling many storage slots from SSD<br>
+<br>
+This makes optimistic parallel execution and MonadDb work really well together, because MonadDb provides fast asynchronous state lookups while optimistic parallel execution cues up many parallel reads from SSD<br>
+<br>
+Bootstrapping a node (Statesync/Blocksync)<br>
+<br>
+High throughput means a long transaction history which makes replaying from genesis challenging<br>
+<br>
+Most node operators will prefer to initialize their nodes by copying over recent state from other nodes and only replaying the last mile. This is what statesync accomplishes<br>
+<br>
+In statesync, a synchronizing node (“client”) provides their current view’s version and a target version and asks other nodes (“servers”) to help it progress from the current view to the target version<br>
+<br>
+MonadDb has versioning on each node in the trie. Servers use this version information to identify which trie components need to be sent<br>
+<br>
+Nodes can also request blocks from their peers in a protocol called blocksync. This is used if a block is missed (not enough chunks arrived), as well as when executing the “last mile” after statesync completes (since more blocks will have come in since the start of statesync)<br>
+<br>
+Thanks for reading and be sure to check out the docs</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkDI-oeWoAA03yZ.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGkDJwUcXMAEPk43.png" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGkDKUriXYAA91Hy.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGkDM1jcWgAAHL1j.png" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 18 Feb 2025 06:37:38 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/keoneHD/status/1891738830534766710#m</guid>
+        <link>https://nitter.freedit.eu/keoneHD/status/1891738830534766710#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: March 30 - April 4th, 2025 ❤️‍🔥🇮🇹 we are coming back better than ever</title>
+        <dc:creator>@solidityslayer</dc:creator>
+        <description><![CDATA[<p>March 30 - April 4th, 2025 ❤️‍🔥🇮🇹 we are coming back better than ever</p>
+<p><a href="https://nitter.freedit.eu/ethaly_io/status/1892050349974053122#m">nitter.freedit.eu/ethaly_io/status/1892050349974053122#m</a></p>]]></description>
+        <pubDate>Wed, 19 Feb 2025 03:21:20 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/solidityslayer/status/1892051817523019874#m</guid>
+        <link>https://nitter.freedit.eu/solidityslayer/status/1892051817523019874#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: JOIN ME FOR CAMPARI AND LATE NIGHT HACKING</title>
+        <dc:creator>@jmininger0</dc:creator>
+        <description><![CDATA[<p>JOIN ME FOR CAMPARI AND LATE NIGHT HACKING</p>
+<p><a href="https://nitter.freedit.eu/ethaly_io/status/1892050349974053122#m">nitter.freedit.eu/ethaly_io/status/1892050349974053122#m</a></p>]]></description>
+        <pubDate>Wed, 19 Feb 2025 03:23:28 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/jmininger0/status/1892052354842739026#m</guid>
+        <link>https://nitter.freedit.eu/jmininger0/status/1892052354842739026#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: I agree with cope from meta-chasers and fundraising environment and have written about it here. however disagree with point 1 of OP. 
+
+- USD is a meme coin.
+- bitcoin is a meme coin.
+- protocols can function without creating new tokens.
+- token utility is typically governance.
+- tokens don&apos;t provide equity or ownership of protocols.
+- VCs deals not all equal some take equity others tokens.
+- Last cycle retail hurt by VC coins - survivors remember.
+
+Ideally, we see new token models from &quot;vc -infra&quot; coins which inspire community members to engage with them. Kudos to Berachain for doing something new.
+
+But regardless unless infra tokens explicitly restructure the value prop (legally and socially) to one of being a &quot;security-equity like instrument with dividends and buy backs&quot; most will remain meme coins. 
+
+Its hard to accept but money and securities are not real, they are just perceptions. Some confer legal rights and ownership, others do not.</title>
+        <dc:creator>@apriori0x</dc:creator>
+        <description><![CDATA[<p>I agree with cope from meta-chasers and fundraising environment and have written about it here. however disagree with point 1 of OP. <br>
+<br>
+- USD is a meme coin.<br>
+- bitcoin is a meme coin.<br>
+- protocols can function without creating new tokens.<br>
+- token utility is typically governance.<br>
+- tokens don't provide equity or ownership of protocols.<br>
+- VCs deals not all equal some take equity others tokens.<br>
+- Last cycle retail hurt by VC coins - survivors remember.<br>
+<br>
+Ideally, we see new token models from "vc -infra" coins which inspire community members to engage with them. Kudos to Berachain for doing something new.<br>
+<br>
+But regardless unless infra tokens explicitly restructure the value prop (legally and socially) to one of being a "security-equity like instrument with dividends and buy backs" most will remain meme coins. <br>
+<br>
+Its hard to accept but money and securities are not real, they are just perceptions. Some confer legal rights and ownership, others do not.</p>
+<p><a href="https://nitter.freedit.eu/jillrgunter/status/1891907543036985398#m">nitter.freedit.eu/jillrgunter/status/1891907543036985398#m</a></p>]]></description>
+        <pubDate>Tue, 18 Feb 2025 21:01:26 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/apriori0x/status/1891956213257994620#m</guid>
+        <link>https://nitter.freedit.eu/apriori0x/status/1891956213257994620#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: x.com/i/article/189149828093…</title>
+        <dc:creator>@grugcapital</dc:creator>
+        <description><![CDATA[<p><a href="http://x.com/i/article/1891498280934416384">x.com/i/article/189149828093…</a></p>]]></description>
+        <pubDate>Mon, 17 Feb 2025 14:57:35 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/grugcapital/status/1891502259118436684#m</guid>
+        <link>https://nitter.freedit.eu/grugcapital/status/1891502259118436684#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: have a couple spots left if anyone wants to join last min 🫡  gonna be a vibeeeee</title>
+        <dc:creator>@solidityslayer</dc:creator>
+        <description><![CDATA[<p>have a couple spots left if anyone wants to join last min 🫡  gonna be a vibeeeee</p>
+<p><a href="https://nitter.freedit.eu/Inter_Commune/status/1882987781250777383#m">nitter.freedit.eu/Inter_Commune/status/1882987781250777383#m</a></p>]]></description>
+        <pubDate>Tue, 18 Feb 2025 16:28:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/solidityslayer/status/1891887586005877145#m</guid>
+        <link>https://nitter.freedit.eu/solidityslayer/status/1891887586005877145#m</link>
+      </item>
+      <item>
+        <title>RT by @0xTaker: We’re partnering with @glacislabs to ensure full support for any interop token standard.
+
+Hundreds of tokens are being issued on interop token standards already.
+
+Glacis makes these tokens accessible with Airlift — a product that will soon be integrated into LIFI.</title>
+        <dc:creator>@lifiprotocol</dc:creator>
+        <description><![CDATA[<p>We’re partnering with <a href="https://nitter.freedit.eu/glacislabs" title="glacislabs">@glacislabs</a> to ensure full support for any interop token standard.<br>
+<br>
+Hundreds of tokens are being issued on interop token standards already.<br>
+<br>
+Glacis makes these tokens accessible with Airlift — a product that will soon be integrated into LIFI.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkFACZjXEAAOH2Y.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 18 Feb 2025 15:00:09 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/lifiprotocol/status/1891865290998153704#m</guid>
+        <link>https://nitter.freedit.eu/lifiprotocol/status/1891865290998153704#m</link>
+      </item>
+      <item>
         <title>RT by @0xTaker: The biggest UX upgrade is finally coming to Ethereum in 2 weeks. For more than a year, we fought for EIP-7702 in pursuit of building some only possible with it.
 
 It’s about time that EOAs learn some cool new tricks.
@@ -271,162 +955,6 @@ Think it was a pretty successful shit-test of character</p>]]></description>
         <pubDate>Sun, 09 Feb 2025 02:25:01 GMT</pubDate>
         <guid>https://nitter.freedit.eu/0xTaker/status/1888413764141068761#m</guid>
         <link>https://nitter.freedit.eu/0xTaker/status/1888413764141068761#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: Enjoyed writing this piece after taking a look at some of the recent data and starting to see rising interest in volumes and markets!</title>
-        <dc:creator>@CryptoDeFiGuy</dc:creator>
-        <description><![CDATA[<p>Enjoyed writing this piece after taking a look at some of the recent data and starting to see rising interest in volumes and markets!</p>
-<p><a href="https://nitter.freedit.eu/CumberlandLabs/status/1887875033155956905#m">nitter.freedit.eu/CumberlandLabs/status/1887875033155956905#m</a></p>]]></description>
-        <pubDate>Fri, 07 Feb 2025 14:46:53 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/CryptoDeFiGuy/status/1887875688901812251#m</guid>
-        <link>https://nitter.freedit.eu/CryptoDeFiGuy/status/1887875688901812251#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: Fun little side project where we forecast runescape GE prices of runes.
-
-Tldr: Runes have super strong positive autocorrelation in daily returns.
-
-Link to article in comments 👇</title>
-        <dc:creator>@Vertox_DF</dc:creator>
-        <description><![CDATA[<p>Fun little side project where we forecast runescape GE prices of runes.<br>
-<br>
-Tldr: Runes have super strong positive autocorrelation in daily returns.<br>
-<br>
-Link to article in comments 👇</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjNsWhkWYAESWVa.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 07 Feb 2025 21:09:53 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/Vertox_DF/status/1887972072586100868#m</guid>
-        <link>https://nitter.freedit.eu/Vertox_DF/status/1887972072586100868#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: The vision of rpcX is to improve the conversation quality between client and server.
-
-The client is the interviewer and the server is the guest. 
-
-A well-designed API request means the interviewer can ask sharp, specific questions, and a well-designed API response means the guest can return accurate and specific responses
-
-The Solana JSON RPC spec fails on both counts. The question to the server is vague, and the server can only respond with slop due to the lack of specificity.
-
-rpcX solves the read layer problem by allowing the client to ask good questions and the server to provide good answers.
-
-When UI clients ask for account data, they don&apos;t care about the encoded byte schema. They want application-specific data rendered to the screen.
-
-When an Explorer asks for a transaction signature, it doesn&apos;t want encoded base58. It wants human-readable context for interpreting the on-chain state transition.
-
-A programmable read-layer enables fluid client-server communication. 
-
-It&apos;s up to the developer to figure out the details: call/response vs pub-sub, server-side vs. client-side data filtering, and network bandwidth management. rpcX provides the tools to have fine-grained control over this non-trivial tradeoff space.
-
-The result? 
-
-Highly responsive, lightweight applications that can power the future of on-chain finance.</title>
-        <dc:creator>@jarxiao</dc:creator>
-        <description><![CDATA[<p>The vision of rpcX is to improve the conversation quality between client and server.<br>
-<br>
-The client is the interviewer and the server is the guest. <br>
-<br>
-A well-designed API request means the interviewer can ask sharp, specific questions, and a well-designed API response means the guest can return accurate and specific responses<br>
-<br>
-The Solana JSON RPC spec fails on both counts. The question to the server is vague, and the server can only respond with slop due to the lack of specificity.<br>
-<br>
-rpcX solves the read layer problem by allowing the client to ask good questions and the server to provide good answers.<br>
-<br>
-When UI clients ask for account data, they don't care about the encoded byte schema. They want application-specific data rendered to the screen.<br>
-<br>
-When an Explorer asks for a transaction signature, it doesn't want encoded base58. It wants human-readable context for interpreting the on-chain state transition.<br>
-<br>
-A programmable read-layer enables fluid client-server communication. <br>
-<br>
-It's up to the developer to figure out the details: call/response vs pub-sub, server-side vs. client-side data filtering, and network bandwidth management. rpcX provides the tools to have fine-grained control over this non-trivial tradeoff space.<br>
-<br>
-The result? <br>
-<br>
-Highly responsive, lightweight applications that can power the future of on-chain finance.</p>
-<p><a href="https://nitter.freedit.eu/atlasxyz/status/1887892770758516750#m">nitter.freedit.eu/atlasxyz/status/1887892770758516750#m</a></p>
-<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1887918919828045824%2Fpu%2Fimg%2FdpdqVkmIwdpiJbGe.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 07 Feb 2025 17:59:06 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/jarxiao/status/1887924059578495433#m</guid>
-        <link>https://nitter.freedit.eu/jarxiao/status/1887924059578495433#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: We built Pay for exactly this purpose.
-
-One click to pay from any chain, any wallet.
-
-Our mission is to make it feel like &quot;one Ethereum&quot;.</title>
-        <dc:creator>@daimo_eth</dc:creator>
-        <description><![CDATA[<p>We built Pay for exactly this purpose.<br>
-<br>
-One click to pay from any chain, any wallet.<br>
-<br>
-Our mission is to make it feel like "one Ethereum".</p>
-<p><a href="https://nitter.freedit.eu/real_philogy/status/1887491267577221591#m">nitter.freedit.eu/real_philogy/status/1887491267577221591#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjNPNwubkAAUuKi.jpg" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGjNQNKSaQAEsMib.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 07 Feb 2025 19:06:59 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/daimo_eth/status/1887941144790864136#m</guid>
-        <link>https://nitter.freedit.eu/daimo_eth/status/1887941144790864136#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: </title>
-        <dc:creator>@ptrwtts</dc:creator>
-        <description><![CDATA[<p></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjHzZiYbIAA2MeT.png" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 06 Feb 2025 17:42:02 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ptrwtts/status/1887557376603267324#m</guid>
-        <link>https://nitter.freedit.eu/ptrwtts/status/1887557376603267324#m</link>
-      </item>
-      <item>
-        <title>You guys think @functi0nZer0 is stupid, but he’s actually smart. Today he released a secret beta for Wildcat Mobile. “Which fund wouldn&apos;t want to deposit 50k ETH clips on their phone?” he tells as the top 10 fund managers enter and do coke at Hamver and buy Larry Cermak a yacht</title>
-        <dc:creator>@0xTaker</dc:creator>
-        <description><![CDATA[<p>You guys think <a href="https://nitter.freedit.eu/functi0nZer0" title="laurence">@functi0nZer0</a> is stupid, but he’s actually smart. Today he released a secret beta for Wildcat Mobile. “Which fund wouldn't want to deposit 50k ETH clips on their phone?” he tells as the top 10 fund managers enter and do coke at Hamver and buy Larry Cermak a yacht</p>
-<p><a href="https://nitter.freedit.eu/Bonecondor/status/1887159179435032994#m">nitter.freedit.eu/Bonecondor/status/1887159179435032994#m</a></p>]]></description>
-        <pubDate>Thu, 06 Feb 2025 15:06:11 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xTaker/status/1887518154177298723#m</guid>
-        <link>https://nitter.freedit.eu/0xTaker/status/1887518154177298723#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: Say hello to true interop for @ethereum.
-
-In collaboration with many teams, we&apos;re building a universal intents engine.
-
-The goal?
-
-Seamlessly connect @arbitrum chains and other Ethereum L2s with &lt; 3s crosschain swaps and transfers to achieve flawless UX. 🧵</title>
-        <dc:creator>@OffchainLabs</dc:creator>
-        <description><![CDATA[<p>Say hello to true interop for <a href="https://nitter.freedit.eu/ethereum" title="Ethereum.org">@ethereum</a>.<br>
-<br>
-In collaboration with many teams, we're building a universal intents engine.<br>
-<br>
-The goal?<br>
-<br>
-Seamlessly connect <a href="https://nitter.freedit.eu/arbitrum" title="Arbitrum">@arbitrum</a> chains and other Ethereum L2s with &lt; 3s crosschain swaps and transfers to achieve flawless UX. 🧵</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjB0tc5XIAAbttO.png" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 05 Feb 2025 14:00:20 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/OffchainLabs/status/1887139195870708039#m</guid>
-        <link>https://nitter.freedit.eu/OffchainLabs/status/1887139195870708039#m</link>
-      </item>
-      <item>
-        <title>RT by @0xTaker: Reservoir has raised a $14M Series A round led by @usv. 
-
-We’re here to build the world’s best developer tools for token trading on every chain.</title>
-        <dc:creator>@reservoir0x</dc:creator>
-        <description><![CDATA[<p>Reservoir has raised a $14M Series A round led by <a href="https://nitter.freedit.eu/usv" title="USV">@usv</a>. <br>
-<br>
-We’re here to build the world’s best developer tools for token trading on every chain.</p>
-<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1887136591090454528%2Fpu%2Fimg%2FZaZ-ig_h1r5Qjvj4.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 05 Feb 2025 14:00:18 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/reservoir0x/status/1887139189784784970#m</guid>
-        <link>https://nitter.freedit.eu/reservoir0x/status/1887139189784784970#m</link>
-      </item>
-      <item>
-        <title>Wondering how much in the strategy of new chain launches was already pre-planned for a certain date and how much is just mental warfare for competitors</title>
-        <dc:creator>@0xTaker</dc:creator>
-        <description><![CDATA[<p>Wondering how much in the strategy of new chain launches was already pre-planned for a certain date and how much is just mental warfare for competitors</p>
-<p><a href="https://nitter.freedit.eu/emilyxlai/status/1886786352106164362#m">nitter.freedit.eu/emilyxlai/status/1886786352106164362#m</a></p>]]></description>
-        <pubDate>Wed, 05 Feb 2025 12:03:02 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xTaker/status/1887109677722247381#m</guid>
-        <link>https://nitter.freedit.eu/0xTaker/status/1887109677722247381#m</link>
       </item>
 
   </channel>

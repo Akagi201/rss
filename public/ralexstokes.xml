@@ -16,6 +16,18 @@
       <height>128</height>
     </image>
       <item>
+        <title>how is REV different from MEV?
+
+i’m in the camp that it is often useful to consider prio fees MEV</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>how is REV different from MEV?<br>
+<br>
+i’m in the camp that it is often useful to consider prio fees MEV</p>]]></description>
+        <pubDate>Tue, 18 Feb 2025 20:42:21 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1891951411228794974#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1891951411228794974#m</link>
+      </item>
+      <item>
         <title>pectra is coming ^_^</title>
         <dc:creator>@ralexstokes</dc:creator>
         <description><![CDATA[<p>pectra is coming ^_^</p>
@@ -151,7 +163,7 @@ https://ethereum-magicians.org/t/blob-parameter-only-bpo-forks/22623</title>
         <description><![CDATA[<p>nice post from <a href="https://nitter.freedit.eu/protolambda" title="proto.eth">@protolambda</a> to streamline blob-throughput increases in the core protocol -- check it out!<br>
 <br>
 <a href="https://ethereum-magicians.org/t/blob-parameter-only-bpo-forks/22623">ethereum-magicians.org/t/blo…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1888346549110841344%2FLRgGQv0G%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1889955952415363072%2FGMTmF5DN%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
         <pubDate>Thu, 23 Jan 2025 14:52:31 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ralexstokes/status/1882441286843842964#m</guid>
         <link>https://nitter.freedit.eu/ralexstokes/status/1882441286843842964#m</link>
@@ -224,18 +236,6 @@ Cryptography: reduce trust at every part of the stack with fun mathematics</p>]]
         <pubDate>Tue, 14 Jan 2025 17:12:14 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ralexstokes/status/1879214957268742266#m</guid>
         <link>https://nitter.freedit.eu/ralexstokes/status/1879214957268742266#m</link>
-      </item>
-      <item>
-        <title>what’s stopping optimistic rollups from switching to validity proofs _today_?
-
-esp given latest developments in zk performance</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>what’s stopping optimistic rollups from switching to validity proofs _today_?<br>
-<br>
-esp given latest developments in zk performance</p>]]></description>
-        <pubDate>Tue, 14 Jan 2025 05:23:30 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1879036599335534990#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1879036599335534990#m</link>
       </item>
 
   </channel>

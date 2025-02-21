@@ -16,6 +16,15 @@
       <height>128</height>
     </image>
       <item>
+        <title>FYI</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>FYI</p>
+<p><a href="https://nitter.freedit.eu/0xstark/status/1892590823293829335#m">nitter.freedit.eu/0xstark/status/1892590823293829335#m</a></p>]]></description>
+        <pubDate>Thu, 20 Feb 2025 15:15:11 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1892593851581243647#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1892593851581243647#m</link>
+      </item>
+      <item>
         <title>how is REV different from MEV?
 
 i’m in the camp that it is often useful to consider prio fees MEV</title>
@@ -228,14 +237,6 @@ Cryptography: reduce trust at every part of the stack with fun mathematics</p>]]
         <pubDate>Tue, 14 Jan 2025 17:12:14 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ralexstokes/status/1879214958237639106#m</guid>
         <link>https://nitter.freedit.eu/ralexstokes/status/1879214958237639106#m</link>
-      </item>
-      <item>
-        <title>I’ll be stepping up as a co-lead with @barnabemonnot  for research at the @ethereumfndn. Researchers at the EF are some of the most inspiring and passionate colleagues I’ve found in life and I could not be more excited to support our work both inside and outside the EF.</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>I’ll be stepping up as a co-lead with <a href="https://nitter.freedit.eu/barnabemonnot" title="barnabe.eth">@barnabemonnot</a>  for research at the <a href="https://nitter.freedit.eu/ethereumfndn" title="Ethereum Foundation">@ethereumfndn</a>. Researchers at the EF are some of the most inspiring and passionate colleagues I’ve found in life and I could not be more excited to support our work both inside and outside the EF.</p>]]></description>
-        <pubDate>Tue, 14 Jan 2025 17:12:14 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1879214957268742266#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1879214957268742266#m</link>
       </item>
 
   </channel>

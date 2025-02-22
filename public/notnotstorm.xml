@@ -16,6 +16,54 @@
       <height>128</height>
     </image>
       <item>
+        <title>someone in a @molly0xFFF reply thread asked me, what are 10 plausible/beneficial use cases for blockchains?
+
+here are 10:
+
+1. @Bitcoin functions as a store of value similar to gold, while at the same time being more cheap+secure to store+transport than gold
+2. smart contract chains like @ethereum or @solana allow transmitting $ and other currencies much quicker than traditional bank transfers, seconds instead of hours/days
+3. peer-to-peer lending platforms like @aave allow ppl to safely+easily take out loans, or get paid to loan to others
+4. stablecoins like @circle have become one of the most significant (top 15) purchasers of USA bonds, which lowers the inflation of the dollar
+5. crypto enables donations to regions with geopolitical strife, like when @Ukraine received &gt;$200M in crypto donations despite banking restrictions and destroyed infrastructure
+6. prediction markets like @Polymarket create 24/7 information streams that often reveal the outcomes of important events hours/days before traditional news media
+7. services like @chainlink can provide verifiable randomness to ensure that competitive/adversarial environments are fair, like ensuring that the superbowl coinflip isnt rigged
+8. crypto art marketplaces like @foundation are one of the only places for digital artists to make significant money from their work, and these marketplaces also foster a culture of explicitly valuing artists instead of just using them to train AI
+9. storing your crypto in a hardware wallet like @Ledger prevents your government from seizing your assets when you exercise your right to protest, like what the canadian government recently did during the trucker protests
+10. blockchain-based DNS services like @ensdomains provide a better system for securing domain names and they cut out the value-extracting domain registrar middlemen</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>someone in a <a href="https://nitter.freedit.eu/molly0xFFF" title="Molly White">@molly0xFFF</a> reply thread asked me, what are 10 plausible/beneficial use cases for blockchains?<br>
+<br>
+here are 10:<br>
+<br>
+1. <a href="https://nitter.freedit.eu/Bitcoin" title="Bitcoin">@Bitcoin</a> functions as a store of value similar to gold, while at the same time being more cheap+secure to store+transport than gold<br>
+2. smart contract chains like <a href="https://nitter.freedit.eu/ethereum" title="Ethereum.org">@ethereum</a> or <a href="https://nitter.freedit.eu/solana" title="Solana">@solana</a> allow transmitting $ and other currencies much quicker than traditional bank transfers, seconds instead of hours/days<br>
+3. peer-to-peer lending platforms like <a href="https://nitter.freedit.eu/aave" title="Aave">@aave</a> allow ppl to safely+easily take out loans, or get paid to loan to others<br>
+4. stablecoins like <a href="https://nitter.freedit.eu/circle" title="Circle">@circle</a> have become one of the most significant (top 15) purchasers of USA bonds, which lowers the inflation of the dollar<br>
+5. crypto enables donations to regions with geopolitical strife, like when <a href="https://nitter.freedit.eu/Ukraine" title="Ukraine / Україна">@Ukraine</a> received &gt;$200M in crypto donations despite banking restrictions and destroyed infrastructure<br>
+6. prediction markets like <a href="https://nitter.freedit.eu/Polymarket" title="Polymarket">@Polymarket</a> create 24/7 information streams that often reveal the outcomes of important events hours/days before traditional news media<br>
+7. services like <a href="https://nitter.freedit.eu/chainlink" title="Chainlink">@chainlink</a> can provide verifiable randomness to ensure that competitive/adversarial environments are fair, like ensuring that the superbowl coinflip isnt rigged<br>
+8. crypto art marketplaces like <a href="https://nitter.freedit.eu/foundation" title="Foundation 🌐">@foundation</a> are one of the only places for digital artists to make significant money from their work, and these marketplaces also foster a culture of explicitly valuing artists instead of just using them to train AI<br>
+9. storing your crypto in a hardware wallet like <a href="https://nitter.freedit.eu/Ledger" title="Ledger">@Ledger</a> prevents your government from seizing your assets when you exercise your right to protest, like what the canadian government recently did during the trucker protests<br>
+10. blockchain-based DNS services like <a href="https://nitter.freedit.eu/ensdomains" title="ens.eth">@ensdomains</a> provide a better system for securing domain names and they cut out the value-extracting domain registrar middlemen</p>
+<p><a href="https://nitter.freedit.eu/CamFantastic1/status/1893058749348081825#m">nitter.freedit.eu/CamFantastic1/status/1893058749348081825#m</a></p>]]></description>
+        <pubDate>Fri, 21 Feb 2025 23:11:18 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1893076056523055335#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1893076056523055335#m</link>
+      </item>
+      <item>
+        <title>great summary of the various functions of an ethereum staker
+
+one core takeaway is that FOCIL can reduce ethereum&apos;s reliance on solo stakers without sacrificing other benefits. this is especially true combined with rainbow staking. thus FOCIL enables more aggressive scaling</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>great summary of the various functions of an ethereum staker<br>
+<br>
+one core takeaway is that FOCIL can reduce ethereum's reliance on solo stakers without sacrificing other benefits. this is especially true combined with rainbow staking. thus FOCIL enables more aggressive scaling</p>
+<p><a href="https://nitter.freedit.eu/barnabemonnot/status/1892858657294995827#m">nitter.freedit.eu/barnabemonnot/status/1892858657294995827#m</a></p>]]></description>
+        <pubDate>Fri, 21 Feb 2025 09:13:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1892865141131116653#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1892865141131116653#m</link>
+      </item>
+      <item>
         <title>ithaca out with yet another cool blockchain experiment
 
 these experiments give a little peek at how the future of finance will be built on blockchain rails in a manner that is far more 1) robust, 2) idiotproof, and 3) capable than what we are used to today</title>
@@ -283,33 +331,6 @@ blob_fees = spice.query('<a href="https://dune.com/queries/4104427">dune.com/que
         <pubDate>Wed, 05 Feb 2025 23:54:10 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1887288640679899408#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1887288640679899408#m</link>
-      </item>
-      <item>
-        <title>everyone should take note that scaling the L1 will make blobs cheaper
-
-this is because regular gas is still the most expensive part of submitting blobs</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>everyone should take note that scaling the L1 will make blobs cheaper<br>
-<br>
-this is because regular gas is still the most expensive part of submitting blobs</p>
-<p><a href="https://nitter.freedit.eu/jon_charb/status/1887283520231334361#m">nitter.freedit.eu/jon_charb/status/1887283520231334361#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjD-7dJbgAAKhs_.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 05 Feb 2025 23:54:10 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1887288638914138358#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1887288638914138358#m</link>
-      </item>
-      <item>
-        <title>RT by @notnotstorm: For the first time in Ethereum PoS, validators have voted to increase the gas limit and it&apos;s happening now. 🎉
-
-We saw the last gas limit increase with the London hardfork in August 2021, still PoW.</title>
-        <dc:creator>@nero_eth</dc:creator>
-        <description><![CDATA[<p>For the first time in Ethereum PoS, validators have voted to increase the gas limit and it's happening now. 🎉<br>
-<br>
-We saw the last gas limit increase with the London hardfork in August 2021, still PoW.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGi7Jd47XsAAKGbL.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 04 Feb 2025 06:43:15 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/nero_eth/status/1886666811510239272#m</guid>
-        <link>https://nitter.freedit.eu/nero_eth/status/1886666811510239272#m</link>
       </item>
 
   </channel>

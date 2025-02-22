@@ -11,10 +11,23 @@
     <image>
       <title>Pavel Paramonov / @paramonoww</title>
       <link>https://nitter.freedit.eu/paramonoww</link>
-      <url>https://nitter.freedit.eu/pic/pbs.twimg.com%2Fprofile_images%2F1873333991572688896%2F7HtZMgae_400x400.jpg</url>
+      <url>https://nitter.freedit.eu/pic/pbs.twimg.com%2Fprofile_images%2F1893025940558823424%2FCqEGEgrf_400x400.jpg</url>
       <width>128</width>
       <height>128</height>
     </image>
+      <item>
+        <title>Revenue or profit has nothing to do with the price of a token unless you implement a fee switch or a similar model.
+
+If that were the case, Celestia wouldn’t even be in the top 100 by market cap, and Raydium would be much higher than it is today.</title>
+        <dc:creator>@paramonoww</dc:creator>
+        <description><![CDATA[<p>Revenue or profit has nothing to do with the price of a token unless you implement a fee switch or a similar model.<br>
+<br>
+If that were the case, Celestia wouldn’t even be in the top 100 by market cap, and Raydium would be much higher than it is today.</p>
+<p><a href="https://nitter.freedit.eu/divine_economy/status/1892574426765389983#m">nitter.freedit.eu/divine_economy/status/1892574426765389983#m</a></p>]]></description>
+        <pubDate>Thu, 20 Feb 2025 14:24:45 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/paramonoww/status/1892581159260876987#m</guid>
+        <link>https://nitter.freedit.eu/paramonoww/status/1892581159260876987#m</link>
+      </item>
       <item>
         <title>I was glad to research different AMM designs, mostly focusing on CLOB and intent-based models, and to help @threesigmaxyz write this lengthy article.
 
@@ -647,63 +660,6 @@ Swaps, transfers, and most user activity represent less than 1%.</p>
         <pubDate>Thu, 16 Jan 2025 04:10:16 GMT</pubDate>
         <guid>https://nitter.freedit.eu/Satyams246/status/1879742943923458269#m</guid>
         <link>https://nitter.freedit.eu/Satyams246/status/1879742943923458269#m</link>
-      </item>
-      <item>
-        <title>RT by @paramonoww: Reminder that EigenDA single handedly has processed:
-
-Bitcoin
-Ethereum
-Solana
-Celo
-Celestia
-Avalanche
-BNB chain
-Fantom
-Polygon
-Mantle
-Base
-Arbitrum
-Optimism
-XAI games
-Blast
-Scroll
-ZKSync
-Mode
-Taiko
-
-blocks all at once and still operated at &lt;54% capacity.
-
-EigenDA is Hyperscale.</title>
-        <dc:creator>@dabit3</dc:creator>
-        <description><![CDATA[<p>Reminder that EigenDA single handedly has processed:<br>
-<br>
-Bitcoin<br>
-Ethereum<br>
-Solana<br>
-Celo<br>
-Celestia<br>
-Avalanche<br>
-BNB chain<br>
-Fantom<br>
-Polygon<br>
-Mantle<br>
-Base<br>
-Arbitrum<br>
-Optimism<br>
-XAI games<br>
-Blast<br>
-Scroll<br>
-ZKSync<br>
-Mode<br>
-Taiko<br>
-<br>
-blocks all at once and still operated at &lt;54% capacity.<br>
-<br>
-EigenDA is Hyperscale.</p>
-<p><a href="https://nitter.freedit.eu/paramonoww/status/1879500495641006082#m">nitter.freedit.eu/paramonoww/status/1879500495641006082#m</a></p>]]></description>
-        <pubDate>Thu, 16 Jan 2025 00:10:55 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/dabit3/status/1879682707883745763#m</guid>
-        <link>https://nitter.freedit.eu/dabit3/status/1879682707883745763#m</link>
       </item>
 
   </channel>

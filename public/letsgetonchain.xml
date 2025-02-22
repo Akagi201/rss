@@ -16,6 +16,19 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @letsgetonchain: Pectra Learning Quest Winners Announced 🪐
+
+Last week, we challenged the community to create original content about the @ethereumfndn Pectra Upgrade across three categories: Educational Content, Creative Expression, and Documentation &amp; Tools.</title>
+        <dc:creator>@cantinaxyz</dc:creator>
+        <description><![CDATA[<p>Pectra Learning Quest Winners Announced 🪐<br>
+<br>
+Last week, we challenged the community to create original content about the <a href="https://nitter.freedit.eu/ethereumfndn" title="Ethereum Foundation">@ethereumfndn</a> Pectra Upgrade across three categories: Educational Content, Creative Expression, and Documentation &amp; Tools.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkQ44FaakAAdMxU.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 20 Feb 2025 22:18:07 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/cantinaxyz/status/1892700285405176286#m</guid>
+        <link>https://nitter.freedit.eu/cantinaxyz/status/1892700285405176286#m</link>
+      </item>
+      <item>
         <title>in an effort to get a better overview of the work being done within ethereum interop space i think i just found the holy bible
 https://github.com/ethereum/L2-interop</title>
         <dc:creator>@letsgetonchain</dc:creator>
@@ -106,7 +119,8 @@ https://www.youtube.com/playlist?list=PLYYidDLT5Dd-T9iGSa23-X2nnnAWmYbao</title>
         <dc:creator>@letsgetonchain</dc:creator>
         <description><![CDATA[<p>Here is the playlist  with all Pectra EIPs that EVM developers should know<br>
 <br>
-<a href="https://piped.video/playlist?list=PLYYidDLT5Dd-T9iGSa23-X2nnnAWmYbao">piped.video/playlist?list=PL…</a></p>]]></description>
+<a href="https://piped.video/playlist?list=PLYYidDLT5Dd-T9iGSa23-X2nnnAWmYbao">piped.video/playlist?list=PL…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1892596896755056640%2FhmActmGT%3Fformat%3Djpg%26name%3D280x280_2" style="max-width:250px;" />]]></description>
         <pubDate>Thu, 13 Feb 2025 14:51:29 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1890051174012989847#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1890051174012989847#m</link>
@@ -244,7 +258,7 @@ The concept of "One Ethereum" via chain abstraction offers both.<br>
 <br>
 Let me explain how 🧵⬇️<br>
 <a href="https://ethresear.ch/t/magicspend-spend-now-debit-later/19678">ethresear.ch/t/magicspend-sp…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1889941977783033856%2FLKevXNqd%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1892478900661604352%2FqllPWhxp%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
         <pubDate>Tue, 11 Feb 2025 13:57:19 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312763178102990#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1889312763178102990#m</link>
@@ -337,14 +351,6 @@ Good news: He doesn't even know any of it.</p>]]></description>
         <pubDate>Tue, 11 Feb 2025 13:57:23 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312782652199135#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1889312782652199135#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: 8/ Side note: In this example we will be looking at an EIP 4337 account but the set up will probably be very similar to EIP 7702 accounts with the only difference being that the locking mechanism would  have to be implemented in a separate smart contract since 7702 smart wallet implementation can just be re-upgraded by the EOA owner and hence any locking logic would be overwritten..</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>8/ Side note: In this example we will be looking at an EIP 4337 account but the set up will probably be very similar to EIP 7702 accounts with the only difference being that the locking mechanism would  have to be implemented in a separate smart contract since 7702 smart wallet implementation can just be re-upgraded by the EOA owner and hence any locking logic would be overwritten..</p>]]></description>
-        <pubDate>Tue, 11 Feb 2025 13:57:23 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312780919918766#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312780919918766#m</link>
       </item>
 
   </channel>

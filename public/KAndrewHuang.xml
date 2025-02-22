@@ -16,6 +16,93 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @KAndrewHuang: The Bybit hack shows us once again that raw tx data in wallets is useless. There’s no reason hardware wallets shouldn’t decode and display transaction details in a human-readable way. 
+
+It&apos;s honestly unbelievable that our industry has grown so much, yet we’ve seen little progress on the hardware wallet side.
+
+You’d think that crypto—the only space where signing the wrong thing with just one click can cost you billions, with no way to recover—would invest in providing clear, human-readable details on what you’re signing. Instead, we get a pile of unreadable hex.
+
+And please don&apos;t get psyopsed by HW providers saying it can’t be done or that it&apos;s too complicated.
+
+@sorellalabs, we already wrote code that decodes and classifies transactions at the trace level—showing net token balance changes and displaying the entire transaction tree in a humanly readable format. This was done by a team of three.
+
+This code could and should be used on hardware wallets so people can actually see what they’re signing. 
+
+@ledger @trezor, what are you waiting for? Just fork it.</title>
+        <dc:creator>@0xvanbeethoven</dc:creator>
+        <description><![CDATA[<p>The Bybit hack shows us once again that raw tx data in wallets is useless. There’s no reason hardware wallets shouldn’t decode and display transaction details in a human-readable way. <br>
+<br>
+It's honestly unbelievable that our industry has grown so much, yet we’ve seen little progress on the hardware wallet side.<br>
+<br>
+You’d think that crypto—the only space where signing the wrong thing with just one click can cost you billions, with no way to recover—would invest in providing clear, human-readable details on what you’re signing. Instead, we get a pile of unreadable hex.<br>
+<br>
+And please don't get psyopsed by HW providers saying it can’t be done or that it's too complicated.<br>
+<br>
+<a href="https://nitter.freedit.eu/sorellalabs" title="Sorella Labs">@sorellalabs</a>, we already wrote code that decodes and classifies transactions at the trace level—showing net token balance changes and displaying the entire transaction tree in a humanly readable format. This was done by a team of three.<br>
+<br>
+This code could and should be used on hardware wallets so people can actually see what they’re signing. <br>
+<br>
+<a href="https://nitter.freedit.eu/ledger" title="Ledger">@ledger</a> <a href="https://nitter.freedit.eu/trezor" title="Trezor">@trezor</a>, what are you waiting for? Just fork it.</p>]]></description>
+        <pubDate>Fri, 21 Feb 2025 20:47:16 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xvanbeethoven/status/1893039810975072526#m</guid>
+        <link>https://nitter.freedit.eu/0xvanbeethoven/status/1893039810975072526#m</link>
+      </item>
+      <item>
+        <title>RT by @KAndrewHuang: One underrated aspect of EIP-7702 is how it may make smart accounts practical on Ethereum mainnet for the first time.
+
+Right now, it costs ~150k gas to deploy a smart account, which (assuming a gas price of 3 gwei) is about ~$1.20 on mainnet with today&apos;s ETH price.  For DApps who want to sponsor thousands of smart accounts, this is super expensive, which is why practically all of AA adoption has happened on L2s to date.
+
+With ZeroDev Kernel 3.3 which supports 7702, the cost of deploying a &quot;smart EOA&quot; is now ~25k for fresh accounts (accounts with no ETH balance/txns) and ~15k for existing EOAs -- a 6-10x improvement.  This means you can deploy a 7702 account (aka &quot;smart EOA&quot;) for only 10 to 20 cents.
+
+This scale of improvement is possible because Kernel implemented an important optimization where a smart EOA doesn&apos;t need to &quot;initialize&quot; itself when it uses 7702; the account logic automatically grants the EOA sudo access to the smart account.  Without this optimization, deploying a smart EOA would&apos;ve cost another ~70k gas.
+
+Furthermore, a &quot;smart EOA&quot; can save gas by sending regular txns when it doesn&apos;t need to send UserOps.  For example, if a smart EOA wants to send a batched txn which doesn&apos;t need to be sponsored, it can just send a regular EOA txn to itself to trigger a batched execution -- no need to send a UserOp which is more expensive.
+
+TLDR: With Kernel&apos;s latest optimizations, deploying a 7702 account is now 6x to 10x cheaper than deploying a regular smart account.  This means large-scale smart account deployments may become practical on Ethereum mainnet for the first time.</title>
+        <dc:creator>@decentrek</dc:creator>
+        <description><![CDATA[<p>One underrated aspect of EIP-7702 is how it may make smart accounts practical on Ethereum mainnet for the first time.<br>
+<br>
+Right now, it costs ~150k gas to deploy a smart account, which (assuming a gas price of 3 gwei) is about ~$1.20 on mainnet with today's ETH price.  For DApps who want to sponsor thousands of smart accounts, this is super expensive, which is why practically all of AA adoption has happened on L2s to date.<br>
+<br>
+With ZeroDev Kernel 3.3 which supports 7702, the cost of deploying a "smart EOA" is now ~25k for fresh accounts (accounts with no ETH balance/txns) and ~15k for existing EOAs -- a 6-10x improvement.  This means you can deploy a 7702 account (aka "smart EOA") for only 10 to 20 cents.<br>
+<br>
+This scale of improvement is possible because Kernel implemented an important optimization where a smart EOA doesn't need to "initialize" itself when it uses 7702; the account logic automatically grants the EOA sudo access to the smart account.  Without this optimization, deploying a smart EOA would've cost another ~70k gas.<br>
+<br>
+Furthermore, a "smart EOA" can save gas by sending regular txns when it doesn't need to send UserOps.  For example, if a smart EOA wants to send a batched txn which doesn't need to be sponsored, it can just send a regular EOA txn to itself to trigger a batched execution -- no need to send a UserOp which is more expensive.<br>
+<br>
+TLDR: With Kernel's latest optimizations, deploying a 7702 account is now 6x to 10x cheaper than deploying a regular smart account.  This means large-scale smart account deployments may become practical on Ethereum mainnet for the first time.</p>]]></description>
+        <pubDate>Fri, 21 Feb 2025 16:24:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/decentrek/status/1892973763660054825#m</guid>
+        <link>https://nitter.freedit.eu/decentrek/status/1892973763660054825#m</link>
+      </item>
+      <item>
+        <title>RT by @KAndrewHuang: ZK fraud proofs from @SuccinctLabs are here today, and you can implement them seamlessly with Conduit.
+
+In fact, one Conduit rollup is already working with Succinct as a pilot customer: @Donatuz_  🎉
+
+More info on why we’re excited about ZK fraud proofs below ⬇️</title>
+        <dc:creator>@conduitxyz</dc:creator>
+        <description><![CDATA[<p>ZK fraud proofs from <a href="https://nitter.freedit.eu/SuccinctLabs" title="Succinct">@SuccinctLabs</a> are here today, and you can implement them seamlessly with Conduit.<br>
+<br>
+In fact, one Conduit rollup is already working with Succinct as a pilot customer: <a href="https://nitter.freedit.eu/Donatuz_" title="Donatuz">@Donatuz_</a>  🎉<br>
+<br>
+More info on why we’re excited about ZK fraud proofs below ⬇️</p>
+<p><a href="https://nitter.freedit.eu/SuccinctLabs/status/1892638797487092126#m">nitter.freedit.eu/SuccinctLabs/status/1892638797487092126#m</a></p>
+<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1892639557692047360%2Fpu%2Fimg%2F-67UgPPfRRFQLfNu.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 20 Feb 2025 18:19:27 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/conduitxyz/status/1892640224187986195#m</guid>
+        <link>https://nitter.freedit.eu/conduitxyz/status/1892640224187986195#m</link>
+      </item>
+      <item>
+        <title>Higher level abstractions have always led the way to developer adoption and app superpowers. Excited for this announcement and the work @griffintier is doing at Halliday</title>
+        <dc:creator>@KAndrewHuang</dc:creator>
+        <description><![CDATA[<p>Higher level abstractions have always led the way to developer adoption and app superpowers. Excited for this announcement and the work <a href="https://nitter.freedit.eu/griffintier" title="Griffin Dunaif">@griffintier</a> is doing at Halliday</p>
+<p><a href="https://nitter.freedit.eu/HallidayHQ/status/1892620269098856586#m">nitter.freedit.eu/HallidayHQ/status/1892620269098856586#m</a></p>]]></description>
+        <pubDate>Thu, 20 Feb 2025 19:02:06 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/KAndrewHuang/status/1892650954681389306#m</guid>
+        <link>https://nitter.freedit.eu/KAndrewHuang/status/1892650954681389306#m</link>
+      </item>
+      <item>
         <title>RT by @KAndrewHuang: ETHDenver is coming up. Will you be there? Of course you will. So come say hi to the Conduit team!
 
 Here’s where you can find us throughout the week.</title>
@@ -246,61 +333,6 @@ h/t <a href="https://nitter.freedit.eu/0xCygaar" title="cygaar">@0xCygaar</a></p
         <pubDate>Mon, 17 Feb 2025 16:15:06 GMT</pubDate>
         <guid>https://nitter.freedit.eu/KAndrewHuang/status/1891521765760705000#m</guid>
         <link>https://nitter.freedit.eu/KAndrewHuang/status/1891521765760705000#m</link>
-      </item>
-      <item>
-        <title>RT by @KAndrewHuang: Reasons to have higher L1 gas limits even in an L2-heavy Ethereum
-
-https://vitalik.eth.limo/general/2025/02/14/l1scaling.html</title>
-        <dc:creator>@VitalikButerin</dc:creator>
-        <description><![CDATA[<p>Reasons to have higher L1 gas limits even in an L2-heavy Ethereum<br>
-<br>
-<a href="https://vitalik.eth.limo/general/2025/02/14/l1scaling.html">vitalik.eth.limo/general/202…</a></p>]]></description>
-        <pubDate>Fri, 14 Feb 2025 12:43:34 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/VitalikButerin/status/1890381369806561789#m</guid>
-        <link>https://nitter.freedit.eu/VitalikButerin/status/1890381369806561789#m</link>
-      </item>
-      <item>
-        <title>RT by @KAndrewHuang: Conduit’s 2025 State of Rollups Report is out today. Inside, you’ll find:
-
-Data on which infra components are most widely used and how that differs by use case
-Insights from projects like @ProofOfPlay, @derivexyz, and @zora
-Predictions for the future
-And more! 
-
-Preview below 👇</title>
-        <dc:creator>@conduitxyz</dc:creator>
-        <description><![CDATA[<p>Conduit’s 2025 State of Rollups Report is out today. Inside, you’ll find:<br>
-<br>
-Data on which infra components are most widely used and how that differs by use case<br>
-Insights from projects like <a href="https://nitter.freedit.eu/ProofOfPlay" title="Proof of Play">@ProofOfPlay</a>, <a href="https://nitter.freedit.eu/derivexyz" title="Derive">@derivexyz</a>, and <a href="https://nitter.freedit.eu/zora" title="zora">@zora</a><br>
-Predictions for the future<br>
-And more! <br>
-<br>
-Preview below 👇</p>
-<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1890113394650271744%2Fpu%2Fimg%2F_85qQyNiBhRJDOxK.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 13 Feb 2025 19:02:40 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/conduitxyz/status/1890114385626165304#m</guid>
-        <link>https://nitter.freedit.eu/conduitxyz/status/1890114385626165304#m</link>
-      </item>
-      <item>
-        <title>Waymo is great but market supply/demand dynamics are such that I am now a dedicated Uber user</title>
-        <dc:creator>@KAndrewHuang</dc:creator>
-        <description><![CDATA[<p>Waymo is great but market supply/demand dynamics are such that I am now a dedicated Uber user</p>]]></description>
-        <pubDate>Thu, 13 Feb 2025 18:20:07 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/KAndrewHuang/status/1890103675823300632#m</guid>
-        <link>https://nitter.freedit.eu/KAndrewHuang/status/1890103675823300632#m</link>
-      </item>
-      <item>
-        <title>It&apos;s tempting to see @Base&apos;s success and to try and copy their strategy (modulo superficial branding)
-
-The builder realizes that they will need to build a unique application to differentiate, and control the full-stack</title>
-        <dc:creator>@KAndrewHuang</dc:creator>
-        <description><![CDATA[<p>It's tempting to see <a href="https://nitter.freedit.eu/base" title="Base">@Base</a>'s success and to try and copy their strategy (modulo superficial branding)<br>
-<br>
-The builder realizes that they will need to build a unique application to differentiate, and control the full-stack</p>]]></description>
-        <pubDate>Wed, 12 Feb 2025 00:34:07 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/KAndrewHuang/status/1889473020223430881#m</guid>
-        <link>https://nitter.freedit.eu/KAndrewHuang/status/1889473020223430881#m</link>
       </item>
 
   </channel>

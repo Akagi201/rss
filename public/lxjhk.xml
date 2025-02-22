@@ -16,6 +16,68 @@
       <height>128</height>
     </image>
       <item>
+        <title>Re Bybit x SAFE, there are so many attack vectors: browser plugins (AI, bot, wallets, etc), dependency poisoning, etc.  
+
+The end signer has to attest to the full effect of the transaction before singing.</title>
+        <dc:creator>@lxjhk</dc:creator>
+        <description><![CDATA[<p>Re Bybit x SAFE, there are so many attack vectors: browser plugins (AI, bot, wallets, etc), dependency poisoning, etc.  <br>
+<br>
+The end signer has to attest to the full effect of the transaction before singing.</p>]]></description>
+        <pubDate>Fri, 21 Feb 2025 16:58:06 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/lxjhk/status/1892982136988123479#m</guid>
+        <link>https://nitter.freedit.eu/lxjhk/status/1892982136988123479#m</link>
+      </item>
+      <item>
+        <title>RT by @lxjhk: what happened with @Bybit_Official  just now?
+
+1. hacker somehow constructed a tx to upgrade a bybit  wallet code to a malicious version. 
+https://etherscan.io/tx/0x46deef0f52e3a983b67abf4714448a41dd7ffd6d32d32da69d62081c68ad7882
+
+2. hacker did a 90 USDT test tx to address under control
+https://etherscan.io/tx/0x25800d105db4f21908d646a7a3db849343737c5fba0bc5701f782bf0e75217c9
+
+3. 1 minute later, the hacker transferred 400k ETH to the same hacker address
+https://etherscan.io/tx/0xb61413c495fdad6114a7aa863a00b2e3c28945979a10885b12b30316ea9f072c
+
+4. as well as 800mETH, 90k stETH, and 15k cmETH
+https://etherscan.io/tx/0xbcf316f5835362b7f1586215173cc8b294f5499c60c029a3de6318bf25ca7b20
+
+https://etherscan.io/tx/0xa284a1bc4c7e0379c924c73fcea1067068635507254b03ebbbd3f4e222c1fae0
+
+5. the hacker quickly distributes assets into different addresses, trying to escape
+
+https://etherscan.io/tx/0x6ce356b6205db32292a262692b8cb463bd5ade2d2c129d67a1ce38855ae9bd80
+
+#Hacked #CryptoMarket #ETH</title>
+        <dc:creator>@ChazChazC</dc:creator>
+        <description><![CDATA[<p>what happened with <a href="https://nitter.freedit.eu/Bybit_Official" title="Bybit">@Bybit_Official</a>  just now?<br>
+<br>
+1. hacker somehow constructed a tx to upgrade a bybit  wallet code to a malicious version. <br>
+<a href="https://etherscan.io/tx/0x46deef0f52e3a983b67abf4714448a41dd7ffd6d32d32da69d62081c68ad7882">etherscan.io/tx/0x46deef0f52…</a><br>
+<br>
+2. hacker did a 90 USDT test tx to address under control<br>
+<a href="https://etherscan.io/tx/0x25800d105db4f21908d646a7a3db849343737c5fba0bc5701f782bf0e75217c9">etherscan.io/tx/0x25800d105d…</a><br>
+<br>
+3. 1 minute later, the hacker transferred 400k ETH to the same hacker address<br>
+<a href="https://etherscan.io/tx/0xb61413c495fdad6114a7aa863a00b2e3c28945979a10885b12b30316ea9f072c">etherscan.io/tx/0xb61413c495…</a><br>
+<br>
+4. as well as 800mETH, 90k stETH, and 15k cmETH<br>
+<a href="https://etherscan.io/tx/0xbcf316f5835362b7f1586215173cc8b294f5499c60c029a3de6318bf25ca7b20">etherscan.io/tx/0xbcf316f583…</a><br>
+<br>
+<a href="https://etherscan.io/tx/0xa284a1bc4c7e0379c924c73fcea1067068635507254b03ebbbd3f4e222c1fae0">etherscan.io/tx/0xa284a1bc4c…</a><br>
+<br>
+5. the hacker quickly distributes assets into different addresses, trying to escape<br>
+<br>
+<a href="https://etherscan.io/tx/0x6ce356b6205db32292a262692b8cb463bd5ade2d2c129d67a1ce38855ae9bd80">etherscan.io/tx/0x6ce356b620…</a><br>
+<br>
+<a href="https://nitter.freedit.eu/search?q=%23Hacked">#Hacked</a> <a href="https://nitter.freedit.eu/search?q=%23CryptoMarket">#CryptoMarket</a> <a href="https://nitter.freedit.eu/search?q=%23ETH">#ETH</a></p>
+<p><a href="https://nitter.freedit.eu/benbybit/status/1892963530422505586#m">nitter.freedit.eu/benbybit/status/1892963530422505586#m</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1891384798935228417%2FtfzVIEvF%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 21 Feb 2025 16:10:08 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ChazChazC/status/1892970066125443360#m</guid>
+        <link>https://nitter.freedit.eu/ChazChazC/status/1892970066125443360#m</link>
+      </item>
+      <item>
         <title>RT by @lxjhk: What new staking innovations are emerging on @Solana and why are they important?
 
 Let&apos;s explore with:
@@ -382,52 +444,6 @@ Join now: <a href="https://www.bitget.com/events/launchpool/1273853060267266048?
         <pubDate>Fri, 14 Feb 2025 08:40:00 GMT</pubDate>
         <guid>https://nitter.freedit.eu/bitgetglobal/status/1890320072423436643#m</guid>
         <link>https://nitter.freedit.eu/bitgetglobal/status/1890320072423436643#m</link>
-      </item>
-      <item>
-        <title>RT by @lxjhk: Here is my comic content art show casing the features of the #InfiniSVM by @solayer_labs 
-
-@superteam #Solayer 
-
-Page1</title>
-        <dc:creator>@Ramsai_18</dc:creator>
-        <description><![CDATA[<p>Here is my comic content art show casing the features of the <a href="https://nitter.freedit.eu/search?q=%23InfiniSVM">#InfiniSVM</a> by <a href="https://nitter.freedit.eu/solayer_labs" title="Solayer">@solayer_labs</a> <br>
-<br>
-<a href="https://nitter.freedit.eu/superteam" title="Superteam">@superteam</a> <a href="https://nitter.freedit.eu/search?q=%23Solayer">#Solayer</a> <br>
-<br>
-Page1</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjr-XjOakAAQzkn.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 13 Feb 2025 18:16:10 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/Ramsai_18/status/1890102683018924497#m</guid>
-        <link>https://nitter.freedit.eu/Ramsai_18/status/1890102683018924497#m</link>
-      </item>
-      <item>
-        <title>RT by @lxjhk: Solana is fast, but it’s hitting a limit.
-
-Validators are pushing 0.8 Gbps, nearing consumer internet capacity,
-
-leading to dropped transactions, slippage, and congestion.
-
-The truth is, software alone can’t fix this.
-
-Now, this is where @solayer_labs&apos; InfiniSVM comes in.
-
-A 🧵.</title>
-        <dc:creator>@jayejone</dc:creator>
-        <description><![CDATA[<p>Solana is fast, but it’s hitting a limit.<br>
-<br>
-Validators are pushing 0.8 Gbps, nearing consumer internet capacity,<br>
-<br>
-leading to dropped transactions, slippage, and congestion.<br>
-<br>
-The truth is, software alone can’t fix this.<br>
-<br>
-Now, this is where <a href="https://nitter.freedit.eu/solayer_labs" title="Solayer">@solayer_labs</a>' InfiniSVM comes in.<br>
-<br>
-A 🧵.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjv7jGQXEAAtp8y.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 14 Feb 2025 14:01:28 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/jayejone/status/1890400971450204311#m</guid>
-        <link>https://nitter.freedit.eu/jayejone/status/1890400971450204311#m</link>
       </item>
 
   </channel>

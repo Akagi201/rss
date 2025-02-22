@@ -16,29 +16,235 @@
       <height>128</height>
     </image>
       <item>
+        <title>Reth is almost at 500 contributors. Anyone wanna make this chart for today&apos;s data?</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Reth is almost at 500 contributors. Anyone wanna make this chart for today's data?</p>
+<p><a href="https://nitter.freedit.eu/high_byte/status/1755779640252039534#m">nitter.freedit.eu/high_byte/status/1755779640252039534#m</a></p>]]></description>
+        <pubDate>Fri, 21 Feb 2025 20:29:25 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1893035319102185857#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1893035319102185857#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Introducing Wallet
+
+- No complicated set up
+- 100% reliable mobile transactions
+- No app switching required</title>
+        <dc:creator>@dwr</dc:creator>
+        <description><![CDATA[<p>Introducing Wallet<br>
+<br>
+- No complicated set up<br>
+- 100% reliable mobile transactions<br>
+- No app switching required</p>
+<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1893021518298226689%2Fpu%2Fimg%2F3zFrDWYKgKv9KWKq.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 21 Feb 2025 19:37:27 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/dwr/status/1893022241270448553#m</guid>
+        <link>https://nitter.freedit.eu/dwr/status/1893022241270448553#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: ･ *ﾟ
+　 ･ ﾟ*
+     ･｡     
+   *･｡
+      *.｡ 
+           ｡･
+              °*.
+Reth, Foundry, Alloy
+                 ｡｡ ･
+             ｡ ･ﾟ
+       ｡°*.
+   ｡*･｡･ *ﾟ
+　 ･ ﾟ*</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>･ *ﾟ<br>
+　 ･ ﾟ*<br>
+     ･｡     <br>
+   *･｡<br>
+      *.｡ <br>
+           ｡･<br>
+              °*.<br>
+Reth, Foundry, Alloy<br>
+                 ｡｡ ･<br>
+             ｡ ･ﾟ<br>
+       ｡°*.<br>
+   ｡*･｡･ *ﾟ<br>
+　 ･ ﾟ*</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGNOLCQGWgAIiaCv.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 10 May 2024 13:38:32 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1788926598273438152#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1788926598273438152#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: I built a scalable caching layer using @Cloudflare #DurableObjects to reduce database load and improve latency for high-traffic apps 🚀
+
+- Offload read/write ops to DO
+- Sync data back to the main DB periodically
+- Low-latency access for users
+- Scales effortlessly with DO</title>
+        <dc:creator>@acoyfellow</dc:creator>
+        <description><![CDATA[<p>I built a scalable caching layer using <a href="https://nitter.freedit.eu/Cloudflare" title="Cloudflare">@Cloudflare</a> <a href="https://nitter.freedit.eu/search?q=%23DurableObjects">#DurableObjects</a> to reduce database load and improve latency for high-traffic apps 🚀<br>
+<br>
+- Offload read/write ops to DO<br>
+- Sync data back to the main DB periodically<br>
+- Low-latency access for users<br>
+- Scales effortlessly with DO</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkUbyphXYAA1YOH.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 21 Feb 2025 14:49:36 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/acoyfellow/status/1892949800393273674#m</guid>
+        <link>https://nitter.freedit.eu/acoyfellow/status/1892949800393273674#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Reth is incredibly modular, performant and well tested. Huge shout out to the Reth/OP teams for all of the work that continues to go into this. Building PBH with Reth was an easy decision to make.</title>
+        <dc:creator>@0xKitsune</dc:creator>
+        <description><![CDATA[<p>Reth is incredibly modular, performant and well tested. Huge shout out to the Reth/OP teams for all of the work that continues to go into this. Building PBH with Reth was an easy decision to make.</p>
+<p><a href="https://nitter.freedit.eu/gakonst/status/1892636567010701567#m">nitter.freedit.eu/gakonst/status/1892636567010701567#m</a></p>]]></description>
+        <pubDate>Fri, 21 Feb 2025 17:45:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xKitsune/status/1892993990884028665#m</guid>
+        <link>https://nitter.freedit.eu/0xKitsune/status/1892993990884028665#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: DPDK in Databases: Why Isn’t It More Common? - Owen Hilyard, University of New Hampshire
+
+Great talk.
+https://www.youtube.com/watch?v=vBarClzQ93o&amp;ab_channel=DPDKProject</title>
+        <dc:creator>@muratdemirbas</dc:creator>
+        <description><![CDATA[<p>DPDK in Databases: Why Isn’t It More Common? - Owen Hilyard, University of New Hampshire<br>
+<br>
+Great talk.<br>
+<a href="https://piped.video/watch?v=vBarClzQ93o&ab_channel=DPDKProject">piped.video/watch?v=vBarClzQ…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1890706365619875840%2FNxoJi7d5%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 20 Feb 2025 18:43:22 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/muratdemirbas/status/1892646240547963147#m</guid>
+        <link>https://nitter.freedit.eu/muratdemirbas/status/1892646240547963147#m</link>
+      </item>
+      <item>
+        <title>if you&apos;re building devtools, make the dev npm install your package and provide value ASAP. expecting a dev to get an API key by registering to your web app and going through other hoops is not the right vibe.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>if you're building devtools, make the dev npm install your package and provide value ASAP. expecting a dev to get an API key by registering to your web app and going through other hoops is not the right vibe.</p>]]></description>
+        <pubDate>Fri, 21 Feb 2025 05:04:50 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1892802641216032905#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1892802641216032905#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Sharing @Paradigm Reth team&apos;s view on the next Ethereum hard fork after Pectra, Fusaka.
+
+Scale the L2s. Upgrade the EVM. Decouple shipping from scoping from researching. Focus on scale. Lock scope ASAP.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Sharing <a href="https://nitter.freedit.eu/paradigm" title="Paradigm">@Paradigm</a> Reth team's view on the next Ethereum hard fork after Pectra, Fusaka.<br>
+<br>
+Scale the L2s. Upgrade the EVM. Decouple shipping from scoping from researching. Focus on scale. Lock scope ASAP.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkPagTjakAAN1C9.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 20 Feb 2025 15:25:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1892596522015232283#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1892596522015232283#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: With OP Succinct Lite, we now have a ZK fraud proof offering—perfect for customers that are ZK-curious and want to upgrade their fault proofs to a better solution (on the way to full ZK).
+
+It is time we leave interactive fault proofs behind. 
+
+They are dinosaur technology, and with the rise of performant zkVMs like SP1, there is no reason to maintain complicated codebases of 1000s of LOC devoted to inferior tech.
+
+ZK Fault Proofs give us:
+• A simple 1-step dispute process, which can allow for reduced withdrawal windows
+• Greatly reduced bond requirements (from 1000s of ETH to 10s of ETH)
+• Greatly simplified onchain logic and codebases for rollup frameworks
+• A path to full ZK!
+
+Want to wet your beak? 😉 DMs are open!</title>
+        <dc:creator>@pumatheuma</dc:creator>
+        <description><![CDATA[<p>With OP Succinct Lite, we now have a ZK fraud proof offering—perfect for customers that are ZK-curious and want to upgrade their fault proofs to a better solution (on the way to full ZK).<br>
+<br>
+It is time we leave interactive fault proofs behind. <br>
+<br>
+They are dinosaur technology, and with the rise of performant zkVMs like SP1, there is no reason to maintain complicated codebases of 1000s of LOC devoted to inferior tech.<br>
+<br>
+ZK Fault Proofs give us:<br>
+• A simple 1-step dispute process, which can allow for reduced withdrawal windows<br>
+• Greatly reduced bond requirements (from 1000s of ETH to 10s of ETH)<br>
+• Greatly simplified onchain logic and codebases for rollup frameworks<br>
+• A path to full ZK!<br>
+<br>
+Want to wet your beak? 😉 DMs are open!</p>
+<p><a href="https://nitter.freedit.eu/SuccinctLabs/status/1892638797487092126#m">nitter.freedit.eu/SuccinctLabs/status/1892638797487092126#m</a></p>]]></description>
+        <pubDate>Thu, 20 Feb 2025 19:02:16 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/pumatheuma/status/1892651000244412562#m</guid>
+        <link>https://nitter.freedit.eu/pumatheuma/status/1892651000244412562#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: Check it out yourself: https://github.com/worldcoin/world-chain/tree/main/world-chain-builder</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Check it out yourself: <a href="https://github.com/worldcoin/world-chain/tree/main/world-chain-builder">github.com/worldcoin/world-c…</a></p>]]></description>
+        <pubDate>Thu, 20 Feb 2025 18:06:19 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1892636919093182868#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1892636919093182868#m</link>
+      </item>
+      <item>
+        <title>Every L2 will use Reth.
+
+Reth powers the World Chain Builder which internally prioritizes transactions in the mempool that come with a proof of humanity. 
+
+Took few thousand LoC, and is only becoming easier. No forks, build for small agile teams.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Every L2 will use Reth.<br>
+<br>
+Reth powers the World Chain Builder which internally prioritizes transactions in the mempool that come with a proof of humanity. <br>
+<br>
+Took few thousand LoC, and is only becoming easier. No forks, build for small agile teams.</p>
+<p><a href="https://nitter.freedit.eu/worldcoin/status/1892582732233859084#m">nitter.freedit.eu/worldcoin/status/1892582732233859084#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkP-NryWEAAGnsq.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 20 Feb 2025 18:04:55 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1892636567010701567#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1892636567010701567#m</link>
+      </item>
+      <item>
+        <title>Account Abstraction AMA?
+
+My beef with 4337: 
+The alt mempool, paymaster/bundler separation, super general userop validation impose meaningful overheads or limitations (eg paymaster storage slot stuff) to users and devs.
+
+4337 isn&apos;t that widely adopted yet so IMO room for competing approach.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Account Abstraction AMA?<br>
+<br>
+My beef with 4337: <br>
+The alt mempool, paymaster/bundler separation, super general userop validation impose meaningful overheads or limitations (eg paymaster storage slot stuff) to users and devs.<br>
+<br>
+4337 isn't that widely adopted yet so IMO room for competing approach.</p>
+<p><a href="https://nitter.freedit.eu/ThogardPvP/status/1892603056061030883#m">nitter.freedit.eu/ThogardPvP/status/1892603056061030883#m</a></p>]]></description>
+        <pubDate>Thu, 20 Feb 2025 17:00:50 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1892620439199088763#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1892620439199088763#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: I didn&apos;t see this hyped enough but this was another cool demo from Ithaca
+
+SaaS-like payments always felt fundamentally tricky in Ethereum. Delegating it using eth_grantPermissions and then letting it execute in a Cloudflare worker on a schedule is really neat</title>
+        <dc:creator>@liamzebedee</dc:creator>
+        <description><![CDATA[<p>I didn't see this hyped enough but this was another cool demo from Ithaca<br>
+<br>
+SaaS-like payments always felt fundamentally tricky in Ethereum. Delegating it using eth_grantPermissions and then letting it execute in a Cloudflare worker on a schedule is really neat</p>
+<p><a href="https://nitter.freedit.eu/gakonst/status/1892287101129150855#m">nitter.freedit.eu/gakonst/status/1892287101129150855#m</a></p>]]></description>
+        <pubDate>Thu, 20 Feb 2025 16:34:04 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/liamzebedee/status/1892613703922811069#m</guid>
+        <link>https://nitter.freedit.eu/liamzebedee/status/1892613703922811069#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: paradigm.xyz/2025/02/what-co…</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p><a href="https://www.paradigm.xyz/2025/02/what-comes-after-ethereums-pectra-hard-fork">paradigm.xyz/2025/02/what-co…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1892335330604568576%2F_ts84Tw2%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 20 Feb 2025 15:25:51 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1892596535101431910#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1892596535101431910#m</link>
+      </item>
+      <item>
         <title>the wallet selector pop up is the original sin of bad UX. which apps are opinionated and dont show it?</title>
         <dc:creator>@gakonst</dc:creator>
         <description><![CDATA[<p>the wallet selector pop up is the original sin of bad UX. which apps are opinionated and dont show it?</p>]]></description>
         <pubDate>Thu, 20 Feb 2025 01:46:45 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1892390402725949680#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1892390402725949680#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: EXP-0003: Application Subscriptions!
-
-In this experiment we show Porto, @ithacaxyz&apos;s Ethereum Account SDK, powering subscriptions &amp; delegating access to your account securely.
-
-Huge implications for app-builders doing payments/subscriptions, AI agents, Telegram bots, DeFi &amp; more.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>EXP-0003: Application Subscriptions!<br>
-<br>
-In this experiment we show Porto, <a href="https://nitter.freedit.eu/ithacaxyz" title="Ithaca">@ithacaxyz</a>'s Ethereum Account SDK, powering subscriptions &amp; delegating access to your account securely.<br>
-<br>
-Huge implications for app-builders doing payments/subscriptions, AI agents, Telegram bots, DeFi &amp; more.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkLBFo2bUAIy8Ij.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 19 Feb 2025 18:56:16 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1892287101129150855#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1892287101129150855#m</link>
       </item>
       <item>
         <title>R to @gakonst: EXP-0003: Application Subscriptions!
@@ -78,200 +284,6 @@ https://github.com/ithacaxyz/porto</title>
         <pubDate>Wed, 19 Feb 2025 18:56:35 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1892287182246990144#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1892287182246990144#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: We have open-sourced the above demo&apos;s code for the community to build cool new things!
-
-Fork the repo, and go crazy. AI Agents, Telegram Bots, DeFi actions &amp; more.
-
-https://github.com/ithacaxyz/exp-0003/</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>We have open-sourced the above demo's code for the community to build cool new things!<br>
-<br>
-Fork the repo, and go crazy. AI Agents, Telegram Bots, DeFi actions &amp; more.<br>
-<br>
-<a href="https://github.com/ithacaxyz/exp-0003/">github.com/ithacaxyz/exp-000…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1892287166887477248%2F1TEDxx6g%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 19 Feb 2025 18:56:31 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1892287162948997590#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1892287162948997590#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: You can interact with a deployed instance of our demo at: https://exp-0003-client.evm.workers.dev/.
-
-This is on Cloudflare Workers. We&apos;re excited to start rolling out more app ideas powered by the CF platform.
-
-Seems like a great fit for our needs of low-latency apps.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>You can interact with a deployed instance of our demo at: <a href="https://exp-0003-client.evm.workers.dev/">exp-0003-client.evm.workers.…</a>.<br>
-<br>
-This is on Cloudflare Workers. We're excited to start rolling out more app ideas powered by the CF platform.<br>
-<br>
-Seems like a great fit for our needs of low-latency apps.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkLBIjzbUAEE_jp.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 19 Feb 2025 18:56:28 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1892287150290587885#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1892287150290587885#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: Porto powers all of this work, our next-generation Ethereum Account SDK, built from first principles to address the shortcomings of the Account Abstraction landscape.
-
-See our initial announcement post, and stay tuned for our upcoming v1 release.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Porto powers all of this work, our next-generation Ethereum Account SDK, built from first principles to address the shortcomings of the Account Abstraction landscape.<br>
-<br>
-See our initial announcement post, and stay tuned for our upcoming v1 release.</p>
-<p><a href="https://nitter.freedit.eu/gakonst/status/1867248189780512777#m">nitter.freedit.eu/gakonst/status/1867248189780512777#m</a></p>]]></description>
-        <pubDate>Wed, 19 Feb 2025 18:56:23 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1892287131487502602#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1892287131487502602#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: Before we jump into any details, it is really important to reiterate how important this is for app builders.
-
-Superpowers with 1-line APIs, all in one.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Before we jump into any details, it is really important to reiterate how important this is for app builders.<br>
-<br>
-Superpowers with 1-line APIs, all in one.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkLBGvbbUAMYtLE.png" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 19 Feb 2025 18:56:20 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1892287119307264370#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1892287119307264370#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: R55 contributors have been absolutely cooking:
-
-- Seamless EVM &lt;-&gt; RISCV calls (ABI encoded)
-- staticcall and contract mutability enforced at compile time by Rust’s &amp;self and &amp;mut self
-- Constructor from new
-- Beautiful user errors and events
-- More Ethereum specific syscalls</title>
-        <dc:creator>@leonardoalt</dc:creator>
-        <description><![CDATA[<p>R55 contributors have been absolutely cooking:<br>
-<br>
-- Seamless EVM &lt;-&gt; RISCV calls (ABI encoded)<br>
-- staticcall and contract mutability enforced at compile time by Rust’s &amp;self and &amp;mut self<br>
-- Constructor from new<br>
-- Beautiful user errors and events<br>
-- More Ethereum specific syscalls</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkK0GBuXQAAGKUe.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 19 Feb 2025 18:02:36 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/leonardoalt/status/1892273596694729162#m</guid>
-        <link>https://nitter.freedit.eu/leonardoalt/status/1892273596694729162#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: BuilderNet v1.2 is out!
-
-This release makes it *much* easier for operators to launch new TEEs, and improves overall security and performance
-
-Highlights:
-* Fully automatic bootstrapping
-* 30% faster root hash
-* 100% reproducible builds</title>
-        <dc:creator>@SheaKetsdever</dc:creator>
-        <description><![CDATA[<p>BuilderNet v1.2 is out!<br>
-<br>
-This release makes it *much* easier for operators to launch new TEEs, and improves overall security and performance<br>
-<br>
-Highlights:<br>
-* Fully automatic bootstrapping<br>
-* 30% faster root hash<br>
-* 100% reproducible builds</p>]]></description>
-        <pubDate>Wed, 19 Feb 2025 15:08:26 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/SheaKetsdever/status/1892229765362237516#m</guid>
-        <link>https://nitter.freedit.eu/SheaKetsdever/status/1892229765362237516#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Can confirm R55 already supports inter-VM EVM &lt;-&gt; RISCV calls, single-handedly implemented by @0xrusowsky 
-
-More news soonTM</title>
-        <dc:creator>@leonardoalt</dc:creator>
-        <description><![CDATA[<p>Can confirm R55 already supports inter-VM EVM &lt;-&gt; RISCV calls, single-handedly implemented by <a href="https://nitter.freedit.eu/0xrusowsky" title="rusowsky">@0xrusowsky</a> <br>
-<br>
-More news soonTM</p>
-<p><a href="https://nitter.freedit.eu/0xrusowsky/status/1891862148243939422#m">nitter.freedit.eu/0xrusowsky/status/1891862148243939422#m</a></p>]]></description>
-        <pubDate>Tue, 18 Feb 2025 21:49:22 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/leonardoalt/status/1891968276378390647#m</guid>
-        <link>https://nitter.freedit.eu/leonardoalt/status/1891968276378390647#m</link>
-      </item>
-      <item>
-        <title>if you&apos;re running an MPC key managent solution and don&apos;t have an EIP7702 strategy dm me can help</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>if you're running an MPC key managent solution and don't have an EIP7702 strategy dm me can help</p>]]></description>
-        <pubDate>Mon, 17 Feb 2025 18:14:08 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1891551722734047335#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1891551722734047335#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Bingo! https://github.com/janwilmake/cloudflare-virtual-fs-do</title>
-        <dc:creator>@janwilmake</dc:creator>
-        <description><![CDATA[<p>Bingo! <a href="https://github.com/janwilmake/cloudflare-virtual-fs-do">github.com/janwilmake/cloudf…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1891176996140457984%2FiXrEYcg3%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 16 Feb 2025 17:25:17 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/janwilmake/status/1891177039106859266#m</guid>
-        <link>https://nitter.freedit.eu/janwilmake/status/1891177039106859266#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: If you have a filesystem you can build any datastore on top. Be it Postgres/PGlite, SQLite, DuckDB, a KV store, anything!
-Thats the advantage of OPFS in the browser, it&apos;s the lowest level possible.
-I think we need that in these edge platforms, and OPFS equivalent.</title>
-        <dc:creator>@samwillis</dc:creator>
-        <description><![CDATA[<p>If you have a filesystem you can build any datastore on top. Be it Postgres/PGlite, SQLite, DuckDB, a KV store, anything!<br>
-Thats the advantage of OPFS in the browser, it's the lowest level possible.<br>
-I think we need that in these edge platforms, and OPFS equivalent.</p>]]></description>
-        <pubDate>Sun, 16 Feb 2025 16:39:28 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/samwillis/status/1891165508960952676#m</guid>
-        <link>https://nitter.freedit.eu/samwillis/status/1891165508960952676#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: I want something like a Cloudflare Durable Object, but with a filesystem api rather than a KV store or SQLite.
-As close to the metal as possible. A tiny, individually addressable, nano-server.
-Don&apos;t even need redundancy of disk, just use multiple instances.</title>
-        <dc:creator>@samwillis</dc:creator>
-        <description><![CDATA[<p>I want something like a Cloudflare Durable Object, but with a filesystem api rather than a KV store or SQLite.<br>
-As close to the metal as possible. A tiny, individually addressable, nano-server.<br>
-Don't even need redundancy of disk, just use multiple instances.</p>]]></description>
-        <pubDate>Sun, 16 Feb 2025 15:46:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/samwillis/status/1891152072575173100#m</guid>
-        <link>https://nitter.freedit.eu/samwillis/status/1891152072575173100#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: ai agents are local first clients
----
-
-of course they are! they&apos;re long lived processes that connect to a system, sync data, and call actions that do side effects. I wrote a post about it, and recorded a video that walks through it.  
-
-link to post in reply!</title>
-        <dc:creator>@threepointone</dc:creator>
-        <description><![CDATA[<p>ai agents are local first clients<br>
----<br>
-<br>
-of course they are! they're long lived processes that connect to a system, sync data, and call actions that do side effects. I wrote a post about it, and recorded a video that walks through it.  <br>
-<br>
-link to post in reply!</p>
-<p><a href="https://nitter.freedit.eu/threepointone/status/1891122153229046264#m">nitter.freedit.eu/threepointone/status/1891122153229046264#m</a></p>
-<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1891197070423269376%2Fpu%2Fimg%2FTDXCz7tSUTrKClc3.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 16 Feb 2025 18:54:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/threepointone/status/1891199382428557459#m</guid>
-        <link>https://nitter.freedit.eu/threepointone/status/1891199382428557459#m</link>
-      </item>
-      <item>
-        <title>exp-0003 this week, feat policy engine</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>exp-0003 this week, feat policy engine</p>
-<p><a href="https://nitter.freedit.eu/shazow/status/1891184018160250924#m">nitter.freedit.eu/shazow/status/1891184018160250924#m</a></p>]]></description>
-        <pubDate>Sun, 16 Feb 2025 19:40:07 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1891210970950742165#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1891210970950742165#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: It&apos;s also just less work than you think these days...Your stack is: Reth w/ the OP Stack variant (@Optimism) &amp; RBuilder w/ Rollup Boost (Flashbots), OP Succinct (@SuccinctLabs). No excuses really.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>It's also just less work than you think these days...Your stack is: Reth w/ the OP Stack variant (<a href="https://nitter.freedit.eu/Optimism" title="optimism.eth">@Optimism</a>) &amp; RBuilder w/ Rollup Boost (Flashbots), OP Succinct (<a href="https://nitter.freedit.eu/SuccinctLabs" title="Succinct">@SuccinctLabs</a>). No excuses really.</p>]]></description>
-        <pubDate>Fri, 14 Feb 2025 20:33:27 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1890499619559207332#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1890499619559207332#m</link>
       </item>
 
   </channel>

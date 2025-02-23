@@ -16,17 +16,253 @@
       <height>128</height>
     </image>
       <item>
-        <title>Revenue or profit has nothing to do with the price of a token unless you implement a fee switch or a similar model.
+        <title>Does it make sense to use SVM on other blockchains?
 
-If that were the case, Celestia wouldn’t even be in the top 100 by market cap, and Raydium would be much higher than it is today.</title>
+Rollup ecosystems are expanding as the usage of various altVMs grows; meanwhile, with Solana and SVM already popular, I found myself wondering: 
+
+Can SVM extend beyond Solana itself? If so, what are the reasons for doing so?
+
+1. Are rollups and network extensions the same?
+
+Solana coined the term &quot;Network Extensions&quot; (NEs), and many people from the Ethereum community started arguing that NEs are the same as rollups.
+
+So, are Network Extensions the same as L2s? Well, there&apos;s no official definition, and people like making their own definitions, but here is what we have so far from @Austin_Federa, who used to be the Head of Strategy at Solana Foundation:
+
+&quot;Network Extensions extend the Solana network to new places, or bring new execution environments, specialized processing, etc to the Solana network.&quot;
+
+According to Austin&apos;s definitions, as well as not very objective discussions on CT, Network Extensions are primarily two things:
+
+• Networks on Solana that extend the blockspace processing transactions for various reasons (similar to rollups on Ethereum).
+
+• Networks that use the SVM for execution but settle on another blockchain (similar to rollups on Ethereum with an altVM).
+
+This topic will be split into two different parts.
+
+2. Why would someone want to use SVM elsewhere?
+
+The main reason to use the SVM as an execution layer on other chains is obviously speed, as it is one of the fastest VMs, with its pros like parallel execution, local fee markets, cheaper transactions, and more use cases unlocked with such efficiency, etc.
+
+So, in general, there are multiple reasons why you might want to use SVM as an execution engine on other chains:
+
+• The existing L2 chains on the market don&apos;t really solve your problem, and you need SVM.
+
+• You want to leverage Solana&apos;s ecosystem of dApps for easier implementation.
+
+• You want to leverage the liquidity and mindshare of another ecosystem.
+
+• You don&apos;t want to argue whether you&apos;re an Ethereum fan or a Solana fan and can just say &quot;I&apos;m both.&quot;
+
+But at the same time, there can be other VMs that deliver significant performance to slower chains like Bitcoin and Ethereum. For example, MoveVM, which was designed to be a better Rust for blockchain, and one example of a player in that field is @movementlabsxyz.
+
+However, we&apos;re in the blockchain industry, and everyone is somewhat a degen and understands the architecture at a certain level. In that case, the architecture design choices create communities of people that will use the chain.
+
+Arguably, even if MoveVM has similar performance to SVM and might be even better for some cases, it doesn&apos;t have the same mindshare as SVM does (at least for now), as long as the history of SVM and Solana is richer and it attracts more people and builders in the space.
+
+You can take an analogy here with Amazon and some new marketplace entering the market. Even if a new marketplace is cheaper, offers better service, and has better products, most people will still use Amazon because they are accustomed to it and have been using it for too long to switch to something else.
+
+Summing up, yes, we need SVM on other blockchains for two particular reasons: 
+
+• Leverage SVM&apos;s performance and its features, possibly bringing new use cases to the ecosystem
+
+• Leverage the community and mindshare of Solana and SVM in particular, offering something similar (SVM) but on a slightly new stuff (settlement layer).
+
+There are multiple players in the field, but I want to point out three of them: @EclipseFND, @yona_network, and @soon_svm.
+
+3. Thesis: Bitcoin doesn&apos;t need DeFi and high speed.
+
+Eclipse and Yona rollups are somewhat similar in terms of SVM usage; however, Eclipse settles on Ethereum, while Yona settles on Bitcoin. Both solutions aim to leverage the underlying liquidity of the chains, but their fundamental goals are slightly different, which I&apos;ll discuss a bit later.
+
+Here is what the Yona Network architecture looks like, whose thesis is to be Bitcoin&apos;s fastest L2, using SVM for building a DeFi ecosystem:
+
+Yona aims to bring high speed to Bitcoin as well as utilize idle Bitcoin assets in the DeFi ecosystem.
+
+However, I think it&apos;s important to address several questions: does Bitcoin really need such high performance, and do we really need BTC to be involved in DeFi activities?
+
+In my opinion, this all stems from history. If you&apos;ve ever dealt with an average Bitcoin maximalist, you know what I mean: the typical large BTC holder knows little about other chains and assets beyond the belief that they are &quot;worse&quot; than Bitcoin in some way.
+
+This presents a significant challenge for any project trying to build on Bitcoin. The blockchain itself lacks much activity, and few solo BTC holders are interested in using their BTC for anything other than as a store of value.
+
+In my view, Bitcoin and its L2s are highly unlikely to ever match the &apos;degen culture&apos; or the DeFi ecosystem of other platforms, suggesting that such speed might not be necessary for the DeFi ecosystem. 
+
+What&apos;s more likely is that Bitcoin&apos;s L2s could become more focused on payment channels where speed might be crucial. However, this is more a cultural, legal, and product challenge rather than purely technological.
+
+4. Thesis: Ethereum needs SVM, but it&apos;s complicated.
+
+Eclipse is very similar to Yona in terms of goals and SVM usage; however, Eclipse uses SVM as its execution layer and settles on Ethereum. As you probably understand, being a rollup on Ethereum brings another set of pros and cons.
+
+Ethereum differs from Bitcoin and definitely requires more speed due to its usage and vast DeFi ecosystem. If we set aside the fragmentation issues caused by each rollup&apos;s launch, there&apos;s another significant challenge: standing out.
+
+The main slogan of Eclipse is &quot;Solana on Ethereum,&quot; and the entire team focuses on bringing the benefits of SVM to Ethereum, such as fee markets and parallel execution. 
+
+However, there are other teams like @megaeth_labs working on solutions that could potentially be faster than Eclipse.
+
+But will all users migrate to a new, faster solution? Of course not! (See the Amazon analogy above). The goal for a general-purpose rollup should be to build a vibrant ecosystem and differentiate through product positioning rather than just technical characteristics.
+
+Bringing SVM doesn&apos;t solve all problems: you still need to focus extensively on ecosystem development, product, technology, business development, and all related aspects, which are the most challenging parts and don&apos;t necessarily relate to SVM. 
+
+In the future, deploying a fast rollup might become as straightforward as swapping tokens (not using MetaMask&apos;s UX, of course).
+
+Currently, 90% of Eclipse&apos;s chain activity comes from their tap game, where one transaction equals one tap, averaging 3000 TPS. However, claiming high on-chain activity when 90% of the transactions are merely screen taps is highly questionable. 
+
+This only reinforces the point that speed isn&apos;t the issue; the real challenge is finding an approach to ensure genuine activity within the ecosystem post-TGE and avoid the same pitfalls as Scroll or Mode Network.
+
+5. Thesis: SVM stack is cool, but stack is still a stack.
+
+SOON (Soon) is essentially a hybrid solution that offers their main chain (SVM on Ethereum) and an SDK which allows you to deploy L2s with SVM as the execution layer on any chains (in the future, currently, it&apos;s Ethereum only).
+
+The funny thing is that Eclipse used to be almost exactly what SOON is today: a rollup provider with the ability to deploy SVM chains on any blockchain. 
+
+But now, Eclipse is different, and it&apos;s interesting to consider the reasons. In my opinion, there could be two main ones:
+
+1. Poor business model
+
+2. Completely different views from people from Solana people who believe it&apos;s necessary to scale the base layer as much as possible before fragmenting mindshare, liquidity, etc.
+
+As I mentioned before, Soon is SVM on Ethereum, and the core value proposition is clear, but do we need SVM L2s on other chains? 
+
+The question can be simplified: &quot;do we need L2s on other chains?&quot;
+
+I explained the reasoning regarding Ethereum and Bitcoin earlier, but do we need L2s on Aptos, Sui, Avalanche, NEAR? I&apos;m not hating on these ecosystems, but why would you need a rollup on chains that are far from reaching their TPS limits? (besides MEV extraction)
+
+I think the SVM Stack would be really interesting for app-specific chains on Ethereum, Bitcoin, or even Cosmos, where you want to extract your own value without sharing much of it with the base layer. 
+
+If we are believers in an app-chain future, as with @unichain, perhaps Aave launching their own chain, and the Cosmos thesis in general, the SVM stack is a great idea. 
+
+Along with the InterSOON messaging infrastructure (which is actually @hyperlane), it could enhance interoperability and composability between these app-chains.
+
+I don&apos;t see a future where rollup SDKs are mostly used to create general-purpose L2s, so the infrastructure to unify SVM app-chains across different blockchains might be necessary. 
+
+However, there are two concerns: how challenging it will be to implement this, and aren&apos;t we just creating localized interoperability within another stack?
+
+----
+The second part of this article will be released soon and will focus on answering a single question: &quot;Does it make sense to have Network Extensions on Solana itself?&quot;</title>
         <dc:creator>@paramonoww</dc:creator>
-        <description><![CDATA[<p>Revenue or profit has nothing to do with the price of a token unless you implement a fee switch or a similar model.<br>
+        <description><![CDATA[<p>Does it make sense to use SVM on other blockchains?<br>
 <br>
-If that were the case, Celestia wouldn’t even be in the top 100 by market cap, and Raydium would be much higher than it is today.</p>
-<p><a href="https://nitter.freedit.eu/divine_economy/status/1892574426765389983#m">nitter.freedit.eu/divine_economy/status/1892574426765389983#m</a></p>]]></description>
-        <pubDate>Thu, 20 Feb 2025 14:24:45 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/paramonoww/status/1892581159260876987#m</guid>
-        <link>https://nitter.freedit.eu/paramonoww/status/1892581159260876987#m</link>
+Rollup ecosystems are expanding as the usage of various altVMs grows; meanwhile, with Solana and SVM already popular, I found myself wondering: <br>
+<br>
+Can SVM extend beyond Solana itself? If so, what are the reasons for doing so?<br>
+<br>
+1. Are rollups and network extensions the same?<br>
+<br>
+Solana coined the term "Network Extensions" (NEs), and many people from the Ethereum community started arguing that NEs are the same as rollups.<br>
+<br>
+So, are Network Extensions the same as L2s? Well, there's no official definition, and people like making their own definitions, but here is what we have so far from <a href="https://nitter.freedit.eu/Austin_Federa" title="Austin Federa | IBRL | 🇺🇸">@Austin_Federa</a>, who used to be the Head of Strategy at Solana Foundation:<br>
+<br>
+"Network Extensions extend the Solana network to new places, or bring new execution environments, specialized processing, etc to the Solana network."<br>
+<br>
+According to Austin's definitions, as well as not very objective discussions on CT, Network Extensions are primarily two things:<br>
+<br>
+• Networks on Solana that extend the blockspace processing transactions for various reasons (similar to rollups on Ethereum).<br>
+<br>
+• Networks that use the SVM for execution but settle on another blockchain (similar to rollups on Ethereum with an altVM).<br>
+<br>
+This topic will be split into two different parts.<br>
+<br>
+2. Why would someone want to use SVM elsewhere?<br>
+<br>
+The main reason to use the SVM as an execution layer on other chains is obviously speed, as it is one of the fastest VMs, with its pros like parallel execution, local fee markets, cheaper transactions, and more use cases unlocked with such efficiency, etc.<br>
+<br>
+So, in general, there are multiple reasons why you might want to use SVM as an execution engine on other chains:<br>
+<br>
+• The existing L2 chains on the market don't really solve your problem, and you need SVM.<br>
+<br>
+• You want to leverage Solana's ecosystem of dApps for easier implementation.<br>
+<br>
+• You want to leverage the liquidity and mindshare of another ecosystem.<br>
+<br>
+• You don't want to argue whether you're an Ethereum fan or a Solana fan and can just say "I'm both."<br>
+<br>
+But at the same time, there can be other VMs that deliver significant performance to slower chains like Bitcoin and Ethereum. For example, MoveVM, which was designed to be a better Rust for blockchain, and one example of a player in that field is <a href="https://nitter.freedit.eu/movementlabsxyz" title="Movement">@movementlabsxyz</a>.<br>
+<br>
+However, we're in the blockchain industry, and everyone is somewhat a degen and understands the architecture at a certain level. In that case, the architecture design choices create communities of people that will use the chain.<br>
+<br>
+Arguably, even if MoveVM has similar performance to SVM and might be even better for some cases, it doesn't have the same mindshare as SVM does (at least for now), as long as the history of SVM and Solana is richer and it attracts more people and builders in the space.<br>
+<br>
+You can take an analogy here with Amazon and some new marketplace entering the market. Even if a new marketplace is cheaper, offers better service, and has better products, most people will still use Amazon because they are accustomed to it and have been using it for too long to switch to something else.<br>
+<br>
+Summing up, yes, we need SVM on other blockchains for two particular reasons: <br>
+<br>
+• Leverage SVM's performance and its features, possibly bringing new use cases to the ecosystem<br>
+<br>
+• Leverage the community and mindshare of Solana and SVM in particular, offering something similar (SVM) but on a slightly new stuff (settlement layer).<br>
+<br>
+There are multiple players in the field, but I want to point out three of them: <a href="https://nitter.freedit.eu/EclipseFND" title="Eclipse (🐮,🌑)">@EclipseFND</a>, <a href="https://nitter.freedit.eu/yona_network" title="Yona Labs">@yona_network</a>, and <a href="https://nitter.freedit.eu/soon_svm" title="SOON - Solana Optimistic Network (Mainnet Arc)">@soon_svm</a>.<br>
+<br>
+3. Thesis: Bitcoin doesn't need DeFi and high speed.<br>
+<br>
+Eclipse and Yona rollups are somewhat similar in terms of SVM usage; however, Eclipse settles on Ethereum, while Yona settles on Bitcoin. Both solutions aim to leverage the underlying liquidity of the chains, but their fundamental goals are slightly different, which I'll discuss a bit later.<br>
+<br>
+Here is what the Yona Network architecture looks like, whose thesis is to be Bitcoin's fastest L2, using SVM for building a DeFi ecosystem:<br>
+<br>
+Yona aims to bring high speed to Bitcoin as well as utilize idle Bitcoin assets in the DeFi ecosystem.<br>
+<br>
+However, I think it's important to address several questions: does Bitcoin really need such high performance, and do we really need BTC to be involved in DeFi activities?<br>
+<br>
+In my opinion, this all stems from history. If you've ever dealt with an average Bitcoin maximalist, you know what I mean: the typical large BTC holder knows little about other chains and assets beyond the belief that they are "worse" than Bitcoin in some way.<br>
+<br>
+This presents a significant challenge for any project trying to build on Bitcoin. The blockchain itself lacks much activity, and few solo BTC holders are interested in using their BTC for anything other than as a store of value.<br>
+<br>
+In my view, Bitcoin and its L2s are highly unlikely to ever match the 'degen culture' or the DeFi ecosystem of other platforms, suggesting that such speed might not be necessary for the DeFi ecosystem. <br>
+<br>
+What's more likely is that Bitcoin's L2s could become more focused on payment channels where speed might be crucial. However, this is more a cultural, legal, and product challenge rather than purely technological.<br>
+<br>
+4. Thesis: Ethereum needs SVM, but it's complicated.<br>
+<br>
+Eclipse is very similar to Yona in terms of goals and SVM usage; however, Eclipse uses SVM as its execution layer and settles on Ethereum. As you probably understand, being a rollup on Ethereum brings another set of pros and cons.<br>
+<br>
+Ethereum differs from Bitcoin and definitely requires more speed due to its usage and vast DeFi ecosystem. If we set aside the fragmentation issues caused by each rollup's launch, there's another significant challenge: standing out.<br>
+<br>
+The main slogan of Eclipse is "Solana on Ethereum," and the entire team focuses on bringing the benefits of SVM to Ethereum, such as fee markets and parallel execution. <br>
+<br>
+However, there are other teams like <a href="https://nitter.freedit.eu/megaeth_labs" title="MegaETH">@megaeth_labs</a> working on solutions that could potentially be faster than Eclipse.<br>
+<br>
+But will all users migrate to a new, faster solution? Of course not! (See the Amazon analogy above). The goal for a general-purpose rollup should be to build a vibrant ecosystem and differentiate through product positioning rather than just technical characteristics.<br>
+<br>
+Bringing SVM doesn't solve all problems: you still need to focus extensively on ecosystem development, product, technology, business development, and all related aspects, which are the most challenging parts and don't necessarily relate to SVM. <br>
+<br>
+In the future, deploying a fast rollup might become as straightforward as swapping tokens (not using MetaMask's UX, of course).<br>
+<br>
+Currently, 90% of Eclipse's chain activity comes from their tap game, where one transaction equals one tap, averaging 3000 TPS. However, claiming high on-chain activity when 90% of the transactions are merely screen taps is highly questionable. <br>
+<br>
+This only reinforces the point that speed isn't the issue; the real challenge is finding an approach to ensure genuine activity within the ecosystem post-TGE and avoid the same pitfalls as Scroll or Mode Network.<br>
+<br>
+5. Thesis: SVM stack is cool, but stack is still a stack.<br>
+<br>
+SOON (Soon) is essentially a hybrid solution that offers their main chain (SVM on Ethereum) and an SDK which allows you to deploy L2s with SVM as the execution layer on any chains (in the future, currently, it's Ethereum only).<br>
+<br>
+The funny thing is that Eclipse used to be almost exactly what SOON is today: a rollup provider with the ability to deploy SVM chains on any blockchain. <br>
+<br>
+But now, Eclipse is different, and it's interesting to consider the reasons. In my opinion, there could be two main ones:<br>
+<br>
+1. Poor business model<br>
+<br>
+2. Completely different views from people from Solana people who believe it's necessary to scale the base layer as much as possible before fragmenting mindshare, liquidity, etc.<br>
+<br>
+As I mentioned before, Soon is SVM on Ethereum, and the core value proposition is clear, but do we need SVM L2s on other chains? <br>
+<br>
+The question can be simplified: "do we need L2s on other chains?"<br>
+<br>
+I explained the reasoning regarding Ethereum and Bitcoin earlier, but do we need L2s on Aptos, Sui, Avalanche, NEAR? I'm not hating on these ecosystems, but why would you need a rollup on chains that are far from reaching their TPS limits? (besides MEV extraction)<br>
+<br>
+I think the SVM Stack would be really interesting for app-specific chains on Ethereum, Bitcoin, or even Cosmos, where you want to extract your own value without sharing much of it with the base layer. <br>
+<br>
+If we are believers in an app-chain future, as with <a href="https://nitter.freedit.eu/unichain" title="Unichain">@unichain</a>, perhaps Aave launching their own chain, and the Cosmos thesis in general, the SVM stack is a great idea. <br>
+<br>
+Along with the InterSOON messaging infrastructure (which is actually <a href="https://nitter.freedit.eu/hyperlane" title="Hyperlane ⏩">@hyperlane</a>), it could enhance interoperability and composability between these app-chains.<br>
+<br>
+I don't see a future where rollup SDKs are mostly used to create general-purpose L2s, so the infrastructure to unify SVM app-chains across different blockchains might be necessary. <br>
+<br>
+However, there are two concerns: how challenging it will be to implement this, and aren't we just creating localized interoperability within another stack?<br>
+<br>
+----<br>
+The second part of this article will be released soon and will focus on answering a single question: "Does it make sense to have Network Extensions on Solana itself?"</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkI_m9yb0AA-Lsg.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGkI_-tUbQAAihR8.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGkJAmawbYAAJxrw.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 19 Feb 2025 10:37:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/paramonoww/status/1892161592969801870#m</guid>
+        <link>https://nitter.freedit.eu/paramonoww/status/1892161592969801870#m</link>
       </item>
       <item>
         <title>I was glad to research different AMM designs, mostly focusing on CLOB and intent-based models, and to help @threesigmaxyz write this lengthy article.
@@ -660,6 +896,63 @@ Swaps, transfers, and most user activity represent less than 1%.</p>
         <pubDate>Thu, 16 Jan 2025 04:10:16 GMT</pubDate>
         <guid>https://nitter.freedit.eu/Satyams246/status/1879742943923458269#m</guid>
         <link>https://nitter.freedit.eu/Satyams246/status/1879742943923458269#m</link>
+      </item>
+      <item>
+        <title>RT by @paramonoww: Reminder that EigenDA single handedly has processed:
+
+Bitcoin
+Ethereum
+Solana
+Celo
+Celestia
+Avalanche
+BNB chain
+Fantom
+Polygon
+Mantle
+Base
+Arbitrum
+Optimism
+XAI games
+Blast
+Scroll
+ZKSync
+Mode
+Taiko
+
+blocks all at once and still operated at &lt;54% capacity.
+
+EigenDA is Hyperscale.</title>
+        <dc:creator>@dabit3</dc:creator>
+        <description><![CDATA[<p>Reminder that EigenDA single handedly has processed:<br>
+<br>
+Bitcoin<br>
+Ethereum<br>
+Solana<br>
+Celo<br>
+Celestia<br>
+Avalanche<br>
+BNB chain<br>
+Fantom<br>
+Polygon<br>
+Mantle<br>
+Base<br>
+Arbitrum<br>
+Optimism<br>
+XAI games<br>
+Blast<br>
+Scroll<br>
+ZKSync<br>
+Mode<br>
+Taiko<br>
+<br>
+blocks all at once and still operated at &lt;54% capacity.<br>
+<br>
+EigenDA is Hyperscale.</p>
+<p><a href="https://nitter.freedit.eu/paramonoww/status/1879500495641006082#m">nitter.freedit.eu/paramonoww/status/1879500495641006082#m</a></p>]]></description>
+        <pubDate>Thu, 16 Jan 2025 00:10:55 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/dabit3/status/1879682707883745763#m</guid>
+        <link>https://nitter.freedit.eu/dabit3/status/1879682707883745763#m</link>
       </item>
 
   </channel>

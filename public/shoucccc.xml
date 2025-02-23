@@ -16,6 +16,39 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @shoucccc: It seems the tx is leaked via auction feed (https://docs.48.club/puissant-builder/auction-transaction-feed). Last time, there was a public debate over MEV Blocker&apos;s similar endpoint, and generally, folks believed this could facilitate blind sandwiches. 
+
+Thanks @longteac @seaify1 for the info.</title>
+        <dc:creator>@shoucccc</dc:creator>
+        <description><![CDATA[<p>It seems the tx is leaked via auction feed (<a href="https://docs.48.club/puissant-builder/auction-transaction-feed">docs.48.club/puissant-builde…</a>). Last time, there was a public debate over MEV Blocker's similar endpoint, and generally, folks believed this could facilitate blind sandwiches. <br>
+<br>
+Thanks <a href="https://nitter.freedit.eu/longteac" title="Tyler">@longteac</a> <a href="https://nitter.freedit.eu/seaify1" title="seaify">@seaify1</a> for the info.</p>]]></description>
+        <pubDate>Sun, 23 Feb 2025 04:28:43 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/shoucccc/status/1893518325713424872#m</guid>
+        <link>https://nitter.freedit.eu/shoucccc/status/1893518325713424872#m</link>
+      </item>
+      <item>
+        <title>Turns out @cz_binance sent the first $TST buy tx to private RPC, but that tx still got leaked somehow. 
+
+CZ&apos;s buy tx (https://bscscan.com/tx/0x84fba4557a3062ecfba9135cd75e95222a28dc24051f48fc9a4b750f1b24843e) set the minimum output to 363,225 TST, while at that block, he can receive up to 365,564 TST (~0.7% slippage). If this tx is not sent to the private RPC, then it can lead to a $200+ profit for the sandwich bot, and the sandwich bot must sandwich it. However, none did and the block builder payment was much lower than $200 at that block, so it is apparent that CZ used private RPC. 
+
+The reason that CZ&apos;s buy tx failed was due to someone buying TST ahead of CZ (https://bscscan.com/tx/0x9b2b3b99536bbe167e84f7852c5617b41a0096e9676bc68876f78772b555364f). Unfortunately, this guy got sandwiched. Block builder prioritized this tx with sandwich txs over CZ&apos;s tx because the sandwich bot made $0.2 payments to block builder. If CZ set his gas price to 1.5gwei, his tx would likely be prioritized and succeed. 
+
+The real suspicious thing is why would 0xB2d57876271eA8684e7c521c1265b87703d9A0DA (B1) know CZ is buying $TST in advance. The bot explicitly checked CZ&apos;s TST balance (if it succeeds) and attempted to backrun his transaction. Is the private orderflow shared with this bot? Maybe I am retarded and missed something, or I guess only the bot owner/block builder/relay knows.</title>
+        <dc:creator>@shoucccc</dc:creator>
+        <description><![CDATA[<p>Turns out <a href="https://nitter.freedit.eu/cz_binance" title="CZ 🔶 BNB">@cz_binance</a> sent the first <a href="https://nitter.freedit.eu/search?q=%23TST">$TST</a> buy tx to private RPC, but that tx still got leaked somehow. <br>
+<br>
+CZ's buy tx (<a href="https://bscscan.com/tx/0x84fba4557a3062ecfba9135cd75e95222a28dc24051f48fc9a4b750f1b24843e">bscscan.com/tx/0x84fba4557a3…</a>) set the minimum output to 363,225 TST, while at that block, he can receive up to 365,564 TST (~0.7% slippage). If this tx is not sent to the private RPC, then it can lead to a $200+ profit for the sandwich bot, and the sandwich bot must sandwich it. However, none did and the block builder payment was much lower than $200 at that block, so it is apparent that CZ used private RPC. <br>
+<br>
+The reason that CZ's buy tx failed was due to someone buying TST ahead of CZ (<a href="https://bscscan.com/tx/0x9b2b3b99536bbe167e84f7852c5617b41a0096e9676bc68876f78772b555364f">bscscan.com/tx/0x9b2b3b99536…</a>). Unfortunately, this guy got sandwiched. Block builder prioritized this tx with sandwich txs over CZ's tx because the sandwich bot made $0.2 payments to block builder. If CZ set his gas price to 1.5gwei, his tx would likely be prioritized and succeed. <br>
+<br>
+The real suspicious thing is why would 0xB2d57876271eA8684e7c521c1265b87703d9A0DA (B1) know CZ is buying <a href="https://nitter.freedit.eu/search?q=%23TST">$TST</a> in advance. The bot explicitly checked CZ's TST balance (if it succeeds) and attempted to backrun his transaction. Is the private orderflow shared with this bot? Maybe I am retarded and missed something, or I guess only the bot owner/block builder/relay knows.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkcJxwnaoAI_LxF.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 23 Feb 2025 03:03:37 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/shoucccc/status/1893496911489028181#m</guid>
+        <link>https://nitter.freedit.eu/shoucccc/status/1893496911489028181#m</link>
+      </item>
+      <item>
         <title>R to @shoucccc: i&apos;ll pretend to be eth guy on eth events and soylana guy on soylana events</title>
         <dc:creator>@shoucccc</dc:creator>
         <description><![CDATA[<p>i'll pretend to be eth guy on eth events and soylana guy on soylana events</p>]]></description>
@@ -223,22 +256,6 @@ Keep buidling.</p>
         <pubDate>Sat, 15 Feb 2025 23:07:26 GMT</pubDate>
         <guid>https://nitter.freedit.eu/shoucccc/status/1890900757852877029#m</guid>
         <link>https://nitter.freedit.eu/shoucccc/status/1890900757852877029#m</link>
-      </item>
-      <item>
-        <title>The real rugger of $LIBRA is in Singapore. Founder of one of the largest Solana protocols is going to jail.</title>
-        <dc:creator>@shoucccc</dc:creator>
-        <description><![CDATA[<p>The real rugger of <a href="https://nitter.freedit.eu/search?q=%23LIBRA">$LIBRA</a> is in Singapore. Founder of one of the largest Solana protocols is going to jail.</p>]]></description>
-        <pubDate>Sat, 15 Feb 2025 23:01:46 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/shoucccc/status/1890899332313800819#m</guid>
-        <link>https://nitter.freedit.eu/shoucccc/status/1890899332313800819#m</link>
-      </item>
-      <item>
-        <title>R to @shoucccc: lmao these retards launched a token called $MILEI at the same time as $LIBRA and rugged at the same time</title>
-        <dc:creator>@shoucccc</dc:creator>
-        <description><![CDATA[<p>lmao these retards launched a token called <a href="https://nitter.freedit.eu/search?q=%23MILEI">$MILEI</a> at the same time as <a href="https://nitter.freedit.eu/search?q=%23LIBRA">$LIBRA</a> and rugged at the same time</p>]]></description>
-        <pubDate>Sat, 15 Feb 2025 20:09:42 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/shoucccc/status/1890856030373859611#m</guid>
-        <link>https://nitter.freedit.eu/shoucccc/status/1890856030373859611#m</link>
       </item>
 
   </channel>

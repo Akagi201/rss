@@ -16,6 +16,40 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @lxjhk: If you restaked your BNSOL on @Solayer_labs, you are eligible for $LAYER airdrops! 
+
+Follow our simple steps to claim your rewards.</title>
+        <dc:creator>@BinanceWallet</dc:creator>
+        <description><![CDATA[<p>If you restaked your BNSOL on <a href="https://nitter.freedit.eu/solayer_labs" title="Solayer">@Solayer_labs</a>, you are eligible for <a href="https://nitter.freedit.eu/search?q=%23LAYER">$LAYER</a> airdrops! <br>
+<br>
+Follow our simple steps to claim your rewards.</p>
+<img src="https://nitter.freedit.eu/pic/pbs.twimg.com%2Fmedia%2FGj_wQlaX0AEKj4w.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 17 Feb 2025 19:00:00 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/BinanceWallet/status/1891563266046034369#m</guid>
+        <link>https://nitter.freedit.eu/BinanceWallet/status/1891563266046034369#m</link>
+      </item>
+      <item>
+        <title>RT by @lxjhk: Turns out @cz_binance sent the first $TST buy tx to private RPC, but that tx still got leaked somehow. 
+
+CZ&apos;s buy tx (https://bscscan.com/tx/0x84fba4557a3062ecfba9135cd75e95222a28dc24051f48fc9a4b750f1b24843e) set the minimum output to 363,225 TST, while at that block, he can receive up to 365,564 TST (~0.7% slippage). If this tx is not sent to the private RPC, then it can lead to a $200+ profit for the sandwich bot, and the sandwich bot must sandwich it. However, none did and the block builder payment was much lower than $200 at that block, so it is apparent that CZ used private RPC. 
+
+The reason that CZ&apos;s buy tx failed was due to someone buying TST ahead of CZ (https://bscscan.com/tx/0x9b2b3b99536bbe167e84f7852c5617b41a0096e9676bc68876f78772b555364f). Unfortunately, this guy got sandwiched. Block builder prioritized this tx with sandwich txs over CZ&apos;s tx because the sandwich bot made $0.2 payments to block builder. If CZ set his gas price to 1.5gwei, his tx would likely be prioritized and succeed. 
+
+The real suspicious thing is why would 0xB2d57876271eA8684e7c521c1265b87703d9A0DA (B1) know CZ is buying $TST in advance. The bot explicitly checked CZ&apos;s TST balance (if it succeeds) and attempted to backrun his transaction. Is the private orderflow shared with this bot? Maybe I am retarded and missed something, or I guess only the bot owner/block builder/relay knows.</title>
+        <dc:creator>@shoucccc</dc:creator>
+        <description><![CDATA[<p>Turns out <a href="https://nitter.freedit.eu/cz_binance" title="CZ 🔶 BNB">@cz_binance</a> sent the first <a href="https://nitter.freedit.eu/search?q=%23TST">$TST</a> buy tx to private RPC, but that tx still got leaked somehow. <br>
+<br>
+CZ's buy tx (<a href="https://bscscan.com/tx/0x84fba4557a3062ecfba9135cd75e95222a28dc24051f48fc9a4b750f1b24843e">bscscan.com/tx/0x84fba4557a3…</a>) set the minimum output to 363,225 TST, while at that block, he can receive up to 365,564 TST (~0.7% slippage). If this tx is not sent to the private RPC, then it can lead to a $200+ profit for the sandwich bot, and the sandwich bot must sandwich it. However, none did and the block builder payment was much lower than $200 at that block, so it is apparent that CZ used private RPC. <br>
+<br>
+The reason that CZ's buy tx failed was due to someone buying TST ahead of CZ (<a href="https://bscscan.com/tx/0x9b2b3b99536bbe167e84f7852c5617b41a0096e9676bc68876f78772b555364f">bscscan.com/tx/0x9b2b3b99536…</a>). Unfortunately, this guy got sandwiched. Block builder prioritized this tx with sandwich txs over CZ's tx because the sandwich bot made $0.2 payments to block builder. If CZ set his gas price to 1.5gwei, his tx would likely be prioritized and succeed. <br>
+<br>
+The real suspicious thing is why would 0xB2d57876271eA8684e7c521c1265b87703d9A0DA (B1) know CZ is buying <a href="https://nitter.freedit.eu/search?q=%23TST">$TST</a> in advance. The bot explicitly checked CZ's TST balance (if it succeeds) and attempted to backrun his transaction. Is the private orderflow shared with this bot? Maybe I am retarded and missed something, or I guess only the bot owner/block builder/relay knows.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkcJxwnaoAI_LxF.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 23 Feb 2025 03:03:37 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/shoucccc/status/1893496911489028181#m</guid>
+        <link>https://nitter.freedit.eu/shoucccc/status/1893496911489028181#m</link>
+      </item>
+      <item>
         <title>Re Bybit x SAFE, there are so many attack vectors: browser plugins (AI, bot, wallets, etc), dependency poisoning, etc.  
 
 The end signer has to attest to the full effect of the transaction before singing.</title>
@@ -400,50 +434,6 @@ What's next? <a href="https://nitter.freedit.eu/solayer_labs" title="Solayer">@s
         <pubDate>Wed, 12 Feb 2025 16:59:35 GMT</pubDate>
         <guid>https://nitter.freedit.eu/defi_mago/status/1889721022502593002#m</guid>
         <link>https://nitter.freedit.eu/defi_mago/status/1889721022502593002#m</link>
-      </item>
-      <item>
-        <title>RT by @lxjhk: Everyone hypes up Solana’s speed, but let’s be real, it has limits
-
-When things get busy, transactions slow down. Fees pile up. It’s not as smooth as it should be
-
-InfiniSVM by @Solayer_Labs fixes that
-
-No bridges. No extra fees. Just raw, hardware-powered speed
-
-Let&apos;s learn 🔻</title>
-        <dc:creator>@ferz_erz</dc:creator>
-        <description><![CDATA[<p>Everyone hypes up Solana’s speed, but let’s be real, it has limits<br>
-<br>
-When things get busy, transactions slow down. Fees pile up. It’s not as smooth as it should be<br>
-<br>
-InfiniSVM by <a href="https://nitter.freedit.eu/solayer_labs" title="Solayer">@Solayer_Labs</a> fixes that<br>
-<br>
-No bridges. No extra fees. Just raw, hardware-powered speed<br>
-<br>
-Let's learn 🔻</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjwB0hOXIAAJyq5.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 14 Feb 2025 13:09:43 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ferz_erz/status/1890387949369364646#m</guid>
-        <link>https://nitter.freedit.eu/ferz_erz/status/1890387949369364646#m</link>
-      </item>
-      <item>
-        <title>RT by @lxjhk: $LAYER @solayer_labs is heating up with 196% APR! 🔥 
-
-🧐 How to join: 
-Stake $SOL on #Bitget → Get $BGSOL → Join Launchpool to earn high APR 
-
-Join now: https://www.bitget.com/events/launchpool/1273853060267266048?productSubId=1273906216007995392</title>
-        <dc:creator>@bitgetglobal</dc:creator>
-        <description><![CDATA[<p><a href="https://nitter.freedit.eu/search?q=%23LAYER">$LAYER</a> <a href="https://nitter.freedit.eu/solayer_labs" title="Solayer">@solayer_labs</a> is heating up with 196% APR! 🔥 <br>
-<br>
-🧐 How to join: <br>
-Stake <a href="https://nitter.freedit.eu/search?q=%23SOL">$SOL</a> on <a href="https://nitter.freedit.eu/search?q=%23Bitget">#Bitget</a> → Get <a href="https://nitter.freedit.eu/search?q=%23BGSOL">$BGSOL</a> → Join Launchpool to earn high APR <br>
-<br>
-Join now: <a href="https://www.bitget.com/events/launchpool/1273853060267266048?productSubId=1273906216007995392">bitget.com/events/launchpool…</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjvCwqQacAAvH9T.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 14 Feb 2025 08:40:00 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/bitgetglobal/status/1890320072423436643#m</guid>
-        <link>https://nitter.freedit.eu/bitgetglobal/status/1890320072423436643#m</link>
       </item>
 
   </channel>

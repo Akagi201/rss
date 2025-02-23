@@ -16,6 +16,157 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @0xstark: ELI5 why we cannot &quot;rollback&quot; Ethereum?
+
+After yesterday&apos;s Bybit hack, crypto commentators are again asking why Ethereum cannot &quot;rollback&quot; the chain to reverse the hack. 
+
+While experienced ecosystem actors near-unanimously agree that this is infeasible, it&apos;s worth breaking down why this reasonably sounding proposal is technically intractable for less knowledgeable observers. If that&apos;s you, consider this an &quot;ELI5&quot; version of why this is impossible. 
+
+First, some context on rollbacks:
+
+The idea of a blockchain &quot;rolling back&quot; stems from an early incident in the Bitcoin blockchain. In 2010, less than two years since Bitcoin&apos;s launch, a bug in the client software caused 184 billion (yes, *billion*) Bitcoins to be minted in block 74638. 
+
+To fix this, Satoshi released a software patch to the Bitcoin client which invalidated the transactions. This had the effect of &quot;rolling back&quot; the chain which had kept growing in the meantime to block 74637. In less than a day, the new chain had accumulated enough proof-of-work to become canonical and all user transactions that had been rolled back were included in the new chain. Note that at the time, Bitcoin&apos;s mining difficulty was 10 billion times lower than today, and the BTCUSD price was about 0.07$. 
+
+In short, this situation was unique in that a clear protocol bug led to the problematic transactions, which could easily be identified due to their large amount. Additionally, Bitcoin&apos;s limited adoption made it easy to distribute a new client version and quickly mine a new chain segment. 
+
+Ethereum and TheDAO:
+
+Ethereum&apos;s early history had a superficially similar crisis which often leads to confusion about the practicality of rollbacks. In 2016, a popular Ethereum application, TheDAO, had ~15% of all ETH in existence under its control. Unfortunately, a hacker found a bug in the application&apos;s code that allowed them to steal all of these funds. This was notably different than the Bitcoin situation because the Ethereum protocol worked as intended, it was the application built **on** Ethereum that had an issue. 
+
+Luckily, the developers of TheDAO had implemented a failsafe where withdrawals from the applications were frozen for a month before they were completed. This presented a unique opportunity to address the bug: the code of the application could be changed to prevent the funds from ultimately going to the hackers. 
+
+Because there was no way in the application itself to do this, Ethereum protocol developers had to make the change directly in the blockchain&apos;s history. This is called an &quot;irregular state change&quot;, because the &quot;state&quot; of the application was changed by manually updating the database, rather than, say, by a valid Ethereum transaction. 
+
+A rough comparison to the Bitcoin bug above would be to have set the balance of the addresses that received the 184 billion BTC to 0, rather than re-mining a chain excluding those transactions. 
+
+This upgrade was contentious and the Ethereum community effectively fractured over it. A subset of miners refused to run the software patch and kept mining on the chain where the hack happened, which still exists as Ethereum Classic. The chain that is known as Ethereum today is the one where this software upgrade was activated. 
+
+Again, this situation was unique. Hacked funds from TheDAO were effectively frozen for a month, giving time for the community to coordinate on a software upgrade. The funds being frozen had another major advantage: there was no &quot;contagion&quot; from the hack. Had the hacker been able to move funds at will, &quot;freezing&quot; the funds would be an impossible cat and mouse game, as the protocol is open source and any potential change which froze the funds would have to be broadcast to the hacker, giving them plenty of time to move their funds elsewhere. 
+
+Which brings us to the Bybit incident. 
+
+Why we can&apos;t rollback Ethereum
+
+Earlier this week, the Bybit exchange had 401,346 ETH (~1.4B USD) stolen. The theft was caused by the custodian of the funds signing a misleading transaction in a compromised multisig interface. 
+
+The root cause for this hack was higher up the stack than both TheDAO and the Bitcoin overflow bug. There were no issues with the Ethereum protocol, or even with the underlying multisig application used by Bybit. Instead, a compromised interface made it appear as though a transaction was doing one thing while it was actually doing another. 
+
+From the perspective of the Ethereum protocol, there is nothing to distinguish that transaction from other legitimate transactions on the network. There is no protocol rule that was broken where patching the issue would isolate the hacked funds, like in the case of the Bitcoin exploit. 
+
+Furthermore, the funds were immediately available for the hacker to spend. Unlike in the case of TheDAO, where the community had a month to deploy a surgical intervention, here the hackers immediately started moving the funds onchain. 
+
+Even if we could solve the cat and mouse game described above, the Ethereum ecosystem is far different today than in 2016. DeFi and bridges to other chains mean that any stolen funds can easily be mixed within a web of applications. For example, stolen funds can be swapped on a decentralized exchange, with the resulting tokens being used as collateral in a DeFi protocol, where the borrowed assets are bridged to a completely separate chain. 
+
+This level of interconnectedness means that any irregular state change, even if socially palatable, would have near-intractable ripple effects. A &quot;full rollback&quot;, where a portion of the recent chain history was invalidated, would be even worse. Any settled transaction, many of which have implications outside Ethereum (e.g. exchange sales, RWA redemptions, etc.) would be undone, with no way to revert the offchain half of it. 
+
+So, to conclude, while Bitcoin was able to &quot;rollback&quot; its blockchain 15 years ago, today, the interconnected nature of Ethereum and settlement of onchain &lt;&gt; offchain economic transactions, make this intractable today. 
+
+Technically, irregular state changes are still possible on Ethereum in cases where funds are frozen and isolated. The last time such a change was proposed, in 2018, to address a bug in Parity&apos;s multisig wallet where ~500,000 ETH were frozen (see EIP-999), it was strongly opposed by the community of the contention resulting from TheDAO.</title>
+        <dc:creator>@TimBeiko</dc:creator>
+        <description><![CDATA[<p>ELI5 why we cannot "rollback" Ethereum?<br>
+<br>
+After yesterday's Bybit hack, crypto commentators are again asking why Ethereum cannot "rollback" the chain to reverse the hack. <br>
+<br>
+While experienced ecosystem actors near-unanimously agree that this is infeasible, it's worth breaking down why this reasonably sounding proposal is technically intractable for less knowledgeable observers. If that's you, consider this an "ELI5" version of why this is impossible. <br>
+<br>
+First, some context on rollbacks:<br>
+<br>
+The idea of a blockchain "rolling back" stems from an early incident in the Bitcoin blockchain. In 2010, less than two years since Bitcoin's launch, a bug in the client software caused 184 billion (yes, *billion*) Bitcoins to be minted in block 74638. <br>
+<br>
+To fix this, Satoshi released a software patch to the Bitcoin client which invalidated the transactions. This had the effect of "rolling back" the chain which had kept growing in the meantime to block 74637. In less than a day, the new chain had accumulated enough proof-of-work to become canonical and all user transactions that had been rolled back were included in the new chain. Note that at the time, Bitcoin's mining difficulty was 10 billion times lower than today, and the BTCUSD price was about 0.07$. <br>
+<br>
+In short, this situation was unique in that a clear protocol bug led to the problematic transactions, which could easily be identified due to their large amount. Additionally, Bitcoin's limited adoption made it easy to distribute a new client version and quickly mine a new chain segment. <br>
+<br>
+Ethereum and TheDAO:<br>
+<br>
+Ethereum's early history had a superficially similar crisis which often leads to confusion about the practicality of rollbacks. In 2016, a popular Ethereum application, TheDAO, had ~15% of all ETH in existence under its control. Unfortunately, a hacker found a bug in the application's code that allowed them to steal all of these funds. This was notably different than the Bitcoin situation because the Ethereum protocol worked as intended, it was the application built **on** Ethereum that had an issue. <br>
+<br>
+Luckily, the developers of TheDAO had implemented a failsafe where withdrawals from the applications were frozen for a month before they were completed. This presented a unique opportunity to address the bug: the code of the application could be changed to prevent the funds from ultimately going to the hackers. <br>
+<br>
+Because there was no way in the application itself to do this, Ethereum protocol developers had to make the change directly in the blockchain's history. This is called an "irregular state change", because the "state" of the application was changed by manually updating the database, rather than, say, by a valid Ethereum transaction. <br>
+<br>
+A rough comparison to the Bitcoin bug above would be to have set the balance of the addresses that received the 184 billion BTC to 0, rather than re-mining a chain excluding those transactions. <br>
+<br>
+This upgrade was contentious and the Ethereum community effectively fractured over it. A subset of miners refused to run the software patch and kept mining on the chain where the hack happened, which still exists as Ethereum Classic. The chain that is known as Ethereum today is the one where this software upgrade was activated. <br>
+<br>
+Again, this situation was unique. Hacked funds from TheDAO were effectively frozen for a month, giving time for the community to coordinate on a software upgrade. The funds being frozen had another major advantage: there was no "contagion" from the hack. Had the hacker been able to move funds at will, "freezing" the funds would be an impossible cat and mouse game, as the protocol is open source and any potential change which froze the funds would have to be broadcast to the hacker, giving them plenty of time to move their funds elsewhere. <br>
+<br>
+Which brings us to the Bybit incident. <br>
+<br>
+Why we can't rollback Ethereum<br>
+<br>
+Earlier this week, the Bybit exchange had 401,346 ETH (~1.4B USD) stolen. The theft was caused by the custodian of the funds signing a misleading transaction in a compromised multisig interface. <br>
+<br>
+The root cause for this hack was higher up the stack than both TheDAO and the Bitcoin overflow bug. There were no issues with the Ethereum protocol, or even with the underlying multisig application used by Bybit. Instead, a compromised interface made it appear as though a transaction was doing one thing while it was actually doing another. <br>
+<br>
+From the perspective of the Ethereum protocol, there is nothing to distinguish that transaction from other legitimate transactions on the network. There is no protocol rule that was broken where patching the issue would isolate the hacked funds, like in the case of the Bitcoin exploit. <br>
+<br>
+Furthermore, the funds were immediately available for the hacker to spend. Unlike in the case of TheDAO, where the community had a month to deploy a surgical intervention, here the hackers immediately started moving the funds onchain. <br>
+<br>
+Even if we could solve the cat and mouse game described above, the Ethereum ecosystem is far different today than in 2016. DeFi and bridges to other chains mean that any stolen funds can easily be mixed within a web of applications. For example, stolen funds can be swapped on a decentralized exchange, with the resulting tokens being used as collateral in a DeFi protocol, where the borrowed assets are bridged to a completely separate chain. <br>
+<br>
+This level of interconnectedness means that any irregular state change, even if socially palatable, would have near-intractable ripple effects. A "full rollback", where a portion of the recent chain history was invalidated, would be even worse. Any settled transaction, many of which have implications outside Ethereum (e.g. exchange sales, RWA redemptions, etc.) would be undone, with no way to revert the offchain half of it. <br>
+<br>
+So, to conclude, while Bitcoin was able to "rollback" its blockchain 15 years ago, today, the interconnected nature of Ethereum and settlement of onchain &lt;&gt; offchain economic transactions, make this intractable today. <br>
+<br>
+Technically, irregular state changes are still possible on Ethereum in cases where funds are frozen and isolated. The last time such a change was proposed, in 2018, to address a bug in Parity's multisig wallet where ~500,000 ETH were frozen (see EIP-999), it was strongly opposed by the community of the contention resulting from TheDAO.</p>]]></description>
+        <pubDate>Sat, 22 Feb 2025 21:28:02 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/TimBeiko/status/1893412457567383559#m</guid>
+        <link>https://nitter.freedit.eu/TimBeiko/status/1893412457567383559#m</link>
+      </item>
+      <item>
+        <title>R to @0xstark: 32. @Courtyard_io lets you buy, trade, and collect tokenized Pokémon and sports cards, backed by real physical cards stored in vaults.
+
+Users can buy digital packs and trade cards, and redeem anytime for the physical copy. Users vault the physical cards earn 1% on resales.</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>32. <a href="https://nitter.freedit.eu/Courtyard_io" title="Courtyard.io">@Courtyard_io</a> lets you buy, trade, and collect tokenized Pokémon and sports cards, backed by real physical cards stored in vaults.<br>
+<br>
+Users can buy digital packs and trade cards, and redeem anytime for the physical copy. Users vault the physical cards earn 1% on resales.</p>]]></description>
+        <pubDate>Sat, 22 Feb 2025 19:44:06 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1893386300608086064#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1893386300608086064#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: Make no mistake, what we are seeing is a coordinated attack trying to undermine Ethereum’s credible neutrality.
+
+Mind you, not in reality, but in perception. Those with high context know how silly this is, but low-context observers get the impression a rollback was in the cards.</title>
+        <dc:creator>@adietrichs</dc:creator>
+        <description><![CDATA[<p>Make no mistake, what we are seeing is a coordinated attack trying to undermine Ethereum’s credible neutrality.<br>
+<br>
+Mind you, not in reality, but in perception. Those with high context know how silly this is, but low-context observers get the impression a rollback was in the cards.</p>]]></description>
+        <pubDate>Sat, 22 Feb 2025 14:18:53 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/adietrichs/status/1893304456864747864#m</guid>
+        <link>https://nitter.freedit.eu/adietrichs/status/1893304456864747864#m</link>
+      </item>
+      <item>
+        <title>Image</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkZ6TU3W0AAekAZ.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sat, 22 Feb 2025 16:21:01 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1893335193953395002#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1893335193953395002#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: Permissionlessness and privacy is crucial. Trustlessness I would argue is not, mostly because it&apos;s a bad, incoherent meme. Hardness is much closer: https://stark.mirror.xyz/A9csRsDaAJHJCCWa2Vv16bmxl0BgDqiLdupASxBT2r4</title>
+        <dc:creator>@_ArnaudS_</dc:creator>
+        <description><![CDATA[<p>Permissionlessness and privacy is crucial. Trustlessness I would argue is not, mostly because it's a bad, incoherent meme. Hardness is much closer: <a href="https://stark.mirror.xyz/A9csRsDaAJHJCCWa2Vv16bmxl0BgDqiLdupASxBT2r4">stark.mirror.xyz/A9csRsDaAJH…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1891548563714256897%2Flb-3wUbB%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 21 Feb 2025 16:08:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/_ArnaudS_/status/1892969714084610314#m</guid>
+        <link>https://nitter.freedit.eu/_ArnaudS_/status/1892969714084610314#m</link>
+      </item>
+      <item>
+        <title>great &quot;explain like I am 5&quot; thread from @stacy_muur about recent Ethereum L2 interoperability progress</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>great "explain like I am 5" thread from <a href="https://nitter.freedit.eu/stacy_muur" title="Stacy Muur">@stacy_muur</a> about recent Ethereum L2 interoperability progress</p>
+<p><a href="https://nitter.freedit.eu/stacy_muur/status/1892650191536472210#m">nitter.freedit.eu/stacy_muur/status/1892650191536472210#m</a></p>]]></description>
+        <pubDate>Sat, 22 Feb 2025 14:48:04 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1893311802429120946#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1893311802429120946#m</link>
+      </item>
+      <item>
         <title>RT by @0xstark: Adding a short personal take with each QT, let&apos;s see how it goes!</title>
         <dc:creator>@barnabemonnot</dc:creator>
         <description><![CDATA[<p>Adding a short personal take with each QT, let's see how it goes!</p>
@@ -194,71 +345,6 @@ The project lets crypto-native AI agents securely manage API keys, for instance 
         <pubDate>Tue, 18 Feb 2025 15:34:39 GMT</pubDate>
         <guid>https://nitter.freedit.eu/0xstark/status/1891873976172851687#m</guid>
         <link>https://nitter.freedit.eu/0xstark/status/1891873976172851687#m</link>
-      </item>
-      <item>
-        <title>how many people do you think are actively part of crypto related communities @farcaster_xyz?</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>how many people do you think are actively part of crypto related communities <a href="https://nitter.freedit.eu/farcaster_xyz" title="farcaster.eth">@farcaster_xyz</a>?</p>]]></description>
-        <pubDate>Tue, 18 Feb 2025 15:20:29 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1891870411287036401#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1891870411287036401#m</link>
-      </item>
-      <item>
-        <title>R to @0xstark: 28. @Livepeer powers real-time AI video with decentralized infrastructure. 
-
-A global network of nodes receive and perform compute tasks, in exchange for micropayments and a stake in the network.</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>28. <a href="https://nitter.freedit.eu/Livepeer" title="Livepeer">@Livepeer</a> powers real-time AI video with decentralized infrastructure. <br>
-<br>
-A global network of nodes receive and perform compute tasks, in exchange for micropayments and a stake in the network.</p>]]></description>
-        <pubDate>Tue, 18 Feb 2025 00:11:14 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1891641587752395088#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1891641587752395088#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: even if the original vision of memecoins was good, its hard to believe anyone can argue in good faith that the current meta is anything but negative sum. memecoins are a wildfire burning through our industry, and if we dont want to be left with only ashes then it&apos;s time to act</title>
-        <dc:creator>@samczsun</dc:creator>
-        <description><![CDATA[<p>even if the original vision of memecoins was good, its hard to believe anyone can argue in good faith that the current meta is anything but negative sum. memecoins are a wildfire burning through our industry, and if we dont want to be left with only ashes then it's time to act</p>]]></description>
-        <pubDate>Sun, 16 Feb 2025 00:29:30 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/samczsun/status/1890921411331432508#m</guid>
-        <link>https://nitter.freedit.eu/samczsun/status/1890921411331432508#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: That worked well last week, so here are this week&apos;s EF Research publications + collabs 👇</title>
-        <dc:creator>@barnabemonnot</dc:creator>
-        <description><![CDATA[<p>That worked well last week, so here are this week's EF Research publications + collabs 👇</p>]]></description>
-        <pubDate>Fri, 14 Feb 2025 12:18:02 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/barnabemonnot/status/1890374940785889556#m</guid>
-        <link>https://nitter.freedit.eu/barnabemonnot/status/1890374940785889556#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: Totally disagree with this take. Issuing assets on the L2 aligns the asset with the social consensus of the L2.
-
-For it to be Ethereum aligned, it should be minted and its supply governed on Ethereum Mainnet.
-
-Only exception would be for a native rollup.</title>
-        <dc:creator>@liamihorne</dc:creator>
-        <description><![CDATA[<p>Totally disagree with this take. Issuing assets on the L2 aligns the asset with the social consensus of the L2.<br>
-<br>
-For it to be Ethereum aligned, it should be minted and its supply governed on Ethereum Mainnet.<br>
-<br>
-Only exception would be for a native rollup.</p>
-<p><a href="https://nitter.freedit.eu/haydenzadams/status/1890432415132217595#m">nitter.freedit.eu/haydenzadams/status/1890432415132217595#m</a></p>]]></description>
-        <pubDate>Sat, 15 Feb 2025 05:35:56 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/liamihorne/status/1890636137334505890#m</guid>
-        <link>https://nitter.freedit.eu/liamihorne/status/1890636137334505890#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: 1/Driving real world impact with Ethereum in LatAm, a guest thread by @0xcush
-
-In a region marked by financial exclusion, corruption and poor governance, Ethereum is paving the way for a more prosperous future for the region.</title>
-        <dc:creator>@ethereum</dc:creator>
-        <description><![CDATA[<p>1/Driving real world impact with Ethereum in LatAm, a guest thread by <a href="https://nitter.freedit.eu/0xcush" title="cush">@0xcush</a><br>
-<br>
-In a region marked by financial exclusion, corruption and poor governance, Ethereum is paving the way for a more prosperous future for the region.</p>]]></description>
-        <pubDate>Fri, 14 Feb 2025 20:53:13 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ethereum/status/1890504593030656082#m</guid>
-        <link>https://nitter.freedit.eu/ethereum/status/1890504593030656082#m</link>
       </item>
 
   </channel>

@@ -16,6 +16,195 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @0xstark: 💛💙</title>
+        <dc:creator>@VitalikButerin</dc:creator>
+        <description><![CDATA[<p>💛💙</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkiDftDWUAAEQ1-.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 24 Feb 2025 06:33:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/VitalikButerin/status/1893912197736145251#m</guid>
+        <link>https://nitter.freedit.eu/VitalikButerin/status/1893912197736145251#m</link>
+      </item>
+      <item>
+        <title>R to @0xstark: 33. @EkuboProtocol is an AMM on @Starknet, built by @sendmoodz, an early Uniswap developer. 
+
+Ekubo is written in the Cairo language, and allows market makers to provide concentrated liquidity within specific price ranges, which gives users better pricing on their swaps.</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>33. <a href="https://nitter.freedit.eu/EkuboProtocol" title="Ekubo">@EkuboProtocol</a> is an AMM on <a href="https://nitter.freedit.eu/Starknet" title="Starknet 🐺🐱">@Starknet</a>, built by <a href="https://nitter.freedit.eu/sendmoodz" title="Moody 💭">@sendmoodz</a>, an early Uniswap developer. <br>
+<br>
+Ekubo is written in the Cairo language, and allows market makers to provide concentrated liquidity within specific price ranges, which gives users better pricing on their swaps.</p>]]></description>
+        <pubDate>Mon, 24 Feb 2025 15:29:14 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1894046937789210773#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1894046937789210773#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: 13th AMA from Ethereum Foundation Research 
+
+→ submit questions now, on X or Reddit
+→ answers roll in tomorrow, Feb 25 at 2pm UTC
+
+https://www.reddit.com/r/ethereum/comments/1iw8ln8/ama_we_are_ef_research_pt_13_25_february_2025/
+
+With two AMAs per year since 2019, EF Research (EFR) is committed to transparency. The team is packed with talent. Learn more about the 40 EFR members spread across 6 sub-teams at http://research.ethereum.foundation :)
+
+Applied Research Group (ARG)
+
+Han @han__0110
+Jacob @jacobykaufmann
+Kev @kevaundray
+Mike @mikeneuder
+Toni @nero_eth
+Rahul @raxhvl
+
+Consensus R&amp;D (CR&amp;D)
+
+Alexander @alexanderlhicks
+Ansgar @adietrichs
+Carl @carlbeek
+Dankrad @dankrad
+Francesco @fradamt
+George @asn_d6
+Justin @drakefjustin
+Luca @luca_zanolini
+Pop
+Roberto @robsaltini
+Vitalik @vitalikButerin
+
+Cryptography
+
+Antonio @asanso
+Arantxa @arantxazapico
+Benedikt
+Dmitry @khovr
+Gottfried
+Mary
+
+Protocol Security
+
+Andrés @nethoxa
+Bhargava @ibags
+David @infosecual
+Fredrik @fredriksvantes
+Justin @JustinTraglia
+Tyler @Z3nChada
+
+Research Ops
+
+Alex @ralexstokes
+Barnabé @barnabemonnot
+Josh @rudolf6_
+La Donna @ladonnarhiggins
+Ladislaus @ladislaus0x
+Will @corcoranwill
+
+Robust Incentives Group (RIG)
+
+Anders @weboftrees
+Caspar @casparschwa
+Davide @DavideCrapis
+Julian @_julianma
+Thomas @soispoke</title>
+        <dc:creator>@drakefjustin</dc:creator>
+        <description><![CDATA[<p>13th AMA from Ethereum Foundation Research <br>
+<br>
+→ submit questions now, on X or Reddit<br>
+→ answers roll in tomorrow, Feb 25 at 2pm UTC<br>
+<br>
+<a href="https://redlib.freedit.eu/r/ethereum/comments/1iw8ln8/ama_we_are_ef_research_pt_13_25_february_2025/">redlib.freedit.eu/r/ethereum/commen…</a><br>
+<br>
+With two AMAs per year since 2019, EF Research (EFR) is committed to transparency. The team is packed with talent. Learn more about the 40 EFR members spread across 6 sub-teams at <a href="http://research.ethereum.foundation">research.ethereum.foundation</a> :)<br>
+<br>
+Applied Research Group (ARG)<br>
+<br>
+Han <a href="https://nitter.freedit.eu/han__0110" title="Han Jian">@han__0110</a><br>
+Jacob <a href="https://nitter.freedit.eu/jacobykaufmann" title="jacob(y)">@jacobykaufmann</a><br>
+Kev <a href="https://nitter.freedit.eu/kevaundray" title="Kev">@kevaundray</a><br>
+Mike <a href="https://nitter.freedit.eu/mikeneuder" title="mikeneuder.eth ⟠">@mikeneuder</a><br>
+Toni <a href="https://nitter.freedit.eu/nero_eth" title="Toni Wahrstätter ⟠">@nero_eth</a><br>
+Rahul <a href="https://nitter.freedit.eu/raxhvl" title="raxhvl">@raxhvl</a><br>
+<br>
+Consensus R&D (CR&D)<br>
+<br>
+Alexander <a href="https://nitter.freedit.eu/alexanderlhicks" title="Alexander Hicks">@alexanderlhicks</a><br>
+Ansgar <a href="https://nitter.freedit.eu/adietrichs" title="ansgar.eth 🦇🔊 .oO">@adietrichs</a><br>
+Carl <a href="https://nitter.freedit.eu/carlbeek" title="carlbeek.eth">@carlbeek</a><br>
+Dankrad <a href="https://nitter.freedit.eu/dankrad" title="Dankrad Feist">@dankrad</a><br>
+Francesco <a href="https://nitter.freedit.eu/fradamt" title="Francesco">@fradamt</a><br>
+George <a href="https://nitter.freedit.eu/asn_d6" title="George Kadianakis">@asn_d6</a><br>
+Justin <a href="https://nitter.freedit.eu/drakefjustin" title="Justin.eth Drake">@drakefjustin</a><br>
+Luca <a href="https://nitter.freedit.eu/luca_zanolini" title="Luca Zanolini">@luca_zanolini</a><br>
+Pop<br>
+Roberto <a href="https://nitter.freedit.eu/robsaltini" title="Roberto Saltini">@robsaltini</a><br>
+Vitalik <a href="https://nitter.freedit.eu/vitalikButerin" title="vitalik.eth">@vitalikButerin</a><br>
+<br>
+Cryptography<br>
+<br>
+Antonio <a href="https://nitter.freedit.eu/asanso" title="asanso.eth">@asanso</a><br>
+Arantxa <a href="https://nitter.freedit.eu/arantxazapico" title="Arantxa Zapico 🧉">@arantxazapico</a><br>
+Benedikt<br>
+Dmitry <a href="https://nitter.freedit.eu/khovr" title="Dmitry Khovratovich">@khovr</a><br>
+Gottfried<br>
+Mary<br>
+<br>
+Protocol Security<br>
+<br>
+Andrés <a href="https://nitter.freedit.eu/nethoxa" title="nethoxa">@nethoxa</a><br>
+Bhargava <a href="https://nitter.freedit.eu/ibags" title="Bhargava Shastry">@ibags</a><br>
+David <a href="https://nitter.freedit.eu/infosecual" title="dtheo">@infosecual</a><br>
+Fredrik <a href="https://nitter.freedit.eu/fredriksvantes" title="Fredrik Svantes">@fredriksvantes</a><br>
+Justin <a href="https://nitter.freedit.eu/JustinTraglia" title="jtraglia.eth">@JustinTraglia</a><br>
+Tyler <a href="https://nitter.freedit.eu/Z3nChada" title="Z3nChada">@Z3nChada</a><br>
+<br>
+Research Ops<br>
+<br>
+Alex <a href="https://nitter.freedit.eu/ralexstokes" title="stokes">@ralexstokes</a><br>
+Barnabé <a href="https://nitter.freedit.eu/barnabemonnot" title="barnabe.eth">@barnabemonnot</a><br>
+Josh <a href="https://nitter.freedit.eu/rudolf6_" title="joshrudolf.eth">@rudolf6_</a><br>
+La Donna <a href="https://nitter.freedit.eu/ladonnarhiggins" title="La Donna Higgins">@ladonnarhiggins</a><br>
+Ladislaus <a href="https://nitter.freedit.eu/ladislaus0x" title="ladislaus.eth">@ladislaus0x</a><br>
+Will <a href="https://nitter.freedit.eu/corcoranwill" title="Will Corcoran">@corcoranwill</a><br>
+<br>
+Robust Incentives Group (RIG)<br>
+<br>
+Anders <a href="https://nitter.freedit.eu/weboftrees" title="Anders Elowsson 🌻">@weboftrees</a><br>
+Caspar <a href="https://nitter.freedit.eu/casparschwa" title="caspar">@casparschwa</a><br>
+Davide <a href="https://nitter.freedit.eu/DavideCrapis" title="Davide Crapis">@DavideCrapis</a><br>
+Julian <a href="https://nitter.freedit.eu/_julianma" title="Julian">@_julianma</a><br>
+Thomas <a href="https://nitter.freedit.eu/soispoke" title="soispoke.eth">@soispoke</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1893684764541902848%2FACanOejj%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 24 Feb 2025 13:37:09 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/drakefjustin/status/1894018731094704517#m</guid>
+        <link>https://nitter.freedit.eu/drakefjustin/status/1894018731094704517#m</link>
+      </item>
+      <item>
+        <title>RT by @0xstark: Announcing Hardhat 3 alpha release  🚀👷
+
+We introduced Solidity tests, rewrote the performance critical components in Rust, added multichain support across the board, implemented OP Stack simulation, revamped the build system, modernized our TS CLI and plugin system, and a lot more.
+
+Hardhat 3 is a complete overhaul. This is an alpha release and there’s still a lot of work ahead towards stability, but you can already take it for a spin. High level information on main features in the thread below.
+
+🧵</title>
+        <dc:creator>@HardhatHQ</dc:creator>
+        <description><![CDATA[<p>Announcing Hardhat 3 alpha release  🚀👷<br>
+<br>
+We introduced Solidity tests, rewrote the performance critical components in Rust, added multichain support across the board, implemented OP Stack simulation, revamped the build system, modernized our TS CLI and plugin system, and a lot more.<br>
+<br>
+Hardhat 3 is a complete overhaul. This is an alpha release and there’s still a lot of work ahead towards stability, but you can already take it for a spin. High level information on main features in the thread below.<br>
+<br>
+🧵</p>]]></description>
+        <pubDate>Mon, 24 Feb 2025 12:58:17 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/HardhatHQ/status/1894008948975390843#m</guid>
+        <link>https://nitter.freedit.eu/HardhatHQ/status/1894008948975390843#m</link>
+      </item>
+      <item>
+        <title>Ethereum is for Argentina</title>
+        <dc:creator>@0xstark</dc:creator>
+        <description><![CDATA[<p>Ethereum is for Argentina</p>
+<p><a href="https://nitter.freedit.eu/world_chain_/status/1893695764070601128#m">nitter.freedit.eu/world_chain_/status/1893695764070601128#m</a></p>]]></description>
+        <pubDate>Sun, 23 Feb 2025 16:20:28 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xstark/status/1893697445592199520#m</guid>
+        <link>https://nitter.freedit.eu/0xstark/status/1893697445592199520#m</link>
+      </item>
+      <item>
         <title>RT by @0xstark: ELI5 why we cannot &quot;rollback&quot; Ethereum?
 
 After yesterday&apos;s Bybit hack, crypto commentators are again asking why Ethereum cannot &quot;rollback&quot; the chain to reverse the hack. 
@@ -152,7 +341,7 @@ Mind you, not in reality, but in perception. Those with high context know how si
         <title>RT by @0xstark: Permissionlessness and privacy is crucial. Trustlessness I would argue is not, mostly because it&apos;s a bad, incoherent meme. Hardness is much closer: https://stark.mirror.xyz/A9csRsDaAJHJCCWa2Vv16bmxl0BgDqiLdupASxBT2r4</title>
         <dc:creator>@_ArnaudS_</dc:creator>
         <description><![CDATA[<p>Permissionlessness and privacy is crucial. Trustlessness I would argue is not, mostly because it's a bad, incoherent meme. Hardness is much closer: <a href="https://stark.mirror.xyz/A9csRsDaAJHJCCWa2Vv16bmxl0BgDqiLdupASxBT2r4">stark.mirror.xyz/A9csRsDaAJH…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1891548563714256897%2Flb-3wUbB%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1894085317981847552%2F7hOCBJd_%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Fri, 21 Feb 2025 16:08:44 GMT</pubDate>
         <guid>https://nitter.freedit.eu/_ArnaudS_/status/1892969714084610314#m</guid>
         <link>https://nitter.freedit.eu/_ArnaudS_/status/1892969714084610314#m</link>
@@ -281,70 +470,6 @@ Apply now! 👇<br>
         <pubDate>Wed, 19 Feb 2025 18:47:35 GMT</pubDate>
         <guid>https://nitter.freedit.eu/0xstark/status/1892284917544808494#m</guid>
         <link>https://nitter.freedit.eu/0xstark/status/1892284917544808494#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: Excited to unveil a special collaboration with many teams across Ethereum. Big step forward for getting seamless cross-chain UX into the hands of all users. Still much to do &amp; one big piece of the larger interop picture 🔥
-
-Huge thanks to all the teams supporting: @hyperlane, @arbitrum, @Starknet, @AcrossProtocol, @DeFi_Wonderland, @LineaBuild, @namechain, @Optimism, @0xPolygon, @Scroll_ZKP, @soneium, @taikoxyz, @Uniswap, @zksync, @EspressoSys, @t1protocol, @Polymer_Labs, @biconomy, @lifiprotocol, @OffchainLabs, @OpenZeppelin, @gnosischain, @EverclearOrg, @ensdomains, @bootnodedev, @eco, @hashialliance, @SuccinctLabs, @Calderaxyz, @superbridgeapp, @nomial_io, @khalani_network</title>
-        <dc:creator>@rudolf6_</dc:creator>
-        <description><![CDATA[<p>Excited to unveil a special collaboration with many teams across Ethereum. Big step forward for getting seamless cross-chain UX into the hands of all users. Still much to do & one big piece of the larger interop picture 🔥<br>
-<br>
-Huge thanks to all the teams supporting: <a href="https://nitter.freedit.eu/hyperlane" title="Hyperlane ⏩">@hyperlane</a>, <a href="https://nitter.freedit.eu/arbitrum" title="Arbitrum">@arbitrum</a>, <a href="https://nitter.freedit.eu/Starknet" title="Starknet 🐺🐱">@Starknet</a>, <a href="https://nitter.freedit.eu/AcrossProtocol" title="Across">@AcrossProtocol</a>, <a href="https://nitter.freedit.eu/DeFi_Wonderland" title="Wonderland">@DeFi_Wonderland</a>, <a href="https://nitter.freedit.eu/LineaBuild" title="Linea.eth">@LineaBuild</a>, <a href="https://nitter.freedit.eu/namechain" title="Namechain">@namechain</a>, <a href="https://nitter.freedit.eu/Optimism" title="optimism.eth">@Optimism</a>, <a href="https://nitter.freedit.eu/0xPolygon" title="Polygon (※,※)">@0xPolygon</a>, <a href="https://nitter.freedit.eu/Scroll_ZKP" title="Scroll">@Scroll_ZKP</a>, <a href="https://nitter.freedit.eu/soneium" title="Soneium 💿">@soneium</a>, <a href="https://nitter.freedit.eu/taikoxyz" title="Taiko.eth 🥁">@taikoxyz</a>, <a href="https://nitter.freedit.eu/Uniswap" title="Uniswap Labs 🦄">@Uniswap</a>, <a href="https://nitter.freedit.eu/zksync" title="ZKsync (∎, ∆)">@zksync</a>, <a href="https://nitter.freedit.eu/EspressoSys" title="Espresso ☕️">@EspressoSys</a>, <a href="https://nitter.freedit.eu/t1protocol" title="t1">@t1protocol</a>, <a href="https://nitter.freedit.eu/Polymer_Labs" title="Polymer Labs 🛜">@Polymer_Labs</a>, <a href="https://nitter.freedit.eu/biconomy" title="Biconomy">@biconomy</a>, <a href="https://nitter.freedit.eu/lifiprotocol" title="LI.FI">@lifiprotocol</a>, <a href="https://nitter.freedit.eu/OffchainLabs" title="Offchain Labs">@OffchainLabs</a>, <a href="https://nitter.freedit.eu/OpenZeppelin" title="OpenZeppelin">@OpenZeppelin</a>, <a href="https://nitter.freedit.eu/gnosischain" title="Gnosis Chain 🦉">@gnosischain</a>, <a href="https://nitter.freedit.eu/EverclearOrg" title="Everclear (prev Connext)">@EverclearOrg</a>, <a href="https://nitter.freedit.eu/ensdomains" title="ens.eth">@ensdomains</a>, <a href="https://nitter.freedit.eu/bootnodedev" title="BootNode">@bootnodedev</a>, <a href="https://nitter.freedit.eu/eco" title="Eco">@eco</a>, <a href="https://nitter.freedit.eu/hashialliance" title="Hashi">@hashialliance</a>, <a href="https://nitter.freedit.eu/SuccinctLabs" title="Succinct">@SuccinctLabs</a>, <a href="https://nitter.freedit.eu/Calderaxyz" title="Caldera">@Calderaxyz</a>, <a href="https://nitter.freedit.eu/superbridgeapp" title="Superbridge">@superbridgeapp</a>, <a href="https://nitter.freedit.eu/nomial_io" title="Nomial">@nomial_io</a>, <a href="https://nitter.freedit.eu/khalani_network" title="Khalani Network 🦾🤖">@khalani_network</a></p>
-<p><a href="https://nitter.freedit.eu/ethereumfndn/status/1892244647369433272#m">nitter.freedit.eu/ethereumfndn/status/1892244647369433272#m</a></p>]]></description>
-        <pubDate>Wed, 19 Feb 2025 16:36:03 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rudolf6_/status/1892251814676091156#m</guid>
-        <link>https://nitter.freedit.eu/rudolf6_/status/1892251814676091156#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: Announcing the Open Intents Framework ✨
-
-Ecosystem-wide interop, accelerated by 30+ teams from all corners of Ethereum.
-
-A modular, open framework to make it seamless for any chain to get intents into the hands of users &amp; improve cross-chain UX.
-
-➡️ http://openintents.xyz</title>
-        <dc:creator>@ethereumfndn</dc:creator>
-        <description><![CDATA[<p>Announcing the Open Intents Framework ✨<br>
-<br>
-Ecosystem-wide interop, accelerated by 30+ teams from all corners of Ethereum.<br>
-<br>
-A modular, open framework to make it seamless for any chain to get intents into the hands of users &amp; improve cross-chain UX.<br>
-<br>
-➡️ <a href="http://openintents.xyz">openintents.xyz</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkKZgvBa8AANfPa.png" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 19 Feb 2025 16:07:34 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ethereumfndn/status/1892244647369433272#m</guid>
-        <link>https://nitter.freedit.eu/ethereumfndn/status/1892244647369433272#m</link>
-      </item>
-      <item>
-        <title>RT by @0xstark: glad to have the support of a team that recognizes the importance of supporting the foundation we all depend on ♥️</title>
-        <dc:creator>@trent_vanepps</dc:creator>
-        <description><![CDATA[<p>glad to have the support of a team that recognizes the importance of supporting the foundation we all depend on ♥️</p>
-<p><a href="https://nitter.freedit.eu/BitwiseInvest/status/1892227696853385636#m">nitter.freedit.eu/BitwiseInvest/status/1892227696853385636#m</a></p>]]></description>
-        <pubDate>Wed, 19 Feb 2025 15:40:36 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/trent_vanepps/status/1892237859110760454#m</guid>
-        <link>https://nitter.freedit.eu/trent_vanepps/status/1892237859110760454#m</link>
-      </item>
-      <item>
-        <title>R to @0xstark: if you are keen to inform your vote: https://dune.com/pixelhack/farcaster</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>if you are keen to inform your vote: <a href="https://dune.com/pixelhack/farcaster">dune.com/pixelhack/farcaster</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1891546232713031680%2FuOqCv2H5%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 18 Feb 2025 17:31:00 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1891903253111079179#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1891903253111079179#m</link>
-      </item>
-      <item>
-        <title>R to @0xstark: 29. SecretAgent is a prizewinning hack from @ETHGlobal&apos;s Agentic Ethereum hackathon.
-
-The project lets crypto-native AI agents securely manage API keys, for instance to enable the agent to pay for its own LLM access. Built by @theozero, @sergedottech, and Phil Miller.</title>
-        <dc:creator>@0xstark</dc:creator>
-        <description><![CDATA[<p>29. SecretAgent is a prizewinning hack from <a href="https://nitter.freedit.eu/ETHGlobal" title="ETHGlobal">@ETHGlobal</a>'s Agentic Ethereum hackathon.<br>
-<br>
-The project lets crypto-native AI agents securely manage API keys, for instance to enable the agent to pay for its own LLM access. Built by <a href="https://nitter.freedit.eu/theozero" title="Theo Ephraim">@theozero</a>, <a href="https://nitter.freedit.eu/sergedottech" title="Serge 🇺🇦">@sergedottech</a>, and Phil Miller.</p>]]></description>
-        <pubDate>Tue, 18 Feb 2025 15:34:39 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xstark/status/1891873976172851687#m</guid>
-        <link>https://nitter.freedit.eu/0xstark/status/1891873976172851687#m</link>
       </item>
 
   </channel>

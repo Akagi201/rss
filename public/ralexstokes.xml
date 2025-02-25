@@ -16,6 +16,35 @@
       <height>128</height>
     </image>
       <item>
+        <title>complexity bad</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>complexity bad</p>]]></description>
+        <pubDate>Mon, 24 Feb 2025 22:33:16 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1894153648386572648#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1894153648386572648#m</link>
+      </item>
+      <item>
+        <title>R to @ralexstokes: youtube.com/watch?v=Bpy_otco…</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p><a href="https://piped.video/watch?v=Bpy_otcoimw">piped.video/watch?v=Bpy_otco…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1894101040644935680%2FIsCzPebX%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 24 Feb 2025 19:04:14 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1894101043748720752#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1894101043748720752#m</link>
+      </item>
+      <item>
+        <title>mev-boost community call #12 recording is up
+
+link in reply</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>mev-boost community call #12 recording is up<br>
+<br>
+link in reply</p>]]></description>
+        <pubDate>Mon, 24 Feb 2025 19:04:13 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1894101042519806080#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1894101042519806080#m</link>
+      </item>
+      <item>
         <title>are there any mainnet contracts used in the last 3 years that _cannot_ be auto-translated to EOF?</title>
         <dc:creator>@ralexstokes</dc:creator>
         <description><![CDATA[<p>are there any mainnet contracts used in the last 3 years that _cannot_ be auto-translated to EOF?</p>]]></description>
@@ -81,7 +110,7 @@ think delimited continuation meets real-time proving</p>]]></description>
         <title>R to @ralexstokes: collective.flashbots.net/t/m…</title>
         <dc:creator>@ralexstokes</dc:creator>
         <description><![CDATA[<p><a href="https://collective.flashbots.net/t/mev-boost-community-call-12/4633">collective.flashbots.net/t/m…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1891368833367105536%2FwE9REMx7%3Fformat%3Dpng%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1892566602295459840%2F3HvOow75%3Fformat%3Dpng%26name%3D420x420_2" style="max-width:250px;" />]]></description>
         <pubDate>Mon, 10 Feb 2025 22:22:29 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ralexstokes/status/1889077504620589418#m</guid>
         <link>https://nitter.freedit.eu/ralexstokes/status/1889077504620589418#m</link>
@@ -203,40 +232,6 @@ ii) lack of longer term time horizon (e.g. to communicate commitments to users)<
         <pubDate>Wed, 22 Jan 2025 17:45:21 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ralexstokes/status/1882122393243762967#m</guid>
         <link>https://nitter.freedit.eu/ralexstokes/status/1882122393243762967#m</link>
-      </item>
-      <item>
-        <title>R to @ralexstokes: as part of this change, I’ll no longer be the team lead at ARG; @kevaundray is the new team lead, bringing his deep expertise to help ethereum grow.
-
-watch for the spectacular work coming from this group in 2025 — it’s going to be a big year as we scale the world computer.</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>as part of this change, I’ll no longer be the team lead at ARG; <a href="https://nitter.freedit.eu/kevaundray" title="Kev">@kevaundray</a> is the new team lead, bringing his deep expertise to help ethereum grow.<br>
-<br>
-watch for the spectacular work coming from this group in 2025 — it’s going to be a big year as we scale the world computer.</p>]]></description>
-        <pubDate>Tue, 14 Jan 2025 17:12:15 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1879214961207148953#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1879214961207148953#m</link>
-      </item>
-      <item>
-        <title>R to @ralexstokes: Protocol security: ensure software, specs behind the network is secure with a wide range of tools and bug bounty programs
-RIG: econ/game theory view to harden the mechanisms that make ethereum special</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>Protocol security: ensure software, specs behind the network is secure with a wide range of tools and bug bounty programs<br>
-RIG: econ/game theory view to harden the mechanisms that make ethereum special</p>]]></description>
-        <pubDate>Tue, 14 Jan 2025 17:12:15 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1879214960179638542#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1879214960179638542#m</link>
-      </item>
-      <item>
-        <title>R to @ralexstokes: Applied Research Group (ARG): help translate theory into practice
-Consensus R&amp;D: many interests focused around improving the consensus layer
-Cryptography: reduce trust at every part of the stack with fun mathematics</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>Applied Research Group (ARG): help translate theory into practice<br>
-Consensus R&amp;D: many interests focused around improving the consensus layer<br>
-Cryptography: reduce trust at every part of the stack with fun mathematics</p>]]></description>
-        <pubDate>Tue, 14 Jan 2025 17:12:15 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1879214959214907648#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1879214959214907648#m</link>
       </item>
 
   </channel>

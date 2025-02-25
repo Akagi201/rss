@@ -16,6 +16,163 @@
       <height>128</height>
     </image>
       <item>
+        <title>Which non L2 EVM chains are not supporting EIP7702 in the next two months? IMO everything with an EVM should include that EIP ASAP to 100x UX for everyone. I can help, our team is an expert. LMK.
+
+Thinking Polygon, Hyperliquid, Monad etc</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Which non L2 EVM chains are not supporting EIP7702 in the next two months? IMO everything with an EVM should include that EIP ASAP to 100x UX for everyone. I can help, our team is an expert. LMK.<br>
+<br>
+Thinking Polygon, Hyperliquid, Monad etc</p>]]></description>
+        <pubDate>Tue, 25 Feb 2025 00:35:26 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1894184396229386490#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1894184396229386490#m</link>
+      </item>
+      <item>
+        <title>R to @gakonst: What was the bug?
+
+EL clients had an issue where they forgot to add the correct Deposit contract address, which matters for Pectra Requests Hash calculation:
+- https://github.com/hyperledger/besu/pull/8346
+- https://github.com/NethermindEth/nethermind/pull/8265
+- https://github.com/ethereum/go-ethereum/pull/31247
+
+Reth and Erigon were ok.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>What was the bug?<br>
+<br>
+EL clients had an issue where they forgot to add the correct Deposit contract address, which matters for Pectra Requests Hash calculation:<br>
+- <a href="https://github.com/hyperledger/besu/pull/8346">github.com/hyperledger/besu/…</a><br>
+- <a href="https://github.com/NethermindEth/nethermind/pull/8265">github.com/NethermindEth/net…</a><br>
+- <a href="https://github.com/ethereum/go-ethereum/pull/31247">github.com/ethereum/go-ether…</a><br>
+<br>
+Reth and Erigon were ok.</p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1894174169031741441%2FTLlnDjzM%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 24 Feb 2025 23:55:58 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1894174460288356569#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1894174460288356569#m</link>
+      </item>
+      <item>
+        <title>Holesky and other testnets exist to find issues. 
+
+Excited that Reth &amp; Erigon worked well, and IMO NBD for other teams. Shit happens. We fix and keep shipping as one team. Highly recommend Reth in prod.
+
+Would it have been better had no client had a bug? 
+Sure. 
+
+Was the bug easy to find? 
+Yes. 
+
+Does it mean we should go slower? 
+No.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Holesky and other testnets exist to find issues. <br>
+<br>
+Excited that Reth & Erigon worked well, and IMO NBD for other teams. Shit happens. We fix and keep shipping as one team. Highly recommend Reth in prod.<br>
+<br>
+Would it have been better had no client had a bug? <br>
+Sure. <br>
+<br>
+Was the bug easy to find? <br>
+Yes. <br>
+<br>
+Does it mean we should go slower? <br>
+No.</p>]]></description>
+        <pubDate>Mon, 24 Feb 2025 23:53:28 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1894173832317211112#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1894173832317211112#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: We&apos;ve just released NOMT v1.0-preview. The new state database we&apos;ve been working on for a year is just about ready for production. On hardware that costs less than $1200 we have achieved &gt;50,000TPS with 100M accounts and &gt;25k TPS with 1B accounts. Full post in next tweet.</title>
+        <dc:creator>@rphmeier</dc:creator>
+        <description><![CDATA[<p>We've just released NOMT v1.0-preview. The new state database we've been working on for a year is just about ready for production. On hardware that costs less than $1200 we have achieved &gt;50,000TPS with 100M accounts and &gt;25k TPS with 1B accounts. Full post in next tweet.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkk1j_MWMAAd4ij.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 24 Feb 2025 19:16:14 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/rphmeier/status/1894104066696843638#m</guid>
+        <link>https://nitter.freedit.eu/rphmeier/status/1894104066696843638#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: monday</title>
+        <dc:creator>@ashekhirin</dc:creator>
+        <description><![CDATA[<p>monday</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkjZAb6XIAApHVD.png" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 24 Feb 2025 12:32:16 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ashekhirin/status/1894002401591312487#m</guid>
+        <link>https://nitter.freedit.eu/ashekhirin/status/1894002401591312487#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: shipped new versions of Rust crate and TS SDK  last week for pipegate 
+
+just do `cargo add pipegate` &amp; `npm i pipegate-sdk` for everything authentication and monetisation for your APIs
+
+the sdks are self-sustained, no need to use any platform and detailed docs are available 👇</title>
+        <dc:creator>@0xdhruva</dc:creator>
+        <description><![CDATA[<p>shipped new versions of Rust crate and TS SDK  last week for pipegate <br>
+<br>
+just do `cargo add pipegate` &amp; `npm i pipegate-sdk` for everything authentication and monetisation for your APIs<br>
+<br>
+the sdks are self-sustained, no need to use any platform and detailed docs are available 👇</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkjRoIIbEAAyX2T.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGkjRxxZWgAAXJoI.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 24 Feb 2025 12:07:03 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xdhruva/status/1893996056926457961#m</guid>
+        <link>https://nitter.freedit.eu/0xdhruva/status/1893996056926457961#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Two ways:
+
+1) hire 3 A people to work remotely. You pay them a lot, and they will laugh at you if you tell them they have to work weekends because as a startup you simply can&apos;t afford paying for that. Then you let _them_ get turbo autistic and work non stop because they naturally crave ownership and are proud of their work.
+
+2) hire a bunch of kids with no other responsibilities you need to constantly wrangle in an office. Some of them will turn out to be exceptional, most of them will have to be constantly micromanaged.
+
+Both can work. You can&apos;t tell me 1) doesn&apos;t work because you&apos;ve never tried and the default is to brute force 2).</title>
+        <dc:creator>@alessandrod</dc:creator>
+        <description><![CDATA[<p>Two ways:<br>
+<br>
+1) hire 3 A people to work remotely. You pay them a lot, and they will laugh at you if you tell them they have to work weekends because as a startup you simply can't afford paying for that. Then you let _them_ get turbo autistic and work non stop because they naturally crave ownership and are proud of their work.<br>
+<br>
+2) hire a bunch of kids with no other responsibilities you need to constantly wrangle in an office. Some of them will turn out to be exceptional, most of them will have to be constantly micromanaged.<br>
+<br>
+Both can work. You can't tell me 1) doesn't work because you've never tried and the default is to brute force 2).</p>]]></description>
+        <pubDate>Sun, 23 Feb 2025 07:23:02 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/alessandrod/status/1893562196170547505#m</guid>
+        <link>https://nitter.freedit.eu/alessandrod/status/1893562196170547505#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Agree to disagree on this one.
+
+As someone intense to a fault who has to actually refrain from DMing people on weekends, guarantee you that location has nothing to do with it. 
+
+The water cooler neural network thing I&apos;ve never bought. I&apos;m terminally online with some of my colleagues, and even with some people from the ecosystem I have no direct biz relationship with. IRC/discord/slack/whatever works. Write everything down. 
+
+What you need isn&apos;t an office, but high agency people who care and feel like they&apos;re going to be rewarded for their effort.
+
+I will agree that if you hire a bunch of inexperienced kids or people who just want a job and don&apos;t care, sure it might be marginally more effective to micro manage them from their desk.</title>
+        <dc:creator>@alessandrod</dc:creator>
+        <description><![CDATA[<p>Agree to disagree on this one.<br>
+<br>
+As someone intense to a fault who has to actually refrain from DMing people on weekends, guarantee you that location has nothing to do with it. <br>
+<br>
+The water cooler neural network thing I've never bought. I'm terminally online with some of my colleagues, and even with some people from the ecosystem I have no direct biz relationship with. IRC/discord/slack/whatever works. Write everything down. <br>
+<br>
+What you need isn't an office, but high agency people who care and feel like they're going to be rewarded for their effort.<br>
+<br>
+I will agree that if you hire a bunch of inexperienced kids or people who just want a job and don't care, sure it might be marginally more effective to micro manage them from their desk.</p>]]></description>
+        <pubDate>Sun, 23 Feb 2025 06:00:27 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/alessandrod/status/1893541410131059101#m</guid>
+        <link>https://nitter.freedit.eu/alessandrod/status/1893541410131059101#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Make no mistake, what we are seeing is a coordinated attack trying to undermine Ethereum’s credible neutrality.
+
+Mind you, not in reality, but in perception. Those with high context know how silly this is, but low-context observers get the impression a rollback was in the cards.</title>
+        <dc:creator>@adietrichs</dc:creator>
+        <description><![CDATA[<p>Make no mistake, what we are seeing is a coordinated attack trying to undermine Ethereum’s credible neutrality.<br>
+<br>
+Mind you, not in reality, but in perception. Those with high context know how silly this is, but low-context observers get the impression a rollback was in the cards.</p>]]></description>
+        <pubDate>Sat, 22 Feb 2025 14:18:53 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/adietrichs/status/1893304456864747864#m</guid>
+        <link>https://nitter.freedit.eu/adietrichs/status/1893304456864747864#m</link>
+      </item>
+      <item>
         <title>RT by @gakonst: Vape cabal? $1.5B? Libra? Trench warfare?
 
 Brother what are you talking about? I&apos;m busy watching the Ethereum beacon chain in the @ethPandaOps lab</title>
@@ -183,111 +340,6 @@ Want to wet your beak? 😉 DMs are open!</p>
         <pubDate>Thu, 20 Feb 2025 19:02:16 GMT</pubDate>
         <guid>https://nitter.freedit.eu/pumatheuma/status/1892651000244412562#m</guid>
         <link>https://nitter.freedit.eu/pumatheuma/status/1892651000244412562#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: Check it out yourself: https://github.com/worldcoin/world-chain/tree/main/world-chain-builder</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Check it out yourself: <a href="https://github.com/worldcoin/world-chain/tree/main/world-chain-builder">github.com/worldcoin/world-c…</a></p>]]></description>
-        <pubDate>Thu, 20 Feb 2025 18:06:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1892636919093182868#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1892636919093182868#m</link>
-      </item>
-      <item>
-        <title>Every L2 will use Reth.
-
-Reth powers the World Chain Builder which internally prioritizes transactions in the mempool that come with a proof of humanity. 
-
-Took few thousand LoC, and is only becoming easier. No forks, build for small agile teams.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Every L2 will use Reth.<br>
-<br>
-Reth powers the World Chain Builder which internally prioritizes transactions in the mempool that come with a proof of humanity. <br>
-<br>
-Took few thousand LoC, and is only becoming easier. No forks, build for small agile teams.</p>
-<p><a href="https://nitter.freedit.eu/worldcoin/status/1892582732233859084#m">nitter.freedit.eu/worldcoin/status/1892582732233859084#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkP-NryWEAAGnsq.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 20 Feb 2025 18:04:55 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1892636567010701567#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1892636567010701567#m</link>
-      </item>
-      <item>
-        <title>Account Abstraction AMA?
-
-My beef with 4337: 
-The alt mempool, paymaster/bundler separation, super general userop validation impose meaningful overheads or limitations (eg paymaster storage slot stuff) to users and devs.
-
-4337 isn&apos;t that widely adopted yet so IMO room for competing approach.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Account Abstraction AMA?<br>
-<br>
-My beef with 4337: <br>
-The alt mempool, paymaster/bundler separation, super general userop validation impose meaningful overheads or limitations (eg paymaster storage slot stuff) to users and devs.<br>
-<br>
-4337 isn't that widely adopted yet so IMO room for competing approach.</p>
-<p><a href="https://nitter.freedit.eu/ThogardPvP/status/1892603056061030883#m">nitter.freedit.eu/ThogardPvP/status/1892603056061030883#m</a></p>]]></description>
-        <pubDate>Thu, 20 Feb 2025 17:00:50 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1892620439199088763#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1892620439199088763#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: I didn&apos;t see this hyped enough but this was another cool demo from Ithaca
-
-SaaS-like payments always felt fundamentally tricky in Ethereum. Delegating it using eth_grantPermissions and then letting it execute in a Cloudflare worker on a schedule is really neat</title>
-        <dc:creator>@liamzebedee</dc:creator>
-        <description><![CDATA[<p>I didn't see this hyped enough but this was another cool demo from Ithaca<br>
-<br>
-SaaS-like payments always felt fundamentally tricky in Ethereum. Delegating it using eth_grantPermissions and then letting it execute in a Cloudflare worker on a schedule is really neat</p>
-<p><a href="https://nitter.freedit.eu/gakonst/status/1892287101129150855#m">nitter.freedit.eu/gakonst/status/1892287101129150855#m</a></p>]]></description>
-        <pubDate>Thu, 20 Feb 2025 16:34:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/liamzebedee/status/1892613703922811069#m</guid>
-        <link>https://nitter.freedit.eu/liamzebedee/status/1892613703922811069#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: paradigm.xyz/2025/02/what-co…</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p><a href="https://www.paradigm.xyz/2025/02/what-comes-after-ethereums-pectra-hard-fork">paradigm.xyz/2025/02/what-co…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1892335330604568576%2F_ts84Tw2%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 20 Feb 2025 15:25:51 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1892596535101431910#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1892596535101431910#m</link>
-      </item>
-      <item>
-        <title>the wallet selector pop up is the original sin of bad UX. which apps are opinionated and dont show it?</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>the wallet selector pop up is the original sin of bad UX. which apps are opinionated and dont show it?</p>]]></description>
-        <pubDate>Thu, 20 Feb 2025 01:46:45 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1892390402725949680#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1892390402725949680#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: EXP-0003: Application Subscriptions!
-
-Big kudos to @awkroot for putting this together in his first week at @ithacaxyz. Welcome Omar!
-
-https://www.ithaca.xyz/writings/exp-0003</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>EXP-0003: Application Subscriptions!<br>
-<br>
-Big kudos to <a href="https://nitter.freedit.eu/awkroot" title="omar">@awkroot</a> for putting this together in his first week at <a href="https://nitter.freedit.eu/ithacaxyz" title="Ithaca">@ithacaxyz</a>. Welcome Omar!<br>
-<br>
-<a href="https://www.ithaca.xyz/writings/exp-0003">ithaca.xyz/writings/exp-0003</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1892287213762990082%2FerNFYeaw%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 19 Feb 2025 18:56:42 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1892287209899979198#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1892287209899979198#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: The API is _really_ powerful &amp; simple.
-
-https://github.com/ithacaxyz/porto</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>The API is _really_ powerful &amp; simple.<br>
-<br>
-<a href="https://github.com/ithacaxyz/porto">github.com/ithacaxyz/porto</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkLBLZ6bUAEN8Ne.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 19 Feb 2025 18:56:39 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1892287197703000520#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1892287197703000520#m</link>
       </item>
 
   </channel>

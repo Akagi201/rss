@@ -16,6 +16,33 @@
       <height>128</height>
     </image>
       <item>
+        <title>another interaction between ethereum scaling and inflation rate: the base fee threshold for achieving ultrasound deflation is **inversely proportional to the gas limit**
+
+the current threshold is 19.8 gwei. if the gas limit were doubled, this threshold would be cut in half</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>another interaction between ethereum scaling and inflation rate: the base fee threshold for achieving ultrasound deflation is **inversely proportional to the gas limit**<br>
+<br>
+the current threshold is 19.8 gwei. if the gas limit were doubled, this threshold would be cut in half</p>
+<p><a href="https://nitter.freedit.eu/notnotstorm/status/1893905777699533018#m">nitter.freedit.eu/notnotstorm/status/1893905777699533018#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGklKwo7aUAA221Y.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 24 Feb 2025 20:51:23 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1894128009189495036#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1894128009189495036#m</link>
+      </item>
+      <item>
+        <title>subtle point: due to the mechanics of EIP-1559, ethereum does **not** become deflationary once a certain volume threshold is met. volume over time is actually constant by design
+
+instead, ethereum becomes deflationary when demand  reaches a certain threshold (demand = base fees)</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>subtle point: due to the mechanics of EIP-1559, ethereum does **not** become deflationary once a certain volume threshold is met. volume over time is actually constant by design<br>
+<br>
+instead, ethereum becomes deflationary when demand  reaches a certain threshold (demand = base fees)</p>
+<p><a href="https://nitter.freedit.eu/colludingnode/status/1893795151832658111#m">nitter.freedit.eu/colludingnode/status/1893795151832658111#m</a></p>]]></description>
+        <pubDate>Mon, 24 Feb 2025 06:08:19 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1893905777699533018#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1893905777699533018#m</link>
+      </item>
+      <item>
         <title>someone in a @molly0xFFF reply thread asked me, what are 10 plausible/beneficial use cases for blockchains?
 
 here are 10:
@@ -44,8 +71,7 @@ here are 10:<br>
 7. services like <a href="https://nitter.freedit.eu/chainlink" title="Chainlink">@chainlink</a> can provide verifiable randomness to ensure that competitive/adversarial environments are fair, like ensuring that the superbowl coinflip isnt rigged<br>
 8. crypto art marketplaces like <a href="https://nitter.freedit.eu/foundation" title="Foundation 🌐">@foundation</a> are one of the only places for digital artists to make significant money from their work, and these marketplaces also foster a culture of explicitly valuing artists instead of just using them to train AI<br>
 9. storing your crypto in a hardware wallet like <a href="https://nitter.freedit.eu/Ledger" title="Ledger">@Ledger</a> prevents your government from seizing your assets when you exercise your right to protest, like what the canadian government recently did during the trucker protests<br>
-10. blockchain-based DNS services like <a href="https://nitter.freedit.eu/ensdomains" title="ens.eth">@ensdomains</a> provide a better system for securing domain names and they cut out the value-extracting domain registrar middlemen</p>
-<p><a href="https://nitter.freedit.eu/CamFantastic1/status/1893058749348081825#m">nitter.freedit.eu/CamFantastic1/status/1893058749348081825#m</a></p>]]></description>
+10. blockchain-based DNS services like <a href="https://nitter.freedit.eu/ensdomains" title="ens.eth">@ensdomains</a> provide a better system for securing domain names and they cut out the value-extracting domain registrar middlemen</p>]]></description>
         <pubDate>Fri, 21 Feb 2025 23:11:18 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1893076056523055335#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1893076056523055335#m</link>
@@ -140,7 +166,7 @@ if this interests you, check out the discussion of the EIP here https://ethereum
 if this interests you, check out the discussion of the EIP here <a href="https://ethereum-magicians.org/t/eip-xxxx-increase-gas-utilization-target/22815">ethereum-magicians.org/t/eip…</a><br>
 <br>
 🌱→🌲</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1889955952415363072%2FGMTmF5DN%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1892495089454481408%2FLxUhQKKs%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
         <pubDate>Mon, 10 Feb 2025 16:44:49 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1888992531360473423#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1888992531360473423#m</link>
@@ -236,12 +262,12 @@ discuss the EIP here https://ethereum-magicians.org/t/eip-xxxx-increase-gas-util
         <dc:creator>@notnotstorm</dc:creator>
         <description><![CDATA[<p>this is a low hanging fruit for safely scaling ethereum<br>
 <br>
-big thanks to <a href="https://nitter.freedit.eu/nero_eth" title="Toni Wahrstätter ⟠">@nero_eth</a> <a href="https://nitter.freedit.eu/barnabemonnot" title="barnabe.eth">@barnabemonnot</a> <a href="https://nitter.freedit.eu/malleshpai" title="Mallesh Pai">@malleshpai</a> <a href="https://nitter.freedit.eu/Data_Always" title="dataalways.eth">@Data_Always</a> <a href="https://nitter.freedit.eu/ciamac" title="ciamac moallemi">@ciamac</a> for initial feedback<br>
+big thanks to <a href="https://nitter.freedit.eu/nero_eth" title="Toni Wahrstätter ⟠">@nero_eth</a> <a href="https://nitter.freedit.eu/barnabemonnot" title="barnabe.eth">@barnabemonnot</a> <a href="https://nitter.freedit.eu/malleshpai" title="Mallesh Pai">@malleshpai</a> <a href="https://nitter.freedit.eu/Data_Always" title="dataalways.eth ⚡️🤖">@Data_Always</a> <a href="https://nitter.freedit.eu/ciamac" title="ciamac moallemi">@ciamac</a> for initial feedback<br>
 <br>
 discuss the EIP here <a href="https://ethereum-magicians.org/t/eip-xxxx-increase-gas-utilization-target/22815">ethereum-magicians.org/t/eip…</a><br>
 <br>
 🌱→🌲</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1889955952415363072%2FGMTmF5DN%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1892495089454481408%2FLxUhQKKs%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
         <pubDate>Mon, 10 Feb 2025 16:44:47 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1888992523076735308#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1888992523076735308#m</link>
@@ -297,40 +323,6 @@ opcodes need to be priced for the worst case resource load in order to prevent D
         <pubDate>Mon, 10 Feb 2025 16:44:46 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1888992518278385841#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1888992518278385841#m</link>
-      </item>
-      <item>
-        <title>there’s a new EIP for scaling ethereum. it:
-- increases blockspace by FIFTY percent
-- does NOT increase the gas limit or DoS risk
-- is TRIVIAL to implement
-
-details 👇</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>there’s a new EIP for scaling ethereum. it:<br>
-- increases blockspace by FIFTY percent<br>
-- does NOT increase the gas limit or DoS risk<br>
-- is TRIVIAL to implement<br>
-<br>
-details 👇</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjcMGbga8AAlX0Z.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 10 Feb 2025 16:44:46 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992516558704898#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1888992516558704898#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: data from @hildobby_&apos;s blob dash. can scoop the data easily with spice:
-
-import spice
-blob_fees = spice.query(&apos;https://dune.com/queries/4104427&apos;)</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>data from <a href="https://nitter.freedit.eu/hildobby_" title="hildobby">@hildobby_</a>'s blob dash. can scoop the data easily with spice:<br>
-<br>
-import spice<br>
-blob_fees = spice.query('<a href="https://dune.com/queries/4104427">dune.com/queries/4104427</a>')</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1892270808120381441%2F1R7YTaws%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 05 Feb 2025 23:54:10 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1887288640679899408#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1887288640679899408#m</link>
       </item>
 
   </channel>

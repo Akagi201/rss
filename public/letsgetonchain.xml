@@ -16,6 +16,27 @@
       <height>128</height>
     </image>
       <item>
+        <title>Should I give civilization 7 a go?</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Should I give civilization 7 a go?</p>]]></description>
+        <pubDate>Tue, 25 Feb 2025 12:04:37 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1894357831672897681#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1894357831672897681#m</link>
+      </item>
+      <item>
+        <title>When running multiple clients, does detecting a bug in less than ~12 min (before finalization) and shutting down enough validators running the buggy client (below supermajority), prevent bugs from becoming forks that need to be resolved through social consensus and instead resolve as a simple reorg? 
+
+Seems like the importance to monitor and identify who is wrong as well as communicating that to the right validators in less than 12 minutes in order for them to shut down is really big. How does that coordination work ? @TimBeiko @sassal0x</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>When running multiple clients, does detecting a bug in less than ~12 min (before finalization) and shutting down enough validators running the buggy client (below supermajority), prevent bugs from becoming forks that need to be resolved through social consensus and instead resolve as a simple reorg? <br>
+<br>
+Seems like the importance to monitor and identify who is wrong as well as communicating that to the right validators in less than 12 minutes in order for them to shut down is really big. How does that coordination work ? <a href="https://nitter.freedit.eu/TimBeiko" title="timbeiko.eth">@TimBeiko</a> <a href="https://nitter.freedit.eu/sassal0x" title="sassal.eth/acc 🦇🔊">@sassal0x</a></p>
+<p><a href="https://nitter.freedit.eu/ethStaker/status/1894171709667750389#m">nitter.freedit.eu/ethStaker/status/1894171709667750389#m</a></p>]]></description>
+        <pubDate>Tue, 25 Feb 2025 09:44:54 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1894322672554680424#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1894322672554680424#m</link>
+      </item>
+      <item>
         <title>My own little pectra upgrade came early !
 
 Bullish that my boys will grow up in a world where trustless permissionless compute is accessible 
@@ -327,28 +348,6 @@ Tell me what i don't know, link anything I have to read and know! Cheers!</p>]]>
         <pubDate>Tue, 11 Feb 2025 13:57:26 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312792693375084#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1889312792693375084#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: Here is a visual about how that might look like on the wallet level:</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Here is a visual about how that might look like on the wallet level:</p>
-<p><a href="https://nitter.freedit.eu/spacemonkey127/status/1853380559948382336#m">nitter.freedit.eu/spacemonkey127/status/1853380559948382336#m</a></p>]]></description>
-        <pubDate>Tue, 11 Feb 2025 13:57:25 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312789233074399#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312789233074399#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: 11/ Back to our example of depositing into aave on base or swapping cross chain, all the user has to do is to sign a single UserOp which gets instantly executed!
-
-How? The solver can execute it immediately on destination chain. The paymaster can then claim it back form the CAB risk free.</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>11/ Back to our example of depositing into aave on base or swapping cross chain, all the user has to do is to sign a single UserOp which gets instantly executed!<br>
-<br>
-How? The solver can execute it immediately on destination chain. The paymaster can then claim it back form the CAB risk free.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjgvoFpXwAE7diA.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 11 Feb 2025 13:57:24 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312786959773965#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312786959773965#m</link>
       </item>
 
   </channel>

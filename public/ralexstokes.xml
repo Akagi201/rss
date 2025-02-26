@@ -16,6 +16,44 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @ralexstokes: Quick Holesky incident update: 
+
+- EL config issue is fixed, releases out
+- CL clients struggle to sync, working on patches, some are being tested right now
+- We expect to save Holesky by building on the minority chain 🤞
+
+ACD check-in scheduled for 14:00 UTC tomorrow 🫡</title>
+        <dc:creator>@TimBeiko</dc:creator>
+        <description><![CDATA[<p>Quick Holesky incident update: <br>
+<br>
+- EL config issue is fixed, releases out<br>
+- CL clients struggle to sync, working on patches, some are being tested right now<br>
+- We expect to save Holesky by building on the minority chain 🤞<br>
+<br>
+ACD check-in scheduled for 14:00 UTC tomorrow 🫡</p>
+<p><a href="https://nitter.freedit.eu/parithosh_j/status/1894236676567785814#m">nitter.freedit.eu/parithosh_j/status/1894236676567785814#m</a></p>]]></description>
+        <pubDate>Tue, 25 Feb 2025 19:39:03 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/TimBeiko/status/1894472196464197917#m</guid>
+        <link>https://nitter.freedit.eu/TimBeiko/status/1894472196464197917#m</link>
+      </item>
+      <item>
+        <title>excellent summary of today’s holesky situation</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>excellent summary of today’s holesky situation</p>
+<p><a href="https://nitter.freedit.eu/parithosh_j/status/1894236676567785814#m">nitter.freedit.eu/parithosh_j/status/1894236676567785814#m</a></p>]]></description>
+        <pubDate>Tue, 25 Feb 2025 04:10:13 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1894238447042531617#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1894238447042531617#m</link>
+      </item>
+      <item>
+        <title>reminder that proof-of-stake validation (along w/ the rewards &quot;yield&quot;) is _NOT_ risk-free</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>reminder that proof-of-stake validation (along w/ the rewards "yield") is _NOT_ risk-free</p>]]></description>
+        <pubDate>Tue, 25 Feb 2025 03:33:46 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1894229271381504403#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1894229271381504403#m</link>
+      </item>
+      <item>
         <title>complexity bad</title>
         <dc:creator>@ralexstokes</dc:creator>
         <description><![CDATA[<p>complexity bad</p>]]></description>
@@ -191,47 +229,6 @@ Assuming Sepolia goes smoothly, we'll pick the mainnet slot on the March 6 ACD c
         <pubDate>Fri, 24 Jan 2025 14:01:17 GMT</pubDate>
         <guid>https://nitter.freedit.eu/fradamt/status/1882790781536383363#m</guid>
         <link>https://nitter.freedit.eu/fradamt/status/1882790781536383363#m</link>
-      </item>
-      <item>
-        <title>Ethereum is an economic zone, connecting all other economic zones.</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>Ethereum is an economic zone, connecting all other economic zones.</p>
-<p><a href="https://nitter.freedit.eu/balajis/status/1882320154358604083#m">nitter.freedit.eu/balajis/status/1882320154358604083#m</a></p>]]></description>
-        <pubDate>Thu, 23 Jan 2025 15:25:49 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1882449667964965297#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1882449667964965297#m</link>
-      </item>
-      <item>
-        <title>nice post from @protolambda to streamline blob-throughput increases in the core protocol -- check it out!
-
-https://ethereum-magicians.org/t/blob-parameter-only-bpo-forks/22623</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>nice post from <a href="https://nitter.freedit.eu/protolambda" title="proto.eth">@protolambda</a> to streamline blob-throughput increases in the core protocol -- check it out!<br>
-<br>
-<a href="https://ethereum-magicians.org/t/blob-parameter-only-bpo-forks/22623">ethereum-magicians.org/t/blo…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1889955952415363072%2FGMTmF5DN%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 23 Jan 2025 14:52:31 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1882441286843842964#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1882441286843842964#m</link>
-      </item>
-      <item>
-        <title>genuinely curious to hear what we should do to improve ACD (dm&apos;s open!)
-
-i&apos;ve seen primarily two weak points from the recent discourse
-
-i) latency of decision making and deployment pipeline
-ii) lack of longer term time horizon (e.g. to communicate commitments to users)</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>genuinely curious to hear what we should do to improve ACD (dm's open!)<br>
-<br>
-i've seen primarily two weak points from the recent discourse<br>
-<br>
-i) latency of decision making and deployment pipeline<br>
-ii) lack of longer term time horizon (e.g. to communicate commitments to users)</p>
-<p><a href="https://nitter.freedit.eu/iamDCinvestor/status/1882103284913332364#m">nitter.freedit.eu/iamDCinvestor/status/1882103284913332364#m</a></p>]]></description>
-        <pubDate>Wed, 22 Jan 2025 17:45:21 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1882122393243762967#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1882122393243762967#m</link>
       </item>
 
   </channel>

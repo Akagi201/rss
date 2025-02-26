@@ -16,6 +16,33 @@
       <height>128</height>
     </image>
       <item>
+        <title>getzola / zola: A fast static site generator in a single binary with everything built-in. https://www.getzola.org ★14834 https://github.com/getzola/zola</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>getzola / zola: A fast static site generator in a single binary with everything built-in. <a href="https://www.getzola.org">getzola.org</a> ★14834 <a href="https://github.com/getzola/zola">github.com/getzola/zola</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1894526649678385152%2Fn6WRJJGU%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 25 Feb 2025 05:19:19 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1894255834240282736#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1894255834240282736#m</link>
+      </item>
+      <item>
+        <title>louis-e / arnis: Generate any location from the real world in Minecraft Java Edition with a high level of detail. ★6301 https://github.com/louis-e/arnis</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>louis-e / arnis: Generate any location from the real world in Minecraft Java Edition with a high level of detail. ★6301 <a href="https://github.com/louis-e/arnis">github.com/louis-e/arnis</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1892452464994967552%2Ff7DOxhBW%3Fformat%3Dpng%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 25 Feb 2025 04:19:14 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1894240715905143100#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1894240715905143100#m</link>
+      </item>
+      <item>
+        <title>tw93 / Pake: 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 ★35186 https://github.com/tw93/Pake</title>
+        <dc:creator>@RustTrending</dc:creator>
+        <description><![CDATA[<p>tw93 / Pake: 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 ★35186 <a href="https://github.com/tw93/Pake">github.com/tw93/Pake</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1893112224698507266%2FoG03ca_v%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 25 Feb 2025 03:19:10 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RustTrending/status/1894225598383587666#m</guid>
+        <link>https://nitter.freedit.eu/RustTrending/status/1894225598383587666#m</link>
+      </item>
+      <item>
         <title>bevyengine / bevy: A refreshingly simple data-driven game engine built in Rust ★38094 https://github.com/bevyengine/bevy</title>
         <dc:creator>@RustTrending</dc:creator>
         <description><![CDATA[<p>bevyengine / bevy: A refreshingly simple data-driven game engine built in Rust ★38094 <a href="https://github.com/bevyengine/bevy">github.com/bevyengine/bevy</a></p>
@@ -37,7 +64,7 @@
         <title>getzola / zola: A fast static site generator in a single binary with everything built-in. https://www.getzola.org ★14833 https://github.com/getzola/zola</title>
         <dc:creator>@RustTrending</dc:creator>
         <description><![CDATA[<p>getzola / zola: A fast static site generator in a single binary with everything built-in. <a href="https://www.getzola.org">getzola.org</a> ★14833 <a href="https://github.com/getzola/zola">github.com/getzola/zola</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1891989899516993536%2FxWyzmBHm%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1894526649678385152%2Fn6WRJJGU%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Tue, 25 Feb 2025 00:58:06 GMT</pubDate>
         <guid>https://nitter.freedit.eu/RustTrending/status/1894190099728142697#m</guid>
         <link>https://nitter.freedit.eu/RustTrending/status/1894190099728142697#m</link>
@@ -167,33 +194,6 @@
         <pubDate>Sun, 23 Feb 2025 20:13:04 GMT</pubDate>
         <guid>https://nitter.freedit.eu/RustTrending/status/1893755980468670900#m</guid>
         <link>https://nitter.freedit.eu/RustTrending/status/1893755980468670900#m</link>
-      </item>
-      <item>
-        <title>libp2p / rust-libp2p: The Rust Implementation of the libp2p networking stack. ★4827 https://github.com/libp2p/rust-libp2p</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>libp2p / rust-libp2p: The Rust Implementation of the libp2p networking stack. ★4827 <a href="https://github.com/libp2p/rust-libp2p">github.com/libp2p/rust-libp2…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1894122117811376130%2Fy-FWLr0i%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 23 Feb 2025 19:12:58 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1893740853644140888#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1893740853644140888#m</link>
-      </item>
-      <item>
-        <title>AppFlowy-IO / AppFlowy-Cloud: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. ★1307 https://github.com/AppFlowy-IO/AppFlowy-Cloud</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>AppFlowy-IO / AppFlowy-Cloud: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. ★1307 <a href="https://github.com/AppFlowy-IO/AppFlowy-Cloud">github.com/AppFlowy-IO/AppFl…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1892702682403483648%2FNir4NPFi%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 23 Feb 2025 18:12:53 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1893725735086617080#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1893725735086617080#m</link>
-      </item>
-      <item>
-        <title>qarmin / czkawka: Multi functional app to find duplicates, empty folders, similar images etc. ★22146 https://github.com/qarmin/czkawka</title>
-        <dc:creator>@RustTrending</dc:creator>
-        <description><![CDATA[<p>qarmin / czkawka: Multi functional app to find duplicates, empty folders, similar images etc. ★22146 <a href="https://github.com/qarmin/czkawka">github.com/qarmin/czkawka</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1892446391211085826%2FaDU95Fhq%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 23 Feb 2025 17:12:49 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/RustTrending/status/1893710616822682009#m</guid>
-        <link>https://nitter.freedit.eu/RustTrending/status/1893710616822682009#m</link>
       </item>
 
   </channel>

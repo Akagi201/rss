@@ -16,6 +16,16 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @gakonst: Reth validators are on the correct fork and started successfully proposing new blocks too 🫡</title>
+        <dc:creator>@ashekhirin</dc:creator>
+        <description><![CDATA[<p>Reth validators are on the correct fork and started successfully proposing new blocks too 🫡</p>
+<p><a href="https://nitter.freedit.eu/M25Marek/status/1894527742864994672#m">nitter.freedit.eu/M25Marek/status/1894527742864994672#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGkrDkFCXYAASmQ2.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 26 Feb 2025 00:18:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ashekhirin/status/1894542532299702379#m</guid>
+        <link>https://nitter.freedit.eu/ashekhirin/status/1894542532299702379#m</link>
+      </item>
+      <item>
         <title>Which non L2 EVM chains are not supporting EIP7702 in the next two months? IMO everything with an EVM should include that EIP ASAP to 100x UX for everyone. I can help, our team is an expert. LMK.
 
 Thinking Polygon, Hyperliquid, Monad etc</title>
@@ -307,39 +317,6 @@ Scale the L2s. Upgrade the EVM. Decouple shipping from scoping from researching.
         <pubDate>Thu, 20 Feb 2025 15:25:48 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1892596522015232283#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1892596522015232283#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: With OP Succinct Lite, we now have a ZK fraud proof offering—perfect for customers that are ZK-curious and want to upgrade their fault proofs to a better solution (on the way to full ZK).
-
-It is time we leave interactive fault proofs behind. 
-
-They are dinosaur technology, and with the rise of performant zkVMs like SP1, there is no reason to maintain complicated codebases of 1000s of LOC devoted to inferior tech.
-
-ZK Fault Proofs give us:
-• A simple 1-step dispute process, which can allow for reduced withdrawal windows
-• Greatly reduced bond requirements (from 1000s of ETH to 10s of ETH)
-• Greatly simplified onchain logic and codebases for rollup frameworks
-• A path to full ZK!
-
-Want to wet your beak? 😉 DMs are open!</title>
-        <dc:creator>@pumatheuma</dc:creator>
-        <description><![CDATA[<p>With OP Succinct Lite, we now have a ZK fraud proof offering—perfect for customers that are ZK-curious and want to upgrade their fault proofs to a better solution (on the way to full ZK).<br>
-<br>
-It is time we leave interactive fault proofs behind. <br>
-<br>
-They are dinosaur technology, and with the rise of performant zkVMs like SP1, there is no reason to maintain complicated codebases of 1000s of LOC devoted to inferior tech.<br>
-<br>
-ZK Fault Proofs give us:<br>
-• A simple 1-step dispute process, which can allow for reduced withdrawal windows<br>
-• Greatly reduced bond requirements (from 1000s of ETH to 10s of ETH)<br>
-• Greatly simplified onchain logic and codebases for rollup frameworks<br>
-• A path to full ZK!<br>
-<br>
-Want to wet your beak? 😉 DMs are open!</p>
-<p><a href="https://nitter.freedit.eu/SuccinctLabs/status/1892638797487092126#m">nitter.freedit.eu/SuccinctLabs/status/1892638797487092126#m</a></p>]]></description>
-        <pubDate>Thu, 20 Feb 2025 19:02:16 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/pumatheuma/status/1892651000244412562#m</guid>
-        <link>https://nitter.freedit.eu/pumatheuma/status/1892651000244412562#m</link>
       </item>
 
   </channel>

@@ -16,6 +16,41 @@
       <height>128</height>
     </image>
       <item>
+        <title>some of the most useful offchain datasets in crypto:
+1. flashbots mempool dumpster (s/o @metachris)
+2. @verifalliance / @SourcifyEth contract databases
+3. @ElectricCapital crypto repo collection
+4. @ethPandaOps xatu datasets
+5. @mr_ligi&apos;s chain list</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>some of the most useful offchain datasets in crypto:<br>
+1. flashbots mempool dumpster (s/o <a href="https://nitter.freedit.eu/metachris" title="Chris Hager ⚡🤖">@metachris</a>)<br>
+2. <a href="https://nitter.freedit.eu/verifalliance" title="VERA">@verifalliance</a> / <a href="https://nitter.freedit.eu/SourcifyEth" title="sourcify.eth">@SourcifyEth</a> contract databases<br>
+3. <a href="https://nitter.freedit.eu/ElectricCapital" title="Electric Capital ⚡️">@ElectricCapital</a> crypto repo collection<br>
+4. <a href="https://nitter.freedit.eu/ethPandaOps" title="ethPandaOps">@ethPandaOps</a> xatu datasets<br>
+5. <a href="https://nitter.freedit.eu/mr_ligi" title="ligi ☮️🌍🚲🌳🍵🎶🌶🔥🖖">@mr_ligi</a>'s chain list</p>
+<p><a href="https://nitter.freedit.eu/elenahoolu/status/1895134000349327863#m">nitter.freedit.eu/elenahoolu/status/1895134000349327863#m</a></p>]]></description>
+        <pubDate>Thu, 27 Feb 2025 19:31:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1895195083999523181#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1895195083999523181#m</link>
+      </item>
+      <item>
+        <title>RT by @notnotstorm: .@zachxbt is a legend, using onchain forensics to keep bad actors accountable. He has returned over $350M to victims of hacks and scams. This is increasingly important as the industry grows.
+
+We’re excited for zachxbt to be joining Paradigm as an advisor.
+
+Nothing about his focus will change; we just want to support his ability to keep up the good work.</title>
+        <dc:creator>@matthuang</dc:creator>
+        <description><![CDATA[<p>.<a href="https://nitter.freedit.eu/zachxbt" title="ZachXBT">@zachxbt</a> is a legend, using onchain forensics to keep bad actors accountable. He has returned over $350M to victims of hacks and scams. This is increasingly important as the industry grows.<br>
+<br>
+We’re excited for zachxbt to be joining Paradigm as an advisor.<br>
+<br>
+Nothing about his focus will change; we just want to support his ability to keep up the good work.</p>]]></description>
+        <pubDate>Wed, 26 Feb 2025 15:31:31 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/matthuang/status/1894772290837176467#m</guid>
+        <link>https://nitter.freedit.eu/matthuang/status/1894772290837176467#m</link>
+      </item>
+      <item>
         <title>another interaction between ethereum scaling and inflation rate: the base fee threshold for achieving ultrasound deflation is **inversely proportional to the gas limit**
 
 the current threshold is 19.8 gwei. if the gas limit were doubled, this threshold would be cut in half</title>
@@ -166,7 +201,7 @@ if this interests you, check out the discussion of the EIP here https://ethereum
 if this interests you, check out the discussion of the EIP here <a href="https://ethereum-magicians.org/t/eip-xxxx-increase-gas-utilization-target/22815">ethereum-magicians.org/t/eip…</a><br>
 <br>
 🌱→🌲</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1892495089454481408%2FG2zbOLee%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1892495089454481408%2FuTyBOXJF%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
         <pubDate>Mon, 10 Feb 2025 16:44:49 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1888992531360473423#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1888992531360473423#m</link>
@@ -267,7 +302,7 @@ big thanks to <a href="https://nitter.freedit.eu/nero_eth" title="Toni Wahrstät
 discuss the EIP here <a href="https://ethereum-magicians.org/t/eip-xxxx-increase-gas-utilization-target/22815">ethereum-magicians.org/t/eip…</a><br>
 <br>
 🌱→🌲</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1892495089454481408%2FG2zbOLee%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1892495089454481408%2FuTyBOXJF%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
         <pubDate>Mon, 10 Feb 2025 16:44:47 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1888992523076735308#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1888992523076735308#m</link>
@@ -299,30 +334,6 @@ this is today’s EIP ⛽🎯 it is a simple parameter change that could easily 
         <pubDate>Mon, 10 Feb 2025 16:44:47 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1888992520660730217#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1888992520660730217#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: EIP-1559’s current parameterization forces the network to overprovision resources by an extra factor of 2, because the gas utilization target is only 50% of the gas limit
-
-this widens the gap between worst case and average case</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>EIP-1559’s current parameterization forces the network to overprovision resources by an extra factor of 2, because the gas utilization target is only 50% of the gas limit<br>
-<br>
-this widens the gap between worst case and average case</p>]]></description>
-        <pubDate>Mon, 10 Feb 2025 16:44:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992519503114548#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1888992519503114548#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: the core issue = the gap between ethereum’s worst case load and its average case load
-
-opcodes need to be priced for the worst case resource load in order to prevent DoS attacks. meanwhile, the average case load is where the network spends most of its time</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>the core issue = the gap between ethereum’s worst case load and its average case load<br>
-<br>
-opcodes need to be priced for the worst case resource load in order to prevent DoS attacks. meanwhile, the average case load is where the network spends most of its time</p>]]></description>
-        <pubDate>Mon, 10 Feb 2025 16:44:46 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992518278385841#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1888992518278385841#m</link>
       </item>
 
   </channel>

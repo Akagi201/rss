@@ -16,6 +16,140 @@
       <height>128</height>
     </image>
       <item>
+        <title>We must scale DA on Ethereum in 2025, or the L2s will move to other chains. 
+
+If L2s also issue stablecoins or other RWAs directly vs via the L1, then that migration will be even easier and more painful for Ethereum.
+
+Scale the consensus layer!</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>We must scale DA on Ethereum in 2025, or the L2s will move to other chains. <br>
+<br>
+If L2s also issue stablecoins or other RWAs directly vs via the L1, then that migration will be even easier and more painful for Ethereum.<br>
+<br>
+Scale the consensus layer!</p>]]></description>
+        <pubDate>Fri, 28 Feb 2025 01:09:30 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1895280132497223972#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1895280132497223972#m</link>
+      </item>
+      <item>
+        <title>L2s can always be faster than L1s because they can provide safety of user funds without losing performance via a global network of validators.
+
+If an L2 isn&apos;t faster than an L1, it&apos;s a temporary bug.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>L2s can always be faster than L1s because they can provide safety of user funds without losing performance via a global network of validators.<br>
+<br>
+If an L2 isn't faster than an L1, it's a temporary bug.</p>]]></description>
+        <pubDate>Fri, 28 Feb 2025 01:00:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1895277924611510583#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1895277924611510583#m</link>
+      </item>
+      <item>
+        <title>Flashblocks by Flashbots are awesome. 
+
+250ms is a constant in the code. it could be lower bc no state root calculation overhead. the lower you go the closer to first come first serve, so you don&apos;t want it to be per tx to allow other ordering rules eg prio ordering.
+
+Built on Reth 🫡.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Flashblocks by Flashbots are awesome. <br>
+<br>
+250ms is a constant in the code. it could be lower bc no state root calculation overhead. the lower you go the closer to first come first serve, so you don't want it to be per tx to allow other ordering rules eg prio ordering.<br>
+<br>
+Built on Reth 🫡.</p>
+<p><a href="https://nitter.freedit.eu/buildonbase/status/1895223243713458184#m">nitter.freedit.eu/buildonbase/status/1895223243713458184#m</a></p>]]></description>
+        <pubDate>Fri, 28 Feb 2025 00:56:40 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1895276902203695568#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1895276902203695568#m</link>
+      </item>
+      <item>
+        <title>Conduit is and will continue to be the best option for apps wanting to launch their own L2s.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Conduit is and will continue to be the best option for apps wanting to launch their own L2s.</p>
+<p><a href="https://nitter.freedit.eu/conduitxyz/status/1895169617435537514#m">nitter.freedit.eu/conduitxyz/status/1895169617435537514#m</a></p>]]></description>
+        <pubDate>Thu, 27 Feb 2025 20:07:58 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1895204249770041527#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1895204249770041527#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: blog.base.dev/achieving-more…</title>
+        <dc:creator>@aflock</dc:creator>
+        <description><![CDATA[<p><a href="https://blog.base.dev/achieving-more-blob-space-in-2025">blog.base.dev/achieving-more…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1895173431152517125%2FEquZ5y_j%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 27 Feb 2025 18:07:21 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/aflock/status/1895173892949582167#m</guid>
+        <link>https://nitter.freedit.eu/aflock/status/1895173892949582167#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: It&apos;s time to execute together - Base believes we can and must get to 50 blobs or more by end of year, and we have a plan to do it. 
+
+blob/acc</title>
+        <dc:creator>@aflock</dc:creator>
+        <description><![CDATA[<p>It's time to execute together - Base believes we can and must get to 50 blobs or more by end of year, and we have a plan to do it. <br>
+<br>
+blob/acc</p>]]></description>
+        <pubDate>Thu, 27 Feb 2025 18:07:21 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/aflock/status/1895173891942949133#m</guid>
+        <link>https://nitter.freedit.eu/aflock/status/1895173891942949133#m</link>
+      </item>
+      <item>
+        <title>For developers wanting to test out Pectra, remember we have Odyssey with EIP7702 enabled!
+
+https://www.ithaca.xyz/updates/odyssey</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>For developers wanting to test out Pectra, remember we have Odyssey with EIP7702 enabled!<br>
+<br>
+<a href="https://www.ithaca.xyz/updates/odyssey">ithaca.xyz/updates/odyssey</a></p>
+<p><a href="https://nitter.freedit.eu/christine_dkim/status/1895150027011510707#m">nitter.freedit.eu/christine_dkim/status/1895150027011510707#m</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1892287213762990082%2FPe_ittd2%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 27 Feb 2025 18:51:51 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1895185092219388395#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1895185092219388395#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: why can&apos;t hardware wallets like @Ledger decode the vast majority of transactions in 2025? isn&apos;t it as easy as storing a function selector database and picking the one that matches the calldata the most? Need to blind-sign everything. From a UX perspective, the firmware &amp; apps haven&apos;t evolved since I first used them in 2017.</title>
+        <dc:creator>@cmichelio</dc:creator>
+        <description><![CDATA[<p>why can't hardware wallets like <a href="https://nitter.freedit.eu/Ledger" title="Ledger">@Ledger</a> decode the vast majority of transactions in 2025? isn't it as easy as storing a function selector database and picking the one that matches the calldata the most? Need to blind-sign everything. From a UX perspective, the firmware & apps haven't evolved since I first used them in 2017.</p>]]></description>
+        <pubDate>Thu, 27 Feb 2025 06:03:45 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/cmichelio/status/1894991792002773224#m</guid>
+        <link>https://nitter.freedit.eu/cmichelio/status/1894991792002773224#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Race to the top of the block, highest score wins. Come participate in the PBH CTF event.
+
+https://github.com/worldcoin/pbh-ctf</title>
+        <dc:creator>@0xKitsune</dc:creator>
+        <description><![CDATA[<p>Race to the top of the block, highest score wins. Come participate in the PBH CTF event.<br>
+<br>
+<a href="https://github.com/worldcoin/pbh-ctf">github.com/worldcoin/pbh-ctf</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1895000789879529473%2FPegZO8hc%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 27 Feb 2025 06:40:57 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xKitsune/status/1895001154045784096#m</guid>
+        <link>https://nitter.freedit.eu/0xKitsune/status/1895001154045784096#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: SEAL was founded in our offices by @samczsun</title>
+        <dc:creator>@matthuang</dc:creator>
+        <description><![CDATA[<p>SEAL was founded in our offices by <a href="https://nitter.freedit.eu/samczsun" title="samczsun">@samczsun</a></p>]]></description>
+        <pubDate>Wed, 26 Feb 2025 15:56:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/matthuang/status/1894778655781626137#m</guid>
+        <link>https://nitter.freedit.eu/matthuang/status/1894778655781626137#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: .@zachxbt is a legend, using onchain forensics to keep bad actors accountable. He has returned over $350M to victims of hacks and scams. This is increasingly important as the industry grows.
+
+We’re excited for zachxbt to be joining Paradigm as an advisor.
+
+Nothing about his focus will change; we just want to support his ability to keep up the good work.</title>
+        <dc:creator>@matthuang</dc:creator>
+        <description><![CDATA[<p>.<a href="https://nitter.freedit.eu/zachxbt" title="ZachXBT">@zachxbt</a> is a legend, using onchain forensics to keep bad actors accountable. He has returned over $350M to victims of hacks and scams. This is increasingly important as the industry grows.<br>
+<br>
+We’re excited for zachxbt to be joining Paradigm as an advisor.<br>
+<br>
+Nothing about his focus will change; we just want to support his ability to keep up the good work.</p>]]></description>
+        <pubDate>Wed, 26 Feb 2025 15:31:31 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/matthuang/status/1894772290837176467#m</guid>
+        <link>https://nitter.freedit.eu/matthuang/status/1894772290837176467#m</link>
+      </item>
+      <item>
         <title>RT by @gakonst: Reth validators are on the correct fork and started successfully proposing new blocks too 🫡</title>
         <dc:creator>@ashekhirin</dc:creator>
         <description><![CDATA[<p>Reth validators are on the correct fork and started successfully proposing new blocks too 🫡</p>
@@ -107,216 +241,6 @@ No.</p>]]></description>
         <pubDate>Mon, 24 Feb 2025 12:32:16 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ashekhirin/status/1894002401591312487#m</guid>
         <link>https://nitter.freedit.eu/ashekhirin/status/1894002401591312487#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: shipped new versions of Rust crate and TS SDK  last week for pipegate 
-
-just do `cargo add pipegate` &amp; `npm i pipegate-sdk` for everything authentication and monetisation for your APIs
-
-the sdks are self-sustained, no need to use any platform and detailed docs are available 👇</title>
-        <dc:creator>@0xdhruva</dc:creator>
-        <description><![CDATA[<p>shipped new versions of Rust crate and TS SDK  last week for pipegate <br>
-<br>
-just do `cargo add pipegate` &amp; `npm i pipegate-sdk` for everything authentication and monetisation for your APIs<br>
-<br>
-the sdks are self-sustained, no need to use any platform and detailed docs are available 👇</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkjRoIIbEAAyX2T.jpg" style="max-width:250px;" />
-<img src="https://nitter.freedit.eu/pic/media%2FGkjRxxZWgAAXJoI.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 24 Feb 2025 12:07:03 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xdhruva/status/1893996056926457961#m</guid>
-        <link>https://nitter.freedit.eu/0xdhruva/status/1893996056926457961#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Two ways:
-
-1) hire 3 A people to work remotely. You pay them a lot, and they will laugh at you if you tell them they have to work weekends because as a startup you simply can&apos;t afford paying for that. Then you let _them_ get turbo autistic and work non stop because they naturally crave ownership and are proud of their work.
-
-2) hire a bunch of kids with no other responsibilities you need to constantly wrangle in an office. Some of them will turn out to be exceptional, most of them will have to be constantly micromanaged.
-
-Both can work. You can&apos;t tell me 1) doesn&apos;t work because you&apos;ve never tried and the default is to brute force 2).</title>
-        <dc:creator>@alessandrod</dc:creator>
-        <description><![CDATA[<p>Two ways:<br>
-<br>
-1) hire 3 A people to work remotely. You pay them a lot, and they will laugh at you if you tell them they have to work weekends because as a startup you simply can't afford paying for that. Then you let _them_ get turbo autistic and work non stop because they naturally crave ownership and are proud of their work.<br>
-<br>
-2) hire a bunch of kids with no other responsibilities you need to constantly wrangle in an office. Some of them will turn out to be exceptional, most of them will have to be constantly micromanaged.<br>
-<br>
-Both can work. You can't tell me 1) doesn't work because you've never tried and the default is to brute force 2).</p>]]></description>
-        <pubDate>Sun, 23 Feb 2025 07:23:02 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/alessandrod/status/1893562196170547505#m</guid>
-        <link>https://nitter.freedit.eu/alessandrod/status/1893562196170547505#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Agree to disagree on this one.
-
-As someone intense to a fault who has to actually refrain from DMing people on weekends, guarantee you that location has nothing to do with it. 
-
-The water cooler neural network thing I&apos;ve never bought. I&apos;m terminally online with some of my colleagues, and even with some people from the ecosystem I have no direct biz relationship with. IRC/discord/slack/whatever works. Write everything down. 
-
-What you need isn&apos;t an office, but high agency people who care and feel like they&apos;re going to be rewarded for their effort.
-
-I will agree that if you hire a bunch of inexperienced kids or people who just want a job and don&apos;t care, sure it might be marginally more effective to micro manage them from their desk.</title>
-        <dc:creator>@alessandrod</dc:creator>
-        <description><![CDATA[<p>Agree to disagree on this one.<br>
-<br>
-As someone intense to a fault who has to actually refrain from DMing people on weekends, guarantee you that location has nothing to do with it. <br>
-<br>
-The water cooler neural network thing I've never bought. I'm terminally online with some of my colleagues, and even with some people from the ecosystem I have no direct biz relationship with. IRC/discord/slack/whatever works. Write everything down. <br>
-<br>
-What you need isn't an office, but high agency people who care and feel like they're going to be rewarded for their effort.<br>
-<br>
-I will agree that if you hire a bunch of inexperienced kids or people who just want a job and don't care, sure it might be marginally more effective to micro manage them from their desk.</p>]]></description>
-        <pubDate>Sun, 23 Feb 2025 06:00:27 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/alessandrod/status/1893541410131059101#m</guid>
-        <link>https://nitter.freedit.eu/alessandrod/status/1893541410131059101#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Make no mistake, what we are seeing is a coordinated attack trying to undermine Ethereum’s credible neutrality.
-
-Mind you, not in reality, but in perception. Those with high context know how silly this is, but low-context observers get the impression a rollback was in the cards.</title>
-        <dc:creator>@adietrichs</dc:creator>
-        <description><![CDATA[<p>Make no mistake, what we are seeing is a coordinated attack trying to undermine Ethereum’s credible neutrality.<br>
-<br>
-Mind you, not in reality, but in perception. Those with high context know how silly this is, but low-context observers get the impression a rollback was in the cards.</p>]]></description>
-        <pubDate>Sat, 22 Feb 2025 14:18:53 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/adietrichs/status/1893304456864747864#m</guid>
-        <link>https://nitter.freedit.eu/adietrichs/status/1893304456864747864#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Vape cabal? $1.5B? Libra? Trench warfare?
-
-Brother what are you talking about? I&apos;m busy watching the Ethereum beacon chain in the @ethPandaOps lab</title>
-        <dc:creator>@samcmAU</dc:creator>
-        <description><![CDATA[<p>Vape cabal? $1.5B? Libra? Trench warfare?<br>
-<br>
-Brother what are you talking about? I'm busy watching the Ethereum beacon chain in the <a href="https://nitter.freedit.eu/ethPandaOps" title="ethPandaOps">@ethPandaOps</a> lab</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkZcUYJaoAEcsVD.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sat, 22 Feb 2025 14:24:02 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/samcmAU/status/1893305755765227954#m</guid>
-        <link>https://nitter.freedit.eu/samcmAU/status/1893305755765227954#m</link>
-      </item>
-      <item>
-        <title>Reth is almost at 500 contributors. Anyone wanna make this chart for today&apos;s data?</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Reth is almost at 500 contributors. Anyone wanna make this chart for today's data?</p>
-<p><a href="https://nitter.freedit.eu/high_byte/status/1755779640252039534#m">nitter.freedit.eu/high_byte/status/1755779640252039534#m</a></p>]]></description>
-        <pubDate>Fri, 21 Feb 2025 20:29:25 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1893035319102185857#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1893035319102185857#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Introducing Wallet
-
-- No complicated set up
-- 100% reliable mobile transactions
-- No app switching required</title>
-        <dc:creator>@dwr</dc:creator>
-        <description><![CDATA[<p>Introducing Wallet<br>
-<br>
-- No complicated set up<br>
-- 100% reliable mobile transactions<br>
-- No app switching required</p>
-<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1893021518298226689%2Fpu%2Fimg%2F3zFrDWYKgKv9KWKq.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 21 Feb 2025 19:37:27 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/dwr/status/1893022241270448553#m</guid>
-        <link>https://nitter.freedit.eu/dwr/status/1893022241270448553#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: ･ *ﾟ
-　 ･ ﾟ*
-     ･｡     
-   *･｡
-      *.｡ 
-           ｡･
-              °*.
-Reth, Foundry, Alloy
-                 ｡｡ ･
-             ｡ ･ﾟ
-       ｡°*.
-   ｡*･｡･ *ﾟ
-　 ･ ﾟ*</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>･ *ﾟ<br>
-　 ･ ﾟ*<br>
-     ･｡     <br>
-   *･｡<br>
-      *.｡ <br>
-           ｡･<br>
-              °*.<br>
-Reth, Foundry, Alloy<br>
-                 ｡｡ ･<br>
-             ｡ ･ﾟ<br>
-       ｡°*.<br>
-   ｡*･｡･ *ﾟ<br>
-　 ･ ﾟ*</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGNOLCQGWgAIiaCv.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 10 May 2024 13:38:32 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1788926598273438152#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1788926598273438152#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: I built a scalable caching layer using @Cloudflare #DurableObjects to reduce database load and improve latency for high-traffic apps 🚀
-
-- Offload read/write ops to DO
-- Sync data back to the main DB periodically
-- Low-latency access for users
-- Scales effortlessly with DO</title>
-        <dc:creator>@acoyfellow</dc:creator>
-        <description><![CDATA[<p>I built a scalable caching layer using <a href="https://nitter.freedit.eu/Cloudflare" title="Cloudflare">@Cloudflare</a> <a href="https://nitter.freedit.eu/search?q=%23DurableObjects">#DurableObjects</a> to reduce database load and improve latency for high-traffic apps 🚀<br>
-<br>
-- Offload read/write ops to DO<br>
-- Sync data back to the main DB periodically<br>
-- Low-latency access for users<br>
-- Scales effortlessly with DO</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkUbyphXYAA1YOH.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 21 Feb 2025 14:49:36 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/acoyfellow/status/1892949800393273674#m</guid>
-        <link>https://nitter.freedit.eu/acoyfellow/status/1892949800393273674#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Reth is incredibly modular, performant and well tested. Huge shout out to the Reth/OP teams for all of the work that continues to go into this. Building PBH with Reth was an easy decision to make.</title>
-        <dc:creator>@0xKitsune</dc:creator>
-        <description><![CDATA[<p>Reth is incredibly modular, performant and well tested. Huge shout out to the Reth/OP teams for all of the work that continues to go into this. Building PBH with Reth was an easy decision to make.</p>
-<p><a href="https://nitter.freedit.eu/gakonst/status/1892636567010701567#m">nitter.freedit.eu/gakonst/status/1892636567010701567#m</a></p>]]></description>
-        <pubDate>Fri, 21 Feb 2025 17:45:12 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xKitsune/status/1892993990884028665#m</guid>
-        <link>https://nitter.freedit.eu/0xKitsune/status/1892993990884028665#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: DPDK in Databases: Why Isn’t It More Common? - Owen Hilyard, University of New Hampshire
-
-Great talk.
-https://www.youtube.com/watch?v=vBarClzQ93o&amp;ab_channel=DPDKProject</title>
-        <dc:creator>@muratdemirbas</dc:creator>
-        <description><![CDATA[<p>DPDK in Databases: Why Isn’t It More Common? - Owen Hilyard, University of New Hampshire<br>
-<br>
-Great talk.<br>
-<a href="https://piped.video/watch?v=vBarClzQ93o&ab_channel=DPDKProject">piped.video/watch?v=vBarClzQ…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1890706365619875840%2FCXjsf7_-%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 20 Feb 2025 18:43:22 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/muratdemirbas/status/1892646240547963147#m</guid>
-        <link>https://nitter.freedit.eu/muratdemirbas/status/1892646240547963147#m</link>
-      </item>
-      <item>
-        <title>if you&apos;re building devtools, make the dev npm install your package and provide value ASAP. expecting a dev to get an API key by registering to your web app and going through other hoops is not the right vibe.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>if you're building devtools, make the dev npm install your package and provide value ASAP. expecting a dev to get an API key by registering to your web app and going through other hoops is not the right vibe.</p>]]></description>
-        <pubDate>Fri, 21 Feb 2025 05:04:50 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1892802641216032905#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1892802641216032905#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Sharing @Paradigm Reth team&apos;s view on the next Ethereum hard fork after Pectra, Fusaka.
-
-Scale the L2s. Upgrade the EVM. Decouple shipping from scoping from researching. Focus on scale. Lock scope ASAP.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Sharing <a href="https://nitter.freedit.eu/paradigm" title="Paradigm">@Paradigm</a> Reth team's view on the next Ethereum hard fork after Pectra, Fusaka.<br>
-<br>
-Scale the L2s. Upgrade the EVM. Decouple shipping from scoping from researching. Focus on scale. Lock scope ASAP.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkPagTjakAAN1C9.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 20 Feb 2025 15:25:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1892596522015232283#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1892596522015232283#m</link>
       </item>
 
   </channel>

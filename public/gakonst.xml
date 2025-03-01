@@ -16,6 +16,40 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @gakonst: Reth v1.2 brought huge performance gains and cleaned several public types and APIs, especially requiring fewer type conversions with revm.
+
+It wasn&apos;t perfect, as a breaking API made our custom payload service uglier, so we opened a GitHub issue. It was addressed in 2 weeks and we happily pinned the new commit downstream.
+
+Addressing a low-priority quality-of-life issue in 2 weeks and before a new release is certainly bullish. Reth does care about our DX. Let&apos;s &quot;complain&quot; more!</title>
+        <dc:creator>@hai_rise</dc:creator>
+        <description><![CDATA[<p>Reth v1.2 brought huge performance gains and cleaned several public types and APIs, especially requiring fewer type conversions with revm.<br>
+<br>
+It wasn't perfect, as a breaking API made our custom payload service uglier, so we opened a GitHub issue. It was addressed in 2 weeks and we happily pinned the new commit downstream.<br>
+<br>
+Addressing a low-priority quality-of-life issue in 2 weeks and before a new release is certainly bullish. Reth does care about our DX. Let's "complain" more!</p>
+<p><a href="https://nitter.freedit.eu/gakonst/status/1889795832234516835#m">nitter.freedit.eu/gakonst/status/1889795832234516835#m</a></p>]]></description>
+        <pubDate>Fri, 28 Feb 2025 14:30:05 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/hai_rise/status/1895481604589637803#m</guid>
+        <link>https://nitter.freedit.eu/hai_rise/status/1895481604589637803#m</link>
+      </item>
+      <item>
+        <title>aren&apos;t based rollups just centralized sequencers given the proposers need to pick a gateway? decentralizing the gateway is the same as decentralizing the sequencer. something feels off to me.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>aren't based rollups just centralized sequencers given the proposers need to pick a gateway? decentralizing the gateway is the same as decentralizing the sequencer. something feels off to me.</p>]]></description>
+        <pubDate>Fri, 28 Feb 2025 16:47:45 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1895516249620439501#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1895516249620439501#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Easy first PR if you want to contribute to `forge-std` and like ERC6909: https://github.com/foundry-rs/forge-std/issues/655</title>
+        <dc:creator>@zerosnacks</dc:creator>
+        <description><![CDATA[<p>Easy first PR if you want to contribute to `forge-std` and like ERC6909: <a href="https://github.com/foundry-rs/forge-std/issues/655">github.com/foundry-rs/forge-…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1895499106308497408%2FUUQOvtFp%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 28 Feb 2025 15:41:48 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/zerosnacks/status/1895499652742754715#m</guid>
+        <link>https://nitter.freedit.eu/zerosnacks/status/1895499652742754715#m</link>
+      </item>
+      <item>
         <title>We must scale DA on Ethereum in 2025, or the L2s will move to other chains. 
 
 If L2s also issue stablecoins or other RWAs directly vs via the L1, then that migration will be even easier and more painful for Ethereum.
@@ -99,7 +133,7 @@ https://www.ithaca.xyz/updates/odyssey</title>
 <br>
 <a href="https://www.ithaca.xyz/updates/odyssey">ithaca.xyz/updates/odyssey</a></p>
 <p><a href="https://nitter.freedit.eu/christine_dkim/status/1895150027011510707#m">nitter.freedit.eu/christine_dkim/status/1895150027011510707#m</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1892287213762990082%2FPe_ittd2%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1895546805544501251%2F3dNNVqRU%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Thu, 27 Feb 2025 18:51:51 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1895185092219388395#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1895185092219388395#m</link>
@@ -223,24 +257,6 @@ No.</p>]]></description>
         <pubDate>Mon, 24 Feb 2025 23:53:28 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1894173832317211112#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1894173832317211112#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: We&apos;ve just released NOMT v1.0-preview. The new state database we&apos;ve been working on for a year is just about ready for production. On hardware that costs less than $1200 we have achieved &gt;50,000TPS with 100M accounts and &gt;25k TPS with 1B accounts. Full post in next tweet.</title>
-        <dc:creator>@rphmeier</dc:creator>
-        <description><![CDATA[<p>We've just released NOMT v1.0-preview. The new state database we've been working on for a year is just about ready for production. On hardware that costs less than $1200 we have achieved &gt;50,000TPS with 100M accounts and &gt;25k TPS with 1B accounts. Full post in next tweet.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkk1j_MWMAAd4ij.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 24 Feb 2025 19:16:14 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/rphmeier/status/1894104066696843638#m</guid>
-        <link>https://nitter.freedit.eu/rphmeier/status/1894104066696843638#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: monday</title>
-        <dc:creator>@ashekhirin</dc:creator>
-        <description><![CDATA[<p>monday</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkjZAb6XIAApHVD.png" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 24 Feb 2025 12:32:16 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ashekhirin/status/1894002401591312487#m</guid>
-        <link>https://nitter.freedit.eu/ashekhirin/status/1894002401591312487#m</link>
       </item>
 
   </channel>

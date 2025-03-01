@@ -16,6 +16,40 @@
       <height>128</height>
     </image>
       <item>
+        <title>holesky recovery update: re-enabled attestation, but we are only around 50% participation
+
+if you have holesky keys (esp. large numbers), please get them back online asap</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>holesky recovery update: re-enabled attestation, but we are only around 50% participation<br>
+<br>
+if you have holesky keys (esp. large numbers), please get them back online asap</p>]]></description>
+        <pubDate>Fri, 28 Feb 2025 15:59:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1895504121467420933#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1895504121467420933#m</link>
+      </item>
+      <item>
+        <title>great summary from the latest mev-boost community call!</title>
+        <dc:creator>@ralexstokes</dc:creator>
+        <description><![CDATA[<p>great summary from the latest mev-boost community call!</p>
+<p><a href="https://nitter.freedit.eu/PBS_Foundation/status/1895292327947837627#m">nitter.freedit.eu/PBS_Foundation/status/1895292327947837627#m</a></p>]]></description>
+        <pubDate>Fri, 28 Feb 2025 13:52:51 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/ralexstokes/status/1895472235512823986#m</guid>
+        <link>https://nitter.freedit.eu/ralexstokes/status/1895472235512823986#m</link>
+      </item>
+      <item>
+        <title>RT by @ralexstokes: Lots of attention on Holesky this week, and a few whiteboarding sessions too 👀
+
+Some updates from EFR and collabs, here we go!</title>
+        <dc:creator>@barnabemonnot</dc:creator>
+        <description><![CDATA[<p>Lots of attention on Holesky this week, and a few whiteboarding sessions too 👀<br>
+<br>
+Some updates from EFR and collabs, here we go!</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGk3MU9HWoAAbbpp.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 28 Feb 2025 09:26:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/barnabemonnot/status/1895405264544936415#m</guid>
+        <link>https://nitter.freedit.eu/barnabemonnot/status/1895405264544936415#m</link>
+      </item>
+      <item>
         <title>excellent opportunity to work with an elite team</title>
         <dc:creator>@ralexstokes</dc:creator>
         <description><![CDATA[<p>excellent opportunity to work with an elite team</p>
@@ -193,42 +227,6 @@ i should be able to tell an agent what i want to do, it should do biometric auth
         <pubDate>Thu, 06 Feb 2025 18:45:44 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ralexstokes/status/1887573408441114864#m</guid>
         <link>https://nitter.freedit.eu/ralexstokes/status/1887573408441114864#m</link>
-      </item>
-      <item>
-        <title>RT by @ralexstokes: Pectra is going live 🥳
-
-Holesky will fork at slot 3710976 (Mon, Feb 24 at 21:55:12 UTC)
-Sepolia will fork at slot 7118848 (Wed, Mar 5 at 07:29:36 UTC)
-
-Assuming Sepolia goes smoothly, we&apos;ll pick the mainnet slot on the March 6 ACD call 📅</title>
-        <dc:creator>@TimBeiko</dc:creator>
-        <description><![CDATA[<p>Pectra is going live 🥳<br>
-<br>
-Holesky will fork at slot 3710976 (Mon, Feb 24 at 21:55:12 UTC)<br>
-Sepolia will fork at slot 7118848 (Wed, Mar 5 at 07:29:36 UTC)<br>
-<br>
-Assuming Sepolia goes smoothly, we'll pick the mainnet slot on the March 6 ACD call 📅</p>]]></description>
-        <pubDate>Thu, 06 Feb 2025 14:19:58 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/TimBeiko/status/1887506524756717747#m</guid>
-        <link>https://nitter.freedit.eu/TimBeiko/status/1887506524756717747#m</link>
-      </item>
-      <item>
-        <title>exciting work from EFR cryptography (in collaboration with others)!</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>exciting work from EFR cryptography (in collaboration with others)!</p>
-<p><a href="https://nitter.freedit.eu/asn_d6/status/1885333842497548769#m">nitter.freedit.eu/asn_d6/status/1885333842497548769#m</a></p>]]></description>
-        <pubDate>Fri, 31 Jan 2025 22:06:40 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1885449646815711483#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1885449646815711483#m</link>
-      </item>
-      <item>
-        <title>exciting opportunity to work on legendary software</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>exciting opportunity to work on legendary software</p>
-<p><a href="https://nitter.freedit.eu/lightclients/status/1884256102000599175#m">nitter.freedit.eu/lightclients/status/1884256102000599175#m</a></p>]]></description>
-        <pubDate>Tue, 28 Jan 2025 15:13:11 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1884258428329267600#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1884258428329267600#m</link>
       </item>
 
   </channel>

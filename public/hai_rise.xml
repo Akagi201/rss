@@ -16,6 +16,40 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @hai_rise: The complaint: 
+https://github.com/paradigmxyz/reth/issues/14489
+
+The fix: 
+https://github.com/paradigmxyz/reth/pull/14700</title>
+        <dc:creator>@hai_rise</dc:creator>
+        <description><![CDATA[<p>The complaint: <br>
+<a href="https://github.com/paradigmxyz/reth/issues/14489">github.com/paradigmxyz/reth/…</a><br>
+<br>
+The fix: <br>
+<a href="https://github.com/paradigmxyz/reth/pull/14700">github.com/paradigmxyz/reth/…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1895481815110160384%2FkCB-ukXp%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 28 Feb 2025 14:31:01 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/hai_rise/status/1895481837302297069#m</guid>
+        <link>https://nitter.freedit.eu/hai_rise/status/1895481837302297069#m</link>
+      </item>
+      <item>
+        <title>Our first @Optimism contribution merged upstream. Still cooking lots internally, more to come 🚀!
+
+https://github.com/ethereum-optimism/optimism/pull/14414
+
+Thanks @mateus_mel40208 🙏</title>
+        <dc:creator>@hai_rise</dc:creator>
+        <description><![CDATA[<p>Our first <a href="https://nitter.freedit.eu/Optimism" title="optimism.eth">@Optimism</a> contribution merged upstream. Still cooking lots internally, more to come 🚀!<br>
+<br>
+<a href="https://github.com/ethereum-optimism/optimism/pull/14414">github.com/ethereum-optimism…</a><br>
+<br>
+Thanks <a href="https://nitter.freedit.eu/mateus_mel40208" title="True_crabs">@mateus_mel40208</a> 🙏</p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1895081793914589184%2FO9u212dp%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 20 Feb 2025 12:02:31 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/hai_rise/status/1892545365921996804#m</guid>
+        <link>https://nitter.freedit.eu/hai_rise/status/1892545365921996804#m</link>
+      </item>
+      <item>
         <title>RT by @hai_rise: Our testnet will break. If it doesn’t, we didn’t push hard enough.</title>
         <dc:creator>@sam_battenally</dc:creator>
         <description><![CDATA[<p>Our testnet will break. If it doesn’t, we didn’t push hard enough.</p>]]></description>
@@ -377,53 +411,6 @@ Build the future: <a href="https://docs.riselabs.xyz/build-on-rise/builder-commu
         <pubDate>Mon, 16 Dec 2024 16:00:01 GMT</pubDate>
         <guid>https://nitter.freedit.eu/rise_chain/status/1868687536903585848#m</guid>
         <link>https://nitter.freedit.eu/rise_chain/status/1868687536903585848#m</link>
-      </item>
-      <item>
-        <title>RT by @hai_rise: NEW EP: Why Based Rollups Are Ethereum&apos;s Best Bet with Sam Battenally
-
-We are entering Ethereum&apos;s based era of scaling.
-
-For today&apos;s pod, @ayyyeandy &amp; @robbie_rollup had @sam_battenally, CEO of @rise_chain on to discuss the current state of Ethereum, the significance of based rollups in scaling the network, high performance L2s, and the recent growth of Rise.
-
-Full episode links below.
-
-Timestamps:
-00:55 Devcon Thailand Intro
-03:27 Understanding Based Rollups
-10:45 Based Rollups Network Effects
-14:35 Sequencing Week Takeaways
-21:09 What is Gigagas?
-29:41 Parallel EVM Bull Thesis</title>
-        <dc:creator>@therollupco</dc:creator>
-        <description><![CDATA[<p>NEW EP: Why Based Rollups Are Ethereum's Best Bet with Sam Battenally<br>
-<br>
-We are entering Ethereum's based era of scaling.<br>
-<br>
-For today's pod, <a href="https://nitter.freedit.eu/ayyyeandy" title="Andy">@ayyyeandy</a> & <a href="https://nitter.freedit.eu/robbie_rollup" title="robbie">@robbie_rollup</a> had <a href="https://nitter.freedit.eu/sam_battenally" title="Sam Battenally 🍚⛓️">@sam_battenally</a>, CEO of <a href="https://nitter.freedit.eu/rise_chain" title="RISE Chain">@rise_chain</a> on to discuss the current state of Ethereum, the significance of based rollups in scaling the network, high performance L2s, and the recent growth of Rise.<br>
-<br>
-Full episode links below.<br>
-<br>
-Timestamps:<br>
-00:55 Devcon Thailand Intro<br>
-03:27 Understanding Based Rollups<br>
-10:45 Based Rollups Network Effects<br>
-14:35 Sequencing Week Takeaways<br>
-21:09 What is Gigagas?<br>
-29:41 Parallel EVM Bull Thesis</p>
-<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1867201114732371968%2Fimg%2FZV18M3Rxd8xALcDN.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 12 Dec 2024 14:02:44 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/therollupco/status/1867208468492329202#m</guid>
-        <link>https://nitter.freedit.eu/therollupco/status/1867208468492329202#m</link>
-      </item>
-      <item>
-        <title>Life&apos;s easier when you aggressively upstream shared code and use Reth as a library (instead of a fork) for the differences 🙂.</title>
-        <dc:creator>@hai_rise</dc:creator>
-        <description><![CDATA[<p>Life's easier when you aggressively upstream shared code and use Reth as a library (instead of a fork) for the differences 🙂.</p>
-<p><a href="https://nitter.freedit.eu/DomantasPe/status/1866532183315263976#m">nitter.freedit.eu/DomantasPe/status/1866532183315263976#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGemxa-CWUAEyoFi.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 12 Dec 2024 14:44:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/hai_rise/status/1867219012049883518#m</guid>
-        <link>https://nitter.freedit.eu/hai_rise/status/1867219012049883518#m</link>
       </item>
 
   </channel>

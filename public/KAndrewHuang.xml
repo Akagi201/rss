@@ -16,6 +16,24 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @KAndrewHuang: “We can use a single chain to scale web3”</title>
+        <dc:creator>@0xEverly</dc:creator>
+        <description><![CDATA[<p>“We can use a single chain to scale web3”</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGk6l-PUXUAAoau7.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sat, 01 Mar 2025 00:39:34 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xEverly/status/1895634986570772593#m</guid>
+        <link>https://nitter.freedit.eu/0xEverly/status/1895634986570772593#m</link>
+      </item>
+      <item>
+        <title>RT by @KAndrewHuang: Nothing beats a night at ETHDenver talking DomainFi with the experts from @D3inc. Big things coming!</title>
+        <dc:creator>@conduitxyz</dc:creator>
+        <description><![CDATA[<p>Nothing beats a night at ETHDenver talking DomainFi with the experts from <a href="https://nitter.freedit.eu/D3inc" title="D3">@D3inc</a>. Big things coming!</p>
+<p><a href="https://nitter.freedit.eu/D3inc/status/1895495789331542367#m">nitter.freedit.eu/D3inc/status/1895495789331542367#m</a></p>]]></description>
+        <pubDate>Fri, 28 Feb 2025 16:30:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/conduitxyz/status/1895511922927444342#m</guid>
+        <link>https://nitter.freedit.eu/conduitxyz/status/1895511922927444342#m</link>
+      </item>
+      <item>
         <title>RT by @KAndrewHuang: The Blackbird chain:
 
 A custom L3 built with Arbitrum settled to Base powered by Conduit.</title>
@@ -282,33 +300,6 @@ TLDR: With Kernel's latest optimizations, deploying a 7702 account is now 6x to 
         <pubDate>Fri, 21 Feb 2025 16:24:49 GMT</pubDate>
         <guid>https://nitter.freedit.eu/decentrek/status/1892973763660054825#m</guid>
         <link>https://nitter.freedit.eu/decentrek/status/1892973763660054825#m</link>
-      </item>
-      <item>
-        <title>RT by @KAndrewHuang: ZK fraud proofs from @SuccinctLabs are here today, and you can implement them seamlessly with Conduit.
-
-In fact, one Conduit rollup is already working with Succinct as a pilot customer: @Donatuz_  🎉
-
-More info on why we’re excited about ZK fraud proofs below ⬇️</title>
-        <dc:creator>@conduitxyz</dc:creator>
-        <description><![CDATA[<p>ZK fraud proofs from <a href="https://nitter.freedit.eu/SuccinctLabs" title="Succinct">@SuccinctLabs</a> are here today, and you can implement them seamlessly with Conduit.<br>
-<br>
-In fact, one Conduit rollup is already working with Succinct as a pilot customer: <a href="https://nitter.freedit.eu/Donatuz_" title="Donatuz">@Donatuz_</a>  🎉<br>
-<br>
-More info on why we’re excited about ZK fraud proofs below ⬇️</p>
-<p><a href="https://nitter.freedit.eu/SuccinctLabs/status/1892638797487092126#m">nitter.freedit.eu/SuccinctLabs/status/1892638797487092126#m</a></p>
-<img src="https://nitter.freedit.eu/pic/ext_tw_video_thumb%2F1892639557692047360%2Fpu%2Fimg%2F-67UgPPfRRFQLfNu.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 20 Feb 2025 18:19:27 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/conduitxyz/status/1892640224187986195#m</guid>
-        <link>https://nitter.freedit.eu/conduitxyz/status/1892640224187986195#m</link>
-      </item>
-      <item>
-        <title>Higher level abstractions have always led the way to developer adoption and app superpowers. Excited for this announcement and the work @griffintier is doing at Halliday</title>
-        <dc:creator>@KAndrewHuang</dc:creator>
-        <description><![CDATA[<p>Higher level abstractions have always led the way to developer adoption and app superpowers. Excited for this announcement and the work <a href="https://nitter.freedit.eu/griffintier" title="Griffin Dunaif">@griffintier</a> is doing at Halliday</p>
-<p><a href="https://nitter.freedit.eu/HallidayHQ/status/1892620269098856586#m">nitter.freedit.eu/HallidayHQ/status/1892620269098856586#m</a></p>]]></description>
-        <pubDate>Thu, 20 Feb 2025 19:02:06 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/KAndrewHuang/status/1892650954681389306#m</guid>
-        <link>https://nitter.freedit.eu/KAndrewHuang/status/1892650954681389306#m</link>
       </item>
 
   </channel>

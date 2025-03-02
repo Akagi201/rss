@@ -16,6 +16,35 @@
       <height>128</height>
     </image>
       <item>
+        <title>There&apos;s only one coin that can sit around and do nothing
+
+Every other coin must fight and scrap for survival
+
+Let&apos;s have Ethereum ship this year</title>
+        <dc:creator>@KAndrewHuang</dc:creator>
+        <description><![CDATA[<p>There's only one coin that can sit around and do nothing<br>
+<br>
+Every other coin must fight and scrap for survival<br>
+<br>
+Let's have Ethereum ship this year</p>
+<p><a href="https://nitter.freedit.eu/VitalikButerin/status/1895863075527700959#m">nitter.freedit.eu/VitalikButerin/status/1895863075527700959#m</a></p>]]></description>
+        <pubDate>Sun, 02 Mar 2025 02:09:43 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/KAndrewHuang/status/1896020060462072069#m</guid>
+        <link>https://nitter.freedit.eu/KAndrewHuang/status/1896020060462072069#m</link>
+      </item>
+      <item>
+        <title>RT by @KAndrewHuang: For 2025 we need Fusaka on L1 with PeerDAS, ideally with 48/72 blob target/limit
+
+Let&apos;s aim to get a Fusaka testnet with these blob parameters running the day after Pectra goes live.</title>
+        <dc:creator>@VitalikButerin</dc:creator>
+        <description><![CDATA[<p>For 2025 we need Fusaka on L1 with PeerDAS, ideally with 48/72 blob target/limit<br>
+<br>
+Let's aim to get a Fusaka testnet with these blob parameters running the day after Pectra goes live.</p>]]></description>
+        <pubDate>Sat, 01 Mar 2025 15:45:55 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/VitalikButerin/status/1895863075527700959#m</guid>
+        <link>https://nitter.freedit.eu/VitalikButerin/status/1895863075527700959#m</link>
+      </item>
+      <item>
         <title>RT by @KAndrewHuang: “We can use a single chain to scale web3”</title>
         <dc:creator>@0xEverly</dc:creator>
         <description><![CDATA[<p>“We can use a single chain to scale web3”</p>
@@ -240,66 +269,6 @@ Join us on Feb 25th for an all-day summit featuring discussions on RWAfi, stable
         <pubDate>Sat, 22 Feb 2025 20:00:05 GMT</pubDate>
         <guid>https://nitter.freedit.eu/plumenetwork/status/1893390323889643736#m</guid>
         <link>https://nitter.freedit.eu/plumenetwork/status/1893390323889643736#m</link>
-      </item>
-      <item>
-        <title>RT by @KAndrewHuang: The Bybit hack shows us once again that raw tx data in wallets is useless. There’s no reason hardware wallets shouldn’t decode and display transaction details in a human-readable way. 
-
-It&apos;s honestly unbelievable that our industry has grown so much, yet we’ve seen little progress on the hardware wallet side.
-
-You’d think that crypto—the only space where signing the wrong thing with just one click can cost you billions, with no way to recover—would invest in providing clear, human-readable details on what you’re signing. Instead, we get a pile of unreadable hex.
-
-And please don&apos;t get psyopsed by HW providers saying it can’t be done or that it&apos;s too complicated.
-
-@sorellalabs, we already wrote code that decodes and classifies transactions at the trace level—showing net token balance changes and displaying the entire transaction tree in a humanly readable format. This was done by a team of three.
-
-This code could and should be used on hardware wallets so people can actually see what they’re signing. 
-
-@ledger @trezor, what are you waiting for? Just fork it.</title>
-        <dc:creator>@0xvanbeethoven</dc:creator>
-        <description><![CDATA[<p>The Bybit hack shows us once again that raw tx data in wallets is useless. There’s no reason hardware wallets shouldn’t decode and display transaction details in a human-readable way. <br>
-<br>
-It's honestly unbelievable that our industry has grown so much, yet we’ve seen little progress on the hardware wallet side.<br>
-<br>
-You’d think that crypto—the only space where signing the wrong thing with just one click can cost you billions, with no way to recover—would invest in providing clear, human-readable details on what you’re signing. Instead, we get a pile of unreadable hex.<br>
-<br>
-And please don't get psyopsed by HW providers saying it can’t be done or that it's too complicated.<br>
-<br>
-<a href="https://nitter.freedit.eu/sorellalabs" title="Sorella Labs">@sorellalabs</a>, we already wrote code that decodes and classifies transactions at the trace level—showing net token balance changes and displaying the entire transaction tree in a humanly readable format. This was done by a team of three.<br>
-<br>
-This code could and should be used on hardware wallets so people can actually see what they’re signing. <br>
-<br>
-<a href="https://nitter.freedit.eu/ledger" title="Ledger">@ledger</a> <a href="https://nitter.freedit.eu/trezor" title="Trezor">@trezor</a>, what are you waiting for? Just fork it.</p>]]></description>
-        <pubDate>Fri, 21 Feb 2025 20:47:16 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/0xvanbeethoven/status/1893039810975072526#m</guid>
-        <link>https://nitter.freedit.eu/0xvanbeethoven/status/1893039810975072526#m</link>
-      </item>
-      <item>
-        <title>RT by @KAndrewHuang: One underrated aspect of EIP-7702 is how it may make smart accounts practical on Ethereum mainnet for the first time.
-
-Right now, it costs ~150k gas to deploy a smart account, which (assuming a gas price of 3 gwei) is about ~$1.20 on mainnet with today&apos;s ETH price.  For DApps who want to sponsor thousands of smart accounts, this is super expensive, which is why practically all of AA adoption has happened on L2s to date.
-
-With ZeroDev Kernel 3.3 which supports 7702, the cost of deploying a &quot;smart EOA&quot; is now ~25k for fresh accounts (accounts with no ETH balance/txns) and ~15k for existing EOAs -- a 6-10x improvement.  This means you can deploy a 7702 account (aka &quot;smart EOA&quot;) for only 10 to 20 cents.
-
-This scale of improvement is possible because Kernel implemented an important optimization where a smart EOA doesn&apos;t need to &quot;initialize&quot; itself when it uses 7702; the account logic automatically grants the EOA sudo access to the smart account.  Without this optimization, deploying a smart EOA would&apos;ve cost another ~70k gas.
-
-Furthermore, a &quot;smart EOA&quot; can save gas by sending regular txns when it doesn&apos;t need to send UserOps.  For example, if a smart EOA wants to send a batched txn which doesn&apos;t need to be sponsored, it can just send a regular EOA txn to itself to trigger a batched execution -- no need to send a UserOp which is more expensive.
-
-TLDR: With Kernel&apos;s latest optimizations, deploying a 7702 account is now 6x to 10x cheaper than deploying a regular smart account.  This means large-scale smart account deployments may become practical on Ethereum mainnet for the first time.</title>
-        <dc:creator>@decentrek</dc:creator>
-        <description><![CDATA[<p>One underrated aspect of EIP-7702 is how it may make smart accounts practical on Ethereum mainnet for the first time.<br>
-<br>
-Right now, it costs ~150k gas to deploy a smart account, which (assuming a gas price of 3 gwei) is about ~$1.20 on mainnet with today's ETH price.  For DApps who want to sponsor thousands of smart accounts, this is super expensive, which is why practically all of AA adoption has happened on L2s to date.<br>
-<br>
-With ZeroDev Kernel 3.3 which supports 7702, the cost of deploying a "smart EOA" is now ~25k for fresh accounts (accounts with no ETH balance/txns) and ~15k for existing EOAs -- a 6-10x improvement.  This means you can deploy a 7702 account (aka "smart EOA") for only 10 to 20 cents.<br>
-<br>
-This scale of improvement is possible because Kernel implemented an important optimization where a smart EOA doesn't need to "initialize" itself when it uses 7702; the account logic automatically grants the EOA sudo access to the smart account.  Without this optimization, deploying a smart EOA would've cost another ~70k gas.<br>
-<br>
-Furthermore, a "smart EOA" can save gas by sending regular txns when it doesn't need to send UserOps.  For example, if a smart EOA wants to send a batched txn which doesn't need to be sponsored, it can just send a regular EOA txn to itself to trigger a batched execution -- no need to send a UserOp which is more expensive.<br>
-<br>
-TLDR: With Kernel's latest optimizations, deploying a 7702 account is now 6x to 10x cheaper than deploying a regular smart account.  This means large-scale smart account deployments may become practical on Ethereum mainnet for the first time.</p>]]></description>
-        <pubDate>Fri, 21 Feb 2025 16:24:49 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/decentrek/status/1892973763660054825#m</guid>
-        <link>https://nitter.freedit.eu/decentrek/status/1892973763660054825#m</link>
       </item>
 
   </channel>

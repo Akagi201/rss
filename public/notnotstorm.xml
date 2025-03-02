@@ -16,6 +16,15 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @notnotstorm: I am in</title>
+        <dc:creator>@tkstanczak</dc:creator>
+        <description><![CDATA[<p>I am in</p>
+<p><a href="https://nitter.freedit.eu/VitalikButerin/status/1895863075527700959#m">nitter.freedit.eu/VitalikButerin/status/1895863075527700959#m</a></p>]]></description>
+        <pubDate>Sat, 01 Mar 2025 15:52:09 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/tkstanczak/status/1895864644587471141#m</guid>
+        <link>https://nitter.freedit.eu/tkstanczak/status/1895864644587471141#m</link>
+      </item>
+      <item>
         <title>some of the most useful offchain datasets in crypto:
 1. flashbots mempool dumpster (s/o @metachris)
 2. @verifalliance / @SourcifyEth contract databases
@@ -322,18 +331,6 @@ but the former is way safer against DoS attacks because it does not increase the
         <pubDate>Mon, 10 Feb 2025 16:44:47 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1888992521868739026#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1888992521868739026#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: the solution = increase the gas utilization target from 50% to 75%, thus shrinking the gap between worst case and average case
-
-this is today’s EIP ⛽🎯 it is a simple parameter change that could easily fit into fusaka 2025</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>the solution = increase the gas utilization target from 50% to 75%, thus shrinking the gap between worst case and average case<br>
-<br>
-this is today’s EIP ⛽🎯 it is a simple parameter change that could easily fit into fusaka 2025</p>]]></description>
-        <pubDate>Mon, 10 Feb 2025 16:44:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992520660730217#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1888992520660730217#m</link>
       </item>
 
   </channel>

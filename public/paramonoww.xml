@@ -16,362 +16,118 @@
       <height>128</height>
     </image>
       <item>
-        <title>RT by @paramonoww: I spent past 6 months reading countless articles and docs about Solana mechanism design and architecture.
+        <title>I spent two weeks in China and was surpised in both positive and negative ways.
 
-I have collected the most important info in single long read.
+Cons that I have found:
 
-That includes mechanism design, fee markets, MEV, and more.
+1. There is no personal space.
+Everyone rushes forward, pushing their way through. Countless times, people bumped into my shoulder, and no one even looked back or apologized — they just ignored it. 
 
-Here are the answers to all your questions:
+In every country I’ve visited before, people always apologize, and I do the same, even if I wasn’t the one at fault in the incident.
 
-— Solana&apos;s Consensus Model:
+2. Many bikes ride on the sidewalk instead of the road.
+Moreover, they honk at people walking on the sidewalk who are peacefully walking their way. I&apos;m not talking about bicycles, but real bikes who can go like 60 mph.
 
-‣ Solana&apos;s Proof of History (PoH) consensus model is basically Proof-of-Stake + time variable.
+3. People don’t follow traffic rules. 
+Even when there’s a red light, crowds cross the road despite oncoming cars. Meanwhile, drivers just smoke cigarettes and throw them out the window onto the street.
 
-‣ PoH is literally clock for the network, so you can keep track of events and their order (you don&apos;t need validators to agree on time).
+4. I noticed a lack of service.
+Even in 5-star hotel restaurants, waiters don’t seem to know that you need a dessert fork for cheesecake. Whenever they cleared dirty plates with cutlery, they never brought replacement cutlery. What am I supposed to eat my next meal with?
 
-‣ There is no mempool on Solana.
+5. Unnecessary questions for security?
+When I applied for a Chinese visa, there was a field requiring me to list the countries I had visited in the last two years. I’ve been to many countries, including Turkey.
 
-‣ Most validators today use the scheduler implementation provided in the Solana client built by @solanalabs. However, validators can run different block building algorithms if they prefer.
+The visa was supposed to arrive in four days after submission, but five days later, they requested details about my time in Turkey: when I was there, how long I stayed, the purpose of my visit, and they even asked me to send hotel bookings. 
 
-‣ The time variable allows to assign leaders who will produce the blocks each rotation.
+Why are they so suspicious of Turkey? They ended up issuing visa 1 week after the promised time, so I had to cancel and reschedule everything.
 
-‣ When a validator is selected as a leader, it is responsible for producing new blocks and proposing them to the network.
+I’m not mentioning that no one speaks English because they don’t have to — China is for the Chinese. Also, the firewall blocks every Western website, but that’s easily fixed with a VPN.
 
-‣ Leadership rotates among validators in fixed intervals called slots.
+Pros that I have found:
 
-‣ A slot is a 400-millisecond time period during which a validator can produce a block. Slots occur sequentially one-by-one.
+1. The food is exceptional.
+There are many cozy cafés and restaurants, and everything is truly delicious. Chinese cuisine is incredibly diverse depending on region.
 
-‣ Each slot is assigned a leader validator, who proposes a new block. Other validators vote on the block&apos;s validity, leading to its confirmation.
+2. Delivery is probably the fastest in the world. 
+There were many times when I ordered food and it arrived within 20–25 minutes — everything arrives hot and is packaged really well.
 
-‣ If a validator misses its assigned slot, the network proceeds to the next slot.
+3. There are plenty of parks and natural areas.
+Sometimes it feels like you’re in a forest: the air is extremely clean, and it’s refreshing to breathe, especially if you’ve lived in Southeast Asia long enough, you know what I mean.
 
-‣ Solana uses fork-based voting, not individual block voting. Validators produce blocks continuously, adding valid votes in real time.
+4. Payments are incredibly convenient. 
+You just show a QR code that’s accepted literally everywhere — from hotels to street food vendors. The Alipay system is flawless, and the whole world needs something like it.
 
-‣ Validators and delegators can stake or unstake SOL tokens during an epoch. This adjusts validator participation in the consensus process, which is determined at the epoch&apos;s start based on staked SOL.
+5. Everything is remarkably cheap.
+Taxis, food, hotels, transportation — literally everything. Moreover, it’s not cheap because it’s low quality, the quality is usually excellent.
 
-— Solana&apos;s Staking Model:
+6. The streets are very clean.
+As I mentioned earlier, I’ve seen people throw trash on the streets countless times, but workers clean them constantly, so it never gets dirty. I bet if people didn’t litter, it would be even cleaner.
 
-‣ Solana processes staking updates at the end of each epoch, which lasts approximately 2-3 days and consists of 432,000 blocks (slots). 
+I would definitely return in the future, but next time I’d like to explore more nature rather than cities (this trip was to Guangzhou and Shenzhen). 
 
-‣ The validator schedule for the next epoch is determined based on the updated staking information.
+China seems to be developing rapidly — Shenzhen was basically a village 40 years ago, and now it’s a top3 Chinese city. 
 
-There are 3 main sources of income for a validator:
-• Transaction fees
-• Protocol-based rewards (inflation)
-• Maximal Extractable Value (MEV)
-
-‣ Leaders receive block rewards that include 50% of base and priority fees (the other 50% is burned). 
-
-‣ Longer block times can reduce yearly rewards, as fewer epochs occur, impacting the total $SOL distribution.
-
-‣ Solana calculates the inflation SOL pool for each epoch to distribute rewards to validators and stakers based on their previous epoch&apos;s voting and staking status.
-
-— Solana&apos;s Voting Model:
-
-‣ Solana has no strict minimum SOL requirement for validators, but a vote account is necessary for consensus participation.
-
-‣ Validators vote on slot leader proposals, requiring a vote account and transaction fees for each vote.
-
-‣ Solana&apos;s on-chain voting mechanism incurs transaction fees for each vote. High $SOL prices can increase the operational costs of validator voting due to increased transaction fees.
-
-‣ Each epoch requires validators to vote, costing 0.000005 SOL per vote. Validators spend roughly 2-3 SOL per epoch on voting. 
-
-‣ With epochs lasting 2-3 days, this translates to an annual cost of approximately 300-350 SOL, or about 1 SOL per day.
-
-— Solana Fee Markets:
-
-‣ Solana&apos;s fee mechanism has two parts: base fee and priority fee.
-
-‣ Solana&apos;s fee mechanism splits fees between validators and burns, but it has limitations. It doesn&apos;t incentivize efficiency or align incentives.
-
-‣ Solana requires a fee to create new accounts (rent exemption). This fee is calculated at a fixed rate of 6.96 SOL per MB of account storage. The fee is assigned to the newly created account and can be recovered if the account is later deleted.
-
-Limitations:
-• Base fee doesn&apos;t consider actual CU usage -&gt; wasted resources
-• Priority fee is weak -&gt; only effective during congestion
-• Validators receive only 50% of fees -&gt; low incentives (sponsored by inflation)
-
-— Stake-weighted Quality of Service:
-
-‣ If network congestion occurs, Stake-weighted Quality of Service (SWQoS) mechanism can be used to prioritize certain types of transactions.
-
-‣ SWQoS is the mechanism in Solana that prioritizes network traffic based on the amount of stake held by validators.
-
-‣ It prevents low-stake validators from flooding the network by prioritizing transactions from validators with higher stakes.
-
-‣ There are 2 connection types: open and stake-weighted. Open connections are public, while stake-weighted connections are reserved for validators. RPC nodes can leverage validator connections through trusted relationships.
-
-Benefits:
-• Improved transaction performance for staked validators
-• Enhanced network resilience
-• Increased Sybil resistance.
-
-Challenges:
-• Stake concentration
-• Trust between validators and RPC nodes
-• Barriers to entry for smaller validators
-
-‣ SWQoS prioritizes network access, while priority fees prioritize transaction order.
-
-— More about nodes &amp; validators:
-
-‣ All validators are nodes, but not all nodes are validators.
-
-‣ Nodes can be validators, signing and voting, or RPC providers, handling wallet and DEX requests.
-
-‣ Transactions specify writable accounts. Those affecting the same account are processed sequentially, while others that don&apos;t touch the same account can be processed either sequentially or in parallel. 
-
-— Liquid Staking on Solana:
-
-‣ Solana employs a Delegated PoS (DPoS).
-
-‣ Users stake SOL in validator pools, which can issue LST tokens.
-
-‣ Staking rewards compete directly with lending yields.
-
-‣ If lending yields exceed staking rewards, validators may withdraw their funds, potentially impacting network security.
-
-1. LST tokens can either be reward-bearing and rebasing.
-
-• When a staker deposits 10 SOL into a stake pool, they receive 10 LST tokens.
-• The stake pool delegates these SOL to multiple validators, receiving vSOL in return.
-• These vSOL represent the staking rewards earned by the validators.
-• The LST tokens held by the staker are backed by these vSOL.
-
-2. Validator LSTs provide a simple way for projects to issue LSTs associated with a particular validator.
-
-‣ Some players use it to create community around it like @heliuslabs. These LSTs function like single-validator stake pools.
-
-• When a staker deposits 10 SOL into a validator LST, they receive v_lstSOL tokens representing their claim on the staked SOL.
-• The validator then stakes the pooled SOL on the Solana network, receiving sSOL in return.
-• These sSOL represent the validator&apos;s claim on the staked SOL and the associated staking rewards.
-
-‣ In both cases, stakers delegate SOL to validators, who validate transactions and share rewards with stakers.
-
-‣ Validator LSTs are more efficient, reducing the number of stake accounts and streamlining reward calculations.
-
-‣ Ethereum LST adoption is shaped by historical events, with a few dominant players.
-
-‣ Solana LST usage is shaped by limited utility and legal concerns. Large SOL holders sometimes choose self-staking to mitigate legal risks.
-
-— MEV on Solana:
-
-‣ Leader of the current block has full control over block production and scheduling.
-
-‣ Leaders are incentivized to prioritize transactions through priority fees, but inclusion is not mandatory.
-
-‣ MEV on Solana still negatively impacts the ecosystem. More than 50% of compute resources are wasted on failed arbitrage attempts.
-
-‣ As I mentioned above, Solana lacks a public mempool. Transactions are directly forwarded to the current and upcoming leaders.
-
-‣ @jito_sol client allows for more efficient MEV extraction. Searchers can participate in off-chain auctions with block leaders to have their transaction bundles included in the block.
-
-— Difference between Ethereum MEV and Solana MEV:
-
-Difference in block production:
-
-‣ Solana’s default validators continuously produce blocks, processing and including transactions in a streamlined manner. 
-
-‣ Ethereum batches transactions into 12-second intervals.
-
-How MEV hurts Ethereum:
-• High fees for the whole network
-• Less blockspace
-• Sandwiching &amp; frontrunning users
-
-How MEV hurts Solana:
-• Searchers spam to get their transaction in.
-• Failed transactions waste compute units
-• Few searchers take most of the profit
-
-————————
-
-If you really went down there, thank you so much for reading this long piece of content. 
-
-I appreciate your attention and I hope that helps!</title>
+I feel like people’s mindsets don’t evolve as quickly, so they’re adapting to new things they never had before. Most of the time, people are friendly and quite shy too.</title>
         <dc:creator>@paramonoww</dc:creator>
-        <description><![CDATA[<p>I spent past 6 months reading countless articles and docs about Solana mechanism design and architecture.<br>
+        <description><![CDATA[<p>I spent two weeks in China and was surpised in both positive and negative ways.<br>
 <br>
-I have collected the most important info in single long read.<br>
+Cons that I have found:<br>
 <br>
-That includes mechanism design, fee markets, MEV, and more.<br>
+1. There is no personal space.<br>
+Everyone rushes forward, pushing their way through. Countless times, people bumped into my shoulder, and no one even looked back or apologized — they just ignored it. <br>
 <br>
-Here are the answers to all your questions:<br>
+In every country I’ve visited before, people always apologize, and I do the same, even if I wasn’t the one at fault in the incident.<br>
 <br>
-— Solana's Consensus Model:<br>
+2. Many bikes ride on the sidewalk instead of the road.<br>
+Moreover, they honk at people walking on the sidewalk who are peacefully walking their way. I'm not talking about bicycles, but real bikes who can go like 60 mph.<br>
 <br>
-‣ Solana's Proof of History (PoH) consensus model is basically Proof-of-Stake + time variable.<br>
+3. People don’t follow traffic rules. <br>
+Even when there’s a red light, crowds cross the road despite oncoming cars. Meanwhile, drivers just smoke cigarettes and throw them out the window onto the street.<br>
 <br>
-‣ PoH is literally clock for the network, so you can keep track of events and their order (you don't need validators to agree on time).<br>
+4. I noticed a lack of service.<br>
+Even in 5-star hotel restaurants, waiters don’t seem to know that you need a dessert fork for cheesecake. Whenever they cleared dirty plates with cutlery, they never brought replacement cutlery. What am I supposed to eat my next meal with?<br>
 <br>
-‣ There is no mempool on Solana.<br>
+5. Unnecessary questions for security?<br>
+When I applied for a Chinese visa, there was a field requiring me to list the countries I had visited in the last two years. I’ve been to many countries, including Turkey.<br>
 <br>
-‣ Most validators today use the scheduler implementation provided in the Solana client built by <a href="https://nitter.freedit.eu/solanalabs" title="Solana Labs">@solanalabs</a>. However, validators can run different block building algorithms if they prefer.<br>
+The visa was supposed to arrive in four days after submission, but five days later, they requested details about my time in Turkey: when I was there, how long I stayed, the purpose of my visit, and they even asked me to send hotel bookings. <br>
 <br>
-‣ The time variable allows to assign leaders who will produce the blocks each rotation.<br>
+Why are they so suspicious of Turkey? They ended up issuing visa 1 week after the promised time, so I had to cancel and reschedule everything.<br>
 <br>
-‣ When a validator is selected as a leader, it is responsible for producing new blocks and proposing them to the network.<br>
+I’m not mentioning that no one speaks English because they don’t have to — China is for the Chinese. Also, the firewall blocks every Western website, but that’s easily fixed with a VPN.<br>
 <br>
-‣ Leadership rotates among validators in fixed intervals called slots.<br>
+Pros that I have found:<br>
 <br>
-‣ A slot is a 400-millisecond time period during which a validator can produce a block. Slots occur sequentially one-by-one.<br>
+1. The food is exceptional.<br>
+There are many cozy cafés and restaurants, and everything is truly delicious. Chinese cuisine is incredibly diverse depending on region.<br>
 <br>
-‣ Each slot is assigned a leader validator, who proposes a new block. Other validators vote on the block's validity, leading to its confirmation.<br>
+2. Delivery is probably the fastest in the world. <br>
+There were many times when I ordered food and it arrived within 20–25 minutes — everything arrives hot and is packaged really well.<br>
 <br>
-‣ If a validator misses its assigned slot, the network proceeds to the next slot.<br>
+3. There are plenty of parks and natural areas.<br>
+Sometimes it feels like you’re in a forest: the air is extremely clean, and it’s refreshing to breathe, especially if you’ve lived in Southeast Asia long enough, you know what I mean.<br>
 <br>
-‣ Solana uses fork-based voting, not individual block voting. Validators produce blocks continuously, adding valid votes in real time.<br>
+4. Payments are incredibly convenient. <br>
+You just show a QR code that’s accepted literally everywhere — from hotels to street food vendors. The Alipay system is flawless, and the whole world needs something like it.<br>
 <br>
-‣ Validators and delegators can stake or unstake SOL tokens during an epoch. This adjusts validator participation in the consensus process, which is determined at the epoch's start based on staked SOL.<br>
+5. Everything is remarkably cheap.<br>
+Taxis, food, hotels, transportation — literally everything. Moreover, it’s not cheap because it’s low quality, the quality is usually excellent.<br>
 <br>
-— Solana's Staking Model:<br>
+6. The streets are very clean.<br>
+As I mentioned earlier, I’ve seen people throw trash on the streets countless times, but workers clean them constantly, so it never gets dirty. I bet if people didn’t litter, it would be even cleaner.<br>
 <br>
-‣ Solana processes staking updates at the end of each epoch, which lasts approximately 2-3 days and consists of 432,000 blocks (slots). <br>
+I would definitely return in the future, but next time I’d like to explore more nature rather than cities (this trip was to Guangzhou and Shenzhen). <br>
 <br>
-‣ The validator schedule for the next epoch is determined based on the updated staking information.<br>
+China seems to be developing rapidly — Shenzhen was basically a village 40 years ago, and now it’s a top3 Chinese city. <br>
 <br>
-There are 3 main sources of income for a validator:<br>
-• Transaction fees<br>
-• Protocol-based rewards (inflation)<br>
-• Maximal Extractable Value (MEV)<br>
-<br>
-‣ Leaders receive block rewards that include 50% of base and priority fees (the other 50% is burned). <br>
-<br>
-‣ Longer block times can reduce yearly rewards, as fewer epochs occur, impacting the total <a href="https://nitter.freedit.eu/search?q=%23SOL">$SOL</a> distribution.<br>
-<br>
-‣ Solana calculates the inflation SOL pool for each epoch to distribute rewards to validators and stakers based on their previous epoch's voting and staking status.<br>
-<br>
-— Solana's Voting Model:<br>
-<br>
-‣ Solana has no strict minimum SOL requirement for validators, but a vote account is necessary for consensus participation.<br>
-<br>
-‣ Validators vote on slot leader proposals, requiring a vote account and transaction fees for each vote.<br>
-<br>
-‣ Solana's on-chain voting mechanism incurs transaction fees for each vote. High <a href="https://nitter.freedit.eu/search?q=%23SOL">$SOL</a> prices can increase the operational costs of validator voting due to increased transaction fees.<br>
-<br>
-‣ Each epoch requires validators to vote, costing 0.000005 SOL per vote. Validators spend roughly 2-3 SOL per epoch on voting. <br>
-<br>
-‣ With epochs lasting 2-3 days, this translates to an annual cost of approximately 300-350 SOL, or about 1 SOL per day.<br>
-<br>
-— Solana Fee Markets:<br>
-<br>
-‣ Solana's fee mechanism has two parts: base fee and priority fee.<br>
-<br>
-‣ Solana's fee mechanism splits fees between validators and burns, but it has limitations. It doesn't incentivize efficiency or align incentives.<br>
-<br>
-‣ Solana requires a fee to create new accounts (rent exemption). This fee is calculated at a fixed rate of 6.96 SOL per MB of account storage. The fee is assigned to the newly created account and can be recovered if the account is later deleted.<br>
-<br>
-Limitations:<br>
-• Base fee doesn't consider actual CU usage -&gt; wasted resources<br>
-• Priority fee is weak -&gt; only effective during congestion<br>
-• Validators receive only 50% of fees -&gt; low incentives (sponsored by inflation)<br>
-<br>
-— Stake-weighted Quality of Service:<br>
-<br>
-‣ If network congestion occurs, Stake-weighted Quality of Service (SWQoS) mechanism can be used to prioritize certain types of transactions.<br>
-<br>
-‣ SWQoS is the mechanism in Solana that prioritizes network traffic based on the amount of stake held by validators.<br>
-<br>
-‣ It prevents low-stake validators from flooding the network by prioritizing transactions from validators with higher stakes.<br>
-<br>
-‣ There are 2 connection types: open and stake-weighted. Open connections are public, while stake-weighted connections are reserved for validators. RPC nodes can leverage validator connections through trusted relationships.<br>
-<br>
-Benefits:<br>
-• Improved transaction performance for staked validators<br>
-• Enhanced network resilience<br>
-• Increased Sybil resistance.<br>
-<br>
-Challenges:<br>
-• Stake concentration<br>
-• Trust between validators and RPC nodes<br>
-• Barriers to entry for smaller validators<br>
-<br>
-‣ SWQoS prioritizes network access, while priority fees prioritize transaction order.<br>
-<br>
-— More about nodes & validators:<br>
-<br>
-‣ All validators are nodes, but not all nodes are validators.<br>
-<br>
-‣ Nodes can be validators, signing and voting, or RPC providers, handling wallet and DEX requests.<br>
-<br>
-‣ Transactions specify writable accounts. Those affecting the same account are processed sequentially, while others that don't touch the same account can be processed either sequentially or in parallel. <br>
-<br>
-— Liquid Staking on Solana:<br>
-<br>
-‣ Solana employs a Delegated PoS (DPoS).<br>
-<br>
-‣ Users stake SOL in validator pools, which can issue LST tokens.<br>
-<br>
-‣ Staking rewards compete directly with lending yields.<br>
-<br>
-‣ If lending yields exceed staking rewards, validators may withdraw their funds, potentially impacting network security.<br>
-<br>
-1. LST tokens can either be reward-bearing and rebasing.<br>
-<br>
-• When a staker deposits 10 SOL into a stake pool, they receive 10 LST tokens.<br>
-• The stake pool delegates these SOL to multiple validators, receiving vSOL in return.<br>
-• These vSOL represent the staking rewards earned by the validators.<br>
-• The LST tokens held by the staker are backed by these vSOL.<br>
-<br>
-2. Validator LSTs provide a simple way for projects to issue LSTs associated with a particular validator.<br>
-<br>
-‣ Some players use it to create community around it like <a href="https://nitter.freedit.eu/heliuslabs" title="Helius">@heliuslabs</a>. These LSTs function like single-validator stake pools.<br>
-<br>
-• When a staker deposits 10 SOL into a validator LST, they receive v_lstSOL tokens representing their claim on the staked SOL.<br>
-• The validator then stakes the pooled SOL on the Solana network, receiving sSOL in return.<br>
-• These sSOL represent the validator's claim on the staked SOL and the associated staking rewards.<br>
-<br>
-‣ In both cases, stakers delegate SOL to validators, who validate transactions and share rewards with stakers.<br>
-<br>
-‣ Validator LSTs are more efficient, reducing the number of stake accounts and streamlining reward calculations.<br>
-<br>
-‣ Ethereum LST adoption is shaped by historical events, with a few dominant players.<br>
-<br>
-‣ Solana LST usage is shaped by limited utility and legal concerns. Large SOL holders sometimes choose self-staking to mitigate legal risks.<br>
-<br>
-— MEV on Solana:<br>
-<br>
-‣ Leader of the current block has full control over block production and scheduling.<br>
-<br>
-‣ Leaders are incentivized to prioritize transactions through priority fees, but inclusion is not mandatory.<br>
-<br>
-‣ MEV on Solana still negatively impacts the ecosystem. More than 50% of compute resources are wasted on failed arbitrage attempts.<br>
-<br>
-‣ As I mentioned above, Solana lacks a public mempool. Transactions are directly forwarded to the current and upcoming leaders.<br>
-<br>
-‣ <a href="https://nitter.freedit.eu/jito_sol" title="Jito">@jito_sol</a> client allows for more efficient MEV extraction. Searchers can participate in off-chain auctions with block leaders to have their transaction bundles included in the block.<br>
-<br>
-— Difference between Ethereum MEV and Solana MEV:<br>
-<br>
-Difference in block production:<br>
-<br>
-‣ Solana’s default validators continuously produce blocks, processing and including transactions in a streamlined manner. <br>
-<br>
-‣ Ethereum batches transactions into 12-second intervals.<br>
-<br>
-How MEV hurts Ethereum:<br>
-• High fees for the whole network<br>
-• Less blockspace<br>
-• Sandwiching & frontrunning users<br>
-<br>
-How MEV hurts Solana:<br>
-• Searchers spam to get their transaction in.<br>
-• Failed transactions waste compute units<br>
-• Few searchers take most of the profit<br>
-<br>
-————————<br>
-<br>
-If you really went down there, thank you so much for reading this long piece of content. <br>
-<br>
-I appreciate your attention and I hope that helps!</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGc6ED5faAAI9OYd.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 21 Nov 2024 12:27:14 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/paramonoww/status/1859574291337183282#m</guid>
-        <link>https://nitter.freedit.eu/paramonoww/status/1859574291337183282#m</link>
+I feel like people’s mindsets don’t evolve as quickly, so they’re adapting to new things they never had before. Most of the time, people are friendly and quite shy too.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlA2MJUXoAAuukV.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 02 Mar 2025 05:48:40 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/paramonoww/status/1896075160899502561#m</guid>
+        <link>https://nitter.freedit.eu/paramonoww/status/1896075160899502561#m</link>
       </item>
       <item>
-        <title>RT by @paramonoww: Does it make sense to use SVM on other blockchains?
+        <title>Does it make sense to use SVM on other blockchains?
 
 Rollup ecosystems are expanding as the usage of various altVMs grows; meanwhile, with Solana and SVM already popular, I found myself wondering: 
 
@@ -1242,6 +998,15 @@ Swaps, transfers, and most user activity represent less than 1%.</p>
         <pubDate>Thu, 16 Jan 2025 13:46:31 GMT</pubDate>
         <guid>https://nitter.freedit.eu/paramonoww/status/1879887963968209220#m</guid>
         <link>https://nitter.freedit.eu/paramonoww/status/1879887963968209220#m</link>
+      </item>
+      <item>
+        <title>RT by @paramonoww: A well written tweet on @Eigen_da, a must read.</title>
+        <dc:creator>@Satyams246</dc:creator>
+        <description><![CDATA[<p>A well written tweet on <a href="https://nitter.freedit.eu/eigen_da" title="EigenDA">@Eigen_da</a>, a must read.</p>
+<p><a href="https://nitter.freedit.eu/paramonoww/status/1879500495641006082#m">nitter.freedit.eu/paramonoww/status/1879500495641006082#m</a></p>]]></description>
+        <pubDate>Thu, 16 Jan 2025 04:10:16 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/Satyams246/status/1879742943923458269#m</guid>
+        <link>https://nitter.freedit.eu/Satyams246/status/1879742943923458269#m</link>
       </item>
 
   </channel>

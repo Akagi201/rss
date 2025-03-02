@@ -16,6 +16,47 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @gakonst: For 2025 we need Fusaka on L1 with PeerDAS, ideally with 48/72 blob target/limit
+
+Let&apos;s aim to get a Fusaka testnet with these blob parameters running the day after Pectra goes live.</title>
+        <dc:creator>@VitalikButerin</dc:creator>
+        <description><![CDATA[<p>For 2025 we need Fusaka on L1 with PeerDAS, ideally with 48/72 blob target/limit<br>
+<br>
+Let's aim to get a Fusaka testnet with these blob parameters running the day after Pectra goes live.</p>]]></description>
+        <pubDate>Sat, 01 Mar 2025 15:45:55 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/VitalikButerin/status/1895863075527700959#m</guid>
+        <link>https://nitter.freedit.eu/VitalikButerin/status/1895863075527700959#m</link>
+      </item>
+      <item>
+        <title>Tomasz is next level. 
+
+Wise and experienced, gets nuances, can build and lead effective and large teams, works harder than anyone else.
+
+Looking forward to working with him, @hwwonx, @dannyryan in their next chapter and in accelerating Ethereum.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Tomasz is next level. <br>
+<br>
+Wise and experienced, gets nuances, can build and lead effective and large teams, works harder than anyone else.<br>
+<br>
+Looking forward to working with him, <a href="https://nitter.freedit.eu/hwwonx" title="hww.eth | Hsiao-Wei Wang">@hwwonx</a>, <a href="https://nitter.freedit.eu/dannyryan" title="dannyryan">@dannyryan</a> in their next chapter and in accelerating Ethereum.</p>
+<p><a href="https://nitter.freedit.eu/tkstanczak/status/1895854479599091871#m">nitter.freedit.eu/tkstanczak/status/1895854479599091871#m</a></p>]]></description>
+        <pubDate>Sat, 01 Mar 2025 18:19:28 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1895901717491044411#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1895901717491044411#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: I’m thrilled to announce that I’m joining as a cofounder of @etherealize_io to help onboard the world to Ethereum
+
+I’ll be at the helm of the ship alongside @vivekventures and the incredible team he is building</title>
+        <dc:creator>@dannyryan</dc:creator>
+        <description><![CDATA[<p>I’m thrilled to announce that I’m joining as a cofounder of <a href="https://nitter.freedit.eu/Etherealize_io" title="Etherealize">@etherealize_io</a> to help onboard the world to Ethereum<br>
+<br>
+I’ll be at the helm of the ship alongside <a href="https://nitter.freedit.eu/VivekVentures" title="Vivek Raman">@vivekventures</a> and the incredible team he is building</p>]]></description>
+        <pubDate>Sat, 01 Mar 2025 15:00:54 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/dannyryan/status/1895851747865944114#m</guid>
+        <link>https://nitter.freedit.eu/dannyryan/status/1895851747865944114#m</link>
+      </item>
+      <item>
         <title>RT by @gakonst: Reth v1.2 brought huge performance gains and cleaned several public types and APIs, especially requiring fewer type conversions with revm.
 
 It wasn&apos;t perfect, as a breaking API made our custom payload service uglier, so we opened a GitHub issue. It was addressed in 2 weeks and we happily pinned the new commit downstream.
@@ -192,71 +233,6 @@ Nothing about his focus will change; we just want to support his ability to keep
         <pubDate>Wed, 26 Feb 2025 00:18:33 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ashekhirin/status/1894542532299702379#m</guid>
         <link>https://nitter.freedit.eu/ashekhirin/status/1894542532299702379#m</link>
-      </item>
-      <item>
-        <title>Which non L2 EVM chains are not supporting EIP7702 in the next two months? IMO everything with an EVM should include that EIP ASAP to 100x UX for everyone. I can help, our team is an expert. LMK.
-
-Thinking Polygon, Hyperliquid, Monad etc</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Which non L2 EVM chains are not supporting EIP7702 in the next two months? IMO everything with an EVM should include that EIP ASAP to 100x UX for everyone. I can help, our team is an expert. LMK.<br>
-<br>
-Thinking Polygon, Hyperliquid, Monad etc</p>]]></description>
-        <pubDate>Tue, 25 Feb 2025 00:35:26 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1894184396229386490#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1894184396229386490#m</link>
-      </item>
-      <item>
-        <title>R to @gakonst: What was the bug?
-
-EL clients had an issue where they forgot to add the correct Deposit contract address, which matters for Pectra Requests Hash calculation:
-- https://github.com/hyperledger/besu/pull/8346
-- https://github.com/NethermindEth/nethermind/pull/8265
-- https://github.com/ethereum/go-ethereum/pull/31247
-
-Reth and Erigon were ok.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>What was the bug?<br>
-<br>
-EL clients had an issue where they forgot to add the correct Deposit contract address, which matters for Pectra Requests Hash calculation:<br>
-- <a href="https://github.com/hyperledger/besu/pull/8346">github.com/hyperledger/besu/…</a><br>
-- <a href="https://github.com/NethermindEth/nethermind/pull/8265">github.com/NethermindEth/net…</a><br>
-- <a href="https://github.com/ethereum/go-ethereum/pull/31247">github.com/ethereum/go-ether…</a><br>
-<br>
-Reth and Erigon were ok.</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1894174169031741441%2FTLlnDjzM%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 24 Feb 2025 23:55:58 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1894174460288356569#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1894174460288356569#m</link>
-      </item>
-      <item>
-        <title>Holesky and other testnets exist to find issues. 
-
-Excited that Reth &amp; Erigon worked well, and IMO NBD for other teams. Shit happens. We fix and keep shipping as one team. Highly recommend Reth in prod.
-
-Would it have been better had no client had a bug? 
-Sure. 
-
-Was the bug easy to find? 
-Yes. 
-
-Does it mean we should go slower? 
-No.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Holesky and other testnets exist to find issues. <br>
-<br>
-Excited that Reth & Erigon worked well, and IMO NBD for other teams. Shit happens. We fix and keep shipping as one team. Highly recommend Reth in prod.<br>
-<br>
-Would it have been better had no client had a bug? <br>
-Sure. <br>
-<br>
-Was the bug easy to find? <br>
-Yes. <br>
-<br>
-Does it mean we should go slower? <br>
-No.</p>]]></description>
-        <pubDate>Mon, 24 Feb 2025 23:53:28 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1894173832317211112#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1894173832317211112#m</link>
       </item>
 
   </channel>

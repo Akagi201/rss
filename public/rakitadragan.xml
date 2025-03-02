@@ -16,6 +16,40 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @rakitadragan: bullish ethereum
+
+congrats @tkstanczak, @hwwonx , @dannyryan, @VitalikButerin :)</title>
+        <dc:creator>@drakefjustin</dc:creator>
+        <description><![CDATA[<p>bullish ethereum<br>
+<br>
+congrats <a href="https://nitter.freedit.eu/tkstanczak" title="Tomasz K. Stańczak">@tkstanczak</a>, <a href="https://nitter.freedit.eu/hwwonx" title="hww.eth | Hsiao-Wei Wang">@hwwonx</a> , <a href="https://nitter.freedit.eu/dannyryan" title="dannyryan">@dannyryan</a>, <a href="https://nitter.freedit.eu/VitalikButerin" title="vitalik.eth">@VitalikButerin</a> :)</p>]]></description>
+        <pubDate>Sat, 01 Mar 2025 15:19:29 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/drakefjustin/status/1895856424259108957#m</guid>
+        <link>https://nitter.freedit.eu/drakefjustin/status/1895856424259108957#m</link>
+      </item>
+      <item>
+        <title>Awesome news! And clear and concise delivery :D</title>
+        <dc:creator>@rakitadragan</dc:creator>
+        <description><![CDATA[<p>Awesome news! And clear and concise delivery :D</p>
+<p><a href="https://nitter.freedit.eu/ethereumfndn/status/1895851576251826227#m">nitter.freedit.eu/ethereumfndn/status/1895851576251826227#m</a></p>]]></description>
+        <pubDate>Sat, 01 Mar 2025 15:17:54 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/rakitadragan/status/1895856027205337148#m</guid>
+        <link>https://nitter.freedit.eu/rakitadragan/status/1895856027205337148#m</link>
+      </item>
+      <item>
+        <title>EF seems in a need of a PR person
+
+and follow up tweet would be great here, as not a lot is said here.</title>
+        <dc:creator>@rakitadragan</dc:creator>
+        <description><![CDATA[<p>EF seems in a need of a PR person<br>
+<br>
+and follow up tweet would be great here, as not a lot is said here.</p>
+<p><a href="https://nitter.freedit.eu/ethereumfndn/status/1895442343689363652#m">nitter.freedit.eu/ethereumfndn/status/1895442343689363652#m</a></p>]]></description>
+        <pubDate>Sat, 01 Mar 2025 14:58:32 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/rakitadragan/status/1895851150873936021#m</guid>
+        <link>https://nitter.freedit.eu/rakitadragan/status/1895851150873936021#m</link>
+      </item>
+      <item>
         <title>RT by @rakitadragan: https://github.com/bluealloy/revm/pull/2043 looking for a taker</title>
         <dc:creator>@gakonst</dc:creator>
         <description><![CDATA[<p><a href="https://github.com/bluealloy/revm/pull/2043">github.com/bluealloy/revm/pu…</a> looking for a taker</p>
@@ -232,78 +266,6 @@ Transparency in the process will bring stability.<br>
         <pubDate>Mon, 13 Jan 2025 22:32:01 GMT</pubDate>
         <guid>https://nitter.freedit.eu/rakitadragan/status/1878933043169067235#m</guid>
         <link>https://nitter.freedit.eu/rakitadragan/status/1878933043169067235#m</link>
-      </item>
-      <item>
-        <title>RT by @rakitadragan: Wrote a blog post about how the main execution loop in revm orchestrates the call stack 🤠 
-
-Two scenarios covered:  
-
-1) Transaction with a simple execution without any additional frame creations  
-
-2) Transaction with a STATICCALL, demonstrating a call stack depth of 2</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Wrote a blog post about how the main execution loop in revm orchestrates the call stack 🤠 <br>
-<br>
-Two scenarios covered:  <br>
-<br>
-1) Transaction with a simple execution without any additional frame creations  <br>
-<br>
-2) Transaction with a STATICCALL, demonstrating a call stack depth of 2</p>
-<p><a href="https://nitter.freedit.eu/letsgetonchain/status/1876577088595210412#m">nitter.freedit.eu/letsgetonchain/status/1876577088595210412#m</a></p>]]></description>
-        <pubDate>Thu, 09 Jan 2025 13:08:46 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1877341747673436250#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1877341747673436250#m</link>
-      </item>
-      <item>
-        <title>RT by @rakitadragan: Defining hardware requirements for Ethereum entities is important because it parametrizes what we mean by decentralization, enables informed decision making about protocol upgrades and allows for meaningful benchmark comparisons.
-
-We have been gathering feedback on the current recommendations for validators:
-
-- $1,000 total spend
-- 8 cores/16 threads CPU
-- 4TB SSD
-- 32GB RAM minimum
-
-Less powerful machines work today, but these specs would guide protocol changes related to validators.</title>
-        <dc:creator>@kevaundray</dc:creator>
-        <description><![CDATA[<p>Defining hardware requirements for Ethereum entities is important because it parametrizes what we mean by decentralization, enables informed decision making about protocol upgrades and allows for meaningful benchmark comparisons.<br>
-<br>
-We have been gathering feedback on the current recommendations for validators:<br>
-<br>
-- $1,000 total spend<br>
-- 8 cores/16 threads CPU<br>
-- 4TB SSD<br>
-- 32GB RAM minimum<br>
-<br>
-Less powerful machines work today, but these specs would guide protocol changes related to validators.</p>]]></description>
-        <pubDate>Wed, 08 Jan 2025 23:15:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/kevaundray/status/1877132001087533225#m</guid>
-        <link>https://nitter.freedit.eu/kevaundray/status/1877132001087533225#m</link>
-      </item>
-      <item>
-        <title>RT by @rakitadragan: Revm feels like going through Ethereum&apos;s history..
-
-For example it&apos;s support for older transaction types lets you trace the evolution of fork-specific validations⬇️
-
-Way more effective and sticky than reading EIPs.
-
-Obviously implementing them is even better..
-
-2025 goal 🫡</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Revm feels like going through Ethereum's history..<br>
-<br>
-For example it's support for older transaction types lets you trace the evolution of fork-specific validations⬇️<br>
-<br>
-Way more effective and sticky than reading EIPs.<br>
-<br>
-Obviously implementing them is even better..<br>
-<br>
-2025 goal 🫡</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGgNhUstWkAAA0hE.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 01 Jan 2025 13:38:00 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1874450001792848050#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1874450001792848050#m</link>
       </item>
 
   </channel>

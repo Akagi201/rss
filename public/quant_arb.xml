@@ -16,6 +16,55 @@
       <height>128</height>
     </image>
       <item>
+        <title>slap an XGBoost on it is often the answer</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>slap an XGBoost on it is often the answer</p>
+<p><a href="https://nitter.freedit.eu/__paleologo/status/1896202159726919971#m">nitter.freedit.eu/__paleologo/status/1896202159726919971#m</a></p>]]></description>
+        <pubDate>Mon, 03 Mar 2025 19:00:19 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1896636774933512673#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1896636774933512673#m</link>
+      </item>
+      <item>
+        <title>R to @quant_arb: Like you’re telling me you can’t just remember 
+
+Sharpe = annualize(return - rfr / stddev)
+
+That said… seen a few people not even remember the part where you annualise it</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>Like you’re telling me you can’t just remember <br>
+<br>
+Sharpe = annualize(return - rfr / stddev)<br>
+<br>
+That said… seen a few people not even remember the part where you annualise it</p>]]></description>
+        <pubDate>Mon, 03 Mar 2025 15:31:15 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1896584162896760978#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1896584162896760978#m</link>
+      </item>
+      <item>
+        <title>Sometimes I’m reminded of that quant cheat sheet from pyquantnews where it was literally the Sharpe ratio formula.
+
+If you need that you’re definitely NGMI
+
+Feels equivalent to watching business majors write down “profit = revenue - costs” intensely</title>
+        <dc:creator>@quant_arb</dc:creator>
+        <description><![CDATA[<p>Sometimes I’m reminded of that quant cheat sheet from pyquantnews where it was literally the Sharpe ratio formula.<br>
+<br>
+If you need that you’re definitely NGMI<br>
+<br>
+Feels equivalent to watching business majors write down “profit = revenue - costs” intensely</p>]]></description>
+        <pubDate>Mon, 03 Mar 2025 15:28:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/quant_arb/status/1896583549131931957#m</guid>
+        <link>https://nitter.freedit.eu/quant_arb/status/1896583549131931957#m</link>
+      </item>
+      <item>
+        <title>RT by @quant_arb: wrappers on .shift(+/-1) with terrible plotting</title>
+        <dc:creator>@UAL_Fan</dc:creator>
+        <description><![CDATA[<p>wrappers on .shift(+/-1) with terrible plotting</p>]]></description>
+        <pubDate>Sun, 02 Mar 2025 19:12:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/UAL_Fan/status/1896277512872984584#m</guid>
+        <link>https://nitter.freedit.eu/UAL_Fan/status/1896277512872984584#m</link>
+      </item>
+      <item>
         <title>R to @quant_arb: except CCXT, I do sometimes use that</title>
         <dc:creator>@quant_arb</dc:creator>
         <description><![CDATA[<p>except CCXT, I do sometimes use that</p>]]></description>
@@ -176,35 +225,6 @@ Appreciate those who retweet / share this about to anyone they think is interest
         <pubDate>Sun, 16 Feb 2025 10:19:12 GMT</pubDate>
         <guid>https://nitter.freedit.eu/quant_arb/status/1891069811263766740#m</guid>
         <link>https://nitter.freedit.eu/quant_arb/status/1891069811263766740#m</link>
-      </item>
-      <item>
-        <title>In the lab doing complex ML research rn (for symbol in symbols: plt.plot(pnl[symbol]))</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>In the lab doing complex ML research rn (for symbol in symbols: plt.plot(pnl[symbol]))</p>]]></description>
-        <pubDate>Sat, 15 Feb 2025 14:17:01 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1890767274807615907#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1890767274807615907#m</link>
-      </item>
-      <item>
-        <title>RT by @quant_arb: For HFT, data structures and algorithms matter, but the real deal is efficient memory allocation</title>
-        <dc:creator>@ninjaquant_</dc:creator>
-        <description><![CDATA[<p>For HFT, data structures and algorithms matter, but the real deal is efficient memory allocation</p>]]></description>
-        <pubDate>Wed, 12 Feb 2025 17:34:30 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ninjaquant_/status/1889729807421710456#m</guid>
-        <link>https://nitter.freedit.eu/ninjaquant_/status/1889729807421710456#m</link>
-      </item>
-      <item>
-        <title>&quot;A rolex is a great investment&quot;
-
-Meanwhile, the chart...</title>
-        <dc:creator>@quant_arb</dc:creator>
-        <description><![CDATA[<p>"A rolex is a great investment"<br>
-<br>
-Meanwhile, the chart...</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjmnsnRXwAA3P_E.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 12 Feb 2025 17:19:33 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/quant_arb/status/1889726047303659792#m</guid>
-        <link>https://nitter.freedit.eu/quant_arb/status/1889726047303659792#m</link>
       </item>
 
   </channel>

@@ -16,6 +16,42 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @notnotstorm: read more here https://www.paradigm.xyz/2024/05/how-to-raise-the-gas-limit-2</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>read more here <a href="https://www.paradigm.xyz/2024/05/how-to-raise-the-gas-limit-2">paradigm.xyz/2024/05/how-to-…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1895213612240904195%2Fe2zGVvg0%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 03 Mar 2025 22:06:15 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1896683564634411225#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1896683564634411225#m</link>
+      </item>
+      <item>
+        <title>amazing news. ethereum is about to lower the storage burden of nodes by 80%, via expiring history
+
+this will switch from the dark blue line to the light blue line in this chart
+
+this will free up many years of runway for state growth</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>amazing news. ethereum is about to lower the storage burden of nodes by 80%, via expiring history<br>
+<br>
+this will switch from the dark blue line to the light blue line in this chart<br>
+<br>
+this will free up many years of runway for state growth</p>
+<p><a href="https://nitter.freedit.eu/M25Marek/status/1896682044912030087#m">nitter.freedit.eu/M25Marek/status/1896682044912030087#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlJe8yfbAAA974A.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 03 Mar 2025 22:06:14 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1896683562851799286#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1896683562851799286#m</link>
+      </item>
+      <item>
+        <title>RT by @notnotstorm: my message to the Ethereum community</title>
+        <dc:creator>@hasufl</dc:creator>
+        <description><![CDATA[<p>my message to the Ethereum community</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlHtjodWYAAcurq.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 03 Mar 2025 13:47:53 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/hasufl/status/1896558149051748628#m</guid>
+        <link>https://nitter.freedit.eu/hasufl/status/1896558149051748628#m</link>
+      </item>
+      <item>
         <title>RT by @notnotstorm: I am in</title>
         <dc:creator>@tkstanczak</dc:creator>
         <description><![CDATA[<p>I am in</p>
@@ -210,7 +246,7 @@ if this interests you, check out the discussion of the EIP here https://ethereum
 if this interests you, check out the discussion of the EIP here <a href="https://ethereum-magicians.org/t/eip-xxxx-increase-gas-utilization-target/22815">ethereum-magicians.org/t/eip…</a><br>
 <br>
 🌱→🌲</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1892495089454481408%2FuTyBOXJF%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1895032310258638848%2F4GtscDWW%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
         <pubDate>Mon, 10 Feb 2025 16:44:49 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1888992531360473423#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1888992531360473423#m</link>
@@ -278,59 +314,6 @@ users only need to decide on the priority fee, which is relatively constant acro
         <pubDate>Mon, 10 Feb 2025 16:44:48 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1888992525559734735#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1888992525559734735#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: more technical details for those interested:
-
-EIP-1559 is a beautiful transaction fee mechanism from @Tim_Roughgarden @VitalikButerin @econoar @AFDudley0 @mslipper @IanSNorden @dimahledba
-
-it improves UX for landing txs onchain by making fee parameters more predictable</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>more technical details for those interested:<br>
-<br>
-EIP-1559 is a beautiful transaction fee mechanism from <a href="https://nitter.freedit.eu/Tim_Roughgarden" title="Tim Roughgarden">@Tim_Roughgarden</a> <a href="https://nitter.freedit.eu/VitalikButerin" title="vitalik.eth">@VitalikButerin</a> <a href="https://nitter.freedit.eu/econoar" title="Eric Conner">@econoar</a> <a href="https://nitter.freedit.eu/AFDudley0" title="Rick Dudley (afdudley.eth)">@AFDudley0</a> <a href="https://nitter.freedit.eu/mslipper" title="Matthew Slipper 🔴✨">@mslipper</a> <a href="https://nitter.freedit.eu/IanSNorden" title="Ian Norden">@IanSNorden</a> <a href="https://nitter.freedit.eu/dimahledba" title="A₿del ∞/21M">@dimahledba</a><br>
-<br>
-it improves UX for landing txs onchain by making fee parameters more predictable</p>]]></description>
-        <pubDate>Mon, 10 Feb 2025 16:44:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992524347592790#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1888992524347592790#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: this is a low hanging fruit for safely scaling ethereum
-
-big thanks to @nero_eth @barnabemonnot @malleshpai @Data_Always @ciamac for initial feedback
-
-discuss the EIP here https://ethereum-magicians.org/t/eip-xxxx-increase-gas-utilization-target/22815
-
-🌱→🌲</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>this is a low hanging fruit for safely scaling ethereum<br>
-<br>
-big thanks to <a href="https://nitter.freedit.eu/nero_eth" title="Toni Wahrstätter ⟠">@nero_eth</a> <a href="https://nitter.freedit.eu/barnabemonnot" title="barnabe.eth">@barnabemonnot</a> <a href="https://nitter.freedit.eu/malleshpai" title="Mallesh Pai">@malleshpai</a> <a href="https://nitter.freedit.eu/Data_Always" title="dataalways.eth ⚡️🤖">@Data_Always</a> <a href="https://nitter.freedit.eu/ciamac" title="ciamac moallemi">@ciamac</a> for initial feedback<br>
-<br>
-discuss the EIP here <a href="https://ethereum-magicians.org/t/eip-xxxx-increase-gas-utilization-target/22815">ethereum-magicians.org/t/eip…</a><br>
-<br>
-🌱→🌲</p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1892495089454481408%2FuTyBOXJF%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 10 Feb 2025 16:44:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992523076735308#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1888992523076735308#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: why do this instead of just raising the gas limit?
-
-raising the target from 50% to 75% gives the same benefit to avg throughput as raising gas limit from 36M to 54M
-
-but the former is way safer against DoS attacks because it does not increase the severity of the worst case load</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>why do this instead of just raising the gas limit?<br>
-<br>
-raising the target from 50% to 75% gives the same benefit to avg throughput as raising gas limit from 36M to 54M<br>
-<br>
-but the former is way safer against DoS attacks because it does not increase the severity of the worst case load</p>]]></description>
-        <pubDate>Mon, 10 Feb 2025 16:44:47 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992521868739026#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1888992521868739026#m</link>
       </item>
 
   </channel>

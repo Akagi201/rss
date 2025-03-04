@@ -16,6 +16,54 @@
       <height>128</height>
     </image>
       <item>
+        <title>rfp: any of my auditor friends over the years want to review our next-gen account abstraction contract? still WIP and we&apos;d like to involve 1-2 people early.
+
+https://github.com/ithacaxyz/account</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>rfp: any of my auditor friends over the years want to review our next-gen account abstraction contract? still WIP and we'd like to involve 1-2 people early.<br>
+<br>
+<a href="https://github.com/ithacaxyz/account">github.com/ithacaxyz/account</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1895167454453866496%2FrzPOUAHB%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 03 Mar 2025 23:53:31 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1896710559590158369#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1896710559590158369#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: History-expiry update:
+More than 80% of Ethereum full node disk space is occupied by history, so data not needed to validate new blocks. 
+
+With the latest 1.31.* releases, @NethermindEth is fully ready to drop pre-merge history via ERA files.
+
+Dropping history requires cross-client consensus, and all teams have agreed to remove pre-merge history from full nodes on 1st May. History expiry is desired for further scaling.
+
+Once activated, your full node will require ~320 GB of pre-merge blocks and receipts history. A full Nethermind execution node without dropping pre-merge history today takes around 700 GB.
+
+If we drop all blocks and all receipts and keep only what is needed to verify the latest block, it would be less than 200 GB for full node.
+
+Nethermind team keeps working on history expiry (portal-network integration, rolling history expiry, ERA files, EIP-7801).
+
+Node without pre-merge history 👇</title>
+        <dc:creator>@M25Marek</dc:creator>
+        <description><![CDATA[<p>History-expiry update:<br>
+More than 80% of Ethereum full node disk space is occupied by history, so data not needed to validate new blocks. <br>
+<br>
+With the latest 1.31.* releases, <a href="https://nitter.freedit.eu/NethermindEth" title="Nethermind">@NethermindEth</a> is fully ready to drop pre-merge history via ERA files.<br>
+<br>
+Dropping history requires cross-client consensus, and all teams have agreed to remove pre-merge history from full nodes on 1st May. History expiry is desired for further scaling.<br>
+<br>
+Once activated, your full node will require ~320 GB of pre-merge blocks and receipts history. A full Nethermind execution node without dropping pre-merge history today takes around 700 GB.<br>
+<br>
+If we drop all blocks and all receipts and keep only what is needed to verify the latest block, it would be less than 200 GB for full node.<br>
+<br>
+Nethermind team keeps working on history expiry (portal-network integration, rolling history expiry, ERA files, EIP-7801).<br>
+<br>
+Node without pre-merge history 👇</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlJdfmCWYAAP0fe.png" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 03 Mar 2025 22:00:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/M25Marek/status/1896682044912030087#m</guid>
+        <link>https://nitter.freedit.eu/M25Marek/status/1896682044912030087#m</link>
+      </item>
+      <item>
         <title>RT by @gakonst: For 2025 we need Fusaka on L1 with PeerDAS, ideally with 48/72 blob target/limit
 
 Let&apos;s aim to get a Fusaka testnet with these blob parameters running the day after Pectra goes live.</title>
@@ -80,15 +128,6 @@ Addressing a low-priority quality-of-life issue in 2 weeks and before a new rele
         <pubDate>Fri, 28 Feb 2025 16:47:45 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1895516249620439501#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1895516249620439501#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Easy first PR if you want to contribute to `forge-std` and like ERC6909: https://github.com/foundry-rs/forge-std/issues/655</title>
-        <dc:creator>@zerosnacks</dc:creator>
-        <description><![CDATA[<p>Easy first PR if you want to contribute to `forge-std` and like ERC6909: <a href="https://github.com/foundry-rs/forge-std/issues/655">github.com/foundry-rs/forge-…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1895499106308497408%2FUUQOvtFp%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 28 Feb 2025 15:41:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/zerosnacks/status/1895499652742754715#m</guid>
-        <link>https://nitter.freedit.eu/zerosnacks/status/1895499652742754715#m</link>
       </item>
       <item>
         <title>We must scale DA on Ethereum in 2025, or the L2s will move to other chains. 
@@ -223,16 +262,6 @@ Nothing about his focus will change; we just want to support his ability to keep
         <pubDate>Wed, 26 Feb 2025 15:31:31 GMT</pubDate>
         <guid>https://nitter.freedit.eu/matthuang/status/1894772290837176467#m</guid>
         <link>https://nitter.freedit.eu/matthuang/status/1894772290837176467#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Reth validators are on the correct fork and started successfully proposing new blocks too 🫡</title>
-        <dc:creator>@ashekhirin</dc:creator>
-        <description><![CDATA[<p>Reth validators are on the correct fork and started successfully proposing new blocks too 🫡</p>
-<p><a href="https://nitter.freedit.eu/M25Marek/status/1894527742864994672#m">nitter.freedit.eu/M25Marek/status/1894527742864994672#m</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkrDkFCXYAASmQ2.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 26 Feb 2025 00:18:33 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ashekhirin/status/1894542532299702379#m</guid>
-        <link>https://nitter.freedit.eu/ashekhirin/status/1894542532299702379#m</link>
       </item>
 
   </channel>

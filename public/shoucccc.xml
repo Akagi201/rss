@@ -16,6 +16,31 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @shoucccc: We @shoucccc @tonykebot found a critical vulnerability in http://time.fun last week and conducted a hack. The vulnerability allows hackers to steal all trading fees and modify metadata (e.g. change &quot;toly&apos;s minute&quot; to &quot;vitalik&apos;s minute&quot;) of every tokens launched. 
+
+As the issue has been resolved, here is the full disclosure:
+
+http://time.fun provides each new user with a dedicated wallet to deposit USDC for trading. User&apos;s private key is securely stored in a third party provider. But SOL is needed to cover gas fees and http://time.fun wants a seamless interaction for users, the wallet “HW2C...Lo1H” signs every trade transaction alongside the user’s wallet signature. Surprisingly, this same wallet also owns all tokens launched by http://time.fun. As it is one of the signers, we can act on behalf of “HW2C...Lo1H” if we can let the backend sign arbitrary data.
+
+We discovered that by forging a token, it was possible to trick the backend into believing it was signing a legitimate transaction—letting us change metadata or withdraw all funds from “HW2C...Lo1H.” We reached out to the team (through buying 1 minute of their founder on http://time.fun) meanwhile did a whitehat hack. The team responded and fixed quickly and we returned all the funds.
+
+All backends should never sign transactions coming from the frontend, regardless of how thorough the validation or simulation checks appear. These safeguards can be bypassed by obfuscating transactions or bundling/front-running transactions to alter their semantics.</title>
+        <dc:creator>@publicqi</dc:creator>
+        <description><![CDATA[<p>We <a href="https://nitter.freedit.eu/shoucccc" title="Friedrice (svm/acc)">@shoucccc</a> <a href="https://nitter.freedit.eu/tonykebot" title="Tony KΞ">@tonykebot</a> found a critical vulnerability in <a href="http://time.fun">time.fun</a> last week and conducted a hack. The vulnerability allows hackers to steal all trading fees and modify metadata (e.g. change "toly's minute" to "vitalik's minute") of every tokens launched. <br>
+<br>
+As the issue has been resolved, here is the full disclosure:<br>
+<br>
+<a href="http://time.fun">time.fun</a> provides each new user with a dedicated wallet to deposit USDC for trading. User's private key is securely stored in a third party provider. But SOL is needed to cover gas fees and <a href="http://time.fun">time.fun</a> wants a seamless interaction for users, the wallet “HW2C...Lo1H” signs every trade transaction alongside the user’s wallet signature. Surprisingly, this same wallet also owns all tokens launched by <a href="http://time.fun">time.fun</a>. As it is one of the signers, we can act on behalf of “HW2C...Lo1H” if we can let the backend sign arbitrary data.<br>
+<br>
+We discovered that by forging a token, it was possible to trick the backend into believing it was signing a legitimate transaction—letting us change metadata or withdraw all funds from “HW2C...Lo1H.” We reached out to the team (through buying 1 minute of their founder on <a href="http://time.fun">time.fun</a>) meanwhile did a whitehat hack. The team responded and fixed quickly and we returned all the funds.<br>
+<br>
+All backends should never sign transactions coming from the frontend, regardless of how thorough the validation or simulation checks appear. These safeguards can be bypassed by obfuscating transactions or bundling/front-running transactions to alter their semantics.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlPuaoLXEAAXmEo.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 05 Mar 2025 03:19:56 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/publicqi/status/1897124894229639418#m</guid>
+        <link>https://nitter.freedit.eu/publicqi/status/1897124894229639418#m</link>
+      </item>
+      <item>
         <title>I am having lunch with @shoucccc</title>
         <dc:creator>@shoucccc</dc:creator>
         <description><![CDATA[<p>I am having lunch with <a href="https://nitter.freedit.eu/shoucccc" title="Friedrice (svm/acc)">@shoucccc</a></p>
@@ -249,14 +274,6 @@ Keep buidling.</p>
         <pubDate>Sat, 15 Feb 2025 23:31:04 GMT</pubDate>
         <guid>https://nitter.freedit.eu/shoucccc/status/1890906706793656395#m</guid>
         <link>https://nitter.freedit.eu/shoucccc/status/1890906706793656395#m</link>
-      </item>
-      <item>
-        <title>R to @shoucccc: Police report filed</title>
-        <dc:creator>@shoucccc</dc:creator>
-        <description><![CDATA[<p>Police report filed</p>]]></description>
-        <pubDate>Sat, 15 Feb 2025 23:27:50 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/shoucccc/status/1890905891085471747#m</guid>
-        <link>https://nitter.freedit.eu/shoucccc/status/1890905891085471747#m</link>
       </item>
 
   </channel>

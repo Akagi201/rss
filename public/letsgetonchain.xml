@@ -16,6 +16,53 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @letsgetonchain: you can get a feel for it here
+https://github.com/SocketDotTech/socket-starter-kit</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>you can get a feel for it here<br>
+<a href="https://github.com/SocketDotTech/socket-starter-kit">github.com/SocketDotTech/soc…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1895413222775324672%2FU9YyXUUk%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 04 Mar 2025 10:04:39 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1896864356928770520#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1896864356928770520#m</link>
+      </item>
+      <item>
+        <title>R to @letsgetonchain: Btw this is what chain abstracted balances by @zerodev_app  or @useenclave leverage under the hood</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>Btw this is what chain abstracted balances by <a href="https://nitter.freedit.eu/zerodev_app" title="ZeroDev">@zerodev_app</a>  or <a href="https://nitter.freedit.eu/useenclave" title="Enclave Money">@useenclave</a> leverage under the hood</p>]]></description>
+        <pubDate>Tue, 04 Mar 2025 10:02:57 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1896863928405066119#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1896863928405066119#m</link>
+      </item>
+      <item>
+        <title>I really dig how @SOCKETProtocol made it possible to write your entire cross chain app in solidity. 
+
+This is made possible because the off chain &quot;watcher&quot; server runs the evm.
+
+Even though this cross chain coordination is async in nature which does not really feel natural in solidity you don&apos;t really need to think about it as an app developer cause its all implemented for you.
+
+Advantages are pretty big imo:
+
+1⃣ With Foundry you get to very easily test your full stack (off chain + on chain state)
+
+2⃣ Since your on chain app is written in solidity no one else should write this cross coordination than the developers that wrote the on chain app. Switching to js for this with non native types, libs etc is a painful</title>
+        <dc:creator>@letsgetonchain</dc:creator>
+        <description><![CDATA[<p>I really dig how <a href="https://nitter.freedit.eu/SOCKETProtocol" title="SOCKET.eth">@SOCKETProtocol</a> made it possible to write your entire cross chain app in solidity. <br>
+<br>
+This is made possible because the off chain "watcher" server runs the evm.<br>
+<br>
+Even though this cross chain coordination is async in nature which does not really feel natural in solidity you don't really need to think about it as an app developer cause its all implemented for you.<br>
+<br>
+Advantages are pretty big imo:<br>
+<br>
+1⃣ With Foundry you get to very easily test your full stack (off chain + on chain state)<br>
+<br>
+2⃣ Since your on chain app is written in solidity no one else should write this cross coordination than the developers that wrote the on chain app. Switching to js for this with non native types, libs etc is a painful</p>]]></description>
+        <pubDate>Tue, 04 Mar 2025 10:02:56 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/letsgetonchain/status/1896863926840635781#m</guid>
+        <link>https://nitter.freedit.eu/letsgetonchain/status/1896863926840635781#m</link>
+      </item>
+      <item>
         <title>🏎️🏎️</title>
         <dc:creator>@letsgetonchain</dc:creator>
         <description><![CDATA[<p>🏎️🏎️</p>
@@ -60,23 +107,6 @@ Seems like the importance to monitor and identify who is wrong as well as commun
         <pubDate>Tue, 25 Feb 2025 09:44:54 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1894322672554680424#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1894322672554680424#m</link>
-      </item>
-      <item>
-        <title>My own little pectra upgrade came early !
-
-Bullish that my boys will grow up in a world where trustless permissionless compute is accessible 
-
-Work on something you believe in 💪</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>My own little pectra upgrade came early !<br>
-<br>
-Bullish that my boys will grow up in a world where trustless permissionless compute is accessible <br>
-<br>
-Work on something you believe in 💪</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkkN-TkW4AIHeAA.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 24 Feb 2025 16:23:05 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1894060488687804438#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1894060488687804438#m</link>
       </item>
       <item>
         <title>Genuine question, how does solana expect to attract devs to build in web3 and not web2 with such takes?</title>
@@ -311,51 +341,6 @@ Nice to see those different demos visually!</p>]]></description>
         <pubDate>Wed, 12 Feb 2025 10:04:49 GMT</pubDate>
         <guid>https://nitter.freedit.eu/letsgetonchain/status/1889616643426242721#m</guid>
         <link>https://nitter.freedit.eu/letsgetonchain/status/1889616643426242721#m</link>
-      </item>
-      <item>
-        <title>RT by @letsgetonchain: Got excited after reading @vaibhavchellani&apos;s post.
-
-History shows retail often doesn’t care about decentralization, until they do. Short term, they prioritize UX.
-
-The concept of &quot;One Ethereum&quot; via chain abstraction offers both.
-
-Let me explain how 🧵⬇️
-https://ethresear.ch/t/magicspend-spend-now-debit-later/19678</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Got excited after reading <a href="https://nitter.freedit.eu/vaibhavchellani" title="Vaibhav⚡️">@vaibhavchellani</a>'s post.<br>
-<br>
-History shows retail often doesn’t care about decentralization, until they do. Short term, they prioritize UX.<br>
-<br>
-The concept of "One Ethereum" via chain abstraction offers both.<br>
-<br>
-Let me explain how 🧵⬇️<br>
-<a href="https://ethresear.ch/t/magicspend-spend-now-debit-later/19678">ethresear.ch/t/magicspend-sp…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1895018934522253312%2Fhv_efC9L%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 11 Feb 2025 13:57:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312763178102990#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312763178102990#m</link>
-      </item>
-      <item>
-        <title>R to @letsgetonchain: Thinking about a video series on chain abstraction.
-
-- What are the competing standards
-- What are the tradeoffs
-- What’s in production today
-- What’s coming in the next 6 months
-
-Tell me what i don&apos;t know, link anything I have to read and know! Cheers!</title>
-        <dc:creator>@letsgetonchain</dc:creator>
-        <description><![CDATA[<p>Thinking about a video series on chain abstraction.<br>
-<br>
-- What are the competing standards<br>
-- What are the tradeoffs<br>
-- What’s in production today<br>
-- What’s coming in the next 6 months<br>
-<br>
-Tell me what i don't know, link anything I have to read and know! Cheers!</p>]]></description>
-        <pubDate>Tue, 11 Feb 2025 13:57:27 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/letsgetonchain/status/1889312797529461106#m</guid>
-        <link>https://nitter.freedit.eu/letsgetonchain/status/1889312797529461106#m</link>
       </item>
 
   </channel>

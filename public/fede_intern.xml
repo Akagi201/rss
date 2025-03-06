@@ -16,238 +16,246 @@
       <height>128</height>
     </image>
       <item>
-        <title>RT by @fede_intern: Stay away from high doses of turmeric. It’ll lower your DHT. Also, never take high (&gt;200mg daily) doses Ashwaghanda for more than a week to two… that can cause other issues. In fact, I would skip those two altogether. Ginger is not a problem.</title>
-        <dc:creator>@hubermanlab</dc:creator>
-        <description><![CDATA[<p>Stay away from high doses of turmeric. It’ll lower your DHT. Also, never take high (&gt;200mg daily) doses Ashwaghanda for more than a week to two… that can cause other issues. In fact, I would skip those two altogether. Ginger is not a problem.</p>]]></description>
-        <pubDate>Mon, 03 Mar 2025 21:26:59 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/hubermanlab/status/1896673684557115480#m</guid>
-        <link>https://nitter.freedit.eu/hubermanlab/status/1896673684557115480#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: Think Fede gets misunderstood often due to his aggressive language and online persona.  
+        <title>Fran: Yes, we are very strange, we can’t deny it.
+RJ: Indeed. But we have friends.
+Fran: Right, these people in crypto have no real friends.
 
-But I believe his intention is good.
-  
-When shit is shit, people should call it out for the betterment of the entire space.</title>
-        <dc:creator>@ballsyalchemist</dc:creator>
-        <description><![CDATA[<p>Think Fede gets misunderstood often due to his aggressive language and online persona.  <br>
-<br>
-But I believe his intention is good.<br>
-  <br>
-When shit is shit, people should call it out for the betterment of the entire space.</p>
-<p><a href="https://nitter.freedit.eu/fede_intern/status/1896682111605608876#m">nitter.freedit.eu/fede_intern/status/1896682111605608876#m</a></p>]]></description>
-        <pubDate>Mon, 03 Mar 2025 22:40:32 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ballsyalchemist/status/1896692192800063528#m</guid>
-        <link>https://nitter.freedit.eu/ballsyalchemist/status/1896692192800063528#m</link>
-      </item>
-      <item>
-        <title>great news. ethrex also drops pre merge history by default.</title>
+@alignedlayer night talks.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>great news. ethrex also drops pre merge history by default.</p>
-<p><a href="https://nitter.freedit.eu/M25Marek/status/1896682044912030087#m">nitter.freedit.eu/M25Marek/status/1896682044912030087#m</a></p>]]></description>
-        <pubDate>Mon, 03 Mar 2025 22:21:20 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1896687362421514618#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1896687362421514618#m</link>
+        <description><![CDATA[<p>Fran: Yes, we are very strange, we can’t deny it.<br>
+RJ: Indeed. But we have friends.<br>
+Fran: Right, these people in crypto have no real friends.<br>
+<br>
+<a href="https://nitter.freedit.eu/alignedlayer" title="Aligned">@alignedlayer</a> night talks.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlTtcDrXsAAkLP3.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 05 Mar 2025 21:42:56 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1897402472005800281#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1897402472005800281#m</link>
       </item>
       <item>
-        <title>agree this is one of the best news in ethereum!</title>
+        <title>gold, bitcoin, ethereum, cows, software</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>agree this is one of the best news in ethereum!</p>
-<p><a href="https://nitter.freedit.eu/notnotstorm/status/1896683562851799286#m">nitter.freedit.eu/notnotstorm/status/1896683562851799286#m</a></p>]]></description>
-        <pubDate>Mon, 03 Mar 2025 22:20:33 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1896687166773985303#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1896687166773985303#m</link>
+        <description><![CDATA[<p>gold, bitcoin, ethereum, cows, software</p>
+<p><a href="https://nitter.freedit.eu/ChineseEmbinUS/status/1897132043362034153#m">nitter.freedit.eu/ChineseEmbinUS/status/1897132043362034153#m</a></p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 21:39:40 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1897401650689794279#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1897401650689794279#m</link>
       </item>
       <item>
-        <title>rogue 🥊🥊🥊</title>
+        <title>RT by @fede_intern: -Circle / Ripple trying to attack competitors via regulatory capture 
+
+-US Crypto Reserve including assets which reflect poorly on crypto</title>
+        <dc:creator>@zachxbt</dc:creator>
+        <description><![CDATA[<p>-Circle / Ripple trying to attack competitors via regulatory capture <br>
+<br>
+-US Crypto Reserve including assets which reflect poorly on crypto</p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 19:27:57 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/zachxbt/status/1897368505751888372#m</guid>
+        <link>https://nitter.freedit.eu/zachxbt/status/1897368505751888372#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: Sepolia Incident Update 📣
+
+We&apos;ve identified and deployed a fix for the Sepolia deposit contract issue found earlier today. This issue was cause by Sepolia&apos;s custom permissioned contract, which is different than mainnet. 
+
+All node operators must upgrade their nodes to the versions listed in this blog post: https://blog.ethereum.org/2025/03/05/sepolia-pectra-incident 
+
+Validators have already upgraded and the chain is now operating normally. It&apos;s possible that some explorers, wallets, or other infrastructure providers have issues until they also upgrade their nodes.</title>
+        <dc:creator>@TimBeiko</dc:creator>
+        <description><![CDATA[<p>Sepolia Incident Update 📣<br>
+<br>
+We've identified and deployed a fix for the Sepolia deposit contract issue found earlier today. This issue was cause by Sepolia's custom permissioned contract, which is different than mainnet. <br>
+<br>
+All node operators must upgrade their nodes to the versions listed in this blog post: <a href="https://blog.ethereum.org/2025/03/05/sepolia-pectra-incident">blog.ethereum.org/2025/03/05…</a> <br>
+<br>
+Validators have already upgraded and the chain is now operating normally. It's possible that some explorers, wallets, or other infrastructure providers have issues until they also upgrade their nodes.</p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 15:44:39 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/TimBeiko/status/1897312310932226135#m</guid>
+        <link>https://nitter.freedit.eu/TimBeiko/status/1897312310932226135#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: We will!! Let’s showcase the world what we are building!</title>
+        <dc:creator>@fernandezdiego</dc:creator>
+        <description><![CDATA[<p>We will!! Let’s showcase the world what we are building!</p>
+<p><a href="https://nitter.freedit.eu/fede_intern/status/1897290186658341125#m">nitter.freedit.eu/fede_intern/status/1897290186658341125#m</a></p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 14:18:04 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fernandezdiego/status/1897290521531572418#m</guid>
+        <link>https://nitter.freedit.eu/fernandezdiego/status/1897290521531572418#m</link>
+      </item>
+      <item>
+        <title>Welcome @ethereum!
+
+Lambda will be hosting multiple events.
+
+With @fernandezdiego and @PolFinance_ we plan on doing multiple events.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>rogue 🥊🥊🥊</p>
-<p><a href="https://nitter.freedit.eu/nikokampouris/status/1896675234708861363#m">nitter.freedit.eu/nikokampouris/status/1896675234708861363#m</a></p>]]></description>
-        <pubDate>Mon, 03 Mar 2025 22:20:17 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1896687098952131039#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1896687098952131039#m</link>
+        <description><![CDATA[<p>Welcome <a href="https://nitter.freedit.eu/ethereum" title="Ethereum.org">@ethereum</a>!<br>
+<br>
+Lambda will be hosting multiple events.<br>
+<br>
+With <a href="https://nitter.freedit.eu/fernandezdiego" title="fernandezdiego">@fernandezdiego</a> and <a href="https://nitter.freedit.eu/PolFinance_" title="POL Finance🐇">@PolFinance_</a> we plan on doing multiple events.</p>
+<p><a href="https://nitter.freedit.eu/EFDevcon/status/1897285197626024062#m">nitter.freedit.eu/EFDevcon/status/1897285197626024062#m</a></p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 14:16:45 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1897290186658341125#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1897290186658341125#m</link>
       </item>
       <item>
-        <title>I wanted to publicly thanks @ercwl, @ballsyalchemist, @bkase_, @shaishav0x and @0xRodney.
+        <title>RT by @fede_intern: Imo the most easily observable difference between a good crypto lawyer and a TardFi reject grifting crypto is getting them to talk about what the law should be.
 
-The first three are honest builders that keep on raising the bar of the crypto industry. They have supported us and also criticized many of the things we do. We don’t agree in everything but that’s what makes life beautiful. I respect them because they give us feedback but at the same time they do an effort to understand us. There are not many like them. I hope crypto becomes closer to what they represent.
+Every good crypto lawyer I know also has a view on policy. Bad ones don’t care bc it’s a short term play for them.</title>
+        <dc:creator>@wassielawyer</dc:creator>
+        <description><![CDATA[<p>Imo the most easily observable difference between a good crypto lawyer and a TardFi reject grifting crypto is getting them to talk about what the law should be.<br>
+<br>
+Every good crypto lawyer I know also has a view on policy. Bad ones don’t care bc it’s a short term play for them.</p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 06:08:05 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/wassielawyer/status/1897167211820941793#m</guid>
+        <link>https://nitter.freedit.eu/wassielawyer/status/1897167211820941793#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: I&apos;m STARK-maxi for Bitcoin Scaling, since 2013.
+Which is why I&apos;m op_cat favorable (but not maxi)
+Which is also why I&apos;m op_* favorable
+Which si why I&apos;m op_{ctv,csfs, gsr, arithmetic} maxi
 
-The last two are VCs that trust us and know that we have plans for the next decade. Most VCs in crypto are very short term sighted. They are part of our journey and they have provided us with contacts, ideas and have been nice to us when many have been jerks.</title>
+I&apos;m anti-ossification. Ossification -&gt; centralization.</title>
+        <dc:creator>@EliBenSasson</dc:creator>
+        <description><![CDATA[<p>I'm STARK-maxi for Bitcoin Scaling, since 2013.<br>
+Which is why I'm op_cat favorable (but not maxi)<br>
+Which is also why I'm op_* favorable<br>
+Which si why I'm op_{ctv,csfs, gsr, arithmetic} maxi<br>
+<br>
+I'm anti-ossification. Ossification -&gt; centralization.</p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 06:23:24 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/EliBenSasson/status/1897171064926691492#m</guid>
+        <link>https://nitter.freedit.eu/EliBenSasson/status/1897171064926691492#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: Introducing Zinc 🪨: Succinct Arguments with Small Arithmetization Overheads from IOPs of Proximity to the Integers (https://eprint.iacr.org/2025/316)</title>
+        <dc:creator>@0xAlbertG</dc:creator>
+        <description><![CDATA[<p>Introducing Zinc 🪨: Succinct Arguments with Small Arithmetization Overheads from IOPs of Proximity to the Integers (<a href="https://eprint.iacr.org/2025/316">eprint.iacr.org/2025/316</a>)</p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1894540580081815552%2FUAMnAgYs%3Fformat%3Dpng%26name%3D280x280_2" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 25 Feb 2025 12:23:07 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xAlbertG/status/1894362489388696002#m</guid>
+        <link>https://nitter.freedit.eu/0xAlbertG/status/1894362489388696002#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: Code is not law … the law is the law</title>
+        <dc:creator>@laurashin</dc:creator>
+        <description><![CDATA[<p>Code is not law … the law is the law</p>]]></description>
+        <pubDate>Tue, 04 Mar 2025 12:11:49 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/laurashin/status/1896896358990369101#m</guid>
+        <link>https://nitter.freedit.eu/laurashin/status/1896896358990369101#m</link>
+      </item>
+      <item>
+        <title>What happened with Magic Labs? Did Privy killed it? Are there any other alternatives?</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>I wanted to publicly thanks <a href="https://nitter.freedit.eu/ercwl" title="Eric Wall | BIP-420 🐱">@ercwl</a>, <a href="https://nitter.freedit.eu/ballsyalchemist" title="Yuki is short, so is life">@ballsyalchemist</a>, <a href="https://nitter.freedit.eu/bkase_" title="bkase (httpz/🪶)">@bkase_</a>, <a href="https://nitter.freedit.eu/shaishav0x" title="Shaishav">@shaishav0x</a> and <a href="https://nitter.freedit.eu/0xRodney" title="rodney()">@0xRodney</a>.<br>
-<br>
-The first three are honest builders that keep on raising the bar of the crypto industry. They have supported us and also criticized many of the things we do. We don’t agree in everything but that’s what makes life beautiful. I respect them because they give us feedback but at the same time they do an effort to understand us. There are not many like them. I hope crypto becomes closer to what they represent.<br>
-<br>
-The last two are VCs that trust us and know that we have plans for the next decade. Most VCs in crypto are very short term sighted. They are part of our journey and they have provided us with contacts, ideas and have been nice to us when many have been jerks.</p>]]></description>
-        <pubDate>Mon, 03 Mar 2025 22:00:28 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1896682111605608876#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1896682111605608876#m</link>
+        <description><![CDATA[<p>What happened with Magic Labs? Did Privy killed it? Are there any other alternatives?</p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 11:18:07 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1897245233441857753#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1897245233441857753#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: One naive way to use AI in onchain DAOs and other mechanisms is to just put a single AI in charge. But this has a lot of problems:</title>
-        <dc:creator>@VitalikButerin</dc:creator>
-        <description><![CDATA[<p>One naive way to use AI in onchain DAOs and other mechanisms is to just put a single AI in charge. But this has a lot of problems:</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGk6EByyWcAAucq7.png" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 28 Feb 2025 22:16:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/VitalikButerin/status/1895598937165418717#m</guid>
-        <link>https://nitter.freedit.eu/VitalikButerin/status/1895598937165418717#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: Check out the deep funding round here!
-
-https://cryptopond.xyz/modelfactory/detail/2564617</title>
-        <dc:creator>@VitalikButerin</dc:creator>
-        <description><![CDATA[<p>Check out the deep funding round here!<br>
-<br>
-<a href="https://cryptopond.xyz/modelfactory/detail/2564617">cryptopond.xyz/modelfactory/…</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1892798952291840001%2F3f1vcNKv%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 28 Feb 2025 22:16:24 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/VitalikButerin/status/1895598956375400746#m</guid>
-        <link>https://nitter.freedit.eu/VitalikButerin/status/1895598956375400746#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: Why @celestia is not an ETH killer, rather helps Ethereum scale…with @fede_intern 
-
-Celestia is an Amazon S3, DAC killer. Different visions, yet completely compatible.</title>
-        <dc:creator>@ayyyeandy</dc:creator>
-        <description><![CDATA[<p>Why <a href="https://nitter.freedit.eu/celestia" title="Celestia 🦣">@celestia</a> is not an ETH killer, rather helps Ethereum scale…with <a href="https://nitter.freedit.eu/fede_intern" title="Fede’s intern 🥊">@fede_intern</a> <br>
-<br>
-Celestia is an Amazon S3, DAC killer. Different visions, yet completely compatible.</p>
-<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1896616548741070849%2Fimg%2FOO_3I9wmeFRyy-Ll.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 03 Mar 2025 17:40:22 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ayyyeandy/status/1896616654890745985#m</guid>
-        <link>https://nitter.freedit.eu/ayyyeandy/status/1896616654890745985#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: I don&apos;t like the idea of national governments owning Bitcoin, and while US gov spending money on acquisition of BTC is far less bad than most of what it spends money on, I still prefer private money to be held privately. 
-
-However, if a digital asset reserve is going to happen, I strongly believe it should be Bitcoin only. I say this as someone who obviously supports many crypto assets and projects. 
-
-Bitcoin is, objectively, the most liquid, the most safe, the most trusted, the most decentralized, and the most conservative digital asset on Earth.
-
-There is zero defensible reason to include any other digital asset in such a reserve, at least today. With time (years?), it would be reasonable to consider adding other things, but those are discussions to be had years from now.
-
-Start with the strongest, most defensible foundation. Understand it. See what effect it has with some time.  Do not complicate the novel idea by adding the complexity and risk and noise of other digital assets. 
-
-Bitcoin only, in this case, and at this time.</title>
-        <dc:creator>@ErikVoorhees</dc:creator>
-        <description><![CDATA[<p>I don't like the idea of national governments owning Bitcoin, and while US gov spending money on acquisition of BTC is far less bad than most of what it spends money on, I still prefer private money to be held privately. <br>
-<br>
-However, if a digital asset reserve is going to happen, I strongly believe it should be Bitcoin only. I say this as someone who obviously supports many crypto assets and projects. <br>
-<br>
-Bitcoin is, objectively, the most liquid, the most safe, the most trusted, the most decentralized, and the most conservative digital asset on Earth.<br>
-<br>
-There is zero defensible reason to include any other digital asset in such a reserve, at least today. With time (years?), it would be reasonable to consider adding other things, but those are discussions to be had years from now.<br>
-<br>
-Start with the strongest, most defensible foundation. Understand it. See what effect it has with some time.  Do not complicate the novel idea by adding the complexity and risk and noise of other digital assets. <br>
-<br>
-Bitcoin only, in this case, and at this time.</p>]]></description>
-        <pubDate>Fri, 24 Jan 2025 17:55:40 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ErikVoorhees/status/1882849766280667486#m</guid>
-        <link>https://nitter.freedit.eu/ErikVoorhees/status/1882849766280667486#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: While I’m excited about a Strategic Reserve, I was surprised by the digital assets being contemplated. Bitcoin is the only asset that meets the bar for a store of value reserve asset. Maybe Ethereum. Digital gold and digital oil. Which mirrors America’s physical reserves of gold (Fort Knox, NY Fed, etc.) and oil (Strategic Petroleum Reserve). It&apos;s possible other assets could make the grade in the future but it’s a very high bar.</title>
-        <dc:creator>@cameron</dc:creator>
-        <description><![CDATA[<p>While I’m excited about a Strategic Reserve, I was surprised by the digital assets being contemplated. Bitcoin is the only asset that meets the bar for a store of value reserve asset. Maybe Ethereum. Digital gold and digital oil. Which mirrors America’s physical reserves of gold (Fort Knox, NY Fed, etc.) and oil (Strategic Petroleum Reserve). It's possible other assets could make the grade in the future but it’s a very high bar.</p>]]></description>
-        <pubDate>Mon, 03 Mar 2025 16:15:35 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/cameron/status/1896595317291708598#m</guid>
-        <link>https://nitter.freedit.eu/cameron/status/1896595317291708598#m</link>
-      </item>
-      <item>
-        <title>Out of curiosity, did Flashbots bought @BeaverBuilder? Two parties told us this but it’s unconfirmed.</title>
+        <title>.@Euler__Lagrange or @madhavanmalolan.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>Out of curiosity, did Flashbots bought <a href="https://nitter.freedit.eu/BeaverBuilder" title="Beaver Builder">@BeaverBuilder</a>? Two parties told us this but it’s unconfirmed.</p>
-<p><a href="https://nitter.freedit.eu/EigenPhi/status/1896606664843002079#m">nitter.freedit.eu/EigenPhi/status/1896606664843002079#m</a></p>]]></description>
-        <pubDate>Mon, 03 Mar 2025 18:36:16 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1896630723244925409#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1896630723244925409#m</link>
+        <description><![CDATA[<p>.<a href="https://nitter.freedit.eu/Euler__Lagrange" title="EulerLagrange.eth - ver/acc">@Euler__Lagrange</a> or <a href="https://nitter.freedit.eu/madhavanmalolan" title="Madhavan (Maddy)">@madhavanmalolan</a>.</p>
+<p><a href="https://nitter.freedit.eu/TrustlessState/status/1896963182331359393#m">nitter.freedit.eu/TrustlessState/status/1896963182331359393#m</a></p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 10:52:55 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1897238890328822048#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1897238890328822048#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: Bandwidth is not a commodity. 
-
-Execution is.
-
-“This [Data Availability] is the only place where we can meaningfully accrue value.” 
-
-- @drakefjustin</title>
-        <dc:creator>@ayyyeandy</dc:creator>
-        <description><![CDATA[<p>Bandwidth is not a commodity. <br>
-<br>
-Execution is.<br>
-<br>
-“This [Data Availability] is the only place where we can meaningfully accrue value.” <br>
-<br>
-- <a href="https://nitter.freedit.eu/drakefjustin" title="Justin.eth Drake">@drakefjustin</a></p>
-<img src="https://nitter.freedit.eu/pic/amplify_video_thumb%2F1896615722278662144%2Fimg%2FdGQf7Br4P6JmkQbY.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 03 Mar 2025 17:37:00 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ayyyeandy/status/1896615807062573443#m</guid>
-        <link>https://nitter.freedit.eu/ayyyeandy/status/1896615807062573443#m</link>
+        <title>RT by @fede_intern: @Euler__Lagrange for sure, he&apos;s been working on this for a long time and his company is powering top apps in the App Store</title>
+        <dc:creator>@dabit3</dc:creator>
+        <description><![CDATA[<p><a href="https://nitter.freedit.eu/Euler__Lagrange" title="EulerLagrange.eth - ver/acc">@Euler__Lagrange</a> for sure, he's been working on this for a long time and his company is powering top apps in the App Store</p>]]></description>
+        <pubDate>Tue, 04 Mar 2025 17:15:34 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/dabit3/status/1896972801111945665#m</guid>
+        <link>https://nitter.freedit.eu/dabit3/status/1896972801111945665#m</link>
       </item>
       <item>
-        <title>It’s sad, but I believe Bitcoin maxis were more right than wrong about many things in our industry. I always suspected this, but it’s becoming more obvious. This doesn’t mean I like Bitcoin maxis or that I’m about to become one. The main problem with Bitcoin maxis is that Bitcoin expels builders, while other communities—like Ethereum and its L2s/Restaking, Solana, Sui, and Aptos—welcome them. Almost every other project is just an obvious Ponzi scheme.
+        <title>Zama and Starkware are by far the most serious companies in cryptography.
 
-That’s why I really hope Ethereum can break free from the aristocratic and inefficient politics that are holding it back. If Ethereum can’t do so, the industry doesn’t have a promising future. I never thought the EF was the main problem, nor do I think things will automatically improve with more engaged leadership in the EF. The EF has always been an honest player with long-term incentives, trying to work with most people.
-
-I’m optimistic but also cautious. People believed Ethereum was doomed, and now they think the problems are magically solved. Let’s hope for the best!</title>
+I hope we can continue working with the two for the decades to come. They are smarter than us and we like to learn from people that know what they are doing.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>It’s sad, but I believe Bitcoin maxis were more right than wrong about many things in our industry. I always suspected this, but it’s becoming more obvious. This doesn’t mean I like Bitcoin maxis or that I’m about to become one. The main problem with Bitcoin maxis is that Bitcoin expels builders, while other communities—like Ethereum and its L2s/Restaking, Solana, Sui, and Aptos—welcome them. Almost every other project is just an obvious Ponzi scheme.<br>
+        <description><![CDATA[<p>Zama and Starkware are by far the most serious companies in cryptography.<br>
 <br>
-That’s why I really hope Ethereum can break free from the aristocratic and inefficient politics that are holding it back. If Ethereum can’t do so, the industry doesn’t have a promising future. I never thought the EF was the main problem, nor do I think things will automatically improve with more engaged leadership in the EF. The EF has always been an honest player with long-term incentives, trying to work with most people.<br>
-<br>
-I’m optimistic but also cautious. People believed Ethereum was doomed, and now they think the problems are magically solved. Let’s hope for the best!</p>]]></description>
-        <pubDate>Mon, 03 Mar 2025 17:56:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1896620747059028004#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1896620747059028004#m</link>
+I hope we can continue working with the two for the decades to come. They are smarter than us and we like to learn from people that know what they are doing.</p>
+<p><a href="https://nitter.freedit.eu/randhindi/status/1895152225149661555#m">nitter.freedit.eu/randhindi/status/1895152225149661555#m</a></p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 10:51:47 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1897238608446414941#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1897238608446414941#m</link>
       </item>
       <item>
-        <title>You think this won’t happen to people in crypto. Sooner rather than later it will.</title>
+        <title>RT by @fede_intern: When in crisis, print the money. Germany amended its constitution practically overnight to green light borrowing money for defence. Let this be instructive on how govts will choose to finance the new world order whatever it ends up looking like.</title>
+        <dc:creator>@CryptoHayes</dc:creator>
+        <description><![CDATA[<p>When in crisis, print the money. Germany amended its constitution practically overnight to green light borrowing money for defence. Let this be instructive on how govts will choose to finance the new world order whatever it ends up looking like.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlPdMvta8AAE201.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 05 Mar 2025 01:53:18 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/CryptoHayes/status/1897103091637649526#m</guid>
+        <link>https://nitter.freedit.eu/CryptoHayes/status/1897103091637649526#m</link>
+      </item>
+      <item>
+        <title>Short term crypto will do badly.
+
+Long term every country will print too much. Bitcoin, Ethereum and gold.</title>
         <dc:creator>@fede_intern</dc:creator>
-        <description><![CDATA[<p>You think this won’t happen to people in crypto. Sooner rather than later it will.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGlIhyLXXEAEIxUP.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 03 Mar 2025 17:36:27 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fede_intern/status/1896615668713435596#m</guid>
-        <link>https://nitter.freedit.eu/fede_intern/status/1896615668713435596#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: Celestia is an S3 killer, not an Ethereum killer</title>
-        <dc:creator>@nickwh8te</dc:creator>
-        <description><![CDATA[<p>Celestia is an S3 killer, not an Ethereum killer</p>]]></description>
-        <pubDate>Mon, 03 Mar 2025 15:57:29 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/nickwh8te/status/1896590762823016623#m</guid>
-        <link>https://nitter.freedit.eu/nickwh8te/status/1896590762823016623#m</link>
-      </item>
-      <item>
-        <title>RT by @fede_intern: rating trump&apos;s crypto schemes according to how crazy they are, in chronological order:
-
-- trump NFT: 3/10, low stakes, was kind of cool at the time, and started selkis&apos; mar a lago arc
-- WorldLibertyFi: 7/10, kind of an insane thing to do ahead of the election. started as vaporware now an extremely questionable slush fund thing that justin sun owns a lot of, bad vibes on this
-- TRUMP coin: 9/10, completely unhinged, just a crazy move overall
-- MELANIA coin: 6/10, kind of sad at this point, but it was the beginning of the end for memecoins and introduced us to kelsier which was funny so there are positives 
-- crypto reserve feat ADA and XRP: 10/10, I dont even know what to say about this. a government bailout for your buddy who gets crypto news from tiktok. silver lining at least the maxis are upset
-
-sad how long this list is.</title>
-        <dc:creator>@nic__carter</dc:creator>
-        <description><![CDATA[<p>rating trump's crypto schemes according to how crazy they are, in chronological order:<br>
+        <description><![CDATA[<p>Short term crypto will do badly.<br>
 <br>
-- trump NFT: 3/10, low stakes, was kind of cool at the time, and started selkis' mar a lago arc<br>
-- WorldLibertyFi: 7/10, kind of an insane thing to do ahead of the election. started as vaporware now an extremely questionable slush fund thing that justin sun owns a lot of, bad vibes on this<br>
-- TRUMP coin: 9/10, completely unhinged, just a crazy move overall<br>
-- MELANIA coin: 6/10, kind of sad at this point, but it was the beginning of the end for memecoins and introduced us to kelsier which was funny so there are positives <br>
-- crypto reserve feat ADA and XRP: 10/10, I dont even know what to say about this. a government bailout for your buddy who gets crypto news from tiktok. silver lining at least the maxis are upset<br>
-<br>
-sad how long this list is.</p>]]></description>
-        <pubDate>Mon, 03 Mar 2025 15:46:52 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/nic__carter/status/1896588091235656190#m</guid>
-        <link>https://nitter.freedit.eu/nic__carter/status/1896588091235656190#m</link>
+Long term every country will print too much. Bitcoin, Ethereum and gold.</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlRQxQZXoAAR4WD.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 05 Mar 2025 10:18:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1897230156252766616#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1897230156252766616#m</link>
       </item>
       <item>
-        <title>RT by @fede_intern: I would prefer a president that sets reasonable crypto policy but is otherwise hands off.</title>
-        <dc:creator>@nic__carter</dc:creator>
-        <description><![CDATA[<p>I would prefer a president that sets reasonable crypto policy but is otherwise hands off.</p>]]></description>
-        <pubDate>Mon, 03 Mar 2025 15:48:29 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/nic__carter/status/1896588498410623358#m</guid>
-        <link>https://nitter.freedit.eu/nic__carter/status/1896588498410623358#m</link>
+        <title>A big relevant part of the industry is @ethereum. Not having anybody from Ethereum is a huge mistake.</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>A big relevant part of the industry is <a href="https://nitter.freedit.eu/ethereum" title="Ethereum.org">@ethereum</a>. Not having anybody from Ethereum is a huge mistake.</p>
+<p><a href="https://nitter.freedit.eu/Austin_Federa/status/1897077340452348084#m">nitter.freedit.eu/Austin_Federa/status/1897077340452348084#m</a></p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 10:04:36 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1897226734245937639#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1897226734245937639#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: hey @DavidSacks
+
+@dannyryan is a former Ethereum core developer who led Ethereum through its most complex transition in its history, moving it from Proof of Work to Proof of Stake
+
+he is cofounder of a new organization called @Etherealize_io, designed to help introduce the world to building on Ethereum as the #2 public blockchain by market cap and a leader in decentralized programmable blockchains
+
+Danny would make an excellent representative for Ethereum and can help you not only brainstorm, but think through in deep technical detail how to architect systems which bring the US government and private businesses onchain
+
+please consider adding him to the invite list for this and future Digital Asset Summits</title>
+        <dc:creator>@iamDCinvestor</dc:creator>
+        <description><![CDATA[<p>hey <a href="https://nitter.freedit.eu/DavidSacks" title="David Sacks">@DavidSacks</a><br>
+<br>
+<a href="https://nitter.freedit.eu/dannyryan" title="dannyryan">@dannyryan</a> is a former Ethereum core developer who led Ethereum through its most complex transition in its history, moving it from Proof of Work to Proof of Stake<br>
+<br>
+he is cofounder of a new organization called <a href="https://nitter.freedit.eu/Etherealize_io" title="Etherealize">@Etherealize_io</a>, designed to help introduce the world to building on Ethereum as the #2 public blockchain by market cap and a leader in decentralized programmable blockchains<br>
+<br>
+Danny would make an excellent representative for Ethereum and can help you not only brainstorm, but think through in deep technical detail how to architect systems which bring the US government and private businesses onchain<br>
+<br>
+please consider adding him to the invite list for this and future Digital Asset Summits</p>]]></description>
+        <pubDate>Tue, 04 Mar 2025 23:01:24 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/iamDCinvestor/status/1897059834899652910#m</guid>
+        <link>https://nitter.freedit.eu/iamDCinvestor/status/1897059834899652910#m</link>
+      </item>
+      <item>
+        <title>Please come @zama_fhe!</title>
+        <dc:creator>@fede_intern</dc:creator>
+        <description><![CDATA[<p>Please come <a href="https://nitter.freedit.eu/zama_fhe" title="Zama">@zama_fhe</a>!</p>
+<p><a href="https://nitter.freedit.eu/zama_fhe/status/1897207138830966872#m">nitter.freedit.eu/zama_fhe/status/1897207138830966872#m</a></p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 09:36:44 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fede_intern/status/1897219719469715688#m</guid>
+        <link>https://nitter.freedit.eu/fede_intern/status/1897219719469715688#m</link>
+      </item>
+      <item>
+        <title>RT by @fede_intern: These are easy decisions when you get to hang with the local brain trust @emivelazquez6 + @fede_intern + @Simonpuebla_ 🫡</title>
+        <dc:creator>@RoiStartup</dc:creator>
+        <description><![CDATA[<p>These are easy decisions when you get to hang with the local brain trust <a href="https://nitter.freedit.eu/emivelazquez6" title="cryptogaucho">@emivelazquez6</a> + <a href="https://nitter.freedit.eu/fede_intern" title="Fede’s intern 🥊">@fede_intern</a> + <a href="https://nitter.freedit.eu/Simonpuebla_" title="Simo">@Simonpuebla_</a> 🫡</p>
+<p><a href="https://nitter.freedit.eu/zama_fhe/status/1897207138830966872#m">nitter.freedit.eu/zama_fhe/status/1897207138830966872#m</a></p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 09:14:50 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/RoiStartup/status/1897214210368790871#m</guid>
+        <link>https://nitter.freedit.eu/RoiStartup/status/1897214210368790871#m</link>
       </item>
 
   </channel>

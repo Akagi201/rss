@@ -16,6 +16,101 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @gakonst: Learn more about the project here.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Learn more about the project here.</p>
+<p><a href="https://nitter.freedit.eu/gakonst/status/1854957584350167056#m">nitter.freedit.eu/gakonst/status/1854957584350167056#m</a></p>]]></description>
+        <pubDate>Fri, 07 Mar 2025 01:40:47 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1897824718532886950#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1897824718532886950#m</link>
+      </item>
+      <item>
+        <title>I am really glad we built Foundry. 
+
+Would have been really awkward to be an EVM developer in 2025 without it. Now we really need to fix the Solidity compiler. 
+
+$10K for successful referral on a world class compiler engineer to redefine the future of Ethereum development.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>I am really glad we built Foundry. <br>
+<br>
+Would have been really awkward to be an EVM developer in 2025 without it. Now we really need to fix the Solidity compiler. <br>
+<br>
+$10K for successful referral on a world class compiler engineer to redefine the future of Ethereum development.</p>]]></description>
+        <pubDate>Fri, 07 Mar 2025 01:39:43 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1897824449082409063#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1897824449082409063#m</link>
+      </item>
+      <item>
+        <title>tbh i feel that try/catch in solidity was a total failure both from a syntax level but also from not working for internal calls</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>tbh i feel that try/catch in solidity was a total failure both from a syntax level but also from not working for internal calls</p>]]></description>
+        <pubDate>Fri, 07 Mar 2025 00:08:58 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1897801612841628138#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1897801612841628138#m</link>
+      </item>
+      <item>
+        <title>What is the best place to get an overview of the frequency of upgrades (with or without timelock) of popular Solana DeFi contracts historically?</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>What is the best place to get an overview of the frequency of upgrades (with or without timelock) of popular Solana DeFi contracts historically?</p>
+<p><a href="https://nitter.freedit.eu/gakonst/status/1897739032655794323#m">nitter.freedit.eu/gakonst/status/1897739032655794323#m</a></p>]]></description>
+        <pubDate>Thu, 06 Mar 2025 20:14:06 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1897742507808567493#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1897742507808567493#m</link>
+      </item>
+      <item>
+        <title>What is the best place to get an overview of what % of Solana DeFi volume is from open source vs closed source contracts?</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>What is the best place to get an overview of what % of Solana DeFi volume is from open source vs closed source contracts?</p>
+<p><a href="https://nitter.freedit.eu/dj_d_sol/status/1897733976539775137#m">nitter.freedit.eu/dj_d_sol/status/1897733976539775137#m</a></p>]]></description>
+        <pubDate>Thu, 06 Mar 2025 20:00:18 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1897739032655794323#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1897739032655794323#m</link>
+      </item>
+      <item>
+        <title>tons of ai slop across all of our OSS codebases. we&apos;ll be closing these without notice. no issue with ai generated code, we do it all the time. but no low-effort slop allowed to farm stats, sorry.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>tons of ai slop across all of our OSS codebases. we'll be closing these without notice. no issue with ai generated code, we do it all the time. but no low-effort slop allowed to farm stats, sorry.</p>]]></description>
+        <pubDate>Thu, 06 Mar 2025 19:51:33 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1897736833179828451#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1897736833179828451#m</link>
+      </item>
+      <item>
+        <title>tbh so far ai &quot;vibe coding&quot; in any crypto-related project has been super underwhelming, which is unexpected given how all of our stuff is open source -- what gives?</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>tbh so far ai "vibe coding" in any crypto-related project has been super underwhelming, which is unexpected given how all of our stuff is open source -- what gives?</p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 21:52:22 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1897404848628490389#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1897404848628490389#m</link>
+      </item>
+      <item>
+        <title>the right number of onchain transactions/fees a user should be expected to do/pay before they do any economically valuable action to them (swap, mint etc.) is exactly 0. 
+
+anything above that and most users will churn the moment they need to fund their wallet for no good reason.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>the right number of onchain transactions/fees a user should be expected to do/pay before they do any economically valuable action to them (swap, mint etc.) is exactly 0. <br>
+<br>
+anything above that and most users will churn the moment they need to fund their wallet for no good reason.</p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 19:32:53 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1897369744568934771#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1897369744568934771#m</link>
+      </item>
+      <item>
+        <title>what were people&apos;s biggest takeaways from walletcon in ethdenver?</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>what were people's biggest takeaways from walletcon in ethdenver?</p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 19:05:22 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1897362819265520107#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1897362819265520107#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Great news! We&apos;re excited to announce that @ethereumfndn (via @EF_ESP) has provided funding to support our mission. This grant covers a portion of our 2025 budget, bringing us closer to our goals for advancing secure and accessible smart contract development.</title>
+        <dc:creator>@vyperlang</dc:creator>
+        <description><![CDATA[<p>Great news! We're excited to announce that <a href="https://nitter.freedit.eu/ethereumfndn" title="Ethereum Foundation">@ethereumfndn</a> (via <a href="https://nitter.freedit.eu/EF_ESP" title="EF Ecosystem Support Program">@EF_ESP</a>) has provided funding to support our mission. This grant covers a portion of our 2025 budget, bringing us closer to our goals for advancing secure and accessible smart contract development.</p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 12:54:09 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/vyperlang/status/1897269399436059076#m</guid>
+        <link>https://nitter.freedit.eu/vyperlang/status/1897269399436059076#m</link>
+      </item>
+      <item>
         <title>overpowered, love it. be opinionated, bundle things in, make tradeoffs aren&apos;t willing to make.</title>
         <dc:creator>@gakonst</dc:creator>
         <description><![CDATA[<p>overpowered, love it. be opinionated, bundle things in, make tradeoffs aren't willing to make.</p>
@@ -177,156 +272,10 @@ https://github.com/ithacaxyz/account</title>
         <description><![CDATA[<p>rfp: any of my auditor friends over the years want to review our next-gen account abstraction contract? still WIP and we'd like to involve 1-2 people early.<br>
 <br>
 <a href="https://github.com/ithacaxyz/account">github.com/ithacaxyz/account</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1895167454453866496%2FrzPOUAHB%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1897705594460815363%2FJkvaj16q%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Mon, 03 Mar 2025 23:53:31 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1896710559590158369#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1896710559590158369#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: History-expiry update:
-More than 80% of Ethereum full node disk space is occupied by history, so data not needed to validate new blocks. 
-
-With the latest 1.31.* releases, @NethermindEth is fully ready to drop pre-merge history via ERA files.
-
-Dropping history requires cross-client consensus, and all teams have agreed to remove pre-merge history from full nodes on 1st May. History expiry is desired for further scaling.
-
-Once activated, your full node will require ~320 GB of pre-merge blocks and receipts history. A full Nethermind execution node without dropping pre-merge history today takes around 700 GB.
-
-If we drop all blocks and all receipts and keep only what is needed to verify the latest block, it would be less than 200 GB for full node.
-
-Nethermind team keeps working on history expiry (portal-network integration, rolling history expiry, ERA files, EIP-7801).
-
-Node without pre-merge history 👇</title>
-        <dc:creator>@M25Marek</dc:creator>
-        <description><![CDATA[<p>History-expiry update:<br>
-More than 80% of Ethereum full node disk space is occupied by history, so data not needed to validate new blocks. <br>
-<br>
-With the latest 1.31.* releases, <a href="https://nitter.freedit.eu/NethermindEth" title="Nethermind">@NethermindEth</a> is fully ready to drop pre-merge history via ERA files.<br>
-<br>
-Dropping history requires cross-client consensus, and all teams have agreed to remove pre-merge history from full nodes on 1st May. History expiry is desired for further scaling.<br>
-<br>
-Once activated, your full node will require ~320 GB of pre-merge blocks and receipts history. A full Nethermind execution node without dropping pre-merge history today takes around 700 GB.<br>
-<br>
-If we drop all blocks and all receipts and keep only what is needed to verify the latest block, it would be less than 200 GB for full node.<br>
-<br>
-Nethermind team keeps working on history expiry (portal-network integration, rolling history expiry, ERA files, EIP-7801).<br>
-<br>
-Node without pre-merge history 👇</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGlJdfmCWYAAP0fe.png" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 03 Mar 2025 22:00:12 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/M25Marek/status/1896682044912030087#m</guid>
-        <link>https://nitter.freedit.eu/M25Marek/status/1896682044912030087#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: For 2025 we need Fusaka on L1 with PeerDAS, ideally with 48/72 blob target/limit
-
-Let&apos;s aim to get a Fusaka testnet with these blob parameters running the day after Pectra goes live.</title>
-        <dc:creator>@VitalikButerin</dc:creator>
-        <description><![CDATA[<p>For 2025 we need Fusaka on L1 with PeerDAS, ideally with 48/72 blob target/limit<br>
-<br>
-Let's aim to get a Fusaka testnet with these blob parameters running the day after Pectra goes live.</p>]]></description>
-        <pubDate>Sat, 01 Mar 2025 15:45:55 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/VitalikButerin/status/1895863075527700959#m</guid>
-        <link>https://nitter.freedit.eu/VitalikButerin/status/1895863075527700959#m</link>
-      </item>
-      <item>
-        <title>Tomasz is next level. 
-
-Wise and experienced, gets nuances, can build and lead effective and large teams, works harder than anyone else.
-
-Looking forward to working with him, @hwwonx, @dannyryan in their next chapter and in accelerating Ethereum.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Tomasz is next level. <br>
-<br>
-Wise and experienced, gets nuances, can build and lead effective and large teams, works harder than anyone else.<br>
-<br>
-Looking forward to working with him, <a href="https://nitter.freedit.eu/hwwonx" title="hww.eth | Hsiao-Wei Wang">@hwwonx</a>, <a href="https://nitter.freedit.eu/dannyryan" title="dannyryan">@dannyryan</a> in their next chapter and in accelerating Ethereum.</p>
-<p><a href="https://nitter.freedit.eu/tkstanczak/status/1895854479599091871#m">nitter.freedit.eu/tkstanczak/status/1895854479599091871#m</a></p>]]></description>
-        <pubDate>Sat, 01 Mar 2025 18:19:28 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1895901717491044411#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1895901717491044411#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: I’m thrilled to announce that I’m joining as a cofounder of @etherealize_io to help onboard the world to Ethereum
-
-I’ll be at the helm of the ship alongside @vivekventures and the incredible team he is building</title>
-        <dc:creator>@dannyryan</dc:creator>
-        <description><![CDATA[<p>I’m thrilled to announce that I’m joining as a cofounder of <a href="https://nitter.freedit.eu/Etherealize_io" title="Etherealize">@etherealize_io</a> to help onboard the world to Ethereum<br>
-<br>
-I’ll be at the helm of the ship alongside <a href="https://nitter.freedit.eu/VivekVentures" title="Vivek Raman">@vivekventures</a> and the incredible team he is building</p>]]></description>
-        <pubDate>Sat, 01 Mar 2025 15:00:54 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/dannyryan/status/1895851747865944114#m</guid>
-        <link>https://nitter.freedit.eu/dannyryan/status/1895851747865944114#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Reth v1.2 brought huge performance gains and cleaned several public types and APIs, especially requiring fewer type conversions with revm.
-
-It wasn&apos;t perfect, as a breaking API made our custom payload service uglier, so we opened a GitHub issue. It was addressed in 2 weeks and we happily pinned the new commit downstream.
-
-Addressing a low-priority quality-of-life issue in 2 weeks and before a new release is certainly bullish. Reth does care about our DX. Let&apos;s &quot;complain&quot; more!</title>
-        <dc:creator>@hai_rise</dc:creator>
-        <description><![CDATA[<p>Reth v1.2 brought huge performance gains and cleaned several public types and APIs, especially requiring fewer type conversions with revm.<br>
-<br>
-It wasn't perfect, as a breaking API made our custom payload service uglier, so we opened a GitHub issue. It was addressed in 2 weeks and we happily pinned the new commit downstream.<br>
-<br>
-Addressing a low-priority quality-of-life issue in 2 weeks and before a new release is certainly bullish. Reth does care about our DX. Let's "complain" more!</p>
-<p><a href="https://nitter.freedit.eu/gakonst/status/1889795832234516835#m">nitter.freedit.eu/gakonst/status/1889795832234516835#m</a></p>]]></description>
-        <pubDate>Fri, 28 Feb 2025 14:30:05 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/hai_rise/status/1895481604589637803#m</guid>
-        <link>https://nitter.freedit.eu/hai_rise/status/1895481604589637803#m</link>
-      </item>
-      <item>
-        <title>aren&apos;t based rollups just centralized sequencers given the proposers need to pick a gateway? decentralizing the gateway is the same as decentralizing the sequencer. something feels off to me.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>aren't based rollups just centralized sequencers given the proposers need to pick a gateway? decentralizing the gateway is the same as decentralizing the sequencer. something feels off to me.</p>]]></description>
-        <pubDate>Fri, 28 Feb 2025 16:47:45 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1895516249620439501#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1895516249620439501#m</link>
-      </item>
-      <item>
-        <title>We must scale DA on Ethereum in 2025, or the L2s will move to other chains. 
-
-If L2s also issue stablecoins or other RWAs directly vs via the L1, then that migration will be even easier and more painful for Ethereum.
-
-Scale the consensus layer!</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>We must scale DA on Ethereum in 2025, or the L2s will move to other chains. <br>
-<br>
-If L2s also issue stablecoins or other RWAs directly vs via the L1, then that migration will be even easier and more painful for Ethereum.<br>
-<br>
-Scale the consensus layer!</p>]]></description>
-        <pubDate>Fri, 28 Feb 2025 01:09:30 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1895280132497223972#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1895280132497223972#m</link>
-      </item>
-      <item>
-        <title>L2s can always be faster than L1s because they can provide safety of user funds without losing performance via a global network of validators.
-
-If an L2 isn&apos;t faster than an L1, it&apos;s a temporary bug.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>L2s can always be faster than L1s because they can provide safety of user funds without losing performance via a global network of validators.<br>
-<br>
-If an L2 isn't faster than an L1, it's a temporary bug.</p>]]></description>
-        <pubDate>Fri, 28 Feb 2025 01:00:44 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1895277924611510583#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1895277924611510583#m</link>
-      </item>
-      <item>
-        <title>Flashblocks by Flashbots are awesome. 
-
-250ms is a constant in the code. it could be lower bc no state root calculation overhead. the lower you go the closer to first come first serve, so you don&apos;t want it to be per tx to allow other ordering rules eg prio ordering.
-
-Built on Reth 🫡.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Flashblocks by Flashbots are awesome. <br>
-<br>
-250ms is a constant in the code. it could be lower bc no state root calculation overhead. the lower you go the closer to first come first serve, so you don't want it to be per tx to allow other ordering rules eg prio ordering.<br>
-<br>
-Built on Reth 🫡.</p>
-<p><a href="https://nitter.freedit.eu/buildonbase/status/1895223243713458184#m">nitter.freedit.eu/buildonbase/status/1895223243713458184#m</a></p>]]></description>
-        <pubDate>Fri, 28 Feb 2025 00:56:40 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1895276902203695568#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1895276902203695568#m</link>
       </item>
 
   </channel>

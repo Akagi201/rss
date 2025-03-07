@@ -16,6 +16,19 @@
       <height>128</height>
     </image>
       <item>
+        <title>I may look stupid here, but what’s the reason for building other interoperability solutions if we have a single standard?
+
+Even if infra protocol can combine its own solution with ERC-7683, doesn’t it just create another interop option and further fragment the field?</title>
+        <dc:creator>@paramonoww</dc:creator>
+        <description><![CDATA[<p>I may look stupid here, but what’s the reason for building other interoperability solutions if we have a single standard?<br>
+<br>
+Even if infra protocol can combine its own solution with ERC-7683, doesn’t it just create another interop option and further fragment the field?</p>
+<p><a href="https://nitter.freedit.eu/Uniswap/status/1897339829547135216#m">nitter.freedit.eu/Uniswap/status/1897339829547135216#m</a></p>]]></description>
+        <pubDate>Thu, 06 Mar 2025 11:50:05 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/paramonoww/status/1897615667286905341#m</guid>
+        <link>https://nitter.freedit.eu/paramonoww/status/1897615667286905341#m</link>
+      </item>
+      <item>
         <title>it took celo 8 months to choose what stack to build on and 10 more months to build an op stack rollup
 
 • july, 2023: celo proposed shifting from L1 to L2
@@ -1006,19 +1019,6 @@ If you've always wondered about based rollups, that piece would be helpful. The 
         <pubDate>Fri, 17 Jan 2025 06:23:09 GMT</pubDate>
         <guid>https://nitter.freedit.eu/paramonoww/status/1880138774413471916#m</guid>
         <link>https://nitter.freedit.eu/paramonoww/status/1880138774413471916#m</link>
-      </item>
-      <item>
-        <title>Just went through the latest 100 blocks of @EclipseFND and found out that over 90% of each block consists of &quot;SetComputeUnitLimit&quot; transactions, which simply set 60,000 compute units as the max amount to consume.
-
-Swaps, transfers, and most user activity represent less than 1%.</title>
-        <dc:creator>@paramonoww</dc:creator>
-        <description><![CDATA[<p>Just went through the latest 100 blocks of <a href="https://nitter.freedit.eu/EclipseFND" title="Eclipse (🐮,🌑)">@EclipseFND</a> and found out that over 90% of each block consists of "SetComputeUnitLimit" transactions, which simply set 60,000 compute units as the max amount to consume.<br>
-<br>
-Swaps, transfers, and most user activity represent less than 1%.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGhayQ-rboAAzaCi.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 16 Jan 2025 13:46:31 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/paramonoww/status/1879887963968209220#m</guid>
-        <link>https://nitter.freedit.eu/paramonoww/status/1879887963968209220#m</link>
       </item>
 
   </channel>

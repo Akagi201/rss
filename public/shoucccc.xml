@@ -16,6 +16,45 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @shoucccc: fwiw the screenshot is not the testnet but it shows the overall infra</title>
+        <dc:creator>@shoucccc</dc:creator>
+        <description><![CDATA[<p>fwiw the screenshot is not the testnet but it shows the overall infra</p>]]></description>
+        <pubDate>Fri, 07 Mar 2025 02:18:04 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/shoucccc/status/1897834100695924989#m</guid>
+        <link>https://nitter.freedit.eu/shoucccc/status/1897834100695924989#m</link>
+      </item>
+      <item>
+        <title>MegaETH is a fork of Reth v1.0.5, running with op_reth and EigenDA. The only apparent modifications to Reth they are running are adjustments to certain RPC methods to accommodate mini-blocks and putting the entire database into memory (`--data-dir /tmp/`?) based on publicly available logs and metrics.
+ 
+Seeing how two Reth nodes can be down for over 3 hours is quite surprising imho, especially for a team that has raised $30M+. And the issue turns out to be simply OOM 👉👈 But anyway, I respect MegaETH founder&apos;s work.</title>
+        <dc:creator>@shoucccc</dc:creator>
+        <description><![CDATA[<p>MegaETH is a fork of Reth v1.0.5, running with op_reth and EigenDA. The only apparent modifications to Reth they are running are adjustments to certain RPC methods to accommodate mini-blocks and putting the entire database into memory (`--data-dir /tmp/`?) based on publicly available logs and metrics.<br>
+ <br>
+Seeing how two Reth nodes can be down for over 3 hours is quite surprising imho, especially for a team that has raised $30M+. And the issue turns out to be simply OOM 👉👈 But anyway, I respect MegaETH founder's work.</p>
+<p><a href="https://nitter.freedit.eu/mr_dddt/status/1897804098373611542#m">nitter.freedit.eu/mr_dddt/status/1897804098373611542#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlZrPW4XgAAKvrB.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 07 Mar 2025 01:53:14 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/shoucccc/status/1897827851577040937#m</guid>
+        <link>https://nitter.freedit.eu/shoucccc/status/1897827851577040937#m</link>
+      </item>
+      <item>
+        <title>R to @shoucccc: at strip club</title>
+        <dc:creator>@shoucccc</dc:creator>
+        <description><![CDATA[<p>at strip club</p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 04:20:06 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/shoucccc/status/1897140037336420587#m</guid>
+        <link>https://nitter.freedit.eu/shoucccc/status/1897140037336420587#m</link>
+      </item>
+      <item>
+        <title>come have some fried rice made by me in next irl event</title>
+        <dc:creator>@shoucccc</dc:creator>
+        <description><![CDATA[<p>come have some fried rice made by me in next irl event</p>
+<p><a href="https://nitter.freedit.eu/trackoor/status/1897137075893506123#m">nitter.freedit.eu/trackoor/status/1897137075893506123#m</a></p>]]></description>
+        <pubDate>Wed, 05 Mar 2025 04:09:58 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/shoucccc/status/1897137486763319565#m</guid>
+        <link>https://nitter.freedit.eu/shoucccc/status/1897137486763319565#m</link>
+      </item>
+      <item>
         <title>RT by @shoucccc: We @shoucccc @tonykebot found a critical vulnerability in http://time.fun last week and conducted a hack. The vulnerability allows hackers to steal all trading fees and modify metadata (e.g. change &quot;toly&apos;s minute&quot; to &quot;vitalik&apos;s minute&quot;) of every tokens launched. 
 
 As the issue has been resolved, here is the full disclosure:
@@ -237,43 +276,6 @@ Maybe inaccurate. If something is not correct, please DM me.</p>
         <pubDate>Sun, 16 Feb 2025 01:13:59 GMT</pubDate>
         <guid>https://nitter.freedit.eu/shoucccc/status/1890932606348173422#m</guid>
         <link>https://nitter.freedit.eu/shoucccc/status/1890932606348173422#m</link>
-      </item>
-      <item>
-        <title>R to @shoucccc: Guess I have doxxed everyone from LIBRA launching to KIP. Have a good weekend!</title>
-        <dc:creator>@shoucccc</dc:creator>
-        <description><![CDATA[<p>Guess I have doxxed everyone from LIBRA launching to KIP. Have a good weekend!</p>]]></description>
-        <pubDate>Sun, 16 Feb 2025 00:32:08 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/shoucccc/status/1890922074635436236#m</guid>
-        <link>https://nitter.freedit.eu/shoucccc/status/1890922074635436236#m</link>
-      </item>
-      <item>
-        <title>R to @shoucccc: $200M is 50 years of jail time in the US. Better get back to Singapore soon.</title>
-        <dc:creator>@shoucccc</dc:creator>
-        <description><![CDATA[<p>$200M is 50 years of jail time in the US. Better get back to Singapore soon.</p>]]></description>
-        <pubDate>Sun, 16 Feb 2025 00:27:42 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/shoucccc/status/1890920955859386606#m</guid>
-        <link>https://nitter.freedit.eu/shoucccc/status/1890920955859386606#m</link>
-      </item>
-      <item>
-        <title>This is my last post about $LIBRA. The rug is the rug, whether or not you decide to return the funds. 
-
-Keep buidling.</title>
-        <dc:creator>@shoucccc</dc:creator>
-        <description><![CDATA[<p>This is my last post about <a href="https://nitter.freedit.eu/search?q=%23LIBRA">$LIBRA</a>. The rug is the rug, whether or not you decide to return the funds. <br>
-<br>
-Keep buidling.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGj3lbK2aoAA7MBa.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 16 Feb 2025 00:26:37 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/shoucccc/status/1890920683384779234#m</guid>
-        <link>https://nitter.freedit.eu/shoucccc/status/1890920683384779234#m</link>
-      </item>
-      <item>
-        <title>R to @shoucccc: It’s super stupid to launch your official memecoin with a wallet that links to $MELANIA and $LIBRA</title>
-        <dc:creator>@shoucccc</dc:creator>
-        <description><![CDATA[<p>It’s super stupid to launch your official memecoin with a wallet that links to $MELANIA and <a href="https://nitter.freedit.eu/search?q=%23LIBRA">$LIBRA</a></p>]]></description>
-        <pubDate>Sat, 15 Feb 2025 23:31:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/shoucccc/status/1890906706793656395#m</guid>
-        <link>https://nitter.freedit.eu/shoucccc/status/1890906706793656395#m</link>
       </item>
 
   </channel>

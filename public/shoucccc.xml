@@ -16,6 +16,54 @@
       <height>128</height>
     </image>
       <item>
+        <title>1inch market maker @trustedvolumes got hacked for over $4.5M and a few smaller MMs got hacked for $0.5M yesterday. 
+
+The root cause is that 1inch calls MM contract’s resolveOrders function to get funds to its settlement contract. Most bots only checked the msg.sender = settlement contract  - and unfortunately there was an arbitrary call vulnerability in settlement contract. Thus the hacker could forge resolveOrders call and drain MM contracts. 
+
+The funny thing is the hacker incorrectly transferred half of the stolen funds to the 1inch settlement contract, making the funds available for everyone to grab, and he spent quite sometime to get funds back. We were trying to compete but the hacker got it first unfortunately.</title>
+        <dc:creator>@shoucccc</dc:creator>
+        <description><![CDATA[<p>1inch market maker <a href="https://nitter.freedit.eu/trustedvolumes" title="TrustedVolumes">@trustedvolumes</a> got hacked for over $4.5M and a few smaller MMs got hacked for $0.5M yesterday. <br>
+<br>
+The root cause is that 1inch calls MM contract’s resolveOrders function to get funds to its settlement contract. Most bots only checked the msg.sender = settlement contract  - and unfortunately there was an arbitrary call vulnerability in settlement contract. Thus the hacker could forge resolveOrders call and drain MM contracts. <br>
+<br>
+The funny thing is the hacker incorrectly transferred half of the stolen funds to the 1inch settlement contract, making the funds available for everyone to grab, and he spent quite sometime to get funds back. We were trying to compete but the hacker got it first unfortunately.</p>
+<p><a href="https://nitter.freedit.eu/1inch/status/1897695348232978770#m">nitter.freedit.eu/1inch/status/1897695348232978770#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlbjyZXbwAIM1f2.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 07 Mar 2025 10:17:29 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/shoucccc/status/1897954751205327040#m</guid>
+        <link>https://nitter.freedit.eu/shoucccc/status/1897954751205327040#m</link>
+      </item>
+      <item>
+        <title>R to @shoucccc: ibrl</title>
+        <dc:creator>@shoucccc</dc:creator>
+        <description><![CDATA[<p>ibrl</p>]]></description>
+        <pubDate>Fri, 07 Mar 2025 04:48:31 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/shoucccc/status/1897871961780531258#m</guid>
+        <link>https://nitter.freedit.eu/shoucccc/status/1897871961780531258#m</link>
+      </item>
+      <item>
+        <title>R to @shoucccc: (this is a joke)
+
+we will launch Solayer devnet in two weeks. no evm inside.</title>
+        <dc:creator>@shoucccc</dc:creator>
+        <description><![CDATA[<p>(this is a joke)<br>
+<br>
+we will launch Solayer devnet in two weeks. no evm inside.</p>]]></description>
+        <pubDate>Fri, 07 Mar 2025 04:45:03 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/shoucccc/status/1897871089243758757#m</guid>
+        <link>https://nitter.freedit.eu/shoucccc/status/1897871089243758757#m</link>
+      </item>
+      <item>
+        <title>Good idea. Introducing TeraETH, 15ms true block time, 100K TPS =&gt; https://teraeth.com/</title>
+        <dc:creator>@shoucccc</dc:creator>
+        <description><![CDATA[<p>Good idea. Introducing TeraETH, 15ms true block time, 100K TPS =&gt; <a href="https://teraeth.com/">teraeth.com/</a></p>
+<p><a href="https://nitter.freedit.eu/luxareth/status/1897853867918082463#m">nitter.freedit.eu/luxareth/status/1897853867918082463#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlaXrR7bYAA7iCH.png" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 07 Mar 2025 04:45:02 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/shoucccc/status/1897871087540879673#m</guid>
+        <link>https://nitter.freedit.eu/shoucccc/status/1897871087540879673#m</link>
+      </item>
+      <item>
         <title>R to @shoucccc: fwiw the screenshot is not the testnet but it shows the overall infra</title>
         <dc:creator>@shoucccc</dc:creator>
         <description><![CDATA[<p>fwiw the screenshot is not the testnet but it shows the overall infra</p>]]></description>
@@ -182,22 +230,10 @@ https://etherscan.io/tx/0x6ce356b6205db32292a262692b8cb463bd5ade2d2c129d67a1ce38
 <br>
 <a href="https://nitter.freedit.eu/search?q=%23Hacked">#Hacked</a> <a href="https://nitter.freedit.eu/search?q=%23CryptoMarket">#CryptoMarket</a> <a href="https://nitter.freedit.eu/search?q=%23ETH">#ETH</a></p>
 <p><a href="https://nitter.freedit.eu/benbybit/status/1892963530422505586#m">nitter.freedit.eu/benbybit/status/1892963530422505586#m</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1893921517718974464%2FSLL90nL7%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1897798912309678080%2FyVstYAfc%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
         <pubDate>Fri, 21 Feb 2025 16:10:08 GMT</pubDate>
         <guid>https://nitter.freedit.eu/ChazChazC/status/1892970066125443360#m</guid>
         <link>https://nitter.freedit.eu/ChazChazC/status/1892970066125443360#m</link>
-      </item>
-      <item>
-        <title>RT by @shoucccc: imo, at this point it doesnt matter if youre a user, dev, vc, trader, influencer, or anything else. as long as your plan isnt to max extract and leave, then one of your main priorities should be working together to purge the people who are dragging our reputation through the mud
-
-were at the point where the average observer thinks crypto is just memecoins and scams, and unless youre in the memecoin and scam business then you should not be happy with this</title>
-        <dc:creator>@samczsun</dc:creator>
-        <description><![CDATA[<p>imo, at this point it doesnt matter if youre a user, dev, vc, trader, influencer, or anything else. as long as your plan isnt to max extract and leave, then one of your main priorities should be working together to purge the people who are dragging our reputation through the mud<br>
-<br>
-were at the point where the average observer thinks crypto is just memecoins and scams, and unless youre in the memecoin and scam business then you should not be happy with this</p>]]></description>
-        <pubDate>Tue, 18 Feb 2025 05:14:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/samczsun/status/1891717863565897997#m</guid>
-        <link>https://nitter.freedit.eu/samczsun/status/1891717863565897997#m</link>
       </item>
       <item>
         <title>RT by @shoucccc: 🚨 BREAKING: SolanaFloor has obtained exclusive video evidence exposing a $200M+ memecoin extraction scheme tied to @KelsierVentures , @MeteoraAG and @WEAREM3M3_ .
@@ -239,43 +275,6 @@ Upon finding out about Kelsier's activities we have refunded Kelsier and cut all
         <pubDate>Sun, 16 Feb 2025 08:10:44 GMT</pubDate>
         <guid>https://nitter.freedit.eu/shoucccc/status/1891037484890329522#m</guid>
         <link>https://nitter.freedit.eu/shoucccc/status/1891037484890329522#m</link>
-      </item>
-      <item>
-        <title>R to @shoucccc: @hellochow care to comment?</title>
-        <dc:creator>@shoucccc</dc:creator>
-        <description><![CDATA[<p><a href="https://nitter.freedit.eu/hellochow" title="benchow.sol">@hellochow</a> care to comment?</p>]]></description>
-        <pubDate>Sun, 16 Feb 2025 07:02:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/shoucccc/status/1891020265007550641#m</guid>
-        <link>https://nitter.freedit.eu/shoucccc/status/1891020265007550641#m</link>
-      </item>
-      <item>
-        <title>Here is my analysis. Everything is onchain. 
-
-Maybe inaccurate. If something is not correct, please DM me.</title>
-        <dc:creator>@shoucccc</dc:creator>
-        <description><![CDATA[<p>Here is my analysis. Everything is onchain. <br>
-<br>
-Maybe inaccurate. If something is not correct, please DM me.</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGj44V64b0AA2F7z.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 16 Feb 2025 06:24:53 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/shoucccc/status/1891010845452239114#m</guid>
-        <link>https://nitter.freedit.eu/shoucccc/status/1891010845452239114#m</link>
-      </item>
-      <item>
-        <title>Arunkumar Sugadevan is unrelated to $LIBRA. They only share the same MM. I am super sorry for this wrong info. Arunkumar is in German, while the MM behind is in Delhi and is not Kelsier as well. More info soon.</title>
-        <dc:creator>@shoucccc</dc:creator>
-        <description><![CDATA[<p>Arunkumar Sugadevan is unrelated to <a href="https://nitter.freedit.eu/search?q=%23LIBRA">$LIBRA</a>. They only share the same MM. I am super sorry for this wrong info. Arunkumar is in German, while the MM behind is in Delhi and is not Kelsier as well. More info soon.</p>]]></description>
-        <pubDate>Sun, 16 Feb 2025 03:28:00 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/shoucccc/status/1890966332327272581#m</guid>
-        <link>https://nitter.freedit.eu/shoucccc/status/1890966332327272581#m</link>
-      </item>
-      <item>
-        <title>R to @shoucccc: Correction: he&apos;s in NY</title>
-        <dc:creator>@shoucccc</dc:creator>
-        <description><![CDATA[<p>Correction: he's in NY</p>]]></description>
-        <pubDate>Sun, 16 Feb 2025 01:13:59 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/shoucccc/status/1890932606348173422#m</guid>
-        <link>https://nitter.freedit.eu/shoucccc/status/1890932606348173422#m</link>
       </item>
 
   </channel>

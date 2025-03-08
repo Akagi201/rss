@@ -16,6 +16,14 @@
       <height>128</height>
     </image>
       <item>
+        <title>Coinbase产品线和文档乱的一比，内部分三家：Exchange，Advanced Trading，International Exchange，数据不是完全隔离也不是完全互通。文档里接口明明写了同时可以返回SPOT和FUTURES的数据，但就是不返回SPOT的数据。SDK更是缺很多功能。</title>
+        <dc:creator>@aliez_ren</dc:creator>
+        <description><![CDATA[<p>Coinbase产品线和文档乱的一比，内部分三家：Exchange，Advanced Trading，International Exchange，数据不是完全隔离也不是完全互通。文档里接口明明写了同时可以返回SPOT和FUTURES的数据，但就是不返回SPOT的数据。SDK更是缺很多功能。</p>]]></description>
+        <pubDate>Sat, 08 Mar 2025 07:38:40 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/aliez_ren/status/1898277172449886229#m</guid>
+        <link>https://nitter.freedit.eu/aliez_ren/status/1898277172449886229#m</link>
+      </item>
+      <item>
         <title>我转</title>
         <dc:creator>@aliez_ren</dc:creator>
         <description><![CDATA[<p>我转</p>
@@ -187,15 +195,6 @@
         <pubDate>Thu, 06 Feb 2025 23:22:21 GMT</pubDate>
         <guid>https://nitter.freedit.eu/aliez_ren/status/1887643021581385868#m</guid>
         <link>https://nitter.freedit.eu/aliez_ren/status/1887643021581385868#m</link>
-      </item>
-      <item>
-        <title>$TST</title>
-        <dc:creator>@aliez_ren</dc:creator>
-        <description><![CDATA[<p><a href="https://nitter.freedit.eu/search?q=%23TST">$TST</a></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGjGxc8ebIAIOV6K.png" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 06 Feb 2025 12:53:50 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/aliez_ren/status/1887484849524740312#m</guid>
-        <link>https://nitter.freedit.eu/aliez_ren/status/1887484849524740312#m</link>
       </item>
 
   </channel>

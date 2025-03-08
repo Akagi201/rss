@@ -16,6 +16,63 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @gakonst: Paradigm will be voting in favor of SIMD-228. A market-based emission mechanism prevents the network from overpaying for security, and has positive downstream effects on DeFi, enabling more liquid onchain SOL markets.</title>
+        <dc:creator>@FrankieIsLost</dc:creator>
+        <description><![CDATA[<p>Paradigm will be voting in favor of SIMD-228. A market-based emission mechanism prevents the network from overpaying for security, and has positive downstream effects on DeFi, enabling more liquid onchain SOL markets.</p>]]></description>
+        <pubDate>Fri, 07 Mar 2025 22:34:04 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/FrankieIsLost/status/1898140116868358323#m</guid>
+        <link>https://nitter.freedit.eu/FrankieIsLost/status/1898140116868358323#m</link>
+      </item>
+      <item>
+        <title>Agreed. IMO technical conferences should be treated like classrooms. 1 room, all tech, 4-6hrs of sessions w/ lunch break. original content. leave the room around 3pm with your brain fried, grab a coffee or a drink, network after.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>Agreed. IMO technical conferences should be treated like classrooms. 1 room, all tech, 4-6hrs of sessions w/ lunch break. original content. leave the room around 3pm with your brain fried, grab a coffee or a drink, network after.</p>
+<p><a href="https://nitter.freedit.eu/nic__carter/status/1898077350111183197#m">nitter.freedit.eu/nic__carter/status/1898077350111183197#m</a></p>]]></description>
+        <pubDate>Fri, 07 Mar 2025 22:21:40 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1898136996725322013#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1898136996725322013#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: AMD 💕 @__tinygrad__ 
+
+we are looking forward to working  closely with @__tinygrad__  to help commoditize the petaflop
+
+https://geohot.github.io//blog/jekyll/update/2025/03/08/AMD-YOLO.html</title>
+        <dc:creator>@AnushElangovan</dc:creator>
+        <description><![CDATA[<p>AMD 💕 <a href="https://nitter.freedit.eu/__tinygrad__" title="the tiny corp">@__tinygrad__</a> <br>
+<br>
+we are looking forward to working  closely with <a href="https://nitter.freedit.eu/__tinygrad__" title="the tiny corp">@__tinygrad__</a>  to help commoditize the petaflop<br>
+<br>
+<a href="https://geohot.github.io//blog/jekyll/update/2025/03/08/AMD-YOLO.html">geohot.github.io//blog/jekyl…</a></p>]]></description>
+        <pubDate>Fri, 07 Mar 2025 19:59:20 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/AnushElangovan/status/1898101178728431637#m</guid>
+        <link>https://nitter.freedit.eu/AnushElangovan/status/1898101178728431637#m</link>
+      </item>
+      <item>
+        <title>w/r/t our open source work: we don&apos;t need grants, we set up all this work to be well funded for the long run. the only thing we need is killer talent that wants to work on the most impactful software in the crypto industry. dm me or contribute and you&apos;ll be hired if you&apos;re good.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>w/r/t our open source work: we don't need grants, we set up all this work to be well funded for the long run. the only thing we need is killer talent that wants to work on the most impactful software in the crypto industry. dm me or contribute and you'll be hired if you're good.</p>]]></description>
+        <pubDate>Fri, 07 Mar 2025 07:20:25 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1897910190101484029#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1897910190101484029#m</link>
+      </item>
+      <item>
+        <title>contrary to people dm&apos;ing me about &quot;value leakage&quot;, i feel excited by people building chains on reth.
+
+the whole goal of the reth sdk is to commoditize performance &amp; chain customizations so people can focus on building apps.
+
+we&apos;ll integrate the best stuff upstream always anyway.</title>
+        <dc:creator>@gakonst</dc:creator>
+        <description><![CDATA[<p>contrary to people dm'ing me about "value leakage", i feel excited by people building chains on reth.<br>
+<br>
+the whole goal of the reth sdk is to commoditize performance &amp; chain customizations so people can focus on building apps.<br>
+<br>
+we'll integrate the best stuff upstream always anyway.</p>]]></description>
+        <pubDate>Fri, 07 Mar 2025 07:17:00 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/gakonst/status/1897909330805928273#m</guid>
+        <link>https://nitter.freedit.eu/gakonst/status/1897909330805928273#m</link>
+      </item>
+      <item>
         <title>R to @gakonst: Learn more about the project here.</title>
         <dc:creator>@gakonst</dc:creator>
         <description><![CDATA[<p>Learn more about the project here.</p>
@@ -148,134 +205,6 @@ With participation from Bain Capital Crypto (<a href="https://nitter.freedit.eu/
         <pubDate>Tue, 04 Mar 2025 15:56:33 GMT</pubDate>
         <guid>https://nitter.freedit.eu/gakonst/status/1896952914217984144#m</guid>
         <link>https://nitter.freedit.eu/gakonst/status/1896952914217984144#m</link>
-      </item>
-      <item>
-        <title>Don&apos;t miss the @ithacaxyz x Flashbots Crypto Rust Engineering Meetup in NYC next week. Our own @Rjected will be talking about the new Reth Engine which unlocks the next frontier of performance optimizations for our architecture.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>Don't miss the <a href="https://nitter.freedit.eu/ithacaxyz" title="Ithaca">@ithacaxyz</a> x Flashbots Crypto Rust Engineering Meetup in NYC next week. Our own <a href="https://nitter.freedit.eu/Rjected" title="Dan Cline">@Rjected</a> will be talking about the new Reth Engine which unlocks the next frontier of performance optimizations for our architecture.</p>
-<p><a href="https://nitter.freedit.eu/bertcmiller/status/1896944473470648544#m">nitter.freedit.eu/bertcmiller/status/1896944473470648544#m</a></p>]]></description>
-        <pubDate>Tue, 04 Mar 2025 15:53:10 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1896952066217763093#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1896952066217763093#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: @NethermindEth  proposal for Fusaka. Core EIPs: 
-- EIP-7594: PeerDAS - Peer Data Availability Sampling
-- EIP-7692: EOF EIPs (+ EIP-7873 TXCREATE Transaction) 
-- EIP-7823: Set upper bounds for MODEXP 
-- EIP-7883: ModExp Gas Cost Increase</title>
-        <dc:creator>@URozmej</dc:creator>
-        <description><![CDATA[<p><a href="https://nitter.freedit.eu/NethermindEth" title="Nethermind">@NethermindEth</a>  proposal for Fusaka. Core EIPs: <br>
-- EIP-7594: PeerDAS - Peer Data Availability Sampling<br>
-- EIP-7692: EOF EIPs (+ EIP-7873 TXCREATE Transaction) <br>
-- EIP-7823: Set upper bounds for MODEXP <br>
-- EIP-7883: ModExp Gas Cost Increase</p>
-<p><a href="https://nitter.freedit.eu/VitalikButerin/status/1895863075527700959#m">nitter.freedit.eu/VitalikButerin/status/1895863075527700959#m</a></p>]]></description>
-        <pubDate>Tue, 04 Mar 2025 08:47:29 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/URozmej/status/1896844937066594432#m</guid>
-        <link>https://nitter.freedit.eu/URozmej/status/1896844937066594432#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Fusaka @NethermindEth Team View
-
-1. We aim to ship Fusaka in 2025. 
-2. The Fusaka scope should be finalized ASAP so that we can proceed with scoping Glamsterdam.
-3. PeerDAS is the most important feature of this fork and serves as the key readiness indicator.
-4. We would like to see EOF in Fusaka, along with a few additional EIPs in this fork.
-
-Fusaka Core EIPs
-
-- EIP-7594: PeerDAS - Peer Data Availability Sampling
-- EIP-7692: EOF EIPs (+ EIP-7873 TXCREATE Transaction)
-- EIP-7883: ModExp Gas Cost Increase
-
-Other EIPs that should be considered
-
-- EIP-7825: Transaction Gas Limit Cap
-- RIP-7212: Precompile for secp256r1 Curve Support
-- EIP-7823: Set upper bounds for MODEXP
-
-Reasoning
-
-- PeerDAS is crucial for scaling. The fork should be shipped as soon as it is ready.
-- EOF is in an advanced stage of implementation and enhances both EVM functionality and ZK-provability. It also provides a structured path for future EVM improvements.
-- MODEXP is currently the biggest bottleneck to gas scaling and could hinder further gas limit increases.
-- Transaction Gas Limit Cap will be useful as the gas limit increases and will improve predictability for worst-case scenarios.
-- secp256r1  improves UX, curve is already implemented in most clients, but cross-client gas-price benchmarking is necessary.
-
-Glamsterdam
-
-We believe Glamsterdam&apos;s primary focus should be:
-- Censorship resistance, which could be addressed through: EIP-7805: Fork-choice enforced Inclusion Lists (FOCIL)
-- Slot organization improvements like thos proposed in EIP-7732: Enshrined Proposer-Builder Separation (ePBS)
-
-Beyond Fusaka and Glamsterdam
-
-- We aim to implement full history expiry in the upcoming forks, as it is a non-consensus change.
-- The Nethermind team remains committed to advancing stateless Ethereum and continuing research into binary trees and Verkle trees. We envision statelessness as a key focus for one of the post-Glamsterdam hard forks.</title>
-        <dc:creator>@M25Marek</dc:creator>
-        <description><![CDATA[<p>Fusaka <a href="https://nitter.freedit.eu/NethermindEth" title="Nethermind">@NethermindEth</a> Team View<br>
-<br>
-1. We aim to ship Fusaka in 2025. <br>
-2. The Fusaka scope should be finalized ASAP so that we can proceed with scoping Glamsterdam.<br>
-3. PeerDAS is the most important feature of this fork and serves as the key readiness indicator.<br>
-4. We would like to see EOF in Fusaka, along with a few additional EIPs in this fork.<br>
-<br>
-Fusaka Core EIPs<br>
-<br>
-- EIP-7594: PeerDAS - Peer Data Availability Sampling<br>
-- EIP-7692: EOF EIPs (+ EIP-7873 TXCREATE Transaction)<br>
-- EIP-7883: ModExp Gas Cost Increase<br>
-<br>
-Other EIPs that should be considered<br>
-<br>
-- EIP-7825: Transaction Gas Limit Cap<br>
-- RIP-7212: Precompile for secp256r1 Curve Support<br>
-- EIP-7823: Set upper bounds for MODEXP<br>
-<br>
-Reasoning<br>
-<br>
-- PeerDAS is crucial for scaling. The fork should be shipped as soon as it is ready.<br>
-- EOF is in an advanced stage of implementation and enhances both EVM functionality and ZK-provability. It also provides a structured path for future EVM improvements.<br>
-- MODEXP is currently the biggest bottleneck to gas scaling and could hinder further gas limit increases.<br>
-- Transaction Gas Limit Cap will be useful as the gas limit increases and will improve predictability for worst-case scenarios.<br>
-- secp256r1  improves UX, curve is already implemented in most clients, but cross-client gas-price benchmarking is necessary.<br>
-<br>
-Glamsterdam<br>
-<br>
-We believe Glamsterdam's primary focus should be:<br>
-- Censorship resistance, which could be addressed through: EIP-7805: Fork-choice enforced Inclusion Lists (FOCIL)<br>
-- Slot organization improvements like thos proposed in EIP-7732: Enshrined Proposer-Builder Separation (ePBS)<br>
-<br>
-Beyond Fusaka and Glamsterdam<br>
-<br>
-- We aim to implement full history expiry in the upcoming forks, as it is a non-consensus change.<br>
-- The Nethermind team remains committed to advancing stateless Ethereum and continuing research into binary trees and Verkle trees. We envision statelessness as a key focus for one of the post-Glamsterdam hard forks.</p>
-<p><a href="https://nitter.freedit.eu/URozmej/status/1896844937066594432#m">nitter.freedit.eu/URozmej/status/1896844937066594432#m</a></p>]]></description>
-        <pubDate>Tue, 04 Mar 2025 13:10:19 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/M25Marek/status/1896911082628727213#m</guid>
-        <link>https://nitter.freedit.eu/M25Marek/status/1896911082628727213#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: During one of the past core dev meetings @gakonst suggested that EL (execution layer) client teams (Besu, Erigon, Geth, Nethermind, Reth, ...) could benefit greatly from acquainting themselves with the CL (consensus layer) client (Grandine, Lighthouse, Lodestar, Nimbus, Prysm, Teku, ...) codebases. With the likely criticality of PeerDAS (deliver 2025) it may be more important than ever.</title>
-        <dc:creator>@tkstanczak</dc:creator>
-        <description><![CDATA[<p>During one of the past core dev meetings <a href="https://nitter.freedit.eu/gakonst" title="Georgios Konstantopoulos">@gakonst</a> suggested that EL (execution layer) client teams (Besu, Erigon, Geth, Nethermind, Reth, ...) could benefit greatly from acquainting themselves with the CL (consensus layer) client (Grandine, Lighthouse, Lodestar, Nimbus, Prysm, Teku, ...) codebases. With the likely criticality of PeerDAS (deliver 2025) it may be more important than ever.</p>]]></description>
-        <pubDate>Tue, 04 Mar 2025 08:20:09 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/tkstanczak/status/1896838059712282711#m</guid>
-        <link>https://nitter.freedit.eu/tkstanczak/status/1896838059712282711#m</link>
-      </item>
-      <item>
-        <title>rfp: any of my auditor friends over the years want to review our next-gen account abstraction contract? still WIP and we&apos;d like to involve 1-2 people early.
-
-https://github.com/ithacaxyz/account</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>rfp: any of my auditor friends over the years want to review our next-gen account abstraction contract? still WIP and we'd like to involve 1-2 people early.<br>
-<br>
-<a href="https://github.com/ithacaxyz/account">github.com/ithacaxyz/account</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1897705594460815363%2FJkvaj16q%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Mon, 03 Mar 2025 23:53:31 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1896710559590158369#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1896710559590158369#m</link>
       </item>
 
   </channel>

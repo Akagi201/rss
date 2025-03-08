@@ -16,6 +16,23 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @ralexstokes: The mekong testnet is being deprecated soon. Please move your testing towards sepolia, holesky or pectra-devnet-6!
+
+Thank you for testing on the testnet!
+
+https://blog.ethereum.org/2025/03/06/mekong-devnet</title>
+        <dc:creator>@parithosh_j</dc:creator>
+        <description><![CDATA[<p>The mekong testnet is being deprecated soon. Please move your testing towards sepolia, holesky or pectra-devnet-6!<br>
+<br>
+Thank you for testing on the testnet!<br>
+<br>
+<a href="https://blog.ethereum.org/2025/03/06/mekong-devnet">blog.ethereum.org/2025/03/06…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1897777225128173568%2FEKXLHDmr%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 06 Mar 2025 22:32:18 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/parithosh_j/status/1897777284184002672#m</guid>
+        <link>https://nitter.freedit.eu/parithosh_j/status/1897777284184002672#m</link>
+      </item>
+      <item>
         <title>the turbulence from today&apos;s sepolia pectra fork has been resolved :)
 
 https://blog.ethereum.org/2025/03/05/sepolia-pectra-incident</title>
@@ -208,22 +225,6 @@ i’m in the camp that it is often useful to consider prio fees MEV</p>]]></desc
         <pubDate>Fri, 14 Feb 2025 12:18:02 GMT</pubDate>
         <guid>https://nitter.freedit.eu/barnabemonnot/status/1890374940785889556#m</guid>
         <link>https://nitter.freedit.eu/barnabemonnot/status/1890374940785889556#m</link>
-      </item>
-      <item>
-        <title>sorry this is gonna be giga-niche
-
-but i hope one day there is a PL where you can write any computation and then easily delimit some chunk to emit a ZKP during execution 
-
-think delimited continuation meets real-time proving</title>
-        <dc:creator>@ralexstokes</dc:creator>
-        <description><![CDATA[<p>sorry this is gonna be giga-niche<br>
-<br>
-but i hope one day there is a PL where you can write any computation and then easily delimit some chunk to emit a ZKP during execution <br>
-<br>
-think delimited continuation meets real-time proving</p>]]></description>
-        <pubDate>Fri, 14 Feb 2025 02:45:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/ralexstokes/status/1890230895594123378#m</guid>
-        <link>https://nitter.freedit.eu/ralexstokes/status/1890230895594123378#m</link>
       </item>
 
   </channel>

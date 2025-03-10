@@ -16,6 +16,61 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @notnotstorm: Cryo-MCP now supports executing SQL queries against the data it pulls from cryo
+
+this means your agent can now run real, hard data analysis against blockchain data in real time
+
+im very excited for what we can build with this</title>
+        <dc:creator>@0xz80</dc:creator>
+        <description><![CDATA[<p>Cryo-MCP now supports executing SQL queries against the data it pulls from cryo<br>
+<br>
+this means your agent can now run real, hard data analysis against blockchain data in real time<br>
+<br>
+im very excited for what we can build with this</p>
+<p><a href="https://nitter.freedit.eu/0xz80/status/1898554788150682028#m">nitter.freedit.eu/0xz80/status/1898554788150682028#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlpiHU4XQAE6--y.png" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 10 Mar 2025 03:30:10 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xz80/status/1898939411410170281#m</guid>
+        <link>https://nitter.freedit.eu/0xz80/status/1898939411410170281#m</link>
+      </item>
+      <item>
+        <title>local llms 🤝 local data pipelines</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>local llms 🤝 local data pipelines</p>
+<p><a href="https://nitter.freedit.eu/0xz80/status/1898554788150682028#m">nitter.freedit.eu/0xz80/status/1898554788150682028#m</a></p>]]></description>
+        <pubDate>Sun, 09 Mar 2025 02:48:30 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1898566537310539952#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1898566537310539952#m</link>
+      </item>
+      <item>
+        <title>R to @notnotstorm: details:
+https://github.com/sslivkoff/polars_evm</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>details:<br>
+<a href="https://github.com/sslivkoff/polars_evm">github.com/sslivkoff/polars_…</a></p>
+<img src="https://nitter.freedit.eu/pic/card_img%2F1898519829545713665%2F5y3Pkxxb%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
+        <pubDate>Sat, 08 Mar 2025 23:48:06 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1898521137124126929#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1898521137124126929#m</link>
+      </item>
+      <item>
+        <title>useful plugin for anyone using polars to process evm data:
+
+polars_evm just implemented binary_to_float()
+
+it uses native polars operations to convert u256/i256 to f64. 10x-20x faster than native python. this makes it trivial to decode most onchain events 🐻‍❄️🐻‍❄️</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>useful plugin for anyone using polars to process evm data:<br>
+<br>
+polars_evm just implemented binary_to_float()<br>
+<br>
+it uses native polars operations to convert u256/i256 to f64. 10x-20x faster than native python. this makes it trivial to decode most onchain events 🐻‍❄️🐻‍❄️</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGljmrerawAAj3pg.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sat, 08 Mar 2025 23:48:06 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1898521135115026474#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1898521135115026474#m</link>
+      </item>
+      <item>
         <title>R to @notnotstorm: read more here https://www.paradigm.xyz/2024/05/how-to-raise-the-gas-limit-2</title>
         <dc:creator>@notnotstorm</dc:creator>
         <description><![CDATA[<p>read more here <a href="https://www.paradigm.xyz/2024/05/how-to-raise-the-gas-limit-2">paradigm.xyz/2024/05/how-to-…</a></p>
@@ -258,62 +313,6 @@ if this interests you, check out the discussion of the EIP here <a href="https:/
         <pubDate>Mon, 10 Feb 2025 16:44:49 GMT</pubDate>
         <guid>https://nitter.freedit.eu/notnotstorm/status/1888992530160873587#m</guid>
         <link>https://nitter.freedit.eu/notnotstorm/status/1888992530160873587#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: why only 75% instead of something higher?
-
-utilization must be able to freely move above and below the target in order to be a useful signal for demand. 75% leaves enough headroom above target to remain useful as a proxy for demand</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>why only 75% instead of something higher?<br>
-<br>
-utilization must be able to freely move above and below the target in order to be a useful signal for demand. 75% leaves enough headroom above target to remain useful as a proxy for demand</p>]]></description>
-        <pubDate>Mon, 10 Feb 2025 16:44:49 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992528873242645#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1888992528873242645#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: this new EIP increases the utilization target from 50% to 75%
-
-other aspects of EIP’s design remain unchanged</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>this new EIP increases the utilization target from 50% to 75%<br>
-<br>
-other aspects of EIP’s design remain unchanged</p>]]></description>
-        <pubDate>Mon, 10 Feb 2025 16:44:49 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992527820419397#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1888992527820419397#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: EIP-1559 measures demand via utilization
-
-when utilization is &gt;50%, the base fee goes up. when utilization is &lt;50%, the base fee goes down
-
-this is robust. however, forcing an equilibrium of 50% utilization widens the gap between average case and worst case, as detailed above</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>EIP-1559 measures demand via utilization<br>
-<br>
-when utilization is &gt;50%, the base fee goes up. when utilization is &lt;50%, the base fee goes down<br>
-<br>
-this is robust. however, forcing an equilibrium of 50% utilization widens the gap between average case and worst case, as detailed above</p>]]></description>
-        <pubDate>Mon, 10 Feb 2025 16:44:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992526708998634#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1888992526708998634#m</link>
-      </item>
-      <item>
-        <title>R to @notnotstorm: EIP-1559 separates each tx fee into a base fee and priority fee
-
-the base fee absorbs fee volatility across blocks
-
-users only need to decide on the priority fee, which is relatively constant across blocks. this makes choosing an appropriate fee relatively idiotproof</title>
-        <dc:creator>@notnotstorm</dc:creator>
-        <description><![CDATA[<p>EIP-1559 separates each tx fee into a base fee and priority fee<br>
-<br>
-the base fee absorbs fee volatility across blocks<br>
-<br>
-users only need to decide on the priority fee, which is relatively constant across blocks. this makes choosing an appropriate fee relatively idiotproof</p>]]></description>
-        <pubDate>Mon, 10 Feb 2025 16:44:48 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/notnotstorm/status/1888992525559734735#m</guid>
-        <link>https://nitter.freedit.eu/notnotstorm/status/1888992525559734735#m</link>
       </item>
 
   </channel>

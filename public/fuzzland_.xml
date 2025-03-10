@@ -16,6 +16,43 @@
       <height>128</height>
     </image>
       <item>
+        <title>Say no more</title>
+        <dc:creator>@fuzzland_</dc:creator>
+        <description><![CDATA[<p>Say no more</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlnwMxtbUAAcx5k.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 09 Mar 2025 19:07:13 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fuzzland_/status/1898812837952414110#m</guid>
+        <link>https://nitter.freedit.eu/fuzzland_/status/1898812837952414110#m</link>
+      </item>
+      <item>
+        <title>Happy International Women’s Day!</title>
+        <dc:creator>@fuzzland_</dc:creator>
+        <description><![CDATA[<p>Happy International Women’s Day!</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlite-MbMAEyVrD.jpg" style="max-width:250px;" />
+<img src="https://nitter.freedit.eu/pic/media%2FGlite-VaIAAOOqs.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sat, 08 Mar 2025 19:37:12 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/fuzzland_/status/1898457994347905034#m</guid>
+        <link>https://nitter.freedit.eu/fuzzland_/status/1898457994347905034#m</link>
+      </item>
+      <item>
+        <title>RT by @fuzzland_: 1inch market maker @trustedvolumes got hacked for over $4.5M and a few smaller MMs got hacked for $0.5M yesterday. 
+
+The root cause is that 1inch calls MM contract’s resolveOrders function to get funds to its settlement contract. Most bots only checked the msg.sender = settlement contract  - and unfortunately there was an arbitrary call vulnerability in settlement contract. Thus the hacker could forge resolveOrders call and drain MM contracts. 
+
+The funny thing is the hacker incorrectly transferred half of the stolen funds to the 1inch settlement contract, making the funds available for everyone to grab, and he spent quite sometime to get funds back. We were trying to compete but the hacker got it first unfortunately.</title>
+        <dc:creator>@shoucccc</dc:creator>
+        <description><![CDATA[<p>1inch market maker <a href="https://nitter.freedit.eu/trustedvolumes" title="TrustedVolumes">@trustedvolumes</a> got hacked for over $4.5M and a few smaller MMs got hacked for $0.5M yesterday. <br>
+<br>
+The root cause is that 1inch calls MM contract’s resolveOrders function to get funds to its settlement contract. Most bots only checked the msg.sender = settlement contract  - and unfortunately there was an arbitrary call vulnerability in settlement contract. Thus the hacker could forge resolveOrders call and drain MM contracts. <br>
+<br>
+The funny thing is the hacker incorrectly transferred half of the stolen funds to the 1inch settlement contract, making the funds available for everyone to grab, and he spent quite sometime to get funds back. We were trying to compete but the hacker got it first unfortunately.</p>
+<p><a href="https://nitter.freedit.eu/1inch/status/1897695348232978770#m">nitter.freedit.eu/1inch/status/1897695348232978770#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlbjyZXbwAIM1f2.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Fri, 07 Mar 2025 10:17:29 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/shoucccc/status/1897954751205327040#m</guid>
+        <link>https://nitter.freedit.eu/shoucccc/status/1897954751205327040#m</link>
+      </item>
+      <item>
         <title>Security first.</title>
         <dc:creator>@fuzzland_</dc:creator>
         <description><![CDATA[<p>Security first.</p>
@@ -233,54 +270,6 @@ Come find out 👉 <a href="https://lu.ma/51vnzkp8?tk=yVwPjl">lu.ma/51vnzkp8?tk=
         <pubDate>Thu, 20 Feb 2025 17:49:41 GMT</pubDate>
         <guid>https://nitter.freedit.eu/fuzzland_/status/1892632733371007044#m</guid>
         <link>https://nitter.freedit.eu/fuzzland_/status/1892632733371007044#m</link>
-      </item>
-      <item>
-        <title>R to @fuzzland_: 🎤 Feb 26, 2:15 PM: Our Ecosystem Lead Dan will take the stage to share how to stay ahead of risky contract changes at https://lu.ma/ea5p0roz</title>
-        <dc:creator>@fuzzland_</dc:creator>
-        <description><![CDATA[<p>🎤 Feb 26, 2:15 PM: Our Ecosystem Lead Dan will take the stage to share how to stay ahead of risky contract changes at <a href="https://lu.ma/ea5p0roz">lu.ma/ea5p0roz</a></p>
-<img src="https://nitter.freedit.eu/pic/card_img%2F1894396181926875142%2FNcx8uoX1%3Fformat%3Djpg%26name%3D800x419" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 20 Feb 2025 17:49:38 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fuzzland_/status/1892632720972697715#m</guid>
-        <link>https://nitter.freedit.eu/fuzzland_/status/1892632720972697715#m</link>
-      </item>
-      <item>
-        <title>Fuzzland is heading to @EthereumDenver! Meet the team there or shoot a DM if you want to connect 🤝 Here is where you can find us:</title>
-        <dc:creator>@fuzzland_</dc:creator>
-        <description><![CDATA[<p>Fuzzland is heading to <a href="https://nitter.freedit.eu/EthereumDenver" title="ETHDenver 🏔🦬🦄">@EthereumDenver</a>! Meet the team there or shoot a DM if you want to connect 🤝 Here is where you can find us:</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGkP7aiwbAAMQ7bz.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 20 Feb 2025 17:49:35 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fuzzland_/status/1892632708666556740#m</guid>
-        <link>https://nitter.freedit.eu/fuzzland_/status/1892632708666556740#m</link>
-      </item>
-      <item>
-        <title>R to @fuzzland_: 🛡️ How Blaz+ Protects Berachain Builders 🐻⛓️：
-
-✅ Continuous Smart Contract Pentesting → Identifies vulnerabilities before hackers do.
-
-🔔 Real-Time Threat Alerts → Instant detection of exploits, liquidity drains, and governance attacks.
-
-🤖 Automated Mitigation Bots → Freezes malicious transactions on impact.
-
-We deliver products tailored to your needs, and all alerts will be delivered through your preferred channel. A security report will automatically be generated weekly for your company.
-
-Berachain moves fast. Your security should move faster.</title>
-        <dc:creator>@fuzzland_</dc:creator>
-        <description><![CDATA[<p>🛡️ How Blaz+ Protects Berachain Builders 🐻⛓️：<br>
-<br>
-✅ Continuous Smart Contract Pentesting → Identifies vulnerabilities before hackers do.<br>
-<br>
-🔔 Real-Time Threat Alerts → Instant detection of exploits, liquidity drains, and governance attacks.<br>
-<br>
-🤖 Automated Mitigation Bots → Freezes malicious transactions on impact.<br>
-<br>
-We deliver products tailored to your needs, and all alerts will be delivered through your preferred channel. A security report will automatically be generated weekly for your company.<br>
-<br>
-Berachain moves fast. Your security should move faster.</p>
-<video poster="https://nitter.freedit.eu/pic/tweet_video_thumb%2FGj3H4HIXYAAGF7q.jpg" autoplay muted loop style="max-width:250px;">
-  <source src="https://nitter.freedit.eu/pic/video.twimg.com%2Ftweet_video%2FGj3H4HIXYAAGF7q.mp4" type="video/mp4"></video>]]></description>
-        <pubDate>Sat, 15 Feb 2025 22:13:40 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/fuzzland_/status/1890887225698598924#m</guid>
-        <link>https://nitter.freedit.eu/fuzzland_/status/1890887225698598924#m</link>
       </item>
 
   </channel>

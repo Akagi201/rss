@@ -16,6 +16,22 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @emilianobonassi: I wrote up the story of the Pectra incident on Sepolia, its an interesting story about edge cases, coordination and an attacker who swooped in and made our lives much harder!
+
+Check it out (4min read): 
+
+https://mariusvanderwijden.github.io/blog/2025/03/08/Sepolia/</title>
+        <dc:creator>@vdWijden</dc:creator>
+        <description><![CDATA[<p>I wrote up the story of the Pectra incident on Sepolia, its an interesting story about edge cases, coordination and an attacker who swooped in and made our lives much harder!<br>
+<br>
+Check it out (4min read): <br>
+<br>
+<a href="https://mariusvanderwijden.github.io/blog/2025/03/08/Sepolia/">mariusvanderwijden.github.io…</a></p>]]></description>
+        <pubDate>Sun, 09 Mar 2025 09:23:16 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/vdWijden/status/1898665884236882428#m</guid>
+        <link>https://nitter.freedit.eu/vdWijden/status/1898665884236882428#m</link>
+      </item>
+      <item>
         <title>RT by @emilianobonassi: Life rewards people with the mental strength to relax when the situation feels hopeless.</title>
         <dc:creator>@orangebook_</dc:creator>
         <description><![CDATA[<p>Life rewards people with the mental strength to relax when the situation feels hopeless.</p>]]></description>
@@ -249,22 +265,6 @@ mmm is this cognitive dissonance?</p>]]></description>
         <pubDate>Fri, 28 Feb 2025 21:41:06 GMT</pubDate>
         <guid>https://nitter.freedit.eu/emilianobonassi/status/1895590073208578291#m</guid>
         <link>https://nitter.freedit.eu/emilianobonassi/status/1895590073208578291#m</link>
-      </item>
-      <item>
-        <title>unpopular opinion 
-
-L3s can post data also on Ethereum (directly), no need for alt-da
-
-They can make sense anyway, eg cheaper fast finality and shared liquidity</title>
-        <dc:creator>@emilianobonassi</dc:creator>
-        <description><![CDATA[<p>unpopular opinion <br>
-<br>
-L3s can post data also on Ethereum (directly), no need for alt-da<br>
-<br>
-They can make sense anyway, eg cheaper fast finality and shared liquidity</p>]]></description>
-        <pubDate>Fri, 28 Feb 2025 21:01:06 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/emilianobonassi/status/1895580007973658722#m</guid>
-        <link>https://nitter.freedit.eu/emilianobonassi/status/1895580007973658722#m</link>
       </item>
 
   </channel>

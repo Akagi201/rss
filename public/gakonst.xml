@@ -16,6 +16,57 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @gakonst: Cryo-MCP now supports executing SQL queries against the data it pulls from cryo
+
+this means your agent can now run real, hard data analysis against blockchain data in real time
+
+im very excited for what we can build with this</title>
+        <dc:creator>@0xz80</dc:creator>
+        <description><![CDATA[<p>Cryo-MCP now supports executing SQL queries against the data it pulls from cryo<br>
+<br>
+this means your agent can now run real, hard data analysis against blockchain data in real time<br>
+<br>
+im very excited for what we can build with this</p>
+<p><a href="https://nitter.freedit.eu/0xz80/status/1898554788150682028#m">nitter.freedit.eu/0xz80/status/1898554788150682028#m</a></p>
+<img src="https://nitter.freedit.eu/pic/media%2FGlpiHU4XQAE6--y.png" style="max-width:250px;" />]]></description>
+        <pubDate>Mon, 10 Mar 2025 03:30:10 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/0xz80/status/1898939411410170281#m</guid>
+        <link>https://nitter.freedit.eu/0xz80/status/1898939411410170281#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: Scalability is a common motivation for Ethereum’s rollup-centric roadmap, but increasingly seeing control + customizability being winning features for large existing businesses thinking about crypto efforts.</title>
+        <dc:creator>@matthuang</dc:creator>
+        <description><![CDATA[<p>Scalability is a common motivation for Ethereum’s rollup-centric roadmap, but increasingly seeing control + customizability being winning features for large existing businesses thinking about crypto efforts.</p>]]></description>
+        <pubDate>Sun, 09 Mar 2025 15:52:14 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/matthuang/status/1898763768252768335#m</guid>
+        <link>https://nitter.freedit.eu/matthuang/status/1898763768252768335#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: useful plugin for anyone using polars to process evm data:
+
+polars_evm just implemented binary_to_float()
+
+it uses native polars operations to convert u256/i256 to f64. 10x-20x faster than native python. this makes it trivial to decode most onchain events 🐻‍❄️🐻‍❄️</title>
+        <dc:creator>@notnotstorm</dc:creator>
+        <description><![CDATA[<p>useful plugin for anyone using polars to process evm data:<br>
+<br>
+polars_evm just implemented binary_to_float()<br>
+<br>
+it uses native polars operations to convert u256/i256 to f64. 10x-20x faster than native python. this makes it trivial to decode most onchain events 🐻‍❄️🐻‍❄️</p>
+<img src="https://nitter.freedit.eu/pic/media%2FGljmrerawAAj3pg.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sat, 08 Mar 2025 23:48:06 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/notnotstorm/status/1898521135115026474#m</guid>
+        <link>https://nitter.freedit.eu/notnotstorm/status/1898521135115026474#m</link>
+      </item>
+      <item>
+        <title>RT by @gakonst: .@solidity_lang &apos;s compiler security is often un[der]appreciated. Years of securing billions without causing any losses (pls no jinx). This is not a dig at any project, but a praise for Solidity&apos;s impl. Plenty to improve for sure, but silently successful at keeping security #1 ❤️</title>
+        <dc:creator>@leonardoalt</dc:creator>
+        <description><![CDATA[<p>.<a href="https://nitter.freedit.eu/solidity_lang" title="Solidity">@solidity_lang</a> 's compiler security is often un[der]appreciated. Years of securing billions without causing any losses (pls no jinx). This is not a dig at any project, but a praise for Solidity's impl. Plenty to improve for sure, but silently successful at keeping security #1 ❤️</p>]]></description>
+        <pubDate>Sat, 08 Mar 2025 16:40:31 GMT</pubDate>
+        <guid>https://nitter.freedit.eu/leonardoalt/status/1898413530136625421#m</guid>
+        <link>https://nitter.freedit.eu/leonardoalt/status/1898413530136625421#m</link>
+      </item>
+      <item>
         <title>RT by @gakonst: Paradigm will be voting in favor of SIMD-228. A market-based emission mechanism prevents the network from overpaying for security, and has positive downstream effects on DeFi, enabling more liquid onchain SOL markets.</title>
         <dc:creator>@FrankieIsLost</dc:creator>
         <description><![CDATA[<p>Paradigm will be voting in favor of SIMD-228. A market-based emission mechanism prevents the network from overpaying for security, and has positive downstream effects on DeFi, enabling more liquid onchain SOL markets.</p>]]></description>
@@ -166,45 +217,6 @@ anything above that and most users will churn the moment they need to fund their
         <pubDate>Wed, 05 Mar 2025 12:54:09 GMT</pubDate>
         <guid>https://nitter.freedit.eu/vyperlang/status/1897269399436059076#m</guid>
         <link>https://nitter.freedit.eu/vyperlang/status/1897269399436059076#m</link>
-      </item>
-      <item>
-        <title>overpowered, love it. be opinionated, bundle things in, make tradeoffs aren&apos;t willing to make.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>overpowered, love it. be opinionated, bundle things in, make tradeoffs aren't willing to make.</p>
-<p><a href="https://nitter.freedit.eu/jarredsumner/status/1881786498707812454#m">nitter.freedit.eu/jarredsumner/status/1881786498707812454#m</a></p>]]></description>
-        <pubDate>Tue, 04 Mar 2025 23:46:20 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1897071141342339398#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1897071141342339398#m</link>
-      </item>
-      <item>
-        <title>testing crypto apps again...shill me your favorites..any chain is ok.</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p>testing crypto apps again...shill me your favorites..any chain is ok.</p>]]></description>
-        <pubDate>Tue, 04 Mar 2025 23:43:04 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1897070318063366618#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1897070318063366618#m</link>
-      </item>
-      <item>
-        <title>RT by @gakonst: Across is proud to announce a successful raise of $41M in a strategic token sale led by Paradigm (@paradigm)   
-
-With participation from Bain Capital Crypto (@BainCapCrypto), Coinbase Ventures (@cbventures), Multicoin Capital (@multicoincap), and Sina Habinian (@sinahab)</title>
-        <dc:creator>@AcrossProtocol</dc:creator>
-        <description><![CDATA[<p>Across is proud to announce a successful raise of $41M in a strategic token sale led by Paradigm (<a href="https://nitter.freedit.eu/paradigm" title="Paradigm">@paradigm</a>)   <br>
-<br>
-With participation from Bain Capital Crypto (<a href="https://nitter.freedit.eu/BainCapCrypto" title="Bain Capital Crypto">@BainCapCrypto</a>), Coinbase Ventures (<a href="https://nitter.freedit.eu/cbventures" title="Coinbase Ventures 🛡️">@cbventures</a>), Multicoin Capital (<a href="https://nitter.freedit.eu/multicoincap" title="Multicoin Capital">@multicoincap</a>), and Sina Habinian (<a href="https://nitter.freedit.eu/sinahab" title="Sina Habibian">@sinahab</a>)</p>
-<img src="https://nitter.freedit.eu/pic/media%2FGlNBOuyXcAEAi4j.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 04 Mar 2025 14:33:21 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/AcrossProtocol/status/1896931977590374661#m</guid>
-        <link>https://nitter.freedit.eu/AcrossProtocol/status/1896931977590374661#m</link>
-      </item>
-      <item>
-        <title>Image</title>
-        <dc:creator>@gakonst</dc:creator>
-        <description><![CDATA[<p></p>
-<img src="https://nitter.freedit.eu/pic/media%2FGlNUjNIWoAADXAW.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 04 Mar 2025 15:56:33 GMT</pubDate>
-        <guid>https://nitter.freedit.eu/gakonst/status/1896952914217984144#m</guid>
-        <link>https://nitter.freedit.eu/gakonst/status/1896952914217984144#m</link>
       </item>
 
   </channel>

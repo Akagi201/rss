@@ -83,6 +83,7 @@
 * <https://github.com/exaroth/liveboat-github-runner> - template for liveboat
 * <https://github.com/abuseofnotation/feed-aggregator> - aggregate multi rss feeds into a markdown.
 * <https://github.com/exaroth/liveboat> - aggregate rss to a static pages
+* <https://github.com/TBosak/mkfd> - rss feed generator
 
 ## RSS Source
 

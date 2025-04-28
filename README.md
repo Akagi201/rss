@@ -46,6 +46,8 @@
 * <https://feedless.org/>
 * <https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html> - rss-bridge, official: <https://rss-bridge.org/bridge01/>
 * <https://github.com/ccbikai/RSS.Beauty> - turn rss to a html page
+* <https://github.com/yinan-c/RSSbrew>
+* <https://github.com/loopwerk/django-rss-filter>
 
 ## RSS Tool
 

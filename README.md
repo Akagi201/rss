@@ -149,6 +149,7 @@
 * <https://stocknews.ai/>
 * <https://github.com/AgentEra/Agently-Daily-News-Collector> - keyword base news collector
 * <https://smartreader.app/>
+* <https://hacker-news.agi.li/> - chinese hacker news podcast
 
 ## Docs
 
